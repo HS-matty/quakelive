@@ -1,0 +1,1560 @@
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+
+----------------------
+9551 files in pk3 files
+pln was melted by Ichmusskacken's plasmagun
+ɖɨɾʞ was melted by Ichmusskacken's plasmagun
+The Lupercal ate crizzl's rocket
+John_Mullins was melted by Ichmusskacken's plasmagun
+Fleischwunde was melted by DX! Fragty's plasmagun
+crizzl ate DX! Fragty's rocket
+pln was melted by Ichmusskacken's plasmagun
+crizzl disconnected
+Ural ate DX! Fragty's rocket
+Busdriverx ate ɖɨɾʞ's grenade
+kepl3r cratered.
+DX! Fragty almost dodged Fleischwunde's rocket
+The Lupercal was melted by Ichmusskacken's plasmagun
+Busdriverx got the Red Armor.
+Ural almost dodged DX! Fragty's rocket
+DX! Fragty was melted by Ichmusskacken's plasmagun
+ɖɨɾʞ was electrocuted by pln
+Fleischwunde was electrocuted by Busdriverx
+pln almost dodged kepl3r's rocket
+Ichmusskacken was electrocuted by Fleischwunde
+kepl3r almost dodged DX! Fragty's rocket
+ɖɨɾʞ was electrocuted by pln
+DX! Fragty was electrocuted by pln
+The Lupercal was melted by DrTamm's plasmagun
+Ichmusskacken got the Quad Damage!
+Ural almost dodged kepl3r's rocket
+Busdriverx almost dodged pln's rocket
+pln was electrocuted by DX! Fragty
+Fleischwunde was melted by Ichmusskacken's plasmagun
+kepl3r almost dodged pln's rocket
+Justplay disconnected
+kepl3r was melted by Ichmusskacken's plasmagun
+ɖɨɾʞ was melted by Ichmusskacken's plasmagun
+Fleischwunde was shredded by ɖɨɾʞ's shrapnel
+DrTamm was melted by Ichmusskacken's plasmagun
+DX! Fragty killed the Quad Damage carrier!
+Ichmusskacken was railed by DX! Fragty
+The Lupercal was melted by kepl3r's plasmagun
+pln was electrocuted by Busdriverx
+Ural was electrocuted by Busdriverx
+DX! Fragty was electrocuted by Busdriverx
+Ichmusskacken got the Red Armor.
+ɖɨɾʞ ate kepl3r's rocket
+John_Mullins was melted by Ichmusskacken's plasmagun
+pln killed the Quad Damage carrier!
+Busdriverx was railed by pln
+Fleischwunde was melted by DrTamm's plasmagun
+DrTamm ate Ural's rocket
+Ichmusskacken was melted by ɖɨɾʞ's plasmagun
+ɖɨɾʞ was electrocuted by DX! Fragty
+kepl3r killed the Quad Damage carrier!
+pln ate kepl3r's rocket
+Ural ate Fleischwunde's rocket
+John_Mullins ate kepl3r's rocket
+recording to demos/FFA-asylum-2019_06_25-21_12_06.dm_91.
+DX! Fragty switched teams.
+pln: GL & HF
+pln got the Red Armor.
+DrTamm blew himself up.
+pln was melted by Ichmusskacken's plasmagun
+kepl3r was electrocuted by The Lupercal
+kosmo ate ɖɨɾʞ's grenade
+Fleischwunde ate pln's rocket
+John_Mullins was electrocuted by Busdriverx
+The Lupercal was melted by Ichmusskacken's plasmagun
+ɖɨɾʞ almost dodged kosmo's rocket
+pln was melted by Ichmusskacken's plasmagun
+kosmo was railed by The Lupercal
+DrTamm was railed by Ichmusskacken
+Ural was railed by John_Mullins
+Ichmusskacken was electrocuted by The Lupercal
+The Lupercal was railed by ɖɨɾʞ
+John_Mullins ate kosmo's rocket
+DrTamm was electrocuted by pln
+Busdriverx got the Red Armor.
+pln was electrocuted by Busdriverx
+Fleischwunde almost dodged John_Mullins's rocket
+ɖɨɾʞ almost dodged kosmo's rocket
+Busdriverx was melted by Ichmusskacken's plasmagun
+kosmo was railed by John_Mullins
+Ichmusskacken was melted by ɖɨɾʞ's plasmagun
+ɖɨɾʞ almost dodged Busdriverx's rocket
+Ural almost dodged Fleischwunde's rocket
+John_Mullins almost dodged Ichmusskacken's rocket
+The Lupercal was railed by Fleischwunde
+kepl3r almost dodged Ural's rocket
+Ichmusskacken was electrocuted by Busdriverx
+ (DX! Fragty): glad to see cheaters are still allowed here
+DrTamm was electrocuted by pln
+kosmo was railed by Fleischwunde
+kepl3r was electrocuted by Busdriverx
+Fleischwunde ate Ichmusskacken's rocket
+Ural almost dodged Ichmusskacken's rocket
+kosmo got the Quad Damage!
+Fleischwunde blew himself up.
+Busdriverx almost dodged pln's rocket
+ (DX! Fragty): that kacken dude lol
+The Lupercal was electrocuted by DrTamm
+Ural almost dodged kosmo's rocket
+John_Mullins got the Red Armor.
+pln almost dodged kosmo's rocket
+DrTamm ate kepl3r's rocket
+John_Mullins was electrocuted by Busdriverx
+The Lupercal ate Ichmusskacken's rocket
+kepl3r almost dodged DrTamm's rocket
+Ichmusskacken was pummeled by kosmo
+ɖɨɾʞ ate kepl3r's rocket
+Fleischwunde was electrocuted by Busdriverx
+Ural almost dodged kepl3r's rocket
+ɖɨɾʞ ate kosmo's rocket
+Busdriverx almost dodged pln's rocket
+Ichmusskacken killed the Quad Damage carrier!
+kosmo ate Ichmusskacken's rocket
+Fleischwunde was electrocuted by Busdriverx
+Ichmusskacken was pummeled by kosmo
+kosmo ate John_Mullins's grenade
+John_Mullins tripped on his own grenade.
+kepl3r ate Ural's rocket
+pln was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ connected
+John_Mullins was shredded by Ural's shrapnel
+ɖɨɾʞ was electrocuted by pln
+pln was shredded by Ural's shrapnel
+Ichmusskacken got the Red Armor.
+ɖɨɾʞ tried to invade kepl3r's personal space
+kosmo almost dodged kepl3r's rocket
+Fleischwunde was railed by Busdriverx
+Ural almost dodged kepl3r's rocket
+Busdriverx was gunned down by Ichmusskacken
+Ichmusskacken almost dodged Ural's rocket
+kosmo ate ɖɨɾʞ's grenade
+John_Mullins almost dodged kepl3r's rocket
+Fleischwunde almost dodged pln's rocket
+pln ate Fleischwunde's rocket
+ɖɨɾʞ was electrocuted by Busdriverx
+Ichmusskacken: busdriverx piss up shit cheater
+Fleischwunde ate DrTamm's grenade
+Ichmusskacken was melted by kepl3r's plasmagun
+pln was electrocuted by Busdriverx
+kosmo was melted by kepl3r's plasmagun
+kepl3r ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+ɖɨɾʞ was railed by Busdriverx
+DrTamm ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+Ural ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+John_Mullins was electrocuted by pln
+Busdriverx got the Red Armor.
+kosmo ate Ichmusskacken's rocket
+John_Mullins: am,azind:D
+Ichmusskacken was electrocuted by Fleischwunde
+Fleischwunde was electrocuted by Busdriverx
+kepl3r almost dodged John_Mullins's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ ate Ichmusskacken's rocket
+ɖɨɾʞ almost dodged Ural's rocket
+Ural blew himself up.
+John_Mullins ate DrTamm's grenade
+Ichmusskacken was electrocuted by Busdriverx
+kosmo was electrocuted by pln
+Fleischwunde almost dodged kosmo's rocket
+DrTamm was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ ate kosmo's rocket
+ɖɨɾʞ was railed by pln
+pln was electrocuted by Fleischwunde
+kepl3r was electrocuted by Busdriverx
+John_Mullins got the Red Armor.
+Ural blew himself up.
+pln ate DrTamm's rocket
+Ichmusskacken almost dodged DrTamm's rocket
+Busdriverx ate Ichmusskacken's rocket
+kosmo ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+John_Mullins almost dodged Fleischwunde's rocket
+DrTamm was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ tried to invade ɖɨɾʞ's personal space
+Ural almost dodged Fleischwunde's rocket
+ɖɨɾʞ was pummeled by kosmo
+Ichmusskacken was electrocuted by Busdriverx
+pln was electrocuted by Busdriverx
+Fleischwunde almost dodged kepl3r's rocket
+pln: try not to shit into your pants kacken
+DrTamm got the Quad Damage!
+kosmo almost dodged DrTamm's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+kepl3r ate DrTamm's rocket
+pln killed the Quad Damage carrier!
+DrTamm almost dodged pln's rocket
+Ural almost dodged DrTamm's rocket
+Busdriverx was melted by kepl3r's plasmagun
+John_Mullins killed the Quad Damage carrier!
+pln was railed by John_Mullins
+Busdriverx: y
+Fleischwunde ate ɖɨɾʞ's grenade
+kepl3r ate Ural's grenade
+^Ｇ   Ｏ   Ｒ   Ｅ killed the Quad Damage carrier!
+John_Mullins was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Ichmusskacken got the Red Armor.
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged kosmo's rocket
+kosmo almost dodged pln's rocket
+ɖɨɾʞ ate pln's rocket
+Ichmusskacken killed the Quad Damage carrier!
+pln ate Ichmusskacken's rocket
+ุPumpkin connected
+John_Mullins ate Ichmusskacken's rocket
+DrTamm ate Fleischwunde's rocket
+Busdriverx almost dodged Ural's rocket
+kepl3r was electrocuted by John_Mullins
+DX! Fragty: this server is just a aimbotters magnet
+^Ｇ   Ｏ   Ｒ   Ｅ was shredded by ɖɨɾʞ's shrapnel
+Ural was electrocuted by Fleischwunde
+ɖɨɾʞ ate Ichmusskacken's rocket
+John_Mullins was electrocuted by Busdriverx
+ุPumpkin: fragty
+Fleischwunde was electrocuted by pln
+pln almost dodged Ural's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Fleischwunde
+Busdriverx almost dodged DrTamm's rocket
+Ichmusskacken got the Red Armor.
+kosmo ate ɖɨɾʞ's rocket
+ุPumpkin: who else you gonna ban now
+ุPumpkin:  :>
+kepl3r blew himself up.
+John_Mullins almost dodged Ural's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by pln
+Fleischwunde ate Ichmusskacken's rocket
+Ichmusskacken blew himself up.
+pln almost dodged ɖɨɾʞ's rocket
+ɖɨɾʞ tried to invade kosmo's personal space
+The Lupercal: dude
+^Ｇ   Ｏ   Ｒ   Ｅ ate kosmo's rocket
+kepl3r ate Ural's grenade
+Ural was electrocuted by John_Mullins
+John_Mullins was electrocuted by Busdriverx
+Busdriverx almost dodged ɖɨɾʞ's rocket
+pln almost dodged Fleischwunde's rocket
+The Lupercal: so many cheaters today
+Fleischwunde almost dodged DrTamm's rocket
+ɖɨɾʞ ate ุPumpkin's rocket
+Ichmusskacken almost dodged Ural's rocket
+kosmo was railed by John_Mullins
+ุPumpkin was railed by pln
+Busdriverx was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged Ural's rocket
+kosmo ate DrTamm's rocket
+ุPumpkin: so many people better then me
+Busdriverx almost dodged kepl3r's rocket
+DX! Fragty: well, that musskacken to start
+ุPumpkin: lets ban them
+pln was railed by John_Mullins
+kepl3r ate ɖɨɾʞ's grenade
+ุPumpkin was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ almost dodged kosmo's rocket
+The Lupercal: yup
+DrTamm was railed by pln
+kosmo was electrocuted by Busdriverx
+John_Mullins was electrocuted by ุPumpkin
+Fleischwunde almost dodged Ural's rocket
+Ural was electrocuted by ุPumpkin
+pln got the Red Armor.
+Ichmusskacken: thwn ban me. i dont need 2 play at this cheater server no1
+ุPumpkin almost dodged kepl3r's rocket
+ɖɨɾʞ almost dodged Fleischwunde's rocket
+pln almost dodged Ural's rocket
+John_Mullins was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde ate kosmo's rocket
+kepl3r was electrocuted by pln
+Busdriverx was electrocuted by John_Mullins
+kosmo ate ɖɨɾʞ's grenade
+Ichmusskacken ate Fleischwunde's rocket
+pln was electrocuted by ุPumpkin
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by ุPumpkin
+ุPumpkin was electrocuted by pln
+John_Mullins almost dodged kepl3r's rocket
+kepl3r ate Ichmusskacken's rocket
+Busdriverx ate ɖɨɾʞ's grenade
+DX! Fragty: but the admins will claim 'its his style'
+Ural was electrocuted by ุPumpkin
+John_Mullins got the Red Armor.
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+kosmo almost dodged Ichmusskacken's rocket
+Ichmusskacken blew himself up.
+ɖɨɾʞ was electrocuted by Busdriverx
+ุPumpkin was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+DrTamm was railed by pln
+^Ｇ   Ｏ   Ｒ   Ｅ was pummeled by John_Mullins
+Fleischwunde cratered.
+Ural almost dodged kepl3r's rocket
+Ichmusskacken tried to invade ุPumpkin's personal space
+Busdriverx was electrocuted by pln
+ɖɨɾʞ was electrocuted by pln
+kosmo was electrocuted by ุPumpkin
+John_Mullins got the Quad Damage!
+kepl3r was electrocuted by pln
+kosmo tried to invade kepl3r's personal space
+pln ate Ichmusskacken's rocket
+Ural was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+ุPumpkin killed the Quad Damage carrier!
+John_Mullins was railed by ุPumpkin
+Busdriverx ate Ichmusskacken's rocket
+ุPumpkin ate kepl3r's rocket
+John_Mullins: hehehe
+ุPumpkin: lul
+kepl3r got the Red Armor.
+DrTamm ate Ural's rocket
+kosmo almost dodged pln's rocket
+Fleischwunde was electrocuted by Busdriverx
+ɖɨɾʞ was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Ichmusskacken was shredded by ɖɨɾʞ's shrapnel
+ุPumpkin ate kepl3r's rocket
+kepl3r blew himself up.
+Ural cratered.
+Busdriverx killed the Quad Damage carrier!
+John_Mullins was electrocuted by Busdriverx
+Ichmusskacken was electrocuted by Busdriverx
+kosmo almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ɖɨɾʞ killed the Quad Damage carrier!
+Busdriverx ate ɖɨɾʞ's grenade
+ɖɨɾʞ tripped on his own grenade.
+pln was electrocuted by ุPumpkin
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged Fleischwunde's rocket
+kepl3r was electrocuted by Busdriverx
+John_Mullins tried to invade Busdriverx's personal space
+John_Mullins: d
+Busdriverx almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+Ural almost dodged kepl3r's rocket
+kosmo almost dodged pln's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ blew himself up.
+Ichmusskacken: yes autoaim is his style. you a full idiot
+The Lupercal: not when his shots doesnt land where he shoots
+pln ate kepl3r's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ got the Red Armor.
+ุPumpkin ate Ichmusskacken's rocket
+Ichmusskacken tried to invade ɖɨɾʞ's personal space
+Fleischwunde was electrocuted by Busdriverx
+kepl3r almost dodged ɖɨɾʞ's rocket
+Ural was electrocuted by Busdriverx
+kosmo almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+DrTamm was electrocuted by ุPumpkin
+kepl3r blew himself up.
+pln was electrocuted by ุPumpkin
+John_Mullins blew himself up.
+kosmo almost dodged ɖɨɾʞ's rocket
+ุPumpkin ate Ichmusskacken's rocket
+ɖɨɾʞ was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+kepl3r was melted by pln's plasmagun
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by ุPumpkin
+John_Mullins almost dodged Ichmusskacken's rocket
+Ichmusskacken ate pln's rocket
+Fleischwunde was railed by Busdriverx
+ɖɨɾʞ almost dodged pln's rocket
+kepl3r got the Red Armor.
+kosmo was railed by Busdriverx
+Busdriverx was railed by John_Mullins
+Ural almost dodged DrTamm's rocket
+DrTamm almost dodged ุPumpkin's rocket
+pln ate ɖɨɾʞ's grenade
+John_Mullins ate kepl3r's rocket
+ุPumpkin was electrocuted by Busdriverx
+Ural ate Fleischwunde's grenade
+kepl3r was electrocuted by Busdriverx
+Ichmusskacken was shredded by ^Ｇ   Ｏ   Ｒ   Ｅ's shrapnel
+Fleischwunde almost dodged DrTamm's rocket
+ɖɨɾʞ was electrocuted by ุPumpkin
+ุPumpkin was electrocuted by pln
+Fleischwunde ate pln's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was pummeled by kosmo
+pln was electrocuted by Busdriverx
+DrTamm was electrocuted by ุPumpkin
+kosmo ate ɖɨɾʞ's grenade
+John_Mullins almost dodged Busdriverx's rocket
+ (DX! Fragty): lupercal you MUST notice the cheat??  you can kick him you know
+Busdriverx was shredded by ɖɨɾʞ's shrapnel
+Ichmusskacken ate kepl3r's rocket
+ุPumpkin was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde ate ɖɨɾʞ's grenade
+^Ｇ   Ｏ   Ｒ   Ｅ ate pln's rocket
+Busdriverx got the Red Armor.
+Ural ate ɖɨɾʞ's grenade
+kosmo almost dodged pln's rocket
+kepl3r was railed by ุPumpkin
+Ichmusskacken: 13 k and dont cheat you a motherfucking idiot
+John_Mullins was electrocuted by Busdriverx
+ɖɨɾʞ ate Fleischwunde's grenade
+Ichmusskacken was electrocuted by Busdriverx
+Fleischwunde almost dodged pln's rocket
+pln blew himself up.
+Ural almost dodged ɖɨɾʞ's rocket
+John_Mullins was railed by Busdriverx
+kosmo was electrocuted by ุPumpkin
+kepl3r was electrocuted by pln
+Fleischwunde was railed by ุPumpkin
+Ural was electrocuted by pln
+pln ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+^Ｇ   Ｏ   Ｒ   Ｅ got the Quad Damage!
+Ichmusskacken ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+Ichmusskacken killed the Quad Damage carrier!
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged Ichmusskacken's rocket
+ุPumpkin ate Fleischwunde's rocket
+kosmo ate kepl3r's rocket
+Busdriverx was pummeled by John_Mullins
+ɖɨɾʞ ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+kepl3r ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+Ichmusskacken tried to invade kosmo's personal space
+John_Mullins was electrocuted by Busdriverx
+Ural killed the Quad Damage carrier!
+Fleischwunde ate Ural's rocket
+pln almost dodged kepl3r's rocket
+Ichmusskacken got the Red Armor.
+ (The Lupercal): i know yes
+ุPumpkin was electrocuted by Busdriverx
+Busdriverx almost dodged kepl3r's rocket
+Fleischwunde was melted by Ichmusskacken's plasmagun
+John_Mullins killed the Quad Damage carrier!
+kosmo was pummeled by John_Mullins
+ɖɨɾʞ almost dodged kosmo's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ ate pln's rocket
+Busdriverx was melted by Ichmusskacken's plasmagun
+pln was pummeled by John_Mullins
+ุPumpkin: fragty you recording?
+pln: :P
+kosmo was pummeled by John_Mullins
+The Lupercal: but hard to be sure
+^Ｇ   Ｏ   Ｒ   Ｅ cratered.
+Ichmusskacken was electrocuted by ɖɨɾʞ
+ุPumpkin: im expecting a frag movie from you later
+ɖɨɾʞ almost dodged kepl3r's rocket
+pln was pummeled by John_Mullins
+ุPumpkin tried to invade Ural's personal space
+kosmo killed the Quad Damage carrier!
+John_Mullins ate kosmo's grenade
+Busdriverx almost dodged DrTamm's rocket
+Fleischwunde was electrocuted by ุPumpkin
+ɖɨɾʞ was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Ural was melted by kepl3r's plasmagun
+kosmo was melted by ^Ｇ   Ｏ   Ｒ   Ｅ's plasmagun
+kepl3r was electrocuted by Busdriverx
+DrTamm almost dodged pln's rocket
+Ichmusskacken almost dodged kosmo's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was melted by pln's plasmagun
+ (DX! Fragty): hard to be sure dude did you see that plasma?????
+Fleischwunde was shredded by Ural's shrapnel
+John_Mullins almost dodged DrTamm's rocket
+ุPumpkin was melted by ɖɨɾʞ's plasmagun
+kepl3r almost dodged Busdriverx's rocket
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde got the Red Armor.
+Ichmusskacken was shredded by Ural's shrapnel
+^Ｇ   Ｏ   Ｒ   Ｅ was shredded by ɖɨɾʞ's shrapnel
+ɖɨɾʞ almost dodged kepl3r's rocket
+kepl3r was railed by Busdriverx
+ุPumpkin ate Fleischwunde's grenade
+Ural was railed by Busdriverx
+pln ate ^Ｇ   Ｏ   Ｒ   Ｅ's grenade
+kosmo was railed by Busdriverx
+John_Mullins almost dodged Ichmusskacken's rocket
+Busdriverx was electrocuted by ɖɨɾʞ
+Fleischwunde was electrocuted by pln
+ุPumpkin was electrocuted by ɖɨɾʞ
+Busdriverx hit the fraglimit.
+ɖɨɾʞ was electrocuted by Busdriverx
+trying ui/assets/flags/0.TGA...
+kepl3r: gg
+ุPumpkin: gg
+Stopped demo.
+Wrote screenshots/FFA-asylum-2019_06_25-21_20_18.jpg
+kosmo: gg
+kepl3r: no way 50 percent
+ุPumpkin: hacks
+ุPumpkin: ban
+ɖɨɾʞ was melted by DrTamm's plasmagun
+Ichmusskacken: nice cheat british idiot
+kosmo switched teams.
+kepl3r was melted by Ichmusskacken's plasmagun
+John_Mullins was melted by DrTamm's plasmagun
+^Ｇ   Ｏ   Ｒ   Ｅ was melted by pln's plasmagun
+John_Mullins called a vote.
+pln was electrocuted by Fleischwunde
+Fleischwunde was melted by DrTamm's plasmagun
+ุPumpkin was melted by Ichmusskacken's plasmagun
+ɖɨɾʞ ate kepl3r's rocket
+Busdriverx was railed by pln
+Ural was melted by Ichmusskacken's plasmagun
+Ichmusskacken got the Red Armor.
+John_Mullins was electrocuted by Busdriverx
+Ichmusskacken was railed by pln
+kepl3r was electrocuted by John_Mullins
+DrTamm was electrocuted by Busdriverx
+pln was railed by Fleischwunde
+^Ｇ   Ｏ   Ｒ   Ｅ: !ban 76561198007465499
+Fleischwunde was electrocuted by Busdriverx
+Vote failed.
+John_Mullins was electrocuted by Fleischwunde
+ɖɨɾʞ almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ุPumpkin ate pln's rocket
+Fleischwunde ate kepl3r's rocket
+John_Mullins ate pln's rocket
+John_Mullins got the Red Armor.
+ุPumpkin got the Quad Damage!
+Ichmusskacken: yes he hacks and cheat and what ever you want
+Busdriverx was railed by pln
+Ichmusskacken was electrocuted by ุPumpkin
+Fleischwunde was electrocuted by ุPumpkin
+John_Mullins almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ɖɨɾʞ was melted by kepl3r's plasmagun
+Ural was gunned down by pln
+DrTamm ate ุPumpkin's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was gunned down by pln
+John_Mullins was railed by ุPumpkin
+pln was melted by DrTamm's plasmagun
+ɖɨɾʞ was railed by ุPumpkin
+John_Mullins called a vote.
+kepl3r was railed by ุPumpkin
+John_Mullins was railed by ุPumpkin
+Fleischwunde ate DrTamm's grenade
+Ural was railed by ุPumpkin
+pln: you cant play too well otherwise youll be called cheater
+ุPumpkin ate kepl3r's rocket
+Busdriverx got the Red Armor.
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Vote cast.
+[ByQ]Descent passed the vote.
+Vote passed.
+ุPumpkin: ye
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 9800 GTX+/PCIe/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_clear_buffer_object GL_ARB_color_buffer_float GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp
+GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility
+GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query
+GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multisample GL_ARB_multitexture
+GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query
+GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects
+GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include
+GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_range
+GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8
+GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transpose_matrix
+GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program
+GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers
+GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color
+GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB
+GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer
+GL_EXT_texture_loGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: -2, 1024 x 768 windowed hz:59
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 404 milli seconds
+UI menu load time = 251 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 0 LoD cracks
+...loaded 2293 faces, 216 meshes, 92 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 1526 milli seconds
+CL_InitCGame:  8.59 seconds
+6 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+
+----------------------
+9551 files in pk3 files
+Fleischwunde was electrocuted by Busdriverx
+John_Mullins: lagistan
+pln got the Mega Health.
+^Ｇ   Ｏ   Ｒ   Ｅ ate kepl3r's rocket
+John_Mullins was melted by Ferribot's plasmagun
+DrTamm was railed by pln
+Ferribot almost dodged Ural's rocket
+kepl3r ate pln's rocket
+Busdriverx ate Ural's rocket
+John_Mullins was railed by Fleischwunde
+Ichmusskacken called a vote.
+Ural blew himself up.
+Ichmusskacken switched teams.
+ɖɨɾʞ almost dodged pln's rocket
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ุPumpkin: ban the hacker
+DrTamm was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins was electrocuted by Busdriverx
+Fleischwunde ate Ural's rocket
+ุPumpkin almost dodged Busdriverx's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was melted by ɖɨɾʞ's plasmagun
+Ichmusskacken: yes kick him
+trying ui/assets/flags/0.TGA...
+ุPumpkin: 8[
+Busdriverx was melted by ɖɨɾʞ's plasmagun
+Ural was electrocuted by ุPumpkin
+kepl3r was electrocuted by Fleischwunde
+Voting time has expired.
+recording to demos/FFA-almostlost-2019_06_25-21_22_55.dm_91.
+Busdriverx: LOL
+ุPumpkin: glhf
+ุPumpkin:  :>
+^Ｇ   Ｏ   Ｒ   Ｅ: n1 hacker british
+Busdriverx: wtf
+DrTamm was melted by ɖɨɾʞ's plasmagun
+kepl3r blew himself up.
+Ferribot was electrocuted by ุPumpkin
+ɖɨɾʞ almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+John_Mullins ate Ural's rocket
+pln almost dodged Fleischwunde's rocket
+Ural ate ุPumpkin's rocket
+Busdriverx ate kepl3r's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was melted by ɖɨɾʞ's plasmagun
+ɖɨɾʞ blew himself up.
+Fleischwunde was electrocuted by Busdriverx
+Ural was electrocuted by pln
+John_Mullins was electrocuted by ุPumpkin
+John_Mullins: d
+ุPumpkin ate ɖɨɾʞ's grenade
+kepl3r was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ was electrocuted by Busdriverx
+John_Mullins was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+pln was electrocuted by ɖɨɾʞ
+Ferribot blew himself up.
+ุPumpkin was electrocuted by ɖɨɾʞ
+[ByQ]Descent: seems not
+Ural blew himself up.
+Busdriverx was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+pln ate John_Mullins's grenade
+DrTamm got the Mega Health.
+John_Mullins almost dodged Fleischwunde's rocket
+ุPumpkin almost dodged Ural's rocket
+Ural was electrocuted by Busdriverx
+Busdriverx was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde was electrocuted by pln
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by John_Mullins
+Ichmusskacken: spect him he alltime hit. he is a motherfucking cheater
+pln was electrocuted by Busdriverx
+Ferribot was electrocuted by ุPumpkin
+ɖɨɾʞ blew himself up.
+John_Mullins ate Fleischwunde's rocket
+ุPumpkin got the Quad Damage!
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by ุPumpkin
+pln was railed by ุPumpkin
+John_Mullins ate Busdriverx's rocket
+kepl3r timed out
+Ural almost dodged Fleischwunde's rocket
+Busdriverx was railed by John_Mullins
+Fleischwunde was gunned down by Ferribot
+Ferribot was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+pln killed the Quad Damage carrier!
+ุPumpkin was gunned down by pln
+[ByQ]Descent: duel player
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by ɖɨɾʞ
+Busdriverx was gunned down by pln
+Ichmusskacken: you can jump who you want he hit alltime
+John_Mullins was electrocuted by ุPumpkin
+Fleischwunde was gunned down by pln
+Ferribot ate Ural's rocket
+ɖɨɾʞ almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged pln's rocket
+ุPumpkin almost dodged pln's rocket
+Ural almost dodged pln's rocket
+DrTamm almost dodged pln's rocket
+Busdriverx was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde almost dodged Ferribot's rocket
+Ural was railed by pln
+^Ｇ   Ｏ   Ｒ   Ｅ ate ɖɨɾʞ's rocket
+pln was electrocuted by Busdriverx
+John_Mullins was railed by ุPumpkin
+ɖɨɾʞ was railed by ุPumpkin
+John_Mullins: d
+Fleischwunde was electrocuted by Busdriverx
+kepl3r connected
+Ural was railed by ุPumpkin
+pln was electrocuted by ɖɨɾʞ
+ุPumpkin was electrocuted by Busdriverx
+Busdriverx was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ got the Mega Health.
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Fleischwunde
+kepl3r: connection dropped
+Ferribot was electrocuted by pln
+DrTamm was electrocuted by Busdriverx
+pln was railed by ุPumpkin
+Ural almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+kosmo timed out
+Fleischwunde was electrocuted by pln
+ɖɨɾʞ was melted by Fleischwunde's plasmagun
+ุPumpkin ate Ural's rocket
+Ferribot almost dodged kepl3r's rocket
+DrTamm was electrocuted by Busdriverx
+John_Mullins was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+kepl3r was electrocuted by Busdriverx
+[ByQ]Descent: its a pity ..
+ɖɨɾʞ ate Ural's rocket
+pln almost dodged DrTamm's rocket
+Busdriverx was electrocuted by Fleischwunde
+Ural was electrocuted by Fleischwunde
+Fleischwunde was electrocuted by Busdriverx
+ุPumpkin was electrocuted by pln
+Ferribot almost dodged ɖɨɾʞ's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ ate DrTamm's rocket
+kepl3r ate ɖɨɾʞ's rocket
+pln was electrocuted by Fleischwunde
+Busdriverx almost dodged Ural's rocket
+ɖɨɾʞ was railed by ุPumpkin
+Ural was electrocuted by John_Mullins
+Ferribot blew himself up.
+The Lupercal: some ppl can hit more than he does
+Fleischwunde was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by ɖɨɾʞ
+John_Mullins was electrocuted by Busdriverx
+DrTamm was railed by ุPumpkin
+Busdriverx almost dodged Ferribot's rocket
+ุPumpkin ate ɖɨɾʞ's grenade
+pln almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+[ByQ]Descent: move nice
+John_Mullins got the Mega Health.
+Ferribot was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ was electrocuted by Busdriverx
+ST4MY connected
+Ural was electrocuted by Busdriverx
+pln almost dodged Fleischwunde's rocket
+Busdriverx ate kepl3r's rocket
+Ferribot was electrocuted by ɖɨɾʞ
+kepl3r ate Ural's rocket
+ุPumpkin was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins was electrocuted by ɖɨɾʞ
+Ural was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ almost dodged pln's rocket
+Busdriverx ate pln's rocket
+ST4MY ate kepl3r's rocket
+Ferribot almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+John_Mullins almost dodged Ural's rocket
+Fleischwunde was railed by pln
+ุPumpkin was electrocuted by Busdriverx
+Ural was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+Busdriverx got the Quad Damage!
+pln was electrocuted by Busdriverx
+DrTamm tripped on his own grenade.
+ɖɨɾʞ was railed by Busdriverx
+Ferribot killed the Quad Damage carrier!
+Busdriverx ate Ferribot's rocket
+pln killed the Quad Damage carrier!
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by pln
+John_Mullins was electrocuted by ST4MY
+pln almost dodged kepl3r's rocket
+John_Mullins: hehehe
+ุPumpkin almost dodged kepl3r's rocket
+Ural ate Fleischwunde's rocket
+Busdriverx killed the Quad Damage carrier!
+kepl3r was electrocuted by Busdriverx
+Busdriverx was shredded by Ural's shrapnel
+ST4MY was melted by ɖɨɾʞ's plasmagun
+DrTamm got the Mega Health.
+John_Mullins killed the Quad Damage carrier!
+pln ate John_Mullins's rocket
+Fleischwunde almost dodged kepl3r's rocket
+Ural was electrocuted by Busdriverx
+Busdriverx almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ɖɨɾʞ killed the Quad Damage carrier!
+John_Mullins was railed by ɖɨɾʞ
+ST4MY almost dodged kepl3r's rocket
+Fleischwunde was railed by ɖɨɾʞ
+Ural almost dodged kepl3r's rocket
+ุPumpkin was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+pln almost dodged kepl3r's rocket
+Ferribot killed the Quad Damage carrier!
+ɖɨɾʞ was gunned down by Ferribot
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Fleischwunde
+kepl3r was electrocuted by ST4MY
+^Ｇ   Ｏ   Ｒ   Ｅ: hacker strafe
+Busdriverx was electrocuted by ุPumpkin
+ST4MY was electrocuted by ɖɨɾʞ
+Ferribot almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+Ural was electrocuted by ุPumpkin
+pln: and i was called facist
+John_Mullins ate DrTamm's rocket
+ST4MY was electrocuted by pln
+ɖɨɾʞ was electrocuted by ุPumpkin
+kepl3r almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ุPumpkin almost dodged Ferribot's rocket
+John_Mullins was electrocuted by DrTamm
+pln was electrocuted by Busdriverx
+DrTamm almost dodged Fleischwunde's rocket
+Busdriverx ate Ural's grenade
+Ferribot was railed by ุPumpkin
+Fleischwunde was railed by ุPumpkin
+Ural was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+[ByQ]Descent: for what
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by pln
+John_Mullins was electrocuted by Busdriverx
+ุPumpkin almost dodged DrTamm's rocket
+Ural almost dodged pln's rocket
+ST4MY was electrocuted by Busdriverx
+Ferribot almost dodged kepl3r's rocket
+ɖɨɾʞ got the Mega Health.
+Busdriverx blew himself up.
+John_Mullins: the most fasist is michael
+Fleischwunde was electrocuted by ST4MY
+pln ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+DrTamm was melted by kepl3r's plasmagun
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Ferribot
+ɖɨɾʞ was electrocuted by Busdriverx
+Ural was electrocuted by Busdriverx
+John_Mullins: supernazi
+kepl3r ate Ural's rocket
+Busdriverx was electrocuted by ST4MY
+pln was electrocuted by ST4MY
+Ural almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+Fleischwunde was railed by ุPumpkin
+ST4MY was melted by ɖɨɾʞ's plasmagun
+The Lupercal was melted by ɖɨɾʞ's plasmagun
+Ferribot was railed by ุPumpkin
+ุPumpkin almost dodged Fleischwunde's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ ate Fleischwunde's rocket
+John_Mullins was electrocuted by Busdriverx
+pln: for voting no
+Fleischwunde ate Ural's rocket
+Ural almost dodged Ferribot's rocket
+kepl3r blew himself up.
+Ferribot was electrocuted by The Lupercal
+pln almost dodged ɖɨɾʞ's rocket
+The Lupercal ate Ural's rocket
+John_Mullins ate Ural's rocket
+DrTamm almost dodged Fleischwunde's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by ST4MY
+ST4MY almost dodged kepl3r's rocket
+Busdriverx ate Ferribot's rocket
+The Lupercal ate pln's rocket
+kepl3r ate Fleischwunde's rocket
+Ferribot was electrocuted by ɖɨɾʞ
+Fleischwunde almost dodged Ural's rocket
+John_Mullins was electrocuted by Busdriverx
+ุPumpkin was electrocuted by The Lupercal
+[ByQ]Descent: im not a rasist - i hate everyone (c) ..
+ST4MY was electrocuted by The Lupercal
+^Ｇ   Ｏ   Ｒ   Ｅ: supernazi hacker gay cheater
+pln almost dodged Fleischwunde's rocket
+Ural ate The Lupercal's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+Busdriverx ate kepl3r's rocket
+kepl3r was electrocuted by ɖɨɾʞ
+Fleischwunde was electrocuted by pln
+John_Mullins was shredded by The Lupercal's shrapnel
+ST4MY was shredded by The Lupercal's shrapnel
+The Lupercal was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ almost dodged pln's rocket
+Ural was electrocuted by Busdriverx
+Ferribot ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by ST4MY
+Busdriverx was electrocuted by ST4MY
+pln got the Mega Health.
+ST4MY almost dodged kepl3r's rocket
+Fleischwunde ate kepl3r's rocket
+The Lupercal ate Ural's rocket
+Ural ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+John_Mullins was gunned down by pln
+ุPumpkin was electrocuted by Busdriverx
+pln almost dodged Fleischwunde's rocket
+Fleischwunde got the Quad Damage!
+ɖɨɾʞ was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged Fleischwunde's rocket
+kepl3r was electrocuted by pln
+Ferribot was railed by Busdriverx
+DrTamm almost dodged Fleischwunde's rocket
+Ural was shredded by DrTamm's shrapnel
+ɖɨɾʞ almost dodged pln's rocket
+Ferribot disconnected
+Busdriverx ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+John_Mullins ate Fleischwunde's rocket
+kepl3r ate Fleischwunde's rocket
+ุPumpkin ate Fleischwunde's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ killed the Quad Damage carrier!
+Fleischwunde was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+oriano connected
+The Lupercal was electrocuted by ST4MY
+ST4MY was railed by pln
+Ural was electrocuted by ɖɨɾʞ
+kepl3r was electrocuted by Busdriverx
+The Lupercal killed the Quad Damage carrier!
+^Ｇ   Ｏ   Ｒ   Ｅ ate The Lupercal's rocket
+Busdriverx was railed by ุPumpkin
+DrTamm ate Ural's rocket
+pln was electrocuted by Busdriverx
+Fleischwunde almost dodged ST4MY's rocket
+Busdriverx killed the Quad Damage carrier!
+The Lupercal was electrocuted by Busdriverx
+John_Mullins was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ ate kepl3r's rocket
+ɖɨɾʞ almost dodged DrTamm's rocket
+oriano was railed by Busdriverx
+ุPumpkin was electrocuted by The Lupercal
+ST4MY was electrocuted by The Lupercal
+Ural was railed by Busdriverx
+Fleischwunde ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+pln almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+kepl3r was electrocuted by ุPumpkin
+ɖɨɾʞ got the Mega Health.
+Ural was electrocuted by ST4MY
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by The Lupercal
+ุPumpkin was electrocuted by Busdriverx
+Busdriverx ate kepl3r's rocket
+The Lupercal was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde almost dodged kepl3r's rocket
+pln almost dodged kepl3r's rocket
+John_Mullins was electrocuted by oriano
+kepl3r was melted by ɖɨɾʞ's plasmagun
+ɖɨɾʞ was electrocuted by ุPumpkin
+ุPumpkin was railed by oriano
+Busdriverx almost dodged pln's rocket
+Fleischwunde almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ST4MY blew himself up.
+pln was electrocuted by ุPumpkin
+DrTamm was electrocuted by oriano
+The Lupercal was electrocuted by oriano
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged kepl3r's rocket
+Ural was pummeled by John_Mullins
+kepl3r almost dodged ɖɨɾʞ's rocket
+John_Mullins was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Busdriverx blew himself up.
+John_Mullins: 9
+pln almost dodged Fleischwunde's rocket
+ɖɨɾʞ ate Fleischwunde's rocket
+DrTamm was melted by The Lupercal's plasmagun
+Fleischwunde ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+kepl3r was railed by John_Mullins
+Busdriverx was electrocuted by oriano
+ST4MY was electrocuted by pln
+John_Mullins almost dodged The Lupercal's rocket
+[ByQ]Descent: ..but as usual have some doubts ..
+The Lupercal was electrocuted by pln
+Ural was melted by ɖɨɾʞ's plasmagun
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged kepl3r's rocket
+Busdriverx was electrocuted by ุPumpkin
+oriano ate Ural's rocket
+John_Mullins got the Mega Health.
+pln was electrocuted by The Lupercal
+ST4MY blew himself up.
+ɖɨɾʞ was electrocuted by The Lupercal
+kepl3r was railed by ุPumpkin
+Ural was electrocuted by The Lupercal
+oriano was electrocuted by Busdriverx
+Busdriverx was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by The Lupercal
+ุPumpkin almost dodged kepl3r's rocket
+Fleischwunde almost dodged kepl3r's rocket
+John_Mullins ate pln's rocket
+ɖɨɾʞ ate pln's rocket
+pln almost dodged The Lupercal's rocket
+The Lupercal ate Ural's grenade
+Ural was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged oriano's rocket
+oriano was melted by kepl3r's plasmagun
+ST4MY ate Fleischwunde's rocket
+Ural almost dodged ɖɨɾʞ's rocket
+kepl3r was railed by Busdriverx
+ɖɨɾʞ almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+John_Mullins was railed by oriano
+pln: he doenst move like noob or cheater
+The Lupercal: nah, sometimes you can be sure
+ุPumpkin was railed by Busdriverx
+oriano was electrocuted by pln
+Fleischwunde was railed by Busdriverx
+ɖɨɾʞ almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ST4MY was railed by Busdriverx
+John_Mullins ate DrTamm's grenade
+ุPumpkin ate Fleischwunde's rocket
+pln was railed by Busdriverx
+Busdriverx was railed by ST4MY
+kepl3r ate Ural's rocket
+Fleischwunde ate The Lupercal's rocket
+Ural was electrocuted by ุPumpkin
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by ST4MY
+oriano was melted by kepl3r's plasmagun
+ɖɨɾʞ almost dodged kepl3r's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ got the Mega Health.
+The Lupercal got the Quad Damage!
+Ural killed the Quad Damage carrier!
+The Lupercal was shredded by Ural's shrapnel
+pln: maybe he has a strafe bot
+John_Mullins: Descent you made the MOST minidictator chickenhitler to ADMIN
+Fleischwunde killed the Quad Damage carrier!
+Ural almost dodged Fleischwunde's rocket
+ุPumpkin almost dodged ɖɨɾʞ's rocket
+Fleischwunde almost dodged oriano's rocket
+Busdriverx was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins: congrat!!
+ɖɨɾʞ was railed by ST4MY
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins ate kepl3r's rocket
+ST4MY ate kepl3r's rocket
+Ural was electrocuted by ุPumpkin
+The Lupercal was melted by Busdriverx's plasmagun
+John_Mullins: realy
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ุPumpkin almost dodged kepl3r's rocket
+ɖɨɾʞ was electrocuted by oriano
+Busdriverx killed the Quad Damage carrier!
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+kepl3r was railed by pln
+Fleischwunde was railed by oriano
+Busdriverx ate DrTamm's rocket
+[ByQ]Descent: Michael?
+ST4MY blew himself up.
+John_Mullins ate pln's rocket
+DrTamm was electrocuted by oriano
+John_Mullins: yes
+^Ｇ   Ｏ   Ｒ   Ｅ killed the Quad Damage carrier!
+Ural was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ was electrocuted by ุPumpkin
+The Lupercal killed the Quad Damage carrier!
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged The Lupercal's rocket
+Fleischwunde was railed by The Lupercal
+pln was electrocuted by Busdriverx
+Fleischwunde killed the Quad Damage carrier!
+The Lupercal almost dodged Fleischwunde's rocket
+oriano was railed by ST4MY
+Busdriverx was electrocuted by ุPumpkin
+ST4MY was electrocuted by oriano
+John_Mullins was electrocuted by pln
+kepl3r was electrocuted by ุPumpkin
+Ural was electrocuted by ุPumpkin
+The Lupercal got the Mega Health.
+pln was electrocuted by Fleischwunde
+Busdriverx was electrocuted by oriano
+Fleischwunde ate Ural's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged oriano's rocket
+oriano was melted by ^Ｇ   Ｏ   Ｒ   Ｅ's plasmagun
+ɖɨɾʞ ate Ural's rocket
+ุPumpkin almost dodged kepl3r's rocket
+[ByQ]Descent: any choice? :DDD
+Ural was electrocuted by The Lupercal
+pln was electrocuted by ST4MY
+Busdriverx was electrocuted by Fleischwunde
+DrTamm ate kepl3r's rocket
+John_Mullins almost dodged kepl3r's rocket
+The Lupercal almost dodged ST4MY's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged kepl3r's rocket
+oriano ate Ural's rocket
+Fleischwunde almost dodged kepl3r's rocket
+John_Mullins: he's almost never allow the VOTE
+ST4MY was electrocuted by Busdriverx
+kepl3r almost dodged ɖɨɾʞ's rocket
+Ural ate ɖɨɾʞ's rocket
+The Lupercal ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ blew himself up.
+pln was electrocuted by Busdriverx
+John_Mullins ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ุPumpkin almost dodged Fleischwunde's rocket
+John_Mullins: blocking the votes
+kepl3r almost dodged ɖɨɾʞ's rocket
+oriano ate Fleischwunde's rocket
+ɖɨɾʞ almost dodged Fleischwunde's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ ate Fleischwunde's rocket
+Busdriverx hit the fraglimit.
+ST4MY was gunned down by Busdriverx
+kepl3r: gg
+ุPumpkin: gg
+Stopped demo.
+Wrote screenshots/FFA-almostlost-2019_06_25-21_31_24.jpg
+^Ｇ   Ｏ   Ｒ   Ｅ: ULTIMATE GAY HACKER
+ST4MY disconnected
+Adur connected
+^Ｇ   Ｏ   Ｒ   Ｅ was melted by oriano's plasmagun
+ุPumpkin: cu
+Ural almost dodged kepl3r's rocket
+ุPumpkin disconnected
+John_Mullins: he's ban or mute peoples
+ɖɨɾʞ ate oriano's rocket
+oriano got the Mega Health.
+pln ate kepl3r's rocket
+Busdriverx was pummeled by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins: when he's just 'feel'
+Ural was melted by kepl3r's plasmagun
+oriano was pummeled by ^Ｇ   Ｏ   Ｒ   Ｅ
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by Fleischwunde
+John_Mullins was melted by pln's plasmagun
+ɖɨɾʞ was electrocuted by kepl3r
+The Lupercal called a vote.
+pln almost dodged kepl3r's rocket
+DrTamm was railed by oriano
+kepl3r almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+ɖɨɾʞ was electrocuted by Busdriverx
+[ByQ]Descent: hitler himself seems
+Fleischwunde was melted by kepl3r's plasmagun
+John_Mullins ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+Vote cast.
+[ByQ]Descent passed the vote.
+Vote passed.
+^Ｇ   Ｏ   Ｒ   Ｅ blew himself up.
+The Lupercal ate kepl3r's rocket
+Busdriverx was railed by pln
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 9800 GTX+/PCIe/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_clear_buffer_object GL_ARB_color_buffer_float GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp
+GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility
+GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query
+GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multisample GL_ARB_multitexture
+GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query
+GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects
+GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include
+GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_range
+GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8
+GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transpose_matrix
+GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program
+GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers
+GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color
+GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB
+GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer
+GL_EXT_texture_loGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: -2, 1024 x 768 windowed hz:59
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 225 milli seconds
+UI menu load time = 158 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 4 LoD cracks
+...loaded 3796 faces, 306 meshes, 62 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 1882 milli seconds
+CL_InitCGame:  7.82 seconds
+7 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+
+----------------------
+9551 files in pk3 files
+The Lupercal: =)
+kepl3r got the Mega Health.
+recording to demos/FFA-overkill-2019_06_25-21_32_29.dm_91.
+ɖɨɾʞ was in the wrong place.
+pln was in the wrong place.
+pln: :P
+pln: GL & HF
+oriano got the Mega Health.
+The Lupercal was electrocuted by pln
+ɖɨɾʞ got the Red Armor.
+DrTamm almost dodged kepl3r's rocket
+pln was electrocuted by Busdriverx
+JasperFOX_G PRO HERO 16K_ disconnected
+Busdriverx was electrocuted by Fleischwunde
+The Lupercal was electrocuted by Ural
+[ByQ]Descent: wat can i say, world is not perfect..but perfect ..
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged pln's rocket
+kepl3r was electrocuted by Busdriverx
+pln was electrocuted by Ural
+Fleischwunde was electrocuted by DrTamm
+John_Mullins: when somebody voting kick a game destroyer troll nade only spammer
+Im Batman connected
+DrTamm was electrocuted by oriano
+Busdriverx almost dodged ɖɨɾʞ's rocket
+oriano almost dodged ɖɨɾʞ's rocket
+ɖɨɾʞ almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ ate pln's rocket
+John_Mullins: and he's blocking that votes
+John_Mullins: but!
+Ural almost dodged Im Batman's rocket
+kepl3r almost dodged Im Batman's rocket
+Fleischwunde was electrocuted by Busdriverx
+Im Batman was electrocuted by pln
+The Lupercal almost dodged Im Batman's rocket
+ɖɨɾʞ got the Red Armor.
+pln was electrocuted by oriano
+[ByQ]Descent: ok..
+Ural was melted by kepl3r's plasmagun
+^Ｇ   Ｏ   Ｒ   Ｅ ate Im Batman's rocket
+Busdriverx got the Mega Health.
+John_Mullins was melted by pln's plasmagun
+ɖɨɾʞ was electrocuted by The Lupercal
+Im Batman was railed by oriano
+Fleischwunde ate pln's rocket
+oriano ate kepl3r's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ got the Quad Damage!
+pln was in the wrong place.
+John_Mullins: mute and ban who try voting against the game killer
+The Lupercal was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+[ByQ]Descent: i heard u..thnx
+Im Batman got the Regeneration!
+ɖɨɾʞ was in the wrong place.
+kepl3r was electrocuted by Ural
+oriano was electrocuted by Fleischwunde
+Busdriverx was electrocuted by The Lupercal
+Fleischwunde was electrocuted by The Lupercal
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+oriano was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins: that's a good 'admin' you think?
+John_Mullins ate DrTamm's grenade
+Ural was electrocuted by The Lupercal
+ɖɨɾʞ was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+The Lupercal was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+kepl3r killed the Regeneration carrier!
+Im Batman was melted by kepl3r's plasmagun
+Busdriverx killed the Quad Damage carrier!
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+Fleischwunde was railed by Busdriverx
+John_Mullins was in the wrong place.
+Ural was electrocuted by pln
+oriano killed the Regeneration carrier!
+kepl3r was railed by oriano
+Im Batman was railed by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ killed the Quad Damage carrier!
+Busdriverx was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+kepl3r was railed by Fleischwunde
+oriano was railed by The Lupercal
+^Ｇ   Ｏ   Ｒ   Ｅ got the Mega Health.
+Fleischwunde killed the Regeneration carrier!
+ɖɨɾʞ was railed by Fleischwunde
+Fleischwunde was railed by pln
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by The Lupercal
+Ural ate kepl3r's rocket
+pln almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+DrTamm was electrocuted by ɖɨɾʞ
+Busdriverx almost dodged kepl3r's rocket
+Im Batman was railed by The Lupercal
+DX! Fragty: whats wrong with spamming grenades? apart from being annoying?
+The Lupercal ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+kepl3r blew himself up.
+ɖɨɾʞ almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+Im Batman was electrocuted by Busdriverx
+John_Mullins: named me to 'racist' when i just said: 'those 2 ukrainians lagging'
+Busdriverx was electrocuted by The Lupercal
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by oriano
+oriano ate kepl3r's rocket
+Fleischwunde was electrocuted by pln
+pln was electrocuted by Busdriverx
+ɖɨɾʞ was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Ural was electrocuted by Busdriverx
+[ByQ]Descent: good or bad, kinda history made him admin ..
+kepl3r almost dodged Im Batman's rocket
+Busdriverx was electrocuted by oriano
+The Lupercal was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde was electrocuted by pln
+oriano was electrocuted by pln
+John_Mullins ate kepl3r's rocket
+John_Mullins: his answer was: you are racist, you will be ban
+pln was electrocuted by Busdriverx
+Ural was electrocuted by The Lupercal
+Busdriverx was electrocuted by Fleischwunde
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Fleischwunde
+oriano was melted by DrTamm's plasmagun
+The Lupercal ate kepl3r's rocket
+Im Batman almost dodged kepl3r's rocket
+Fleischwunde almost dodged pln's rocket
+Ural almost dodged pln's rocket
+Busdriverx almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+Im Batman got the Mega Health.
+John_Mullins: check it if you want
+kepl3r was electrocuted by oriano
+The Lupercal almost dodged Im Batman's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+Ural was electrocuted by pln
+John_Mullins ate The Lupercal's rocket
+DrTamm was electrocuted by oriano
+Busdriverx was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+Im Batman ate The Lupercal's rocket
+pln was electrocuted by Fleischwunde
+ɖɨɾʞ was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+John_Mullins: this hapen every 2nd night at least
+The Lupercal was electrocuted by oriano
+DrTamm was gunned down by pln
+Ural almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+oriano was electrocuted by The Lupercal
+Busdriverx was electrocuted by pln
+Fleischwunde was electrocuted by ɖɨɾʞ
+ɖɨɾʞ was electrocuted by Busdriverx
+DrTamm was electrocuted by oriano
+pln was railed by The Lupercal
+John_Mullins: depends how's he feels
+Busdriverx almost dodged oriano's rocket
+Fleischwunde was electrocuted by ɖɨɾʞ
+Ural was electrocuted by pln
+oriano was electrocuted by ɖɨɾʞ
+^Ｇ   Ｏ   Ｒ   Ｅ got the Mega Health.
+Im Batman was railed by The Lupercal
+DrTamm got the Quad Damage!
+Ural was electrocuted by Busdriverx
+Fleischwunde was electrocuted by oriano
+pln was electrocuted by Busdriverx
+DrTamm was in the wrong place.
+John_Mullins got the Red Armor.
+ɖɨɾʞ was electrocuted by Busdriverx
+The Lupercal was electrocuted by oriano
+Ural was electrocuted by pln
+Im Batman was railed by The Lupercal
+ɖɨɾʞ got the Regeneration!
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by The Lupercal
+Busdriverx was railed by Fleischwunde
+Fleischwunde was electrocuted by ɖɨɾʞ
+pln was railed by The Lupercal
+John_Mullins was electrocuted by ɖɨɾʞ
+The Lupercal was electrocuted by Ural
+oriano was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+Im Batman was electrocuted by Busdriverx
+Busdriverx was in the wrong place.
+Ural was electrocuted by John_Mullins
+pln was electrocuted by oriano
+^Ｇ   Ｏ   Ｒ   Ｅ got the Mega Health.
+The Lupercal almost dodged Fleischwunde's rocket
+Im Batman got the Red Armor.
+Fleischwunde was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by oriano
+John_Mullins was electrocuted by Busdriverx
+DrTamm almost dodged ɖɨɾʞ's rocket
+Im Batman almost dodged pln's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was in the wrong place.
+Ural was railed by oriano
+The Lupercal was electrocuted by Fleischwunde
+oriano was gunned down by John_Mullins
+Fleischwunde almost dodged Busdriverx's rocket
+Busdriverx almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+oriano was in the wrong place.
+The Lupercal almost dodged Ural's rocket
+John_Mullins was gunned down by ɖɨɾʞ
+Ural blew himself up.
+Im Batman was in the wrong place.
+pln got the Red Armor.
+ɖɨɾʞ was melted by DrTamm's plasmagun
+pln: :P
+Busdriverx was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+pln: :P
+pln was in the wrong place.
+John_Mullins got the Mega Health.
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by oriano
+John_Mullins was electrocuted by pln
+Ural almost dodged oriano's rocket
+pln ate ɖɨɾʞ's rocket
+Fleischwunde was electrocuted by Busdriverx
+The Lupercal ate ɖɨɾʞ's rocket
+Im Batman was electrocuted by Fleischwunde
+John_Mullins was electrocuted by Busdriverx
+Fleischwunde was electrocuted by pln
+Ural was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ ate pln's rocket
+Busdriverx was in the wrong place.
+ɖɨɾʞ was railed by oriano
+The Lupercal: =)
+The Lupercal was in the wrong place.
+John_Mullins was electrocuted by pln
+pln was railed by oriano
+^Ｇ   Ｏ   Ｒ   Ｅ got the Red Armor.
+DrTamm was electrocuted by Im Batman
+oriano was electrocuted by ɖɨɾʞ
+Fleischwunde almost dodged Im Batman's rocket
+ɖɨɾʞ was railed by The Lupercal
+John_Mullins was electrocuted by oriano
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+DrTamm was electrocuted by oriano
+Ural was railed by The Lupercal
+^Ｇ   Ｏ   Ｒ   Ｅ got the Mega Health.
+Busdriverx was railed by oriano
+oriano almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+Im Batman was railed by The Lupercal
+ɖɨɾʞ was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Fleischwunde
+Busdriverx was electrocuted by Fleischwunde
+The Lupercal: =)
+Fleischwunde was electrocuted by ɖɨɾʞ
+oriano: D:
+The Lupercal was railed by oriano
+ɖɨɾʞ almost dodged pln's rocket
+pln almost dodged ɖɨɾʞ's rocket
+oriano was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by pln
+The Lupercal was electrocuted by pln
+Fleischwunde almost dodged Im Batman's rocket
+oriano got the Red Armor.
+Im Batman was melted by Busdriverx's plasmagun
+Busdriverx got the Quad Damage!
+pln was electrocuted by The Lupercal
+Ural almost dodged Im Batman's rocket
+ɖɨɾʞ was electrocuted by The Lupercal
+Fleischwunde almost dodged oriano's rocket
+DrTamm was railed by ɖɨɾʞ
+Ural blew himself up.
+John_Mullins ate oriano's rocket
+Busdriverx got the Regeneration!
+Ural got the Mega Health.
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+The Lupercal was electrocuted by Fleischwunde
+Ural blew himself up.
+The Lupercal was electrocuted by Busdriverx
+DrTamm was gunned down by oriano
+Fleischwunde was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ ate Ural's rocket
+pln got the Red Armor.
+ɖɨɾʞ almost dodged Busdriverx's rocket
+Im Batman almost dodged oriano's rocket
+The Lupercal almost dodged Ural's rocket
+oriano was electrocuted by Busdriverx
+Ural ate Im Batman's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ almost dodged pln's rocket
+ɖɨɾʞ was electrocuted by The Lupercal
+John_Mullins ate pln's grenade
+The Lupercal was electrocuted by Busdriverx
+Im Batman was electrocuted by oriano
+pln was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+Fleischwunde almost dodged Busdriverx's rocket
+Busdriverx was electrocuted by The Lupercal
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by oriano
+Ural was electrocuted by The Lupercal
+ɖɨɾʞ was electrocuted by pln
+Im Batman was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+oriano was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+The Lupercal got the Mega Health.
+^Ｇ   Ｏ   Ｒ   Ｅ got the Red Armor.
+The Lupercal almost dodged Busdriverx's rocket
+pln almost dodged Busdriverx's rocket
+Busdriverx ate Im Batman's rocket
+Ural was railed by ɖɨɾʞ
+Fleischwunde almost dodged ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+John_Mullins almost dodged oriano's rocket
+Im Batman was electrocuted by The Lupercal
+pln almost dodged The Lupercal's rocket
+^Ｇ   Ｏ   Ｒ   Ｅ was electrocuted by Busdriverx
+[ByQ]Descent: and usually he feels not good? :DD really think that its spermotoxicosis ..
+ɖɨɾʞ was electrocuted by oriano
+The Lupercal almost dodged pln's rocket
+Im Batman was in the wrong place.
+Busdriverx almost dodged Ural's rocket
+John_Mullins ate ^Ｇ   Ｏ   Ｒ   Ｅ's rocket
+oriano was electrocuted by Fleischwunde
+Fleischwunde was electrocuted by ɖɨɾʞ
+Ural was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ was in the wrong place.
+pln ate Ural's rocket
+John_Mullins was electrocuted by Busdriverx
+pln: :P
+Im Batman was railed by The Lupercal
+Im Batman got the Red Armor.
+Fleischwunde got the Mega Health.
+The Lupercal was electrocuted by pln
+Busdriverx was railed by ɖɨɾʞ
+Fleischwunde was electrocuted by ^Ｇ   Ｏ   Ｒ   Ｅ
+DrTamm was electrocuted by Busdriverx
+Ural was railed by ɖɨɾʞ
+John_Mullins was electrocuted by Fleischwunde
+^Ｇ   Ｏ   Ｒ   Ｅ was railed by pln
+pln was railed by ɖɨɾʞ
+Fleischwunde was electrocuted by Busdriverx
+The Lupercal was railed by ^Ｇ   Ｏ   Ｒ   Ｅ
+ɖɨɾʞ was electrocuted by John_Mullins
+DrTamm almost dodged Ural's rocket
+Im Batman was electrocuted by pln
+ɖɨɾʞ ate The Lupercal's rocket
+Ural was electrocuted by Busdriverx
+^Ｇ   Ｏ   Ｒ   Ｅ was in the wrong place.
+John_Mullins got the Quad Damage!
+Fleischwunde was electrocuted by pln
+pln: :P
+pln was in the wrong place.
+Im Batman was railed by ɖɨɾʞ
+Busdriverx was railed by The Lupercal
+^Ｇ   Ｏ   Ｒ   Ｅ ate Ural's rocket
+The Lupercal almost dodged Im Batman's rocket
+ɖɨɾʞ got the Mega Health.
+DrTamm almost dodged Ural's rocket
+Im Batman killed the Quad Damage carrier!
+John_Mullins almost dodged Im Batman's rocket
+pln was in the wrong place.
+pln: :P
+Fleischwunde almost dodged ɖɨɾʞ's rocket
+]\condump ql-ebase-in-Michael-not-so-good-(25-06-2019).txt
+Dumped console text to ql-ebase-in-Michael-not-so-good-(25-06-2019).txt.
+

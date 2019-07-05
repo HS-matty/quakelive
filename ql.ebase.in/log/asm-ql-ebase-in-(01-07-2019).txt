@@ -1,0 +1,1560 @@
+sen†enced almost dodged The Lupercal's rocket
+sry.G was electrocuted by УАО
+TheOnlyProctor: fuck
+The Lupercal: =)
+[izi] St3ch got the Quad Damage!
+sen†enced killed the Quad Damage carrier!
+[izi] St3ch was railed by sen†enced
+Nel was electrocuted by УАО
+The Lupercal almost dodged sry.G's rocket
+Saz was electrocuted by УАО
+roboch1k was electrocuted by TheOnlyProctor
+sign.of.an.open.eye was electrocuted by TheOnlyProctor
+Grim almost dodged sry.G's rocket
+[izi] St3ch was electrocuted by The Lupercal
+roboch1k killed the Quad Damage carrier!
+TheOnlyProctor was electrocuted by roboch1k
+Nel was railed by УАО
+sen†enced killed the Quad Damage carrier!
+roboch1k was railed by sen†enced
+Saz was electrocuted by The Lupercal
+УАО almost dodged TheOnlyProctor's rocket
+sign.of.an.open.eye was electrocuted by The Lupercal
+Grim almost dodged Nel's rocket
+[izi] St3ch was electrocuted by The Lupercal
+Nel ate sign.of.an.open.eye's rocket
+sen†enced killed the Quad Damage carrier!
+The Lupercal was railed by sen†enced
+am1go: what u think about life
+TheOnlyProctor ate sry.G's rocket
+The Lupercal hit the fraglimit.
+sry.G was electrocuted by The Lupercal
+Saz: gg
+Stopped demo.
+Wrote screenshots/FFA-almostlost-2019_07_01-12_48_48.jpg
+The Lupercal: no need focus to win
+УАО: life sucks
+Grim disconnected
+TheOnlyProctor: life is good when your pissed
+TheOnlyProctor: gg
+Saz was melted by sry.G's plasmagun
+am1go: hahahaha
+TheOnlyProctor was melted by sign.of.an.open.eye's plasmagun
+sry.G was pummeled by The Lupercal
+УАО was pummeled by Saz
+TheOnlyProctor called a vote.
+[izi] St3ch ate Nel's rocket
+sen†enced vetoed the vote.
+Vote failed.
+TheOnlyProctor was gunned down by sry.G
+roboch1k blew himself up.
+УАО called a vote.
+Nel got the Mega Health.
+[izi] St3ch ate sign.of.an.open.eye's rocket
+sen†enced vetoed the vote.
+Vote failed.
+Saz was pummeled by sry.G
+sry.G was electrocuted by Nel
+Saz: )
+TheOnlyProctor called a vote.
+TheOnlyProctor passed the vote.
+Vote passed.
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 9800 GTX+/PCIe/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_clear_buffer_object GL_ARB_color_buffer_float GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp
+GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility
+GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query
+GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multisample GL_ARB_multitexture
+GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query
+GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects
+GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include
+GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_range
+GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8
+GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transpose_matrix
+GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program
+GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers
+GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color
+GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB
+GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer
+GL_EXT_texture_loGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: -2, 1024 x 768 windowed hz:59
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 304 milli seconds
+UI menu load time = 206 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 0 LoD cracks
+...loaded 3329 faces, 404 meshes, 186 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 1356 milli seconds
+CL_InitCGame:  9.47 seconds
+6 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+
+----------------------
+9551 files in pk3 files
+The Lupercal was pummeled by Saz
+Rhys connected
+Nel: =)
+TheOnlyProctor: not that map again we did loads of times
+УАО was melted by sign.of.an.open.eye's plasmagun
+sry.G was melted by sign.of.an.open.eye's plasmagun
+roboch1k almost dodged Nel's rocket
+am1go: le debemos un gallo a esculapio
+Nel was railed by УАО
+TheOnlyProctor almost dodged sry.G's rocket
+TheOnlyProctor: soz had to force
+Saz was railed by sign.of.an.open.eye
+sen†enced called a vote.
+Voting time has expired.
+recording to demos/FFA-campgrounds-2019_07_01-12_49_59.dm_91.
+sen†enced: zzzzzzzzzzz
+Nel got the Red Armor.
+sen†enced was electrocuted by roboch1k
+sign.of.an.open.eye was electrocuted by УАО
+The Lupercal was railed by TheOnlyProctor
+sry.G almost dodged [izi] St3ch's rocket
+Saz was electrocuted by УАО
+TheOnlyProctor: :-)
+The Lupercal: =)
+roboch1k was electrocuted by УАО
+УАО almost dodged roboch1k's rocket
+TheOnlyProctor was electrocuted by sen†enced
+Nel was railed by Rhys
+sen†enced was electrocuted by The Lupercal
+TheOnlyProctor: thsi map 1 round
+Rhys blew himself up.
+sign.of.an.open.eye ate The Lupercal's rocket
+[izi] St3ch was railed by sen†enced
+The Lupercal was electrocuted by sen†enced
+sry.G almost dodged Rhys's rocket
+roboch1k ate Nel's rocket
+sen†enced was electrocuted by The Lupercal
+Nel ate Rhys's rocket
+Saz was electrocuted by [izi] St3ch
+roboch1k got the Red Armor.
+sign.of.an.open.eye was railed by УАО
+УАО almost dodged sign.of.an.open.eye's rocket
+Rhys was railed by TheOnlyProctor
+The Lupercal almost dodged Nel's rocket
+TheOnlyProctor almost dodged Nel's rocket
+sry.G ate Rhys's rocket
+Nel was electrocuted by [izi] St3ch
+Rhys was melted by The Lupercal's plasmagun
+sen†enced almost dodged УАО's rocket
+Saz almost dodged [izi] St3ch's rocket
+sign.of.an.open.eye was melted by The Lupercal's plasmagun
+roboch1k ate sry.G's rocket
+am1go: autoproclamed gypsy king go jail at least for 4 years
+УАО was melted by TheOnlyProctor's plasmagun
+Nel was melted by The Lupercal's plasmagun
+Saz almost dodged sign.of.an.open.eye's rocket
+am1go: lmao
+TheOnlyProctor almost dodged [izi] St3ch's rocket
+[izi] St3ch was electrocuted by roboch1k
+Nel got the Red Armor.
+roboch1k got the Quad Damage!
+sen†enced was electrocuted by sry.G
+The Lupercal was electrocuted by roboch1k
+Rhys ate Nel's rocket
+sign.of.an.open.eye was electrocuted by roboch1k
+sen†enced ate Nel's rocket
+TheOnlyProctor killed the Quad Damage carrier!
+roboch1k was melted by TheOnlyProctor's plasmagun
+Nel almost dodged sry.G's rocket
+TheOnlyProctor almost dodged Saz's rocket
+The Lupercal killed the Quad Damage carrier!
+[izi] St3ch was electrocuted by The Lupercal
+Saz killed the Quad Damage carrier!
+The Lupercal almost dodged Saz's rocket
+УАО ate Rhys's rocket
+roboch1k killed the Quad Damage carrier!
+Saz was melted by roboch1k's plasmagun
+sign.of.an.open.eye cratered.
+Rhys was melted by roboch1k's plasmagun
+roboch1k blew himself up.
+[izi] St3ch was melted by The Lupercal's plasmagun
+TheOnlyProctor was melted by The Lupercal's plasmagun
+Saz was electrocuted by sen†enced
+sry.G killed the Quad Damage carrier!
+The Lupercal ate sry.G's rocket
+[izi] St3ch almost dodged sign.of.an.open.eye's rocket
+sign.of.an.open.eye was electrocuted by УАО
+sen†enced was electrocuted by TheOnlyProctor
+roboch1k almost dodged Rhys's rocket
+УАО ate Saz's rocket
+TheOnlyProctor ate Rhys's rocket
+sign.of.an.open.eye killed the Quad Damage carrier!
+sry.G ate sign.of.an.open.eye's rocket
+[izi] St3ch got the Red Armor.
+Rhys ate Nel's rocket
+[izi] St3ch was electrocuted by roboch1k
+TheOnlyProctor: what boxer dude?
+sign.of.an.open.eye was electrocuted by The Lupercal
+roboch1k was electrocuted by УАО
+УАО almost dodged Nel's rocket
+The Lupercal ate Saz's rocket
+sen†enced ate Rhys's rocket
+sry.G almost dodged Saz's rocket
+Saz ate [izi] St3ch's rocket
+sign.of.an.open.eye was railed by TheOnlyProctor
+TheOnlyProctor was electrocuted by roboch1k
+[izi] St3ch ate sign.of.an.open.eye's rocket
+Rhys ate sry.G's rocket
+roboch1k almost dodged УАО's rocket
+sry.G was melted by TheOnlyProctor's plasmagun
+Rhys disconnected
+The Lupercal ate УАО's rocket
+Nel was electrocuted by TheOnlyProctor
+УАО was electrocuted by [izi] St3ch
+The Lupercal got the Red Armor.
+TheOnlyProctor was electrocuted by [izi] St3ch
+sign.of.an.open.eye ate Saz's rocket
+roboch1k ate The Lupercal's rocket
+Saz was railed by sen†enced
+am1go: im naked no boxer
+[izi] St3ch almost dodged The Lupercal's rocket
+sen†enced ate roboch1k's rocket
+The Lupercal was electrocuted by [izi] St3ch
+roboch1k almost dodged Nel's rocket
+Nel was electrocuted by УАО
+sry.G was melted by sen†enced's plasmagun
+sign.of.an.open.eye was railed by TheOnlyProctor
+[izi] St3ch was melted by sen†enced's plasmagun
+TheOnlyProctor was electrocuted by Saz
+sen†enced was electrocuted by roboch1k
+УАО was melted by [izi] St3ch's plasmagun
+sign.of.an.open.eye almost dodged sry.G's rocket
+TheOnlyProctor: lol
+TheOnlyProctor: :-)
+roboch1k was melted by The Lupercal's plasmagun
+Saz almost dodged The Lupercal's rocket
+am1go: rofl
+Nel was electrocuted by УАО
+sry.G got the Red Armor.
+The Lupercal ate [izi] St3ch's rocket
+sign.of.an.open.eye almost dodged [izi] St3ch's rocket
+roboch1k was electrocuted by The Lupercal
+sry.G ate Saz's rocket
+The Lupercal ate [izi] St3ch's rocket
+УАО was railed by sen†enced
+TheOnlyProctor almost dodged [izi] St3ch's rocket
+sen†enced was electrocuted by roboch1k
+[izi] St3ch was electrocuted by roboch1k
+Nel almost dodged sry.G's rocket
+Saz almost dodged sry.G's rocket
+roboch1k was railed by The Lupercal
+sign.of.an.open.eye was electrocuted by sen†enced
+The Lupercal was melted by [izi] St3ch's plasmagun
+sry.G was electrocuted by sen†enced
+The Lupercal: ...
+УАО almost dodged TheOnlyProctor's rocket
+[izi] St3ch ate sign.of.an.open.eye's rocket
+sign.of.an.open.eye ate Nel's grenade
+TheOnlyProctor almost dodged sry.G's rocket
+Saz almost dodged sry.G's rocket
+УАО got the Red Armor.
+sry.G ate sign.of.an.open.eye's rocket
+TheOnlyProctor got the Quad Damage!
+roboch1k was melted by TheOnlyProctor's plasmagun
+Saz almost dodged Nel's rocket
+[izi] St3ch killed the Quad Damage carrier!
+TheOnlyProctor almost dodged [izi] St3ch's rocket
+The Lupercal was melted by TheOnlyProctor's plasmagun
+TheOnlyProctor: :-)
+sign.of.an.open.eye was electrocuted by УАО
+sen†enced almost dodged [izi] St3ch's rocket
+The Lupercal: =)
+am1go: feel the air on balls are great
+roboch1k killed the Quad Damage carrier!
+[izi] St3ch was melted by roboch1k's plasmagun
+УАО was melted by The Lupercal's plasmagun
+Nel was melted by The Lupercal's plasmagun
+sry.G was melted by [izi] St3ch's plasmagun
+TheOnlyProctor was melted by roboch1k's plasmagun
+[izi] St3ch killed the Quad Damage carrier!
+roboch1k was melted by [izi] St3ch's plasmagun
+Saz almost dodged sign.of.an.open.eye's rocket
+sry.G ate [izi] St3ch's rocket
+[izi] St3ch blew himself up.
+sign.of.an.open.eye ate Nel's grenade
+sen†enced was electrocuted by УАО
+УАО ate [izi] St3ch's rocket
+The Lupercal was electrocuted by Nel
+[izi] St3ch got the Red Armor.
+roboch1k almost dodged TheOnlyProctor's rocket
+TheOnlyProctor was electrocuted by The Lupercal
+The Lupercal was electrocuted by Nel
+Saz almost dodged sry.G's rocket
+sry.G was electrocuted by Nel
+УАО killed the Quad Damage carrier!
+Nel was railed by УАО
+fuwa connected
+sign.of.an.open.eye was electrocuted by roboch1k
+[izi] St3ch almost dodged sign.of.an.open.eye's rocket
+УАО was electrocuted by sen†enced
+sign.of.an.open.eye almost dodged sry.G's rocket
+Nel was railed by sen†enced
+sry.G was electrocuted by roboch1k
+Saz was railed by TheOnlyProctor
+[izi] St3ch was electrocuted by The Lupercal
+TheOnlyProctor: :-)
+The Lupercal was melted by roboch1k's plasmagun
+sen†enced ate Nel's grenade
+TheOnlyProctor was railed by УАО
+roboch1k got the Red Armor.
+sign.of.an.open.eye ate [izi] St3ch's rocket
+Saz was electrocuted by fuwa
+roboch1k was electrocuted by fuwa
+sry.G was gunned down by УАО
+Nel almost dodged [izi] St3ch's rocket
+sen†enced was electrocuted by The Lupercal
+TheOnlyProctor almost dodged Saz's rocket
+[izi] St3ch almost dodged Saz's rocket
+Saz was electrocuted by fuwa
+TheOnlyProctor: time rtoo own
+sry.G ate sign.of.an.open.eye's rocket
+TheOnlyProctor: :-)
+The Lupercal was melted by roboch1k's plasmagun
+sign.of.an.open.eye almost dodged The Lupercal's rocket
+Nel was electrocuted by [izi] St3ch
+sen†enced was electrocuted by УАО
+fuwa was electrocuted by TheOnlyProctor
+Saz was electrocuted by [izi] St3ch
+[izi] St3ch was electrocuted by sen†enced
+am1go: comando outfit
+УАО almost dodged Nel's rocket
+TheOnlyProctor was electrocuted by roboch1k
+am1go: :_D
+TheOnlyProctor: :-)
+The Lupercal was electrocuted by roboch1k
+Nel was electrocuted by sen†enced
+roboch1k was gunned down by sign.of.an.open.eye
+sry.G got the Red Armor.
+sign.of.an.open.eye was electrocuted by fuwa
+[izi] St3ch almost dodged Saz's rocket
+УАО was electrocuted by TheOnlyProctor
+TheOnlyProctor ate sen†enced's rocket
+sen†enced was electrocuted by fuwa
+Nel was electrocuted by roboch1k
+fuwa was railed by The Lupercal
+[izi] St3ch was electrocuted by roboch1k
+sign.of.an.open.eye was electrocuted by roboch1k
+sen†enced ate The Lupercal's rocket
+Saz almost dodged roboch1k's rocket
+roboch1k was melted by sry.G's plasmagun
+The Lupercal was electrocuted by fuwa
+TheOnlyProctor was electrocuted by fuwa
+Nel almost dodged [izi] St3ch's rocket
+fuwa was electrocuted by The Lupercal
+sry.G was electrocuted by roboch1k
+sign.of.an.open.eye ate TheOnlyProctor's rocket
+Nel got the Red Armor.
+Saz almost dodged TheOnlyProctor's rocket
+УАО ate sign.of.an.open.eye's rocket
+[izi] St3ch was electrocuted by fuwa
+Nel was electrocuted by fuwa
+TheOnlyProctor was melted by sry.G's plasmagun
+sen†enced was melted by fuwa's plasmagun
+The Lupercal almost dodged roboch1k's rocket
+sry.G ate Saz's rocket
+Saz was railed by УАО
+fuwa almost dodged [izi] St3ch's rocket
+The Lupercal got the Quad Damage!
+[izi] St3ch almost dodged The Lupercal's rocket
+roboch1k ate The Lupercal's rocket
+The Lupercal blew himself up.
+sen†enced killed the Quad Damage carrier!
+TheOnlyProctor was electrocuted by sen†enced
+am1go: some hot days
+TheOnlyProctor: :-)
+The Lupercal got the Red Armor.
+sen†enced was electrocuted by roboch1k
+sry.G was pummeled by sign.of.an.open.eye
+Saz was electrocuted by roboch1k
+fuwa killed the Quad Damage carrier!
+roboch1k was electrocuted by fuwa
+[izi] St3ch killed the Quad Damage carrier!
+fuwa ate [izi] St3ch's grenade
+УАО was electrocuted by [izi] St3ch
+TheOnlyProctor was electrocuted by [izi] St3ch
+The Lupercal was electrocuted by [izi] St3ch
+Nel blew himself up.
+TheOnlyProctor: wow
+TheOnlyProctor: :-)
+roboch1k was electrocuted by [izi] St3ch
+sign.of.an.open.eye was railed by sen†enced
+Saz was electrocuted by [izi] St3ch
+sen†enced ate sry.G's rocket
+Nel was electrocuted by fuwa
+fuwa almost dodged The Lupercal's rocket
+TheOnlyProctor was electrocuted by [izi] St3ch
+The Lupercal ate [izi] St3ch's rocket
+roboch1k killed the Quad Damage carrier!
+[izi] St3ch was electrocuted by roboch1k
+Saz was electrocuted by roboch1k
+Nel almost dodged sen†enced's rocket
+sign.of.an.open.eye was electrocuted by roboch1k
+sen†enced was electrocuted by roboch1k
+fuwa killed the Quad Damage carrier!
+roboch1k was railed by fuwa
+Nel got the Red Armor.
+TheOnlyProctor almost dodged УАО's rocket
+roboch1k ate Nel's rocket
+The Lupercal almost dodged [izi] St3ch's rocket
+sign.of.an.open.eye was electrocuted by Saz
+Saz was melted by fuwa's plasmagun
+УАО almost dodged fuwa's rocket
+Nel was electrocuted by roboch1k
+[izi] St3ch was electrocuted by roboch1k
+Saz almost dodged sry.G's rocket
+fuwa was melted by roboch1k's plasmagun
+УАО was electrocuted by The Lupercal
+sen†enced was melted by TheOnlyProctor's plasmagun
+The Lupercal almost dodged Nel's rocket
+roboch1k almost dodged [izi] St3ch's rocket
+Nel was electrocuted by fuwa
+sign.of.an.open.eye was railed by TheOnlyProctor
+fuwa was electrocuted by Saz
+TheOnlyProctor was electrocuted by УАО
+Saz was electrocuted by [izi] St3ch
+am1go: Generated by QUAKE LIVE. Do not modifyunbindallbind 0x00  +action 1 bind TAB  + ESCAPE togglemenu bind SPACE +speed bind + sizeup bind -
+[izi] St3ch was electrocuted by TheOnlyProctor
+fuwa got the Red Armor.
+sry.G was electrocuted by sen†enced
+roboch1k almost dodged sign.of.an.open.eye's rocket
+УАО was electrocuted by fuwa
+fuwa was shredded by [izi] St3ch's shrapnel
+TheOnlyProctor was electrocuted by roboch1k
+sign.of.an.open.eye was electrocuted by The Lupercal
+sen†enced was melted by roboch1k's plasmagun
+Saz was electrocuted by fuwa
+sry.G was electrocuted by УАО
+[izi] St3ch was railed by The Lupercal
+The Lupercal was electrocuted by УАО
+Nel almost dodged TheOnlyProctor's rocket
+roboch1k was electrocuted by УАО
+УАО ate sign.of.an.open.eye's rocket
+TheOnlyProctor ate Nel's rocket
+sinerp connected
+fuwa blew himself up.
+sen†enced almost dodged [izi] St3ch's rocket
+Saz was electrocuted by roboch1k
+sry.G almost dodged The Lupercal's rocket
+Nel got the Red Armor.
+[izi] St3ch was melted by roboch1k's plasmagun
+The Lupercal almost dodged sign.of.an.open.eye's rocket
+roboch1k was electrocuted by fuwa
+УАО was electrocuted by TheOnlyProctor
+fuwa was electrocuted by TheOnlyProctor
+The Lupercal ate Saz's rocket
+sry.G was melted by roboch1k's plasmagun
+Saz was melted by sen†enced's plasmagun
+sen†enced was railed by TheOnlyProctor
+sign.of.an.open.eye was railed by TheOnlyProctor
+roboch1k was electrocuted by The Lupercal
+TheOnlyProctor was electrocuted by Saz
+Nel almost dodged sinerp's rocket
+[izi] St3ch was gunned down by The Lupercal
+Saz ate fuwa's rocket
+fuwa was electrocuted by УАО
+УАО ate The Lupercal's rocket
+sign.of.an.open.eye was electrocuted by roboch1k
+roboch1k ate The Lupercal's rocket
+[izi] St3ch almost dodged Nel's rocket
+УАО was electrocuted by fuwa
+fuwa was railed by sry.G
+TheOnlyProctor got the Quad Damage!
+roboch1k ate TheOnlyProctor's rocket
+sinerp cratered.
+Saz almost dodged The Lupercal's rocket
+The Lupercal ate TheOnlyProctor's rocket
+sen†enced ate TheOnlyProctor's rocket
+sign.of.an.open.eye killed the Quad Damage carrier!
+TheOnlyProctor was gunned down by sign.of.an.open.eye
+Nel got the Red Armor.
+УАО was electrocuted by sen†enced
+Nel was electrocuted by fuwa
+roboch1k killed the Quad Damage carrier!
+sinerp was electrocuted by roboch1k
+fuwa was electrocuted by sen†enced
+sry.G was shredded by [izi] St3ch's shrapnel
+sign.of.an.open.eye was electrocuted by roboch1k
+Saz killed the Quad Damage carrier!
+roboch1k was electrocuted by Saz
+[izi] St3ch killed the Quad Damage carrier!
+Saz was electrocuted by [izi] St3ch
+The Lupercal was railed by TheOnlyProctor
+TheOnlyProctor: :-)
+TheOnlyProctor ate Nel's rocket
+The Lupercal: =)
+fuwa killed the Quad Damage carrier!
+[izi] St3ch was electrocuted by fuwa
+sen†enced almost dodged Nel's rocket
+sinerp was electrocuted by fuwa
+The Lupercal ate [izi] St3ch's rocket
+[izi] St3ch ate sign.of.an.open.eye's rocket
+УАО was railed by sen†enced
+sign.of.an.open.eye killed the Quad Damage carrier!
+fuwa almost dodged sign.of.an.open.eye's rocket
+roboch1k ate sign.of.an.open.eye's rocket
+sign.of.an.open.eye blew himself up.
+am1go: https://www.youtube.com/watch?v=u9O5jUcfQus
+Nel got the Red Armor.
+sen†enced almost dodged sry.G's rocket
+The Lupercal was electrocuted by fuwa
+Nel was electrocuted by УАО
+sign.of.an.open.eye blew himself up.
+am1go: maaam
+sry.G was electrocuted by УАО
+sinerp almost dodged Saz's rocket
+fuwa almost dodged [izi] St3ch's rocket
+TheOnlyProctor was electrocuted by УАО
+[izi] St3ch ate roboch1k's rocket
+Saz was electrocuted by УАО
+УАО ate sry.G's rocket
+The Lupercal: ok too much luck based
+sry.G ate [izi] St3ch's rocket
+The Lupercal: hf
+The Lupercal disconnected
+fuwa was electrocuted by roboch1k
+sinerp was electrocuted by УАО
+Nel ate roboch1k's rocket
+[izi] St3ch almost dodged Nel's rocket
+Saz was melted by sry.G's plasmagun
+sen†enced was railed by TheOnlyProctor
+sry.G was melted by roboch1k's plasmagun
+УАО almost dodged sinerp's rocket
+sinerp was melted by fuwa's plasmagun
+roboch1k was melted by TheOnlyProctor's plasmagun
+sign.of.an.open.eye ate Saz's rocket
+УАО got the Red Armor.
+TheOnlyProctor was electrocuted by fuwa
+sry.G was electrocuted by УАО
+Nel was electrocuted by [izi] St3ch
+fuwa almost dodged roboch1k's rocket
+TheOnlyProctor: lol rage quit
+sen†enced was electrocuted by [izi] St3ch
+Saz ate [izi] St3ch's rocket
+[izi] St3ch was electrocuted by roboch1k
+УАО was electrocuted by TheOnlyProctor
+sinerp ate sry.G's rocket
+sry.G was railed by TheOnlyProctor
+TheOnlyProctor ate roboch1k's rocket
+sen†enced was electrocuted by roboch1k
+Nel ate sign.of.an.open.eye's rocket
+sign.of.an.open.eye was electrocuted by fuwa
+Saz was electrocuted by УАО
+roboch1k ate [izi] St3ch's rocket
+fuwa was electrocuted by УАО
+sinerp was electrocuted by УАО
+[izi] St3ch was electrocuted by fuwa
+sign.of.an.open.eye was electrocuted by Saz
+УАО almost dodged TheOnlyProctor's rocket
+[izi] St3ch got the Red Armor.
+TheOnlyProctor ate fuwa's rocket
+roboch1k ate [izi] St3ch's rocket
+Nel blew himself up.
+sinerp was electrocuted by УАО
+[izi] St3ch was railed by sen†enced
+Saz was electrocuted by fuwa
+sen†enced ate УАО's rocket
+УАО was railed by TheOnlyProctor
+sinerp was melted by fuwa's plasmagun
+fuwa was electrocuted by [izi] St3ch
+sign.of.an.open.eye almost dodged Saz's rocket
+TheOnlyProctor almost dodged sry.G's rocket
+sry.G was shredded by Nel's shrapnel
+Saz almost dodged Nel's rocket
+roboch1k was electrocuted by fuwa
+[izi] St3ch blew himself up.
+sen†enced almost dodged sinerp's rocket
+Nel was electrocuted by УАО
+sinerp was railed by TheOnlyProctor
+sign.of.an.open.eye was electrocuted by fuwa
+fuwa was electrocuted by Saz
+TheOnlyProctor ate Nel's rocket
+sry.G was electrocuted by roboch1k
+roboch1k almost dodged sen†enced's rocket
+УАО was electrocuted by Saz
+fuwa got the Red Armor.
+sign.of.an.open.eye was electrocuted by УАО
+[izi] St3ch almost dodged sign.of.an.open.eye's rocket
+sen†enced was electrocuted by fuwa
+sinerp ate TheOnlyProctor's rocket
+TheOnlyProctor got the Quad Damage!
+sry.G killed the Quad Damage carrier!
+TheOnlyProctor almost dodged sry.G's rocket
+Saz almost dodged sry.G's rocket
+sry.G ate fuwa's rocket
+УАО killed the Quad Damage carrier!
+fuwa almost dodged УАО's rocket
+УАО almost dodged fuwa's rocket
+roboch1k was railed by TheOnlyProctor
+sign.of.an.open.eye ate sry.G's rocket
+TheOnlyProctor was electrocuted by Nel
+Saz killed the Quad Damage carrier!
+Nel was electrocuted by Saz
+sry.G was electrocuted by fuwa
+Saz was electrocuted by [izi] St3ch
+sinerp was railed by sen†enced
+sen†enced was melted by roboch1k's plasmagun
+sign.of.an.open.eye was shredded by УАО's shrapnel
+fuwa killed the Quad Damage carrier!
+[izi] St3ch was railed by fuwa
+Nel ate Saz's rocket
+roboch1k almost dodged sinerp's rocket
+УАО was railed by TheOnlyProctor
+sen†enced was railed by fuwa
+Saz almost dodged [izi] St3ch's rocket
+sry.G was railed by fuwa
+УАО got the Red Armor.
+sinerp almost dodged TheOnlyProctor's rocket
+[izi] St3ch was railed by fuwa
+roboch1k almost dodged TheOnlyProctor's rocket
+sen†enced killed the Quad Damage carrier!
+fuwa was melted by sen†enced's plasmagun
+TheOnlyProctor almost dodged sinerp's rocket
+sign.of.an.open.eye was electrocuted by Saz
+sen†enced was electrocuted by Saz
+УАО was electrocuted by TheOnlyProctor
+Saz almost dodged УАО's rocket
+Nel was electrocuted by sry.G
+[izi] St3ch almost dodged sign.of.an.open.eye's rocket
+TheOnlyProctor ate sinerp's rocket
+sinerp was electrocuted by sen†enced
+sign.of.an.open.eye was melted by roboch1k's plasmagun
+fuwa was electrocuted by sen†enced
+roboch1k almost dodged sry.G's rocket
+sry.G was electrocuted by УАО
+sen†enced ate sinerp's grenade
+УАО almost dodged Saz's rocket
+Saz almost dodged TheOnlyProctor's rocket
+sen†enced got the Red Armor.
+sinerp was electrocuted by fuwa
+sign.of.an.open.eye ate [izi] St3ch's rocket
+sry.G almost dodged [izi] St3ch's rocket
+Saz was electrocuted by TheOnlyProctor
+TheOnlyProctor ate fuwa's rocket
+[izi] St3ch almost dodged УАО's rocket
+fuwa ate Nel's rocket
+sign.of.an.open.eye almost dodged roboch1k's rocket
+УАО was railed by sen†enced
+sen†enced almost dodged roboch1k's rocket
+sinerp was electrocuted by fuwa
+TheOnlyProctor was electrocuted by fuwa
+Nel almost dodged roboch1k's rocket
+fuwa almost dodged [izi] St3ch's rocket
+roboch1k was electrocuted by sen†enced
+Saz was electrocuted by sen†enced
+УАО almost dodged Nel's rocket
+sign.of.an.open.eye got the Red Armor.
+TheOnlyProctor was electrocuted by fuwa
+sinerp was electrocuted by Saz
+sign.of.an.open.eye almost dodged Nel's rocket
+Saz ate [izi] St3ch's rocket
+fuwa was electrocuted by sen†enced
+sen†enced almost dodged sry.G's rocket
+roboch1k almost dodged Saz's rocket
+[izi] St3ch blew himself up.
+Nel almost dodged TheOnlyProctor's rocket
+sry.G almost dodged sign.of.an.open.eye's rocket
+TheOnlyProctor was electrocuted by fuwa
+roboch1k was electrocuted by fuwa
+sen†enced almost dodged Saz's rocket
+fuwa ate Nel's rocket
+Saz ate sign.of.an.open.eye's rocket
+sign.of.an.open.eye was shredded by sinerp's shrapnel
+УАО was electrocuted by roboch1k
+Nel was electrocuted by fuwa
+sinerp was electrocuted by roboch1k
+[izi] St3ch was electrocuted by fuwa
+sen†enced was electrocuted by fuwa
+Saz ate TheOnlyProctor's rocket
+fuwa got the Red Armor.
+sry.G ate [izi] St3ch's rocket
+fuwa was electrocuted by УАО
+sign.of.an.open.eye was electrocuted by УАО
+УАО was electrocuted by Saz
+TheOnlyProctor was shredded by sinerp's shrapnel
+TheOnlyProctor: :-)
+sinerp was railed by sen†enced
+Saz was electrocuted by fuwa
+Nel ate roboch1k's rocket
+sry.G almost dodged sign.of.an.open.eye's rocket
+fuwa ate УАО's rocket
+TheOnlyProctor got the Quad Damage!
+УАО was gunned down by [izi] St3ch
+sinerp was electrocuted by TheOnlyProctor
+[izi] St3ch ate Saz's rocket
+roboch1k ate sign.of.an.open.eye's rocket
+sen†enced ate Saz's rocket
+Nel was electrocuted by TheOnlyProctor
+sry.G killed the Quad Damage carrier!
+TheOnlyProctor almost dodged sry.G's rocket
+Saz was melted by [izi] St3ch's plasmagun
+sry.G was electrocuted by sen†enced
+fuwa killed the Quad Damage carrier!
+sinerp was electrocuted by fuwa
+roboch1k got the Red Armor.
+sign.of.an.open.eye was shredded by fuwa's shrapnel
+Saz ate [izi] St3ch's rocket
+Nel was melted by TheOnlyProctor's plasmagun
+[izi] St3ch blew himself up.
+sinerp almost dodged sign.of.an.open.eye's rocket
+Nel killed the Quad Damage carrier!
+fuwa ate Nel's rocket
+TheOnlyProctor was electrocuted by sen†enced
+sen†enced was electrocuted by УАО
+roboch1k was electrocuted by Nel
+УАО was electrocuted by [izi] St3ch
+Saz was electrocuted by [izi] St3ch
+sign.of.an.open.eye ate TheOnlyProctor's rocket
+fuwa was railed by sen†enced
+sry.G was electrocuted by roboch1k
+Nel was electrocuted by [izi] St3ch
+sinerp blew himself up.
+[izi] St3ch was railed by TheOnlyProctor
+TheOnlyProctor was electrocuted by sen†enced
+fuwa got the Red Armor.
+sen†enced was melted by [izi] St3ch's plasmagun
+sign.of.an.open.eye was melted by [izi] St3ch's plasmagun
+Nel almost dodged roboch1k's rocket
+Saz almost dodged roboch1k's rocket
+УАО almost dodged [izi] St3ch's rocket
+TheOnlyProctor almost dodged roboch1k's rocket
+roboch1k ate Nel's rocket
+sinerp almost dodged [izi] St3ch's rocket
+[izi] St3ch was melted by TheOnlyProctor's plasmagun
+sen†enced ate fuwa's rocket
+Nel almost dodged fuwa's rocket
+УАО almost dodged fuwa's rocket
+fuwa was melted by roboch1k's plasmagun
+sinerp was electrocuted by sen†enced
+[izi] St3ch almost dodged roboch1k's rocket
+Saz ate Nel's rocket
+sign.of.an.open.eye almost dodged TheOnlyProctor's rocket
+fuwa got the Red Armor.
+Nel was railed by sen†enced
+fuwa ate roboch1k's rocket
+roboch1k was railed by sen†enced
+sry.G was melted by [izi] St3ch's plasmagun
+УАО was electrocuted by fuwa
+sinerp was electrocuted by fuwa
+sen†enced almost dodged TheOnlyProctor's rocket
+Nel was electrocuted by [izi] St3ch
+fuwa was electrocuted by УАО
+roboch1k was railed by TheOnlyProctor
+sign.of.an.open.eye was shredded by sry.G's shrapnel
+TheOnlyProctor was electrocuted by УАО
+sry.G was electrocuted by [izi] St3ch
+Saz almost dodged Nel's rocket
+УАО was electrocuted by sen†enced
+sinerp was electrocuted by fuwa
+[izi] St3ch was melted by TheOnlyProctor's plasmagun
+sen†enced was electrocuted by Saz
+sign.of.an.open.eye was melted by roboch1k's plasmagun
+sinerp got the Red Armor.
+roboch1k ate Nel's rocket
+Saz ate fuwa's rocket
+fuwa was electrocuted by sen†enced
+TheOnlyProctor was electrocuted by sry.G
+Nel was electrocuted by sen†enced
+sry.G almost dodged Saz's rocket
+sinerp was electrocuted by roboch1k
+Saz ate [izi] St3ch's rocket
+sign.of.an.open.eye was electrocuted by sen†enced
+TheOnlyProctor was electrocuted by fuwa
+УАО almost dodged [izi] St3ch's rocket
+fuwa was shredded by roboch1k's shrapnel
+sign.of.an.open.eye was electrocuted by Saz
+sinerp was electrocuted by roboch1k
+roboch1k almost dodged sinerp's rocket
+[izi] St3ch was electrocuted by УАО
+Saz was electrocuted by sry.G
+roboch1k was electrocuted by fuwa
+fuwa got the Red Armor.
+sen†enced almost dodged [izi] St3ch's rocket
+Nel ate Saz's rocket
+sinerp ate sry.G's rocket
+[izi] St3ch was electrocuted by fuwa
+УАО ate sry.G's rocket
+TheOnlyProctor got the Quad Damage!
+sign.of.an.open.eye was melted by sry.G's plasmagun
+sen†enced almost dodged [izi] St3ch's rocket
+fuwa was melted by roboch1k's plasmagun
+[izi] St3ch was railed by УАО
+Saz was electrocuted by TheOnlyProctor
+sinerp was electrocuted by sry.G
+УАО was electrocuted by [izi] St3ch
+roboch1k almost dodged sry.G's rocket
+[izi] St3ch was electrocuted by TheOnlyProctor
+sign.of.an.open.eye was electrocuted by TheOnlyProctor
+sinerp was electrocuted by TheOnlyProctor
+fuwa killed the Quad Damage carrier!
+TheOnlyProctor was electrocuted by fuwa
+sen†enced killed the Quad Damage carrier!
+fuwa was railed by sen†enced
+УАО got the Red Armor.
+sry.G was electrocuted by roboch1k
+sign.of.an.open.eye was electrocuted by УАО
+Saz was melted by roboch1k's plasmagun
+sinerp almost dodged [izi] St3ch's rocket
+fuwa killed the Quad Damage carrier!
+roboch1k was electrocuted by fuwa
+TheOnlyProctor was electrocuted by УАО
+[izi] St3ch hit the fraglimit.
+fuwa almost dodged [izi] St3ch's rocket
+TheOnlyProctor: :-)
+sinerp: no u
+Saz: g
+Stopped demo.
+Wrote screenshots/FFA-campgrounds-2019_07_01-13_03_45.jpg
+TheOnlyProctor: gg
+УАО disconnected
+[izi] St3ch: gg
+am1go: u more
+sry.G disconnected
+fuwa got the Red Armor.
+TheOnlyProctor: wp on form stich
+sinerp was electrocuted by fuwa
+TheOnlyProctor ate fuwa's rocket
+sinerp called a vote.
+sen†enced ate roboch1k's rocket
+sen†enced vetoed the vote.
+Vote failed.
+[izi] St3ch ate fuwa's rocket
+sign.of.an.open.eye ate roboch1k's rocket
+Saz ate sinerp's rocket
+[izi] St3ch was pummeled by sinerp
+sign.of.an.open.eye was railed by sen†enced
+roboch1k almost dodged fuwa's rocket
+TheOnlyProctor called a vote.
+sen†enced almost dodged fuwa's rocket
+sen†enced passed the vote.
+Vote passed.
+sinerp almost dodged roboch1k's rocket
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 9800 GTX+/PCIe/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_clear_buffer_object GL_ARB_color_buffer_float GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp
+GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility
+GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query
+GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multisample GL_ARB_multitexture
+GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query
+GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects
+GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include
+GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_range
+GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8
+GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transpose_matrix
+GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program
+GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers
+GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color
+GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB
+GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer
+GL_EXT_texture_loGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: -2, 1024 x 768 windowed hz:59
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 294 milli seconds
+UI menu load time = 242 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 0 LoD cracks
+...loaded 2408 faces, 228 meshes, 97 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 827 milli seconds
+CL_InitCGame:  8.30 seconds
+18 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+
+----------------------
+9551 files in pk3 files
+]\players
+ 0 76561198257346072 M [izi] St3ch
+ 1 76561198239470386   Nel
+ 3 76561198256168099 A [ByQ]Descent
+ 4 76561198084148298 A TheOnlyProctor
+ 6 76561198020687538 M fuwa
+ 7 76561198271256869   друг8
+ 8 76561198930471056   Saz
+10 76561198257409925   am1go
+12 76561198930824576 M sen†enced
+13 76561198156047483   roboch1k
+14 76561198399209039   sinerp
+roboch1k got the Red Armor.
+sen†enced ate sinerp's rocket
+sinerp almost dodged roboch1k's rocket
+sen†enced got the Mega Health.
+roboch1k almost dodged fuwa's rocket
+Saz disconnected
+recording to demos/FFA-bloodrun-2019_07_01-13_05_07.dm_91.
+sinerp: no u
+TheOnlyProctor: ready to die
+TheOnlyProctor: :-)
+Nel was electrocuted by fuwa
+sen†enced got the Mega Health.
+[izi] St3ch got the Red Armor.
+TheOnlyProctor was electrocuted by sen†enced
+am1go: etika was killed , revolution coming
+TheOnlyProctor was electrocuted by fuwa
+TheOnlyProctor: owned me
+sen†enced was gunned down by [izi] St3ch
+sinerp was electrocuted by fuwa
+[izi] St3ch ate roboch1k's rocket
+roboch1k ate TheOnlyProctor's rocket
+fuwa almost dodged TheOnlyProctor's rocket
+roboch1k ate sinerp's grenade
+TheOnlyProctor was electrocuted by fuwa
+sen†enced was electrocuted by fuwa
+fuwa got the Mega Health.
+TheOnlyProctor: viva the revolution
+sen†enced got the Red Armor.
+sinerp ate roboch1k's rocket
+TheOnlyProctor was melted by fuwa's plasmagun
+am1go: :3
+fuwa got the Quad Damage!
+roboch1k was railed by TheOnlyProctor
+[ByQ]Descent: revolution has already come
+sinerp was railed by fuwa
+TheOnlyProctor: :-)
+sen†enced was electrocuted by [izi] St3ch
+[izi] St3ch was melted by roboch1k's plasmagun
+TheOnlyProctor ate sinerp's rocket
+roboch1k was railed by fuwa
+fuwa got the Red Armor.
+am1go: descent lets go kick some asses
+roboch1k got the Mega Health.
+sinerp was railed by sen†enced
+roboch1k was railed by fuwa
+TheOnlyProctor was railed by fuwa
+fuwa was railed by sen†enced
+[ByQ]Descent: ? who is that hero?
+[izi] St3ch was electrocuted by roboch1k
+sinerp was electrocuted by sen†enced
+[izi] St3ch: |]
+TheOnlyProctor was electrocuted by fuwa
+sen†enced almost dodged roboch1k's rocket
+TheOnlyProctor: fuckkkk
+fuwa almost dodged roboch1k's rocket
+sinerp got the Red Armor.
+[izi] St3ch disconnected
+roboch1k was electrocuted by fuwa
+sen†enced almost dodged sinerp's rocket
+TheOnlyProctor was electrocuted by fuwa
+roboch1k got the Mega Health.
+sinerp was electrocuted by fuwa
+fuwa was electrocuted by sen†enced
+am1go: if u suply me on jail , i dont care
+TheOnlyProctor was electrocuted by roboch1k
+sen†enced was electrocuted by fuwa
+roboch1k got the Red Armor.
+TheOnlyProctor: what with quake
+TheOnlyProctor: :-)
+roboch1k blew himself up.
+fuwa was railed by sen†enced
+sen†enced almost dodged roboch1k's rocket
+sinerp was railed by TheOnlyProctor
+TheOnlyProctor: :-)
+[ByQ]Descent: thought to /kick some asses :D
+TheOnlyProctor almost dodged sinerp's rocket
+sinerp got the Mega Health.
+fuwa got the Red Armor.
+am1go: :D
+roboch1k blew himself up.
+am1go: cantina
+roboch1k was railed by sen†enced
+sinerp was railed by TheOnlyProctor
+TheOnlyProctor: ez
+fuwa got the Quad Damage!
+sen†enced was railed by fuwa
+roboch1k was railed by fuwa
+am1go: who say kick say kill
+TheOnlyProctor was electrocuted by fuwa
+am1go: duahaha
+sinerp almost dodged roboch1k's rocket
+roboch1k got the Red Armor.
+roboch1k was melted by TheOnlyProctor's plasmagun
+TheOnlyProctor got the Mega Health.
+TheOnlyProctor was electrocuted by fuwa
+roboch1k was railed by fuwa
+sinerp was railed by fuwa
+sen†enced killed the Quad Damage carrier!
+fuwa was electrocuted by sen†enced
+TheOnlyProctor was railed by sen†enced
+roboch1k was railed by sen†enced
+sinerp was melted by roboch1k's plasmagun
+fuwa ate TheOnlyProctor's grenade
+roboch1k was shredded by TheOnlyProctor's shrapnel
+sen†enced got the Red Armor.
+sinerp was electrocuted by roboch1k
+TheOnlyProctor ate sinerp's rocket
+roboch1k blew himself up.
+sinerp was melted by roboch1k's plasmagun
+TheOnlyProctor almost dodged sinerp's rocket
+am1go: tobaco and drugs and im done
+sen†enced was railed by fuwa
+TheOnlyProctor got the Mega Health.
+am1go: duahaha
+fuwa almost dodged roboch1k's rocket
+roboch1k was railed by TheOnlyProctor
+roboch1k got the Red Armor.
+sinerp was railed by TheOnlyProctor
+TheOnlyProctor: :-)
+[ByQ]Descent: my new intel core 16x somewhere between sun orbit and free space out of solar system //
+TheOnlyProctor ate sinerp's rocket
+TheOnlyProctor: wow nice
+sen†enced got the Mega Health.
+am1go: dat sounds great
+roboch1k got the Red Armor.
+TheOnlyProctor was railed by sen†enced
+TheOnlyProctor: streaming porn ok?
+sen†enced was electrocuted by roboch1k
+sinerp was electrocuted by sen†enced
+roboch1k got the Quad Damage!
+sen†enced was railed by TheOnlyProctor
+roboch1k got the Red Armor.
+sinerp was melted by roboch1k's plasmagun
+sen†enced got the Mega Health.
+TheOnlyProctor was shredded by roboch1k's shrapnel
+TheOnlyProctor: :-)
+sen†enced ate sinerp's rocket
+[ByQ]Descent: why not? :D
+fuwa killed the Quad Damage carrier!
+roboch1k was railed by fuwa
+TheOnlyProctor: thats the main thing
+am1go: CPUIntel Core i7 7700K @ 4.20GHz52 °CKaby Lake 14nm TechnologyRAM16,0GB Dual-Channel Unknown @ 1066MHz (15-15-15-35)MotherboardASUSTeK C
+fuwa ate sinerp's rocket
+sen†enced killed the Quad Damage carrier!
+sinerp was railed by sen†enced
+sen†enced was melted by TheOnlyProctor's plasmagun
+am1go: moffets read sucks
+sinerp was electrocuted by fuwa
+TheOnlyProctor was railed by roboch1k
+sen†enced got the Red Armor.
+TheOnlyProctor: sorry quake p1 of course
+TheOnlyProctor was railed by roboch1k
+sen†enced got the Mega Health.
+roboch1k was railed by fuwa
+sinerp tripped on his own grenade.
+fuwa almost dodged roboch1k's rocket
+roboch1k got the Red Armor.
+sen†enced was electrocuted by fuwa
+fuwa ate TheOnlyProctor's rocket
+sinerp was electrocuted by roboch1k
+TheOnlyProctor was electrocuted by roboch1k
+TheOnlyProctor: water cooled?
+fuwa almost dodged sen†enced's rocket
+Nel was melted by TheOnlyProctor's plasmagun
+[ByQ]Descent: current system : cpu: z-80, ram 48kb, os: zxspectrum_boot_1987
+TheOnlyProctor was railed by fuwa
+roboch1k got the Mega Health.
+fuwa got the Red Armor.
+TheOnlyProctor: lol amstrad cpc 464
+sinerp was electrocuted by fuwa
+sen†enced almost dodged roboch1k's rocket
+am1go: spectrum uwu
+TheOnlyProctor: mine
+roboch1k was gunned down by fuwa
+fuwa was electrocuted by sen†enced
+sinerp was railed by TheOnlyProctor
+sen†enced was melted by roboch1k's plasmagun
+Nel was railed by sen†enced
+sinerp was electrocuted by fuwa
+roboch1k was electrocuted by fuwa
+TheOnlyProctor was electrocuted by sen†enced
+fuwa got the Quad Damage!
+hawsqj connected
+sinerp ate roboch1k's grenade
+TheOnlyProctor: tabe drive green screen
+fuwa got the Red Armor.
+sinerp was railed by fuwa
+fuwa got the Mega Health.
+hawsqj was railed by TheOnlyProctor
+TheOnlyProctor almost dodged sinerp's rocket
+sinerp was railed by fuwa
+sen†enced was electrocuted by roboch1k
+roboch1k was railed by fuwa
+[ByQ]Descent: quakelive_zxspectrum.exe -ram 16kb
+Nel was melted by hawsqj's plasmagun
+TheOnlyProctor: :-)
+sinerp was melted by hawsqj's plasmagun
+sen†enced was melted by TheOnlyProctor's plasmagun
+hawsqj was railed by fuwa
+roboch1k got the Red Armor.
+fuwa almost dodged TheOnlyProctor's rocket
+sen†enced was electrocuted by fuwa
+hawsqj was electrocuted by roboch1k
+roboch1k was railed by fuwa
+TheOnlyProctor blew himself up.
+fuwa got the Mega Health.
+fuwa was electrocuted by roboch1k
+am1go: TypeUnknownSize16384 MBytesChannels #DualDRAM Frequency1066.7 MHzCAS# Latency (CL)15 clocksRAS# to CAS# Delay (tRCD)15 clocksRAS# Prechar
+TheOnlyProctor: first game ever played??
+sen†enced was electrocuted by hawsqj
+hawsqj was electrocuted by roboch1k
+TheOnlyProctor was electrocuted by fuwa
+sinerp blew himself up.
+roboch1k was electrocuted by fuwa
+fuwa got the Red Armor.
+[ByQ]Descent: me?
+hawsqj ate fuwa's rocket
+TheOnlyProctor: ultima 7 the black gate
+sinerp was electrocuted by roboch1k
+TheOnlyProctor: yeah
+hawsqj was railed by sen†enced
+roboch1k was electrocuted by fuwa
+sen†enced was railed by fuwa
+roboch1k got the Mega Health.
+hawsqj got the Red Armor.
+sinerp was railed by TheOnlyProctor
+TheOnlyProctor: :-)
+TheOnlyProctor was electrocuted by roboch1k
+fuwa was railed by sen†enced
+sinerp was electrocuted by hawsqj
+am1go: the true is we can make the world stop
+TheOnlyProctor was electrocuted by fuwa
+am1go: xD
+hawsqj almost dodged fuwa's rocket
+fuwa ate sen†enced's rocket
+sinerp was shredded by hawsqj's shrapnel
+roboch1k got the Red Armor.
+roboch1k was railed by sen†enced
+fuwa got the Quad Damage!
+hawsqj was railed by TheOnlyProctor
+TheOnlyProctor almost dodged sinerp's rocket
+sen†enced was railed by roboch1k
+hawsqj got the Mega Health.
+sinerp almost dodged sen†enced's rocket
+TheOnlyProctor: when this server stop im ok with that
+roboch1k was railed by fuwa
+[ByQ]Descent: it was small pad - electronika-ussr made, looked looked like ipad: grey wolf and eggs
+sign.of.an.open.eye connected
+sen†enced was railed by hawsqj
+TheOnlyProctor was electrocuted by fuwa
+sinerp was electrocuted by fuwa
+hawsqj was railed by fuwa
+sen†enced almost dodged sinerp's rocket
+roboch1k was railed by fuwa
+fuwa got the Red Armor.
+Nel ate sign.of.an.open.eye's rocket
+TheOnlyProctor almost dodged sinerp's rocket
+TheOnlyProctor: lol how old you?
+[ByQ]Descent: i hate it too
+sinerp ate hawsqj's rocket
+fuwa was railed by sen†enced
+roboch1k got the Mega Health.
+[ByQ]Descent: 37
+Nel ate hawsqj's rocket
+fuwa was railed by TheOnlyProctor
+roboch1k was railed by TheOnlyProctor
+sign.of.an.open.eye was electrocuted by hawsqj
+sinerp was electrocuted by hawsqj
+am1go: 34 here
+Nel ate sign.of.an.open.eye's rocket
+sen†enced almost dodged hawsqj's rocket
+hawsqj got the Red Armor.
+roboch1k was electrocuted by sen†enced
+TheOnlyProctor almost dodged sinerp's rocket
+sinerp was railed by fuwa
+sign.of.an.open.eye blew himself up.
+Nel was melted by hawsqj's plasmagun
+-.- connected
+sinerp almost dodged fuwa's rocket
+hawsqj got the Mega Health.
+nynki jak se leci ^^ connected
+TheOnlyProctor: 36 but hand game machine not early enough
+fuwa almost dodged sinerp's rocket
+sign.of.an.open.eye was melted by TheOnlyProctor's plasmagun
+roboch1k was railed by sen†enced
+[ByQ]Descent: 1990
+sign.of.an.open.eye was electrocuted by fuwa
+Nel was electrocuted by roboch1k
+sinerp was electrocuted by fuwa
+TheOnlyProctor was electrocuted by fuwa
+sen†enced was electrocuted by roboch1k
+fuwa was electrocuted by hawsqj
+hawsqj almost dodged fuwa's rocket
+roboch1k got the Red Armor.
+sign.of.an.open.eye ate nynki jak se leci ^^'s rocket
+TheOnlyProctor: ow ok same as my amstrad roughly
+sinerp almost dodged nynki jak se leci ^^'s rocket
+roboch1k almost dodged hawsqj's rocket
+sen†enced almost dodged hawsqj's rocket
+TheOnlyProctor: had me down from brother
+fuwa was melted by roboch1k's plasmagun
+sign.of.an.open.eye was melted by roboch1k's plasmagun
+roboch1k got the Mega Health.
+Nel was electrocuted by fuwa
+nynki jak se leci ^^ was electrocuted by roboch1k
+roboch1k was electrocuted by sen†enced
+sinerp was melted by hawsqj's plasmagun
+sen†enced ate hawsqj's rocket
+TheOnlyProctor was electrocuted by nynki jak se leci ^^
+hawsqj almost dodged nynki jak se leci ^^'s rocket
+sinerp was electrocuted by roboch1k
+sign.of.an.open.eye was electrocuted by sen†enced
+fuwa got the Quad Damage!
+am1go: i have amstrad to
+hawsqj got the Red Armor.
+roboch1k was railed by fuwa
+Nel was railed by fuwa
+TheOnlyProctor: remeber altred beast?
+am1go: some time ago
+hawsqj killed the Quad Damage carrier!
+fuwa was electrocuted by hawsqj
+sen†enced almost dodged nynki jak se leci ^^'s rocket
+-.-: fraglimit?
+nynki jak se leci ^^ ate sinerp's rocket
+Nel was melted by fuwa's plasmagun
+fuwa almost dodged sinerp's rocket
+hawsqj killed the Quad Damage carrier!
+sinerp almost dodged hawsqj's rocket
+TheOnlyProctor ate sign.of.an.open.eye's rocket
+fuwa got the Mega Health.
+sign.of.an.open.eye almost dodged sinerp's rocket
+TheOnlyProctor: until i win
+sen†enced was electrocuted by hawsqj
+TheOnlyProctor: :-)
+roboch1k was electrocuted by hawsqj
+TheOnlyProctor: all nighrt
+fuwa ate sign.of.an.open.eye's rocket
+TheOnlyProctor was railed by sen†enced
+sign.of.an.open.eye blew himself up.
+nynki jak se leci ^^ almost dodged sinerp's rocket
+sinerp cratered.
+fuwa got the Red Armor.
+TheOnlyProctor: 75 i think and i meant all day
+hawsqj ate fuwa's rocket
+roboch1k was melted by hawsqj's plasmagun
+fuwa was railed by sen†enced
+-.-: :)
+TheOnlyProctor was railed by sen†enced
+sign.of.an.open.eye was melted by hawsqj's plasmagun
+sen†enced was electrocuted by fuwa
+sinerp was electrocuted by hawsqj
+roboch1k almost dodged nynki jak se leci ^^'s rocket
+Nel ate sign.of.an.open.eye's rocket
+hawsqj was railed by TheOnlyProctor
+sinerp got the Mega Health.
+TheOnlyProctor almost dodged nynki jak se leci ^^'s rocket
+roboch1k blew himself up.
+fuwa almost dodged roboch1k's rocket
+sen†enced almost dodged nynki jak se leci ^^'s rocket
+am1go: if u know burnin rubber u are my brother
+sign.of.an.open.eye almost dodged nynki jak se leci ^^'s rocket
+nynki jak se leci ^^ was electrocuted by hawsqj
+roboch1k got the Red Armor.
+[ByQ]Descent: dont know the altred... amiga? nintendo?
+hawsqj was electrocuted by fuwa
+fuwa was electrocuted by roboch1k
+sinerp was electrocuted by hawsqj
+sign.of.an.open.eye blew himself up.
+roboch1k almost dodged sign.of.an.open.eye's rocket
+sen†enced was electrocuted by hawsqj
+nynki jak se leci ^^ was electrocuted by fuwa
+TheOnlyProctor was electrocuted by fuwa
+Nel almost dodged sign.of.an.open.eye's rocket
+sinerp almost dodged sign.of.an.open.eye's rocket
+sign.of.an.open.eye almost dodged nynki jak se leci ^^'s rocket
+TheOnlyProctor: amiga 500
+hawsqj got the Mega Health.
+TheOnlyProctor was electrocuted by fuwa
+sen†enced almost dodged roboch1k's rocket
+[ByQ]Descent: ok
+roboch1k got the Red Armor.
+nynki jak se leci ^^ almost dodged sign.of.an.open.eye's rocket
+hawsqj was railed by fuwa
+fuwa was melted by roboch1k's plasmagun
+roboch1k blew himself up.
+sign.of.an.open.eye was electrocuted by hawsqj
+nynki jak se leci ^^ was railed by sen†enced
+hawsqj was electrocuted by fuwa
+fuwa was railed by sen†enced
+TheOnlyProctor was railed by sen†enced
+TheOnlyProctor: lol
+sen†enced tried to invade roboch1k's personal space
+TheOnlyProctor: :-)
+nynki jak se leci ^^ almost dodged hawsqj's rocket
+Rhys connected
+sinerp got the Quad Damage!
+TheOnlyProctor: eye of the beholder
+fuwa killed the Quad Damage carrier!
+sinerp was electrocuted by fuwa
+TheOnlyProctor almost dodged sign.of.an.open.eye's rocket
+sign.of.an.open.eye almost dodged nynki jak se leci ^^'s rocket
+hawsqj almost dodged sinerp's rocket
+sen†enced got the Mega Health.
+[ByQ]Descent: ameno..
+roboch1k almost dodged nynki jak se leci ^^'s rocket
+nynki jak se leci ^^ was railed by sen†enced
+fuwa got the Red Armor.
+TheOnlyProctor: best rpg birth of rpg
+sign.of.an.open.eye almost dodged hawsqj's rocket
+TheOnlyProctor was railed by fuwa
+hawsqj killed the Quad Damage carrier!
+fuwa almost dodged hawsqj's rocket
+roboch1k ate nynki jak se leci ^^'s rocket
+hawsqj almost dodged sign.of.an.open.eye's rocket
+nynki jak se leci ^^ almost dodged sinerp's rocket
+hawsqj killed the Quad Damage carrier!
+sign.of.an.open.eye was electrocuted by hawsqj
+roboch1k almost dodged sinerp's rocket
+sinerp ate Rhys's rocket
+Rhys was electrocuted by hawsqj
+sign.of.an.open.eye was electrocuted by hawsqj
+am1go: amiga stays away from my jurisdiction on time lapse but respect
+fuwa was railed by sen†enced
+sen†enced almost dodged nynki jak se leci ^^'s rocket
+TheOnlyProctor ate Rhys's rocket
+roboch1k got the Red Armor.
+nynki jak se leci ^^ blew himself up.
+nynki jak se leci ^^ disconnected
+hawsqj was electrocuted by roboch1k
+sign.of.an.open.eye was railed by Rhys
+fuwa got the Mega Health.
+Nel ate sinerp's grenade
+sen†enced was railed by TheOnlyProctor
+TheOnlyProctor ate roboch1k's rocket
+Rhys was electrocuted by fuwa
+sign.of.an.open.eye was gunned down by fuwa
+sinerp was electrocuted by roboch1k
+Nel was electrocuted by fuwa
+TheOnlyProctor was railed by sen†enced
+roboch1k was railed by hawsqj
+hawsqj almost dodged roboch1k's rocket
+sign.of.an.open.eye was railed by sen†enced
+sinerp was electrocuted by fuwa
+fuwa was railed by sen†enced
+Rhys got the Red Armor.
+roboch1k almost dodged hawsqj's rocket
+[ByQ]Descent: anyway best asm for me is x86 (386) ..
+TheOnlyProctor: check amstrad cpc 464
+Rhys almost dodged sinerp's rocket
+sign.of.an.open.eye almost dodged sinerp's rocket
+sinerp was electrocuted by fuwa
+hawsqj ate sinerp's rocket
+sen†enced was railed by roboch1k
+fuwa hit the fraglimit.
+roboch1k was electrocuted by fuwa
+sinerp: no u
+Stopped demo.
+Wrote screenshots/FFA-bloodrun-2019_07_01-13_19_56.jpg
+sen†enced disconnected
+TheOnlyProctor: gg
+am1go: i promise i dance dat
+am1go: https://www.youtube.com/watch?v=MixXYnw58KA
+sinerp: no u
+roboch1k was electrocuted by fuwa
+Rhys got the Mega Health.
+sinerp was electrocuted by Rhys
+[ByQ]Descent: dont like motorolas three regs in a command..
+-.- called a vote.
+Rhys was railed by sign.of.an.open.eye
+fuwa was melted by hawsqj's plasmagun
+hawsqj almost dodged Rhys's rocket
+oMAxAMo connected
+Rhys got the Red Armor.
+TheOnlyProctor passed the vote.
+Vote passed.
+TheOnlyProctor was electrocuted by hawsqj
+sinerp: no u
+Rhys almost dodged -.-'s rocket
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 9800 GTX+/PCIe/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_blend_func_extended GL_ARB_clear_buffer_object GL_ARB_color_buffer_float GL_ARB_compatibility
+GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp
+GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_ES2_compatibility
+GL_ARB_ES3_compatibility GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport
+GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_internalformat_query
+GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multisample GL_ARB_multitexture
+GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_program_interface_query
+GL_ARB_provoking_vertex GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects
+GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shader_texture_lod GL_ARB_shading_language_100 GL_ARB_shading_language_420pack GL_ARB_shading_language_include
+GL_ARB_shading_language_packing GL_ARB_shadow GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_buffer_range
+GL_ARB_texture_compression GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar
+GL_ARB_texture_env_dot3 GL_ARB_texture_float GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8
+GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transpose_matrix
+GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_program
+GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers
+GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color
+GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB
+GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color GL_EXT_shader_integer_mix GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer
+GL_EXT_texture_loGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: -2, 1024 x 768 windowed hz:59
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 340 milli seconds
+UI menu load time = 237 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 0 LoD cracks
+...loaded 3329 faces, 404 meshes, 186 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 982 milli seconds
+CL_InitCGame:  7.82 seconds
+6 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+
+----------------------
+9551 files in pk3 files
+fuwa almost dodged hawsqj's rocket
+]\con
+    connect
+    confirmOrder
+    configstrings
+    condump
+    connect_lobby
+    con_noprint = "0"
+    con_matchlimit = "16"
+    con_timestamps = "0"
+    con_speed = "3"
+    con_scale = "0.5"
+    con_opacity = "0.9"
+    con_height = "0.5"
+    con_background = "0"
+hawsqj got the Red Armor.
+sinerp: you're breathtaking
+sinerp: no u
+hawsqj almost dodged sinerp's rocket
+JasperFOX_G PRO HERO 16K_ connected
+sign.of.an.open.eye was railed by Rhys
+sinerp was railed by Rhys
+-.- was melted by sign.of.an.open.eye's plasmagun
+Rhys was electrocuted by hawsqj
+recording to demos/FFA-campgrounds-2019_07_01-13_20_57.dm_91.
+]\condump asm-ql-ebase-in-(01-07-2019).txt
+Dumped console text to asm-ql-ebase-in-(01-07-2019).txt.
+

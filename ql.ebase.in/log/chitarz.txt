@@ -1,0 +1,582 @@
+Steam API initialized.
+----- FS_Startup -----
+WARNING: Skipping workshop, ISteamUGC is NULL.
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3
+(0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e
+- 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+
+----------------------
+9290 files in pk3 files
+execing default.cfg
+Loading dll file qagame
+==== ShutdownGame ====
+Loading dll file cgame
+execing qzconfig.cfg
+Refusing to set scorelimit during initialization due to CVAR_GAMERULE
+Refusing to set roundtimelimit during initialization due to CVAR_GAMERULE
+Refusing to set g_roundWarmupDelay during initialization due to CVAR_GAMERULE
+Refusing to set practiceflags during initialization due to CVAR_GAMERULE
+Refusing to set g_mercytime during initialization due to CVAR_GAMERULE
+Refusing to set mercylimit during initialization due to CVAR_GAMERULE
+Refusing to set g_friendlyFireDampen during initialization due to
+CVAR_GAMERULE
+Refusing to set g_friendlyFire during initialization due to CVAR_GAMERULE
+Refusing to set capturelimit during initialization due to CVAR_GAMERULE
+Refusing to set bot_dynamicSkill during initialization due to CVAR_GAMERULE
+execing repconfig.cfg
+s_ambient will be changed to 0 upon restarting.
+couldn't exec autoexec.cfg
+Steam Gameserver initialized.
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3
+(0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e
+- 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program
+Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3
+(0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+
+----------------------
+9551 files in pk3 files
+Hunk_Clear: reset the hunk ok
+...detecting CPU, found Intel Pentium III
+
+------- Input Initialization -------
+Joystick is not active.
+------------------------------------
+167 arenas parsed
+loaded factories from scripts/factories.txt, total 22
+loaded factories from scripts/moreGametypes.factories, total 61
+loaded 173 maps into the map pool
+----- Client Initialization -----
+----- Initializing Renderer ----
+-------------------------------
+----- Client Initialization Complete -----
+----- R_Init -----
+Initializing OpenGL subsystem
+...initializing QGL
+...calling LoadLibrary( 'C:\WINDOWS\system32\opengl32.dll' ): succeeded
+...setting mode -1: 1182 793 W
+...registered window class
+...created window@90,0 (1190x827)
+Initializing OpenGL driver
+...getting DC: succeeded
+...GLW_AutoSelectPFD( 32, 24, 0 )
+... auto selected PFD 7...PIXELFORMAT 7 selected
+...creating GL context: succeeded
+...making context current: succeeded
+Initializing OpenGL extensions
+...ignoring GL_S3_s3tc
+...using GL_EXT_texture_env_add
+...using WGL_EXT_swap_control
+...using GL_ARB_multitexture
+...using GL_EXT_compiled_vertex_array
+...WGL_3DFX_gamma_control not found
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 8800 GT/PCI/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_blend_func_extended GL_ARB_color_buffer_float
+GL_ARB_compatibility GL_ARB_copy_buffer GL_ARB_depth_buffer_float
+GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers
+GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced
+GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location
+GL_ARB_fragment_coord_conventions GL_ARB_fragment_program
+GL_ARB_fragment_program_shadow GL_ARB_fragment_shader
+GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4
+GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex
+GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_map_buffer_range
+GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query
+GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters
+GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_robustness
+GL_ARB_sampler_objects GL_ARB_seamless_cube_map
+GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding
+GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_shadow GL_ARB_sync
+GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object
+GL_ARB_texture_compression GL_ARB_texture_compression_rgtc
+GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine
+GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float
+GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample
+GL_ARB_texture_non_power_of_two GL_ARB_texture_rectangle GL_ARB_texture_rg
+GL_ARB_texture_rgb10_a2ui GL_ARB_texture_swizzle GL_ARB_timer_query
+GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra
+GL_ARB_vertex_array_object GL_ARB_vertex_buffer_object GL_ARB_vertex_program
+GL_ARB_vertex_shader GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array
+GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float
+GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr
+GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color
+GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax
+GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2
+GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord
+GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample
+GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_object
+GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters
+GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil
+GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object
+GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal
+GL_EXT_secondary_color GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side
+GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_latc
+GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc
+GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp GL_EXT_texture_env_combine
+GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic
+GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias
+GL_EXT_texture_mirror_clamp GL_EXT_texture_object
+GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_swizzle
+GL_EXT_timer_query GL_EXT_vertex_array GL_EXT_vertex_array_bgra
+GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region
+GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color
+GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp
+GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance
+GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2
+GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4
+GL_NV_gpu_program4 GL_NV_half_float GL_NV_light_max_exponent
+GL_NV_multisample_coverage GL_NV_multisample_filter_hint
+GL_NV_occlusion_query GL_NV_packed_depth_stencil
+GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2
+GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart
+GL_NV_register_combiners GL_NV_register_combiners2 GL_NV_shader_buffer_load
+GL_NV_texgen_reflectioGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: 12, 1182 x 793 windowed hz:85
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+
+------- sound initialization -------
+Initializing DirectSound
+locked hardware.  ok
+------------------------------------
+----- Sound Info -----
+sound system is muted
+    1 stereo
+32768 samples
+   16 samplebits
+    1 submission_chunk
+22050 speed
+0x1ca90050 dma buffer
+No background file.
+----------------------
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 312 milli seconds
+UI menu load time = 202 milli seconds
+34 bots parsed
+--- Common Initialization Complete ---
+Winsock Initialized
+Opening IP socket: localhost:27960
+Hostname: microsof-da6fad
+IP: 192.168.1.77
+Working directory: C:\Program Files\Steam\steamapps\common\Quake Live
+Proceeding with delayed mouse init
+Connected to Steam servers
+zmq stats and rcon passwords updated
+3112894749:27970 resolved to 185.139.1.29:27970
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+
+----------------------
+9551 files in pk3 files
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 8800 GT/PCI/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_blend_func_extended GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers
+GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_program
+GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel
+GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2
+GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects
+GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_shadow GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_compression
+GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float
+GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_swizzle
+GL_ARB_timer_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader
+GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr
+GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array
+GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4
+GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal
+GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp
+GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp
+GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_IBM_rasterpos_clip
+GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp
+GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage
+GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil
+GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2
+GL_NV_shader_buffer_load GL_NV_texgen_reflectioGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: 12, 1182 x 793 windowed hz:85
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 333 milli seconds
+UI menu load time = 206 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 12 LoD cracks
+...loaded 4522 faces, 571 meshes, 18 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 829 milli seconds
+CL_InitCGame:  5.84 seconds
+9 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+
+----------------------
+9551 files in pk3 files
+[ByQ]Descent: hi
+[ByQ]Descent got the Quad Damage!
+Wrote screenshots/shot0205.tga
+Wrote screenshots/shot0206.tga
+bigandex connected
+bigandex disconnected
+цыганский was railed by [ByQ]Descent
+[ByQ]Descent almost dodged цыганский's rocket
+[ByQ]Descent: ник заебатый
+цыганский was railed by [ByQ]Descent
+[ByQ]Descent was electrocuted by цыганский
+[ByQ]Descent cratered.
+[ByQ]Descent: =)
+цыганский cratered.
+цыганский: B===D
+[ByQ]Descent was melted by цыганский's plasmagun
+цыганский almost dodged [ByQ]Descent's rocket
+[ByQ]Descent was railed by цыганский
+[ByQ]Descent got the Quad Damage!
+[ByQ]Descent: юю
+[ByQ]Descent: ..
+цыганский: btw do u know how to turn off rain
+цыганский: while on picmip 0?
+[ByQ]Descent: а по русски?
+[ByQ]Descent: =)
+[ByQ]Descent: ХЗ
+[ByQ]Descent: its map depemds
+[ByQ]Descent was pummeled by цыганский
+[ByQ]Descent: d
+цыганский: i saw some yt clip without it
+]\cg_spe
+    cg_speedometer = "0"
+    cg_specTeamVitalsY = "100"
+    cg_specTeamVitalsWidth = "100"
+    cg_specTeamVitalsHealthColor = "0"
+    cg_specTeamVitals = "1"
+    cg_specNames = "2"
+    cg_specItemTimersY = "200"
+    cg_specItemTimersX = "10"
+    cg_specItemTimersSize = "0.24"
+    cg_specItemTimers = "7"
+    cg_specFov = "1"
+    cg_specDuelHealthColor = "0"
+    cg_specDuelHealthArmor = "1"
+    cg_spectating = "0"
+[ByQ]Descent almost dodged цыганский's rocket
+N3K! connected
+цыганский was electrocuted by [ByQ]Descent
+цыганский got the Quad Damage!
+цыганский blew himself up.
+[ByQ]Descent was electrocuted by цыганский
+цыганский was railed by [ByQ]Descent
+N3K!: Hi
+[ByQ]Descent: hi
+цыганский: hi
+цыганский was railed by N3K!
+[ByQ]Descent was railed by N3K!
+[ByQ]Descent was electrocuted by цыганский
+цыганский was railed by N3K!
+цыганский got the Quad Damage!
+N3K! almost dodged [ByQ]Descent's rocket
+цыганский melted himself.
+цыганский was railed by N3K!
+CrazyAtom connected
+[ByQ]Descent was electrocuted by цыганский
+цыганский was railed by N3K!
+N3K! was electrocuted by цыганский
+цыганский was gunned down by [ByQ]Descent
+цыганский ate N3K!'s rocket
+[ByQ]Descent ate CrazyAtom's rocket
+CrazyAtom almost dodged N3K!'s rocket
+N3K! was railed by цыганский
+цыганский was railed by N3K!
+CrazyAtom got the Quad Damage!
+цыганский killed the Quad Damage carrier!
+CrazyAtom was railed by цыганский
+N3K! was railed by цыганский
+[ByQ]Descent killed the Quad Damage carrier!
+цыганский was railed by [ByQ]Descent
+[ByQ]Descent was railed by цыганский
+N3K! killed the Quad Damage carrier!
+CrazyAtom was railed by N3K!
+цыганский was railed by [ByQ]Descent
+[ByQ]Descent was electrocuted by N3K!
+CrazyAtom was railed by цыганский
+CrazyAtom disconnected
+цыганский was railed by [ByQ]Descent
+[ByQ]Descent was railed by N3K!
+N3K! was railed by цыганский
+N3K!: brb
+N3K! switched teams.
+цыганский was railed by [ByQ]Descent
+[ByQ]Descent was railed by цыганский
+[ByQ]Descent was railed by цыганский
+NLKM ͜ʖ ͡°) connected
+recording to demos/FFA-[ByQ]Descent-furiousheights-2016_09_08-04_01_14.dm_91.
+[ByQ]Descent: ..
+CrazyAtom connected
+NLKM ͜ʖ ͡°) was electrocuted by цыганский
+startolini connected
+[ByQ]Descent was railed by цыганский
+startolini ate цыганский's rocket
+NLKM ͜ʖ ͡°) was railed by цыганский
+[ByQ]Descent switched teams.
+цыганский almost dodged startolini's rocket
+NLKM ͜ʖ ͡°) got the Quad Damage!
+CrazyAtom was railed by NLKM ͜ʖ ͡°)
+startolini was railed by NLKM ͜ʖ ͡°)
+NLKM ͜ʖ ͡°) got the Mega Health.
+цыганский killed the Quad Damage carrier!
+NLKM ͜ʖ ͡°) was railed by цыганский
+startolini was railed by цыганский
+NLKM ͜ʖ ͡°) ate CrazyAtom's grenade
+startolini was electrocuted by NLKM ͜ʖ ͡°)
+цыганский got the Red Armor.
+цыганский ate NLKM ͜ʖ ͡°)'s rocket
+CrazyAtom got the Mega Health.
+NLKM ͜ʖ ͡°) was electrocuted by цыганский
+CrazyAtom was railed by цыганский
+цыганский got the Red Armor.
+startolini almost dodged CrazyAtom's rocket
+NLKM ͜ʖ ͡°) was railed by цыганский
+startolini disconnected
+цыганский got the Mega Health.
+CrazyAtom was railed by цыганский
+цыганский was electrocuted by NLKM ͜ʖ ͡°)
+CrazyAtom got the Red Armor.
+NLKM ͜ʖ ͡°) was electrocuted by цыганский
+Dvinn connected
+Dvinn connected
+NLKM ͜ʖ ͡°) got the Mega Health.
+Dvinn got the Red Armor.
+NLKM ͜ʖ ͡°) got the Quad Damage!
+CrazyAtom was melted by Dvinn's plasmagun
+CrazyAtom disconnected
+Dvinn was electrocuted by NLKM ͜ʖ ͡°)
+startolini connected
+цыганский was electrocuted by NLKM ͜ʖ ͡°)
+foque connected
+Dvinn was railed by цыганский
+цыганский was railed by NLKM ͜ʖ ͡°)
+Dvinn got the Red Armor.
+foque was electrocuted by startolini
+NLKM ͜ʖ ͡°) ate Dvinn's rocket
+startolini ate NLKM ͜ʖ ͡°)'s rocket
+Dvinn was electrocuted by цыганский
+NLKM ͜ʖ ͡°) was electrocuted by цыганский
+startolini got the Mega Health.
+Dvinn ate цыганский's rocket
+hazar connected
+цыганский got the Red Armor.
+Dvinn disconnected
+startolini ate NLKM ͜ʖ ͡°)'s rocket
+startolini was railed by цыганский
+foque was railed by цыганский
+NLKM ͜ʖ ͡°) almost dodged startolini's rocket
+цыганский got the Red Armor.
+startolini was railed by hazar
+hazar was railed by цыганский
+цыганский got the Mega Health.
+hazar: hello
+NLKM ͜ʖ ͡°) was railed by цыганский
+startolini almost dodged foque's rocket
+hazar got the Red Armor.
+mmktvbl connected
+NLKM ͜ʖ ͡°) almost dodged foque's rocket
+foque almost dodged цыганский's rocket
+hazar: aah that cheater coming here also..
+цыганский almost dodged NLKM ͜ʖ ͡°)'s rocket
+hazar ate startolini's rocket
+startolini got the Quad Damage!
+foque was electrocuted by NLKM ͜ʖ ͡°)
+NLKM ͜ʖ ͡°) was electrocuted by mmktvbl
+цыганский got the Mega Health.
+mmktvbl got the Red Armor.
+foque was railed by mmktvbl
+цыганский was railed by startolini
+NLKM ͜ʖ ͡°) was railed by hazar
+hazar almost dodged NLKM ͜ʖ ͡°)'s rocket
+цыганский killed the Quad Damage carrier!
+startolini was railed by цыганский
+цыганский was railed by mmktvbl
+NLKM ͜ʖ ͡°) almost dodged startolini's rocket
+startolini got the Red Armor.
+mmktvbl was railed by NLKM ͜ʖ ͡°)
+foque was electrocuted by mmktvbl
+hazar was gunned down by NLKM ͜ʖ ͡°)
+mmktvbl got the Mega Health.
+NLKM ͜ʖ ͡°) was electrocuted by mmktvbl
+startolini was railed by цыганский
+hazar was electrocuted by mmktvbl
+цыганский was electrocuted by mmktvbl
+foque got the Red Armor.
+hazar ate NLKM ͜ʖ ͡°)'s grenade
+hazar: kick the rus cheater guy
+цыганский was electrocuted by mmktvbl
+mmktvbl ate NLKM ͜ʖ ͡°)'s rocket
+NLKM ͜ʖ ͡°) was electrocuted by цыганский
+[ByQ]Descent: 1st one?
+foque was electrocuted by цыганский
+[ByQ]Descent: :D
+startolini was electrocuted by mmktvbl
+hazar: he killed one server already
+hazar was melted by цыганский's plasmagun
+NLKM ͜ʖ ͡°) got the Mega Health.
+mmktvbl got the Red Armor.
+hazar: will killing this server also
+startolini was railed by NLKM ͜ʖ ͡°)
+hazar: no
+NLKM ͜ʖ ͡°) blew himself up.
+hazar: the mmkvsomething
+startolini was gunned down by mmktvbl
+Baby Rage connected
+foque was railed by цыганский
+hazar ate mmktvbl's grenade
+mmktvbl was railed by цыганский
+startolini got the Red Armor.
+цыганский was shredded by mmktvbl's shrapnel
+[ByQ]Descent: ok.. keeping eye on him ..
+NLKM ͜ʖ ͡°) got the Mega Health.
+цыганский got the Quad Damage!
+Baby Rage was electrocuted by mmktvbl
+foque was railed by цыганский
+startolini was electrocuted by mmktvbl
+mmktvbl was electrocuted by цыганский
+hazar was electrocuted by цыганский
+foque killed the Quad Damage carrier!
+цыганский was railed by foque
+NLKM ͜ʖ ͡°) almost dodged foque's rocket
+Baby Rage got the Red Armor.
+Baby Rage killed the Quad Damage carrier!
+foque ate Baby Rage's rocket
+Baby Rage almost dodged цыганский's rocket
+mmktvbl was railed by hazar
+hazar was electrocuted by mmktvbl
+foque was electrocuted by цыганский
+Baby Rage ate NLKM ͜ʖ ͡°)'s rocket
+NLKM ͜ʖ ͡°) was railed by цыганский
+startolini was electrocuted by mmktvbl
+цыганский got the Mega Health.
+hazar got the Red Armor.
+foque was electrocuted by mmktvbl
+]\con
+    confirmOrder
+    connect
+    configstrings
+    condump
+    connect_lobby
+    con_noprint = "0"
+    con_matchlimit = "16"
+    con_background = "0"
+    con_height = "0.5"
+    con_opacity = "0.9"
+    con_scale = "0.5"
+    con_speed = "3"
+    con_timestamps = "0"
+hazar was electrocuted by startolini
+]\con
+    confirmOrder
+    connect
+    configstrings
+    condump
+    connect_lobby
+    con_noprint = "0"
+    con_matchlimit = "16"
+    con_background = "0"
+    con_height = "0.5"
+    con_opacity = "0.9"
+    con_scale = "0.5"
+    con_speed = "3"
+    con_timestamps = "0"
+foque was railed by NLKM ͜ʖ ͡°)
+startolini blew himself up.
+]\players
+ 0 76561197988279327   цыганский
+ 1 76561198256168099   [ByQ]Descent
+ 2 76561198257634286   N3K!
+ 3 76561197967523786   NLKM ͜ʖ ͡°)
+ 4 76561198293129312   startolini
+ 5 76561198040939685   mmktvbl
+ 6 76561198059257662   foque
+ 7 76561198071841470   hazar
+ 8 76561198023244021   Baby Rage
+NLKM ͜ʖ ͡°) almost dodged цыганский's rocket
+цыганский almost dodged Baby Rage's rocket
+mmktvbl got the Red Armor.
+]\condump chitarz
+Dumped console text to chitarz.
+

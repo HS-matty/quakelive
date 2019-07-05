@@ -1,0 +1,14 @@
+{
+"id": "ca_custom",
+"title": "ClanArena Custom",
+"author": "matty",
+"description": "TeamDamage On",
+"basegt": "ca",
+"cvars": {
+"dmflags": "0",
+"g_dropCmds": "0",
+"g_startingWeapons": "255",
+"g_startingHealth": "200",
+"g_startingArmor": "100"
+}
+}

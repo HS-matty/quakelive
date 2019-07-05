@@ -1,0 +1,37 @@
+<[ByQ]Descent> hi
+<PredatH0r> hi
+<[ByQ]Descent> about servers
+<[ByQ]Descent> instagib-1 Minsk not ranked ..
+<[ByQ]Descent> not in server list
+<PredatH0r> which ip:port ?
+<[ByQ]Descent> 178.124.139.88:27968
+<[ByQ]Descent> and maybe some others
+<[ByQ]Descent> duel Minsk
+<PredatH0r> it's in the config file though. it might not show up if nobody finished a game on it
+<[ByQ]Descent> I did it =)
+<[ByQ]Descent> duel and instagib for sure
+<[ByQ]Descent> =)
+<PredatH0r> hmm, i didn't see any match uploads for your IPs in a while
+<PredatH0r> i restarted the stats tracker, seems to connect fine
+<[ByQ]Descent> can you receive the image?
+<PredatH0r> nope, wont go though my router
+<[ByQ]Descent> sec
+<[ByQ]Descent> http://ebase.in/games-(12-11-2015)-(20-00).jpg
+<PredatH0r> one match just got uploaded for 178.124.139.88:27963
+<PredatH0r> someone said that if the servers are idle for some time, they stop sending stats info until a reconnect
+<PredatH0r> maybe that's really the case
+<PredatH0r> because there were no error messages
+<[ByQ]Descent> they not in server list
+<[ByQ]Descent> http://qlstats.net:8080/search?fs=&server_name=Minsk
+<[ByQ]Descent> can it be other port?
+<PredatH0r> i know. for some unknown reason i didn't receive any data. i reconnected, so it should be fine now
+<PredatH0r> you won't see the server until a match was loaded into the database
+<PredatH0r> the data for the past matches is lost. no way to get that information after the match is over
+<[ByQ]Descent> .. ok ..
+<[ByQ]Descent> thnx
+<PredatH0r> np. let me know when no matches show up after a while. it's a bit hard to keep an eye on 150 servers in the list
+<[ByQ]Descent> ok.
+<[ByQ]Descent> yep, there were kind of "idle" time
+<[ByQ]Descent> http://qlstats.net:8080/server/83
+<[ByQ]Descent> but there were games for sure ..
+<[ByQ]Descent> ok

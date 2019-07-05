@@ -1,0 +1,103 @@
+* Now talking in #stats.ql
+* Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-stats-engine'
+* Set by PerpetualWar_ on Thu Nov 12 12:21:42
+-Q- [#tdm.pickup] 
+* Disconnected
+* Attempting to rejoin channel #stats.ql
+* Rejoined channel #stats.ql
+* Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-stats-engine'
+* Set by PerpetualWar_ on Thu Nov 12 12:21:42
+-Q- [#tdm.pickup] 
+-Q- [#qlpickup.ru] Aia?i ii?aeiaaou ia eaiae #qlpickup.ru // Noaoenoeea e ?aeoeiae http://bit.ly/statsTDM http://bit.ly/statsCTF // Teamspeak3 na?aa?: ts.dshost.ru(80.70.238.74), eaiae: qlpickup.ru, ia?ieu: ru //
+-Q- [#instagib.ql] Welcome to the instagib community! Site: http://j.mp/GBPFSb | FaceBook: http://on.fb.me/instaG | Vods: http://tinyurl.com/ivods
+<@PredatH0r> do you also persist the list for the case that redis goes down?
+<+smove> inl: sounds good. it'll be more like a public thing where ppl can add their servers then or what is the overall intention?
+<+smove> or to give ppl a tool to manage their server?
+<@PredatH0r> and if everyone can add servers at will, you risk to get lots of junk into the database
+<+smove> PredatH0r: there is no junk with bigdata (TROLOLOLO)
+<+smove> ;p
+<@PredatH0r> ofc not. it will all be useful some day to someone
+<@PredatH0r> there needs to be some way to filter out matches with non-standard settings from getting ranked
+<+smove> we're not even dealing with bigdata tbh. it's all well structured and well defined data
+<+smove> ye
+<+smove> that's the main issue really
+<+smove> cause there is no indication if a custom factory was used, right?
+<@rulex> there are factory names
+<@PredatH0r> i think that there is the factory name in the data (not 100% sure). and the default ID-factories cannot be changed/faked
+<@rulex> but you can set whatever settings u want
+<@PredatH0r> custom factories can though
+<@PredatH0r> true. that's why i thought about that server-side nodejs tool which can pull the configstrings through rcon
+<@rulex> or do ranking/factory
+<@rulex> :D
+<+smove> well, that'll get messy still
+<@PredatH0r> you can still load the standard CA factory and then change any g_*, pmove_, ... cvars during the match
+<+smove> 2 different server can have the same factory name with totally different settings
+<@PredatH0r> but i doubt that there is any way to make it bullet proof
+<@PredatH0r> for collecting stats it doesn't really matter if the game is whacky or not. but for ranking it does
+<@PredatH0r> that's why i thought about having relatively strict rules for ranked matches, similar to #tdmpickup or #ctfpickup
+<+smove> you'd need to have ranked servers then with pre-defined factories that someone would provide, somewhere, somehow
+<+smove> ye
+<+smove> same thoughts basically
+<+smove> :))
+<@PredatH0r> is #ctfpickup using the default id factories or are there any special settings for it?
+<+smove> we're using custom settings
+<+smove> sec, I can show you what exactly
+<+smove> http://pastebin.com/KUQf1PXs
+<+smove> just so that we have proper classic ctf tbh
+<@inl> just because they add the server does't mean we'll persist the data.
+<@inl> admin's can apply for joining the ranked network.
+<@inl> and once that get's approved we'll persist data.
+<@inl> some sort of vetting needs to take place
+<@PredatH0r> this is why i suggested to allow trackings stats for all servers, but exclude them from ranking when they dont meet the requirements.
+<@PredatH0r> like having stats for iCTF is nice, but those should not go into the regular CTF ranking
+* PerpetualWa_afk is now known as PerpetualWar_
+* syncore (~syncore@syncore.org) has joined #stats.ql
+<syncore> ayyyyyyyyyyyyy
+<@PredatH0r> hola!
+<@PredatH0r> was that a "hello!" or are you screaming out of agony?
+<syncore> could be both i guess
+* roasticle (roast@blk-30-134-45.eastlink.ca) has joined #stats.ql
+<@PredatH0r> hi
+<roasticle> howdy
+* QBall147 (~QBall147@QBall147-.users.quakenet.org) has joined #stats.ql
+<@PredatH0r> roasticle: so, inl is working on a brand new stats server/api/website and rulex joined forces from what i know
+<@PredatH0r> ideally this system/database can also be used for #ctfpickup and #tdmpickup
+<roasticle> with the global idea, how can you prevent bunk stats getting submitted?
+<roasticle> im kinda in the early stages with what i was planning to do, have the db design laid out with event data i want to capture
+<@PredatH0r> the stats tracker must connect to the game server and "pull" the data. so there is no way to just submit bogus data
+<roasticle> i see
+<@PredatH0r> the qlstats.net site will be obsolete when the new one is ready. for now i'm using the game server ip:port to identify each server
+<roasticle> also a learning sort of project for me since im a LAMP webdev
+<@PredatH0r> so someone would have to highjack the IP to send in bad data
+<@PredatH0r> i see. inl is using mongodb and reactjs afaik
+<@PerpetualWar_> smove coudl provide his ctf balancing formulas
+<@PerpetualWar_> cosindering they have balancing already on #ctfpickup
+<+smove> we have, since years
+<+smove> ;p
+<@PerpetualWar_> ^^
+<@PerpetualWar_> I hope its not closed source as well smove ;P
+<@PerpetualWar_> xD
+<+smove> but I have to clarify if I can share the formular
+<+smove> :x
+<@PerpetualWar_> lol
+<@PerpetualWar_> knew it :P
+<@rulex> :D
+<@PredatH0r> are these the formulas on http://qlstats.info/about-ql-statistics.html ?
+<@rulex> share the love
+<+smove> well, it's not me, I'm sorry
+<@rulex> then why are you sorry
+<@rulex> ;p
+<+smove> I'm main dev (so to speak) since a few years now but I didn't start the project
+<+smove> so I won't just share anything
+<@PerpetualWar_> open source is love ;_
+<@PerpetualWar_> ;)
+<@rulex> oh yeah
+<@rulex> #nohomo
+<+smove> well, I know
+<+smove> I'm working for one of the largest since april, so... ;c
+<@PerpetualWar_> especially in communtiy which thrives on collaboration and mutula respect like ours :D
+<@PerpetualWar_> gtg
+* PerpetualWar_ is now known as PerpetualWa_afk
+<+smove> bbib as well
+<@PredatH0r> indeed. quake is all about mutual respect ... kappa
+* PerpetualWa_afk is now known as PerpetualWar_

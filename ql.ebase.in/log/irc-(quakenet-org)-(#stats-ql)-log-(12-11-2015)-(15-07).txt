@@ -1,0 +1,265 @@
+menu
+Status #qldedsrvX #stats.qlX
+#stats.ql: :: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-stats-engine
+[12:07] == [ByQ]Descent [webchat@95.128.68.50] has joined #stats.ql
+[12:07] Channel names begin with # (corrected automatically).
+[12:39] == vixterra [~vixterra@Vixterra.users.quakenet.org] has quit [Signed off]
+[12:57] == PREDATH0R has changed nick to PredatH0r
+[13:08] == PerpetualWa_afk has changed nick to PerpetualWar_
+[13:15] <@PredatH0r> just what the world needs... yet another website framework
+[13:17] <@PredatH0r> 0 documentation and even the project start page doesn't mention what it is all about
+[13:17] <@PredatH0r> good chance to become the next hot thing :)
+[13:37] == PerpetualWar_ has changed nick to PerpetualWa_afk
+[15:03] <[ByQ]Descent> You talking about what?
+[15:08] <[ByQ]Descent> it's not production branch (if it's about <ready2go>),  pure show off ...
+[15:16] <[ByQ]Descent> .. real stuff is waiting its time  =)
+[16:14] == PerpetualWa_afk has changed nick to PerpetualWar_
+[17:08] == PerpetualWar_ has changed nick to PerpetualWa_afk
+[17:30] == PerpetualWa_afk has changed nick to PerpetualWar_
+[17:58] == PerpetualWar_ has changed nick to PerpetualWa_afk
+[18:12] == PerpetualWa_afk has changed nick to PerpetualWar_
+[19:24] <@PredatH0r> inl, rules: i was thinking a bit about the stats tracking system
+[19:24] <@PredatH0r> and had the idea to use a tiny game-server-side nodejs tool instead of a direct zmq connection
+[19:25] <@PredatH0r> that would allow a couple things which are currently not possible
+[19:26] <@PredatH0r> game servers could store their jsons locally and trackers can load them with a small delay when there was an outage
+[19:26] <@PredatH0r> the local nodjs could use an rcon connection to pull additional info from the server, like the whole configvars
+[19:27] <@PredatH0r> and the local nodejs with rcon could send an infomessage to each connecting player
+[19:28] <@PredatH0r> it could also listen to console chat and could react on commands like "!shuffle" if that is desired
+[20:25] <@inl> i like that idea quite a bit
+[20:25] <@inl> i'd dare say we could have both actually
+[20:26] <@inl> register server online makes it easy for mainstream user
+[20:26] <@inl> hard core admins will have to option to go deeper
+[20:26] <@rulex> make it a minqlx plugin
+[20:27] <@inl> i don't know how minqlx is integrating with ql at first i thought it just was zmq rcon integration
+[20:27] <@inl> but he hooks into the game somehow?
+[20:27] <@rulex> yes
+[20:27] <@rulex> but also to zmq stats
+[20:28] <@rulex> could even do a minqlx plugin to automagically register a server on the site when a ql server starts
+[20:29] <@rulex> that would actually be neat
+[20:29] <@rulex> the plugin lets us know which ip/host/pass to connect to..?
+[20:29] <@inl> hmm
+[20:30] <@inl> we need some way to authenticate the user
+[20:30] <@rulex> u set your steam id in minqlx
+[20:30] <@inl> POST /server { information in json }
+[20:31] <@inl> I would say that they'd have to register online to and acquire a authentication key/token.
+[20:31] <@rulex> sure that works
+[20:32] <@inl> stea
+[20:36] <@rulex> :D
+[20:38] <@PredatH0r> since minqlx doesn't run on my windows server, i won't be writing any plugins that depend on it
+[20:39] <@PredatH0r> also requiring admins to use minqlx ... something i rather avoid when possible
+[20:40] <@rulex> but another plugin instead? :)
+[20:40] <@PredatH0r> well, i dunno. i'm just thinking out loud
+[20:41] <@PredatH0r> i mean there is only 2 or 3 windows ded servers out there, so i understand when nobody cares about those
+[20:41] <@PredatH0r> unlucky for me, i have one of them
+[20:42] <@rulex> :D
+[20:42] <@rulex> infinitely more love than linux client
+[20:43] <@PredatH0r> i came up with the idea because i want to run a special server where i need to send out a welcome/info message to each connecting client
+[20:43] <@PredatH0r> for that i'd need a script that connects to zmq to get connection-notification and to rcon to be able to print out text
+[20:44] <@PredatH0r> and the other thought was to have the servers cache their JSONs in case a tracker is temporarily offline
+[20:46] <@PredatH0r> unrelated to that: i talked to sirax yesterday. he said that qlranks was running on a 8core, 32gb ram machine and had 80% cpu utilization 24/7 and millions of API calls each day
+[20:46] <@PredatH0r> db itself was ~10gb
+[20:50] <@inl> i'm pretty sure you can solve that with ql-server-monitor npm package
+[20:51] <@inl> hmm, sounds like they didn't do caching properly.
+[20:51] <@PredatH0r> maybe. dunno. putting steamid+elo into redis sounds like a good idea
+[20:52] <@inl> i'd say even more stuff and have cachening in-front of that
+[20:52] <@PredatH0r> that stuff was queried from extraQL userscripts all over the place
+[20:52] <@inl> like an api call to /players/online can easily be cached for 15-30 secs
+[20:52] <@PredatH0r> yea, all data for the 1000 or so last active users could be kept in-memory
+[20:53] <@inl> mongodb sorts that for us i think
+[20:53] <@inl> thing is with redis is that you need to flatten out your json objects
+[20:54] <@inl> storing json as string and JSON.parse, not so keen on it tbh
+[20:54] <@PredatH0r> i wouldn't store any jsons there ... or really only tiny ones suitable for JSON.parse
+[20:54] <@inl> anywho, my daughter just feel asleep and wife is out so i'm going to spend time on coding.
+[20:56] <@inl> my hope is that i can get a react.js app framework up and make the refactoring of ql-stats-engine to work (it's a major overhaul) but it'll make it really easy to understand the code, where to put persistance into redis and mongo and when to perform calculations for rankings etc.
+[20:57] <@PredatH0r> i got my NoSQL book today that I ordered on the weekend. funny enough in the intro they mention the same 2 reasons why to use NoSQL that i came up with after reading in the web
+[20:57] <@inl> that includes a first draft of the data model
+[20:57] <@inl> PredatH0r nice!
+[20:58] <@inl> i'm thinking that it might be and idea to create a github organization and put repositories there
+[20:58] <@PredatH0r> it's basically faster development when you dont have to deal with data mapping... or clustering
+[20:58] <@inl> oh yes
+[20:58] <@inl> mongodb/nosql has made me so much faster when developing
+[20:59] <@PredatH0r> but it comes at a price. the db is no longer suitable for application integration (if there is more than one app) and it lacks consistency, like atomic transactions between 2 tables provide
+[21:00] <@inl> yeah, wouldn't make much sense for transactional data
+[21:00] <@PredatH0r> anyhow, neither should be really a show-stopper for this project
+[21:00] <@inl> like banking / trading etc
+[21:01] <@PredatH0r> you already have this problem here, when you have a "games" collection and a "players" collection where you keep running tallies
+[21:01] <@PredatH0r> there's no way to guarantee the the two can be kept in sync
+[21:01] <@inl> i'm actually thinking of embedding documents within documents, for instance, appending player stats at a certain point into a game stats document.
+[21:02] <@inl> but that's just loose thought i had, i need to contemplate it a bit more
+[21:02] <@PredatH0r> i would certainly do that
+[21:03] <@PredatH0r> that's when nosql starts getting a performance benefit over rdbms, when you embed data
+[21:04] <@PredatH0r> i mean, the per-game-player-stats should go inside the game data. but still have a separate players collection with running tallies over all matches of the player
+[21:10] <@PredatH0r> thinking about it a bit more... i start to like the minbotql thing
+[21:11] <@PredatH0r> like auto-adding a "stats" or "ranked" tag so i can find the servers easier
+[23:04] == tjone270_ [~tjone270@1.132.96.247] has joined #stats.ql
+[23:04] == mode/#stats.ql [+o tjone270_] by Q
+[23:08] == tjone270 [~tjone270@tho1717339.lnk.telstra.net] has quit [Ping timeout]
+[23:08] <@inl> I'm finally done with refactoring the ql-stats-engine, and I can start focusing on implementing the data schema.
+[23:17] == tjone270_ [~tjone270@1.132.96.247] has quit [Ping timeout]
+[23:21] == tjone270 [~tjone270@tho1717339.lnk.telstra.net] has joined #stats.ql
+[23:21] == mode/#stats.ql [+o tjone270] by Q
+[00:14] == vixterra [~vixterra@Vixterra.users.quakenet.org] has joined #stats.ql
+[00:25] == PerpetualWar_ has changed nick to PerpetualWa_afk
+[03:24] == PredatH0r has changed nick to PREDATH0R
+[03:35] <[ByQ]Descent> =)
+[03:37] <[ByQ]Descent> saved the chat log for the history ...
+[03:41] == PREDATH0R [predath0r@PredatH0r.users.quakenet.org]
+[03:41] ==  realname : PredatH0r
+[03:41] ==  channels : @#stats.ql #quakelive @#toxikk +#ClanChill
+[03:41] ==  server   : *.quakenet.org [QuakeNet IRC Server]
+[03:41] ==  away     : Auto away at Thu Nov 12 00:25:05 2015
+[03:41] ==  account  : PredatH0r
+[03:41] == End of WHOIS
+[06:00] == wdx2 [~wdx@runny.users.quakenet.org] has quit [Signed off]
+[06:45] == tjone270 [~tjone270@tho1717339.lnk.telstra.net] has quit [Signed off]
+[06:51] == tjone270 [~tjone270@tho1717339.lnk.telstra.net] has joined #stats.ql
+[06:51] == mode/#stats.ql [+o tjone270] by Q
+[07:16] == tjone270_ [~tjone270@1.128.96.55] has joined #stats.ql
+[07:16] == mode/#stats.ql [+o tjone270_] by Q
+[07:20] == tjone270 [~tjone270@tho1717339.lnk.telstra.net] has quit [Ping timeout]
+[07:51] == tjone270_ [~tjone270@1.128.96.55] has quit [Ping timeout]
+[07:53] == tjone270 [~tjone270@tho1717339.lnk.telstra.net] has joined #stats.ql
+[07:53] == mode/#stats.ql [+o tjone270] by Q
+[10:34] == PerpetualWa_afk has changed nick to PerpetualWar_
+[11:55] == vixterra [~vixterra@Vixterra.users.quakenet.org] has quit [Signed off]
+[12:05] == smove [smove@S|v|0v3.users.quakenet.org] has joined #stats.ql
+[12:05] <smove> hi
+[12:05] == mode/#stats.ql [+v smove] by Q
+[12:05] <@PerpetualWar_> hey
+[12:05] <@PerpetualWar_> rulex
+[12:05] <@PerpetualWar_> you here ?
+[12:05] <@rulex> sure
+[12:06] <@PerpetualWar_> hey
+[12:06] <@PerpetualWar_> rulex
+[12:06] <@rulex> hi
+[12:06] <@rulex> :)
+[12:06] <+smove> hi there
+[12:06] <@PerpetualWar_> smove will install his pickip bot
+[12:06] <@PerpetualWar_> for our channel
+[12:06] <@PerpetualWar_> is there some api ready for him to take your stats for balancing ?
+[12:08] <@rulex> don't think anyone have team based rankings implemented yet
+[12:08] <@rulex> only elo for duels
+[12:08] <+smove> we have for #ctfpickup since years already
+[12:09] <@PerpetualWar_> ye inl is doing that
+[12:09] <@PerpetualWar_> I think
+[12:09] <@rulex> but you have your own system there
+[12:09] <+smove> and balancing ca should be far easier
+[12:09] <+smove> yes
+[12:09] <@rulex> dont know anything about that
+[12:09] <@PerpetualWar_> ok we need to ask inl I thnk
+[12:10] <@PerpetualWar_> and wdx could provide formulas
+[12:10] <@rulex> its not wdx bot?
+[12:11] <+smove> the ctf one?
+[12:11] <+smove> that's our
+[12:11] <+smove> mute and I have written it
+[12:12] <@rulex> and do you have some ranking?
+[12:12] <+smove> PerpetualWar_: we can easily come up with a decent formular for CA team balancing. I can get mute to help me with that
+[12:12] <+smove> we have
+[12:12] <@PerpetualWar_> ye ok
+[12:12] <+smove> unfortunately, we never made it public
+[12:12] <@PerpetualWar_> mostly net dmg I guess
+[12:12] <+smove> no
+[12:12] <+smove> oh
+[12:12] <+smove> right for ca
+[12:12] <+smove> yes
+[12:12] <+smove> :)
+[12:12] <@PerpetualWar_> ^^
+[12:13] <@rulex> or dmg/sec ;p
+[12:13] <@PerpetualWar_> :D
+[12:13] <@rulex> you should release it
+[12:13] <+smove> rulex: I have to talk to mute about it again, maybe we can share the formular. mute isn't that open with the stuff he does
+[12:13] <@rulex> :)
+[12:13] <@PerpetualWar_> ye mute is anal about that
+[12:14] <@rulex> hence the nick?
+[12:14] <@rulex> :D
+[12:14] <+smove> and I really don't want to overrule him even though I'm the main dev since a few years now
+[12:14] <+smove> anyway, ctfpickup isn't an issue right now
+[12:14] <+smove> it's more about ca really
+[12:14] <@PerpetualWar_> ye
+[12:14] <+smove> I've got no data as of yet
+[12:15] <+smove> what I can do is, host servers and collect new data myself easily
+[12:15] <+smove> I've started writing a daemon that does that
+[12:15] <@rulex> i have quite a lot of data
+[12:15] <+smove> is it accessable in any way?
+[12:16] <+smove> accessible*
+[12:16] <@PerpetualWar_> I can let you know my stats zmq pass smove, but i would prefer rulex's stats
+[12:17] <@PerpetualWar_> for being larger and open source
+[12:17] <@PerpetualWar_> somethng like centralized place
+[12:17] <@rulex> http://c.leeto.fi:8585/api , but i might be dropping it and joining/exporting my data to inl project
+[12:17] <+smove> who is inl, and what project?
+[12:18] <@rulex> the dude in this chan
+[12:18] <@PerpetualWar_> hm forgot his git
+[12:18] <@rulex> https://github.com/swallentin/ql-stats-engine
+[12:18] <@PerpetualWar_> you remember rulex?
+[12:18] <@PerpetualWar_> oh ye
+[12:19] <+smove> hm, lulz
+[12:19] <@PerpetualWar_> basically smove, this channel is for all ppl who wanna cotribute
+[12:19] <+smove> that's what I've started as well
+[12:19] <+smove> basically
+[12:19] <+smove> o0
+[12:19] <@rulex> :D
+[12:19] <@PerpetualWar_> then join forces maybe ?
+[12:19] <@rulex> and i have the same except using python and mysql
+[12:20] <@PerpetualWar_> only difference as I saw it
+[12:20] <@PerpetualWar_> inl is actively developing it
+[12:20] <@PerpetualWar_> and should have it ready fastets
+[12:20] <+smove> but I did only file storage and main data stored to our DB that we need for ctfpickup so far, since I'm too busy to keep working on it constantly
+[12:21] <@rulex> im also saving all raw json data to files and importing whatever i like
+[12:21] <+smove> ye
+[12:21] <+smove> same here
+[12:21] == PerpetualWar_ changed the topic of #stats.ql to: :: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-stats-engine
+[12:22] <+smove> I put MATCH_REPORT and PLAYER_STATS in one file per match
+[12:22] <+smove> but that engine looks further developed already, I think
+[12:23] <@rulex> i put all events in <match_guid>.zip
+[12:23] <+smove> that's a lot of data if you put literally all events in there
+[12:23] <+smove> but, ye, not bad
+[12:23] <@PerpetualWar_> so smove stick around
+[12:23] <@PerpetualWar_> when inl is online
+[12:23] <@rulex> yes that shit is already 1.6g
+[12:23] <+smove> I will
+[12:23] <@PerpetualWar_> you can checkj withhiim
+[12:23] <@PerpetualWar_> how far is he
+[12:24] <@PerpetualWar_> and could you guys collaborate
+[12:24] <+smove> I'm at work right now, but will look here every now and then
+[12:24] <@PerpetualWar_> inl unofficially told me he will have balancing for other gametypes as well in app. 2-3 weeks
+[12:24] <@PerpetualWar_> first draft at least
+[12:25] <@PerpetualWar_> so far only elo for duel
+[12:25] <@rulex> so many ideas and so much to do
+[12:25] <@rulex> :)
+[12:25] <+smove> ye
+[12:25] <+smove> :x
+[12:25] <@PerpetualWar_> ^^
+[12:25] <@rulex> but no fucking time
+[12:26] <+smove> btw, we still own playquake.com, maybe that might be useful? ;c
+[12:26] <+smove> in a long run, at least
+[12:26] <@PerpetualWar_> I would love to help but my codiing abilities are weak
+[12:26] <+smove> dunno, just an idea
+[12:26] <@rulex> PREDATH0R: has qlstats.net that i think he wants to get rid of
+[12:26] <@PerpetualWar_> ye
+[12:37] == PREDATH0R has changed nick to PredatH0r
+[12:57] <@PredatH0r> i'm storing json.gz files which contain only match_report and player_stats. 6640 files so far, 8.5mb total
+[12:58] <+smove> from what servers/gametypes?
+[12:58] <@PredatH0r> that's one week of collecting, but many servers were added throughout the week
+[12:58] <@PredatH0r> all gametypes that i have server access for
+[12:58] <+smove> k
+[12:58] <@PredatH0r> but most are duel or ca
+[13:00] <@PredatH0r> 152 servers being tracked now
+[13:02] <@PredatH0r> out of 1146 responsive server that i can see online
+[13:02] <+smove> ql doesn't even have that many players
+[13:02] <+smove> :D
+[13:02] <@PredatH0r> 431 players on servers atm :)
+[13:03] <+smove> tonight it'll be 100 more maybe
+[13:03] <+smove> but that's it
+[13:03] <+smove> :p
+[13:03] <@PredatH0r> players or servers?
+[13:03] <+smove> players ofc
+[13:03] <@PredatH0r> it's gonna be a lot more. it was close to 1000 the other day
+[13:04] <+smove> ye maybe close too, but ql doesn't have a huge playerbase really
+[13:04] <+smove> to*
+[13:04] <@PredatH0r> still the most popular afps from what i can tell
+[13:05] <@PredatH0r> toxikk servers are empty 99.9995% of the time
+[13:06] <@PredatH0r> dunno about ut4 stats, they use their own server browsing protocol unfortunately
+[13:11] <@PredatH0r> 100 reflex servers, 2 players. also a good ratio
+[13:12] == PerpetualWar_ has changed nick to PerpetualWa_afk
+[13:57] == wdx2 [~wdx@runny.users.quakenet.org] has joined #stats.ql
+[13:57] == mode/#stats.ql [+o wdx2] by Q

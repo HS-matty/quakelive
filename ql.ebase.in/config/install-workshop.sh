@@ -1,0 +1,1 @@
+./steamcmd.sh +login anonymous +workshop_download_item (349090) (539421606) +quit

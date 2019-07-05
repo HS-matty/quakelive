@@ -1,0 +1,1560 @@
+kacsa was in the wrong place.
+Dragonfly was in the wrong place.
+g3 nme hit the fraglimit.
+Dunkel was railed by g3 nme
+Aeson: gg
+Wh1t3r: gg
+Nord disconnected
+Stopped demo.
+Wrote screenshots/FFA-overkill-2016_08_28-15_09_51.jpg
+mlekopan disconnected
+Wh1t3r disconnected
+kacsa: gg
+g3 nme called a vote.
+Aeson got the Mega Health.
+Flash was electrocuted by g3 nme
+Bili Gamer was in the wrong place.
+Aeson was electrocuted by g3 nme
+g3 nme was ripped up by kacsa's HMG
+kacsa was electrocuted by Bili Gamer
+You may not participate in this vote.
+Dunkel was railed by Flash
+Dragonfly was melted by Morr's plasmagun
+Morr was electrocuted by g3 nme
+g3 nme was electrocuted by Bili Gamer
+Flash was gunned down by Aeson
+kacsa was railed by [ByQ]Descent
+Vote failed.
+[ByQ]Descent was melted by Dunkel's plasmagun
+Aeson: mmhm
+[ByQ]Descent: =))
+Aeson switched teams.
+g3 nme called a vote.
+Vote cast.
+g3 nme: problem is that people don't know how to vote
+Flash was electrocuted by Dragonfly
+Bili Gamer was gunned down by kacsa
+[ByQ]Descent was railed by Morr
+Aeson: derr what de butten do
+g3 nme: press f1 to vote yes, f2 to vote no
+Dragonfly got the Regeneration!
+kacsa was electrocuted by g3 nme
+Bili Gamer was electrocuted by g3 nme
+Vote failed.
+Aeson: need lower vote pct
+Flash was electrocuted by g3 nme
+[ByQ]Descent: if they know what f3 is why dont they dont what f1 and f2 are?
+g3 nme: lmao
+g3 nme was ripped up by Dragonfly's HMG
+Bili Gamer got the Quad Damage!
+Morr was melted by kacsa's plasmagun
+[ByQ]Descent: =))
+Dunkel was electrocuted by Bili Gamer
+g3 nme: because it shows on the screen
+g3 nme was electrocuted by Bili Gamer
+kacsa almost dodged Dragonfly's rocket
+g3 nme: t'press f3 to ready..'
+Dunkel ate Dragonfly's rocket
+Morr was electrocuted by Bili Gamer
+Aeson: press ins to get ready
+Flash was melted by kacsa's plasmagun
+g3 nme: so we, who play this game
+Aeson: ^^
+g3 nme: don't have a vote
+[ByQ]Descent ate Morr's rocket
+Dunkel was in the wrong place.
+kacsa was railed by Bili Gamer
+g3 nme: and those who are at the bottom, literally they don't know squat
+Bili Gamer disconnected
+[ByQ]Descent called a vote.
+g3 nme: they decide?
+Dragonfly was ripped up by Flash's HMG
+Dunkel was melted by kacsa's plasmagun
+1337 h4x0r connected
+Morr ate [ByQ]Descent's rocket
+[ByQ]Descent was electrocuted by g3 nme
+CopyPasteCUT connected
+Flash was in the wrong place.
+kacsa was electrocuted by g3 nme
+Morr disconnected
+Dragonfly was electrocuted by Dunkel
+kacsa was railed by g3 nme
+Aeson: too high percentage
+Vote failed.
+[ByQ]Descent: 3 ready, means they wanna play on this map
+Dunkel almost dodged g3 nme's rocket
+1337 h4x0r was melted by Flash's plasmagun
+[ByQ]Descent: 51
+kacsa was electrocuted by Dragonfly
+[ByQ]Descent: guess =()
+g3 nme ate Dragonfly's rocket
+g3 nme called a vote.
+Vote cast.
+1337 h4x0r was ripped up by Flash's HMG
+Vote passed.
+Flash was gunned down by kacsa
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 8800 GT/PCI/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_blend_func_extended GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_depth_clamp
+GL_ARB_depth_texture GL_ARB_draw_buffers GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location
+GL_ARB_fragment_coord_conventions GL_ARB_fragment_program GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB
+GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_map_buffer_range
+GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2 GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite
+GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding
+GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_shadow GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_compression
+GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3
+GL_ARB_texture_float GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_rectangle GL_ARB_texture_rg
+GL_ARB_texture_rgb10_a2ui GL_ARB_texture_swizzle GL_ARB_timer_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra
+GL_ARB_vertex_array_object GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array
+GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr GL_EXT_bgra GL_EXT_bindable_uniform
+GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_Cg_shader
+GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4
+GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4 GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels
+GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal GL_EXT_secondary_color GL_EXT_separate_shader_objects
+GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array GL_EXT_texture_buffer_object
+GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp
+GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias
+GL_EXT_texture_mirror_clamp GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_vertex_array
+GL_EXT_vertex_array_bgra GL_IBM_rasterpos_clip GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_blend_square GL_NV_conditional_render
+GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance
+GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage GL_NV_geometry_shader4 GL_NV_gpu_program4
+GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil
+GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners
+GL_NV_register_combiners2 GL_NV_shader_buffer_load GL_NV_texgen_reflectioGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: 12, 1024 x 768 windowed hz:85
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 285 milli seconds
+UI menu load time = 192 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 0 LoD cracks
+...loaded 1289 faces, 145 meshes, 27 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 826 milli seconds
+CL_InitCGame:  5.83 seconds
+8 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+
+----------------------
+9551 files in pk3 files
+[ByQ]Descent: =))
+[ByQ]Descent almost dodged g3 nme's rocket
+Dunkel was electrocuted by g3 nme
+Dragonfly was gunned down by kacsa
+Flash was electrocuted by g3 nme
+Aeson ate g3 nme's rocket
+g3 nme was electrocuted by [ByQ]Descent
+[ByQ]Descent was railed by 1337 h4x0r
+kacsa was melted by Dunkel's plasmagun
+Dragonfly was electrocuted by g3 nme
+g3 nme was electrocuted by [ByQ]Descent
+1337 h4x0r was electrocuted by [ByQ]Descent
+kacsa was melted by Dunkel's plasmagun
+Dunkel ate Dragonfly's rocket
+Dragonfly was electrocuted by Aeson
+[ByQ]Descent ate Aeson's rocket
+Kirabosi connected
+Aeson ate g3 nme's rocket
+1337 h4x0r was electrocuted by kacsa
+g3 nme ate Dragonfly's rocket
+Flash was electrocuted by kacsa
+Dragonfly ate Aeson's rocket
+g3 nme: :)
+CopyPasteCUT timed out
+g3 nme was melted by 1337 h4x0r's plasmagun
+1337 h4x0r was electrocuted by kacsa
+Dunkel was railed by Aeson
+Aeson was railed by kacsa
+Dragonfly got the Battle Suit!
+[ByQ]Descent: so, this means that map can be changed .. =)
+Dragonfly was in the wrong place.
+g3 nme was melted by Kirabosi's plasmagun
+Kirabosi was melted by Dunkel's plasmagun
+Dunkel was electrocuted by 1337 h4x0r
+kacsa was railed by Aeson
+1337 h4x0r almost dodged Dragonfly's rocket
+Dunkel was electrocuted by [ByQ]Descent
+Flash ate Aeson's rocket
+recording to demos/FFA-[ByQ]Descent-hellsgate-2016_08_28-15_14_04.dm_91.
+Aeson: HF
+g3 nme: ok
+kacsa was electrocuted by Dunkel
+Flash was electrocuted by [ByQ]Descent
+Dunkel was electrocuted by Dragonfly
+Dragonfly ate Kirabosi's rocket
+g3 nme was electrocuted by Aeson
+1337 h4x0r was electrocuted by Dunkel
+kacsa was electrocuted by Dragonfly
+Aeson ate Kirabosi's rocket
+Dunkel was electrocuted by g3 nme
+Dragonfly ate kacsa's rocket
+g3 nme ate Aeson's rocket
+CopyPasteCUT connected
+1337 h4x0r was in the wrong place.
+Kirabosi almost dodged Aeson's rocket
+Bruutal connected
+[ByQ]Descent was electrocuted by kacsa
+Dragonfly ate 1337 h4x0r's rocket
+Flash was electrocuted by kacsa
+g3 nme almost dodged Aeson's rocket
+Dunkel ate Kirabosi's rocket
+1337 h4x0r almost dodged Aeson's rocket
+kacsa almost dodged Kirabosi's rocket
+[ByQ]Descent was electrocuted by g3 nme
+Aeson almost dodged Kirabosi's rocket
+Bruutal was electrocuted by g3 nme
+Dunkel almost dodged Flash's rocket
+Aeson got the Battle Suit!
+Kirabosi almost dodged kacsa's rocket
+Flash ate Aeson's rocket
+Dragonfly was electrocuted by [ByQ]Descent
+kacsa was electrocuted by 1337 h4x0r
+[ByQ]Descent ate Aeson's rocket
+Kirabosi was melted by Dunkel's plasmagun
+g3 nme ate Kirabosi's rocket
+1337 h4x0r was electrocuted by [ByQ]Descent
+Dragonfly ate 1337 h4x0r's rocket
+Bruutal was melted by Dunkel's plasmagun
+Kirabosi was in the wrong place.
+Dunkel almost dodged Aeson's rocket
+1337 h4x0r was electrocuted by [ByQ]Descent
+kacsa ate g3 nme's rocket
+Flash ate Dragonfly's rocket
+g3 nme was melted by Dunkel's plasmagun
+1337 h4x0r almost dodged Flash's rocket
+Bruutal was electrocuted by kacsa
+Kirabosi was electrocuted by g3 nme
+Flash was electrocuted by [ByQ]Descent
+[ByQ]Descent ate Aeson's rocket
+Aeson was electrocuted by g3 nme
+kacsa ate Kirabosi's rocket
+Dunkel ate Kirabosi's rocket
+Bruutal almost dodged g3 nme's rocket
+Dragonfly was electrocuted by [ByQ]Descent
+Aeson was electrocuted by [ByQ]Descent
+g3 nme almost dodged Flash's rocket
+1337 h4x0r ate Flash's rocket
+Flash was electrocuted by Dunkel
+[ByQ]Descent was electrocuted by Dragonfly
+CopyPasteCUT was electrocuted by kacsa
+Bruutal almost dodged Kirabosi's rocket
+Kirabosi almost dodged Bruutal's rocket
+kacsa ate g3 nme's rocket
+Dunkel was railed by [ByQ]Descent
+1337 h4x0r was railed by [ByQ]Descent
+Dragonfly almost dodged Kirabosi's rocket
+g3 nme was railed by [ByQ]Descent
+kacsa almost dodged Flash's rocket
+Kirabosi ate CopyPasteCUT's rocket
+[ByQ]Descent was electrocuted by Dragonfly
+Wrote screenshots/shot0075.tga
+Aeson was railed by Dunkel
+Flash ate CopyPasteCUT's rocket
+CopyPasteCUT almost dodged 1337 h4x0r's rocket
+Kirabosi was electrocuted by Dragonfly
+1337 h4x0r was electrocuted by [ByQ]Descent
+kacsa was electrocuted by Dragonfly
+Bruutal was electrocuted by [ByQ]Descent
+Aeson almost dodged Dunkel's rocket
+Dragonfly almost dodged Dunkel's rocket
+Dunkel ate Dragonfly's rocket
+1337 h4x0r almost dodged Kirabosi's rocket
+Flash blew himself up.
+g3 nme: :)
+CopyPasteCUT was electrocuted by kacsa
+[ByQ]Descent was pummeled by g3 nme
+kacsa almost dodged Aeson's rocket
+[ByQ]Descent: =)))
+1337 h4x0r was melted by Dunkel's plasmagun
+Bruutal almost dodged Aeson's rocket
+Kirabosi almost dodged Flash's rocket
+g3 nme almost dodged Dunkel's rocket
+Flash was electrocuted by [ByQ]Descent
+kacsa almost dodged Dunkel's rocket
+Aeson was railed by [ByQ]Descent
+CopyPasteCUT almost dodged Dunkel's rocket
+[ByQ]Descent almost dodged Dragonfly's rocket
+Bruutal almost dodged Kirabosi's rocket
+Dragonfly ate Flash's rocket
+1337 h4x0r ate g3 nme's rocket
+Dunkel almost dodged kacsa's rocket
+Kirabosi was railed by g3 nme
+g3 nme ate 1337 h4x0r's grenade
+CopyPasteCUT ate kacsa's rocket
+Bruutal was in the wrong place.
+Flash was electrocuted by Dunkel
+kacsa almost dodged Aeson's rocket
+CopyPasteCUT almost dodged Aeson's rocket
+Dragonfly was electrocuted by Dunkel
+[ByQ]Descent was electrocuted by Dunkel
+1337 h4x0r was electrocuted by Dunkel
+g3 nme ate Aeson's rocket
+Bruutal ate Flash's rocket
+Kirabosi was electrocuted by Dragonfly
+kacsa ate Aeson's rocket
+Flash was melted by Dunkel's plasmagun
+[ByQ]Descent was in the wrong place.
+[ByQ]Descent: ..
+Aeson got the Battle Suit!
+g3 nme was in the wrong place.
+Dunkel ate Flash's rocket
+kacsa almost dodged Aeson's rocket
+Flash almost dodged Kirabosi's rocket
+[ByQ]Descent was electrocuted by g3 nme
+Dragonfly almost dodged Bruutal's rocket
+1337 h4x0r was melted by Dunkel's plasmagun
+Bruutal ate Aeson's rocket
+Kirabosi almost dodged CopyPasteCUT's rocket
+g3 nme was electrocuted by [ByQ]Descent
+Flash was in the wrong place.
+kacsa was railed by g3 nme
+Lumi connected
+1337 h4x0r ate Kirabosi's rocket
+CopyPasteCUT was gunned down by Dunkel
+g3 nme ate Aeson's rocket
+Dragonfly almost dodged CopyPasteCUT's rocket
+Kirabosi was gunned down by Dunkel
+1337 h4x0r ate Bruutal's rocket
+Bruutal was railed by [ByQ]Descent
+[ByQ]Descent almost dodged Kirabosi's rocket
+Kirabosi almost dodged Bruutal's rocket
+kacsa almost dodged Bruutal's rocket
+Aeson almost dodged 1337 h4x0r's rocket
+Flash almost dodged Dunkel's rocket
+Bruutal almost dodged Lumi's rocket
+Dragonfly was gunned down by Dunkel
+CopyPasteCUT almost dodged g3 nme's rocket
+Lumi was in the wrong place.
+g3 nme almost dodged kacsa's rocket
+1337 h4x0r was railed by [ByQ]Descent
+Dunkel almost dodged Lumi's rocket
+Aeson ate Kirabosi's rocket
+Bruutal ate CopyPasteCUT's rocket
+kacsa was electrocuted by Dragonfly
+Kirabosi was in the wrong place.
+1337 h4x0r was in the wrong place.
+[ByQ]Descent almost dodged Lumi's rocket
+Lumi almost dodged Kirabosi's rocket
+Dragonfly almost dodged g3 nme's rocket
+CopyPasteCUT was melted by Bruutal's plasmagun
+kacsa ate 1337 h4x0r's rocket
+Flash ate Dragonfly's rocket
+Aeson was melted by Dunkel's plasmagun
+1337 h4x0r was electrocuted by g3 nme
+Bruutal was melted by Dunkel's plasmagun
+CopyPasteCUT was electrocuted by [ByQ]Descent
+Dunkel ate Aeson's rocket
+Kirabosi almost dodged 1337 h4x0r's rocket
+Aeson almost dodged Bruutal's rocket
+LoG connected
+1337 h4x0r ate Bruutal's rocket
+Dunkel almost dodged Flash's rocket
+[ByQ]Descent ate CopyPasteCUT's rocket
+g3 nme almost dodged Aeson's rocket
+kacsa ate Lumi's rocket
+CopyPasteCUT almost dodged Flash's rocket
+Flash ate CopyPasteCUT's rocket
+Lumi almost dodged Kirabosi's rocket
+Dragonfly was melted by Dunkel's plasmagun
+Kirabosi ate Aeson's rocket
+1337 h4x0r was melted by Dunkel's plasmagun
+CopyPasteCUT was electrocuted by g3 nme
+kacsa almost dodged Flash's rocket
+g3 nme was electrocuted by [ByQ]Descent
+Aeson blew himself up.
+Flash almost dodged Bruutal's rocket
+CopyPasteCUT ate [ByQ]Descent's rocket
+Kirabosi ate 1337 h4x0r's rocket
+Lumi ate 1337 h4x0r's rocket
+Dragonfly was electrocuted by g3 nme
+Dunkel ate 1337 h4x0r's rocket
+[ByQ]Descent was electrocuted by Dunkel
+1337 h4x0r almost dodged Aeson's rocket
+Bruutal ate Lumi's rocket
+kacsa almost dodged Dragonfly's rocket
+Dragonfly almost dodged g3 nme's rocket
+yc connected
+g3 nme almost dodged CopyPasteCUT's rocket
+Aeson almost dodged Kirabosi's rocket
+Dunkel almost dodged Flash's rocket
+Kirabosi ate CopyPasteCUT's rocket
+Flash was electrocuted by [ByQ]Descent
+CopyPasteCUT ate Dragonfly's rocket
+Lumi was electrocuted by g3 nme
+Bruutal was electrocuted by g3 nme
+g3 nme ate Kirabosi's rocket
+Lumi ate CopyPasteCUT's rocket
+CopyPasteCUT almost dodged Flash's rocket
+1337 h4x0r was electrocuted by kacsa
+Dunkel was electrocuted by g3 nme
+Flash ate Kirabosi's rocket
+Aeson almost dodged Flash's rocket
+[ByQ]Descent was electrocuted by kacsa
+kacsa ate Lumi's rocket
+Dragonfly was railed by yc
+Kirabosi almost dodged [ByQ]Descent's rocket
+CopyPasteCUT ate Flash's rocket
+Lumi was melted by Dunkel's plasmagun
+yc almost dodged Bruutal's rocket
+[ByQ]Descent almost dodged g3 nme's rocket
+g3 nme ate [ByQ]Descent's rocket
+1337 h4x0r almost dodged Aeson's rocket
+kacsa almost dodged [ByQ]Descent's rocket
+Lumi ate [ByQ]Descent's rocket
+Flash almost dodged [ByQ]Descent's rocket
+[ByQ]Descent was electrocuted by Dunkel
+[ByQ]Descent: =))
+CopyPasteCUT was electrocuted by g3 nme
+Kirabosi almost dodged kacsa's rocket
+g3 nme got the Battle Suit!
+Aeson was electrocuted by [ByQ]Descent
+kacsa ate Lumi's rocket
+1337 h4x0r ate Lumi's rocket
+Bruutal almost dodged g3 nme's rocket
+Lumi was electrocuted by [ByQ]Descent
+Dragonfly almost dodged Flash's rocket
+CopyPasteCUT ate Dunkel's rocket
+Flash almost dodged g3 nme's rocket
+kacsa ate Dunkel's rocket
+Dunkel almost dodged [ByQ]Descent's rocket
+Kirabosi was melted by Bruutal's plasmagun
+1337 h4x0r was railed by CopyPasteCUT
+yc was melted by Dunkel's plasmagun
+Dunkel ate [ByQ]Descent's rocket
+[ByQ]Descent almost dodged Lumi's rocket
+1337 h4x0r almost dodged Flash's rocket
+Dragonfly ate Bruutal's rocket
+CopyPasteCUT almost dodged Flash's rocket
+Flash ate Aeson's rocket
+Kirabosi almost dodged g3 nme's rocket
+kacsa almost dodged Lumi's rocket
+Aeson almost dodged Bruutal's rocket
+Bruutal was electrocuted by [ByQ]Descent
+yc ate 1337 h4x0r's rocket
+Dunkel was electrocuted by [ByQ]Descent
+CopyPasteCUT ate g3 nme's rocket
+g3 nme almost dodged Aeson's rocket
+[ByQ]Descent almost dodged Lumi's rocket
+Dragonfly almost dodged Flash's rocket
+Kirabosi ate Bruutal's rocket
+1337 h4x0r was railed by Aeson
+CopyPasteCUT was electrocuted by g3 nme
+Lumi was in the wrong place.
+Flash was electrocuted by g3 nme
+Bruutal was electrocuted by Aeson
+kacsa ate Aeson's rocket
+[ByQ]Descent ate Dragonfly's rocket
+yc almost dodged 1337 h4x0r's rocket
+Aeson almost dodged g3 nme's rocket
+g3 nme ate Aeson's rocket
+Kirabosi ate yc's rocket
+1337 h4x0r almost dodged Dunkel's rocket
+[ByQ]Descent ate g3 nme's rocket
+Aeson was electrocuted by Lumi
+Bruutal almost dodged Dunkel's rocket
+Dunkel almost dodged LoG's rocket
+kacsa was electrocuted by CopyPasteCUT
+Dragonfly almost dodged Flash's rocket
+Lumi ate Dunkel's rocket
+g3 nme almost dodged [ByQ]Descent's rocket
+yc was electrocuted by CopyPasteCUT
+CopyPasteCUT almost dodged [ByQ]Descent's rocket
+1337 h4x0r almost dodged Flash's rocket
+Dragonfly was in the wrong place.
+LoG almost dodged Aeson's rocket
+Kirabosi almost dodged Dunkel's rocket
+[ByQ]Descent ate Dragonfly's rocket
+g3 nme ate CopyPasteCUT's rocket
+Aeson ate kacsa's rocket
+Flash blew himself up.
+Dunkel almost dodged LoG's rocket
+Bruutal was electrocuted by [ByQ]Descent
+Lumi ate yc's rocket
+yc was electrocuted by g3 nme
+Dragonfly almost dodged CopyPasteCUT's rocket
+CopyPasteCUT ate LoG's rocket
+Dunkel was electrocuted by g3 nme
+kacsa almost dodged LoG's rocket
+Flash was shredded by Kirabosi's shrapnel
+Lumi almost dodged Aeson's rocket
+1337 h4x0r almost dodged LoG's rocket
+[ByQ]Descent almost dodged yc's rocket
+LoG almost dodged Bruutal's rocket
+Kirabosi ate Aeson's rocket
+Dragonfly was melted by g3 nme's plasmagun
+Flash was electrocuted by [ByQ]Descent
+Bruutal almost dodged CopyPasteCUT's rocket
+yc almost dodged g3 nme's rocket
+g3 nme almost dodged Aeson's rocket
+Aeson was in the wrong place.
+[ByQ]Descent: =))\
+1337 h4x0r was electrocuted by kacsa
+CopyPasteCUT blew himself up.
+kacsa almost dodged Kirabosi's rocket
+yc ate LoG's rocket
+Bruutal was electrocuted by g3 nme
+Kirabosi almost dodged LoG's rocket
+Lumi almost dodged Flash's rocket
+LoG almost dodged CopyPasteCUT's rocket
+yc disconnected
+[ByQ]Descent was gunned down by Aeson
+g3 nme almost dodged Dunkel's rocket
+Dragonfly ate Flash's rocket
+Kirabosi ate Aeson's rocket
+kacsa was electrocuted by [ByQ]Descent
+Aeson almost dodged kacsa's rocket
+Bruutal ate Dunkel's rocket
+1337 h4x0r almost dodged CopyPasteCUT's rocket
+CopyPasteCUT was railed by Dunkel
+Dragonfly ate Kirabosi's grenade
+Kirabosi was electrocuted by g3 nme
+Flash was shredded by Kirabosi's shrapnel
+Aeson almost dodged kacsa's rocket
+g3 nme was electrocuted by Dragonfly
+1337 h4x0r was electrocuted by Dragonfly
+kacsa was electrocuted by [ByQ]Descent
+Lumi almost dodged Flash's rocket
+Dunkel was shredded by Kirabosi's shrapnel
+Kirabosi was electrocuted by Dragonfly
+Aeson was in the wrong place.
+CopyPasteCUT was electrocuted by g3 nme
+Flash ate 1337 h4x0r's rocket
+1337 h4x0r blew himself up.
+Bruutal almost dodged [ByQ]Descent's rocket
+[ByQ]Descent was melted by Dunkel's plasmagun
+g3 nme was melted by Dragonfly's plasmagun
+LoG ate Aeson's rocket
+Aeson got the Battle Suit!
+Kirabosi ate CopyPasteCUT's rocket
+Dragonfly almost dodged Dunkel's rocket
+Bruutal ate [ByQ]Descent's rocket
+CopyPasteCUT ate g3 nme's rocket
+kacsa blew himself up.
+LoG was in the wrong place.
+1337 h4x0r was melted by Aeson's plasmagun
+Flash almost dodged Aeson's rocket
+Kirabosi ate Dragonfly's rocket
+[ByQ]Descent almost dodged LoG's rocket
+Dragonfly ate kacsa's rocket
+Dunkel ate CopyPasteCUT's rocket
+CopyPasteCUT almost dodged kacsa's rocket
+davide connected
+Bruutal blew himself up.
+Flash was electrocuted by [ByQ]Descent
+Lumi was electrocuted by Dunkel
+Szarley connected
+kacsa was electrocuted by Dunkel
+g3 nme almost dodged Aeson's rocket
+CopyPasteCUT was railed by [ByQ]Descent
+Kirabosi almost dodged Aeson's rocket
+[ByQ]Descent almost dodged LoG's rocket
+Flash ate LoG's rocket
+Aeson ate Bruutal's rocket
+Bruutal was electrocuted by 1337 h4x0r
+Dragonfly ate kacsa's rocket
+CopyPasteCUT ate Kirabosi's grenade
+LoG almost dodged Szarley's rocket
+Lumi ate Aeson's grenade
+davide was electrocuted by [ByQ]Descent
+1337 h4x0r was electrocuted by g3 nme
+Flash was in the wrong place.
+[ByQ]Descent almost dodged CopyPasteCUT's rocket
+Kirabosi almost dodged Bruutal's rocket
+Szarley almost dodged g3 nme's rocket
+Bruutal ate Aeson's rocket
+g3 nme almost dodged LoG's rocket
+kacsa almost dodged Aeson's rocket
+Lumi almost dodged davide's rocket
+Dunkel ate Szarley's rocket
+Dragonfly ate Kirabosi's grenade
+davide almost dodged 1337 h4x0r's rocket
+[ByQ]Descent almost dodged g3 nme's rocket
+CopyPasteCUT almost dodged LoG's rocket
+Aeson ate Flash's rocket
+1337 h4x0r ate g3 nme's rocket
+Dunkel almost dodged LoG's rocket
+Bruutal was electrocuted by Aeson
+Lumi almost dodged davide's rocket
+g3 nme almost dodged Szarley's rocket
+Kirabosi was melted by Dunkel's plasmagun
+LoG almost dodged Flash's rocket
+CopyPasteCUT almost dodged davide's rocket
+davide ate kacsa's rocket
+1337 h4x0r was melted by Dunkel's plasmagun
+Aeson almost dodged [ByQ]Descent's rocket
+[ByQ]Descent ate Kirabosi's grenade
+Lumi almost dodged Bruutal's rocket
+Szarley ate CopyPasteCUT's rocket
+1337 h4x0r ate davide's rocket
+Dunkel was electrocuted by g3 nme
+g3 nme almost dodged kacsa's rocket
+Kirabosi ate Dragonfly's rocket
+kacsa almost dodged Bruutal's rocket
+CopyPasteCUT ate Flash's rocket
+Flash ate Lumi's rocket
+Dragonfly ate Szarley's rocket
+Bruutal blew himself up.
+Kirabosi was electrocuted by g3 nme
+Dunkel ate Dragonfly's rocket
+davide ate Flash's rocket
+[ByQ]Descent ate CopyPasteCUT's rocket
+Szarley almost dodged Flash's rocket
+Aeson almost dodged CopyPasteCUT's rocket
+Dragonfly was electrocuted by [ByQ]Descent
+g3 nme almost dodged Bruutal's rocket
+Kirabosi was electrocuted by [ByQ]Descent
+Flash ate CopyPasteCUT's rocket
+kacsa almost dodged CopyPasteCUT's rocket
+Lumi was electrocuted by [ByQ]Descent
+Dunkel was electrocuted by [ByQ]Descent
+CopyPasteCUT almost dodged Bruutal's rocket
+Kirabosi almost dodged Aeson's rocket
+1337 h4x0r ate Bruutal's rocket
+Aeson was electrocuted by g3 nme
+[ByQ]Descent ate Lumi's rocket
+Bruutal almost dodged Flash's rocket
+Lumi was electrocuted by g3 nme
+Szarley almost dodged CopyPasteCUT's rocket
+Dragonfly ate 1337 h4x0r's rocket
+davide ate CopyPasteCUT's rocket
+kacsa was shredded by Kirabosi's shrapnel
+[ByQ]Descent ate Lumi's rocket
+CopyPasteCUT ate Szarley's rocket
+Flash almost dodged Szarley's rocket
+Aeson almost dodged kacsa's rocket
+Lumi ate Dunkel's rocket
+1337 h4x0r ate kacsa's rocket
+Dunkel ate g3 nme's rocket
+g3 nme almost dodged Dunkel's rocket
+Kirabosi almost dodged [ByQ]Descent's rocket
+Bruutal was electrocuted by Dunkel
+Dragonfly almost dodged CopyPasteCUT's rocket
+kacsa was electrocuted by g3 nme
+Dunkel hit the fraglimit.
+Lumi was electrocuted by Dunkel
+Aeson: gg
+[ByQ]Descent: ...
+Dunkel: gg
+Stopped demo.
+Wrote screenshots/FFA-[ByQ]Descent-hellsgate-2016_08_28-15_22_55.jpg
+Aeson: lotto dmg but no freg
+[ByQ]Descent: so close ... =))
+Lumi disconnected
+CopyPasteCUT: gg
+davide: gg
+Flash disconnected
+g3 nme: :)
+Bruutal was melted by Kirabosi's plasmagun
+1337 h4x0r almost dodged Aeson's rocket
+Kirabosi was melted by davide's plasmagun
+davide was melted by Dunkel's plasmagun
+Dragonfly was railed by g3 nme
+kacsa was railed by g3 nme
+[ByQ]Descent was railed by g3 nme
+Kirabosi was melted by davide's plasmagun
+LoG was melted by CopyPasteCUT's plasmagun
+kacsa disconnected
+Szarley ate Aeson's rocket
+Aeson almost dodged Dragonfly's rocket
+Kirabosi disconnected
+Dragonfly was electrocuted by Dunkel
+Bruutal ate 1337 h4x0r's rocket
+Dunkel was electrocuted by g3 nme
+LoG was melted by Szarley's plasmagun
+g3 nme was electrocuted by [ByQ]Descent
+Dragonfly was electrocuted by [ByQ]Descent
+Szarley ate Aeson's rocket
+CopyPasteCUT ate 1337 h4x0r's rocket
+LoG almost dodged g3 nme's rocket
+davide blew himself up.
+1337 h4x0r was electrocuted by g3 nme
+Dunkel was melted by Bruutal's plasmagun
+[ByQ]Descent was melted by Dunkel's plasmagun
+]\players
+ 0 76561198256168099   [ByQ]Descent
+ 1 76561198166097747   1337 h4x0r
+ 2 76561198055678357   Aeson
+ 3 76561198032777681   Dunkel
+ 4 76561197969975669   k i § § ♥
+ 5 76561198218941535   CopyPasteCUT
+ 7 76561198023265737   Bruutal
+ 8 76561198044278752   g3 nme
+10 76561198057565697   Dragonfly
+11 76561198123447947   LoG
+13 76561198323074711   davide
+15 76561198044158077   Szarley
+g3 nme was electrocuted by Dragonfly
+Bruutal was melted by davide's plasmagun
+CopyPasteCUT ate g3 nme's rocket
+Dragonfly was electrocuted by Aeson
+1337 h4x0r ate g3 nme's rocket
+Szarley was electrocuted by [ByQ]Descent
+Aeson was electrocuted by g3 nme
+davide was gunned down by [ByQ]Descent
+Dragonfly was railed by [ByQ]Descent
+1337 h4x0r was melted by CopyPasteCUT's plasmagun
+Aeson was railed by g3 nme
+LoG was melted by davide's plasmagun
+PromeX connected
+Make connected
+[ByQ]Descent almost dodged Bruutal's rocket
+CopyPasteCUT was melted by davide's plasmagun
+Dragonfly almost dodged Bruutal's rocket
+LoG called a vote.
+davide was railed by Aeson
+g3 nme blew himself up.
+CopyPasteCUT got the Battle Suit!
+Bruutal was melted by LoG's plasmagun
+Aeson was melted by 1337 h4x0r's plasmagun
+g3 nme was electrocuted by Make
+LoG almost dodged Bruutal's rocket
+Szarley almost dodged Dragonfly's rocket
+Aeson ate Bruutal's rocket
+1337 h4x0r ate Dragonfly's rocket
+Bruutal was railed by CopyPasteCUT
+Dragonfly was in the wrong place.
+Dunkel disconnected
+[ByQ]Descent: awesome lg trainin ..
+davide almost dodged Aeson's rocket
+PromeX ate Dragonfly's rocket
+[ByQ]Descent almost dodged Dragonfly's rocket
+LoG was railed by Make
+Dragonfly ate Aeson's rocket
+Vote failed.
+Make was electrocuted by g3 nme
+Szarley ate davide's rocket
+1337 h4x0r ate [ByQ]Descent's rocket
+g3 nme almost dodged Aeson's rocket
+Aeson ate davide's rocket
+g3 nme: it actually isn't
+[ByQ]Descent was railed by CopyPasteCUT
+CopyPasteCUT was melted by PromeX's plasmagun
+LoG was electrocuted by Make
+dr4g0nizd connected
+g3 nme: but is good to find sens
+[ByQ]Descent: why?\
+Szarley was melted by PromeX's plasmagun
+1337 h4x0r was electrocuted by Make
+davide was railed by CopyPasteCUT
+Dragonfly ate Aeson's rocket
+PromeX almost dodged 1337 h4x0r's rocket
+[ByQ]Descent almost dodged dr4g0nizd's rocket
+g3 nme: do you see anyone who's able to dodge here?
+Aeson almost dodged davide's rocket
+davide ate LoG's grenade
+CopyPasteCUT ate LoG's grenade
+g3 nme was railed by PromeX
+Dragonfly almost dodged 1337 h4x0r's rocket
+Dragonfly: changing map ?
+1337 h4x0r was melted by Szarley's plasmagun
+[ByQ]Descent was melted by davide's plasmagun
+davide was melted by Szarley's plasmagun
+Make was railed by Dragonfly
+Szarley ate Aeson's rocket
+Bruutal ate dr4g0nizd's grenade
+CopyPasteCUT was railed by g3 nme
+PromeX was electrocuted by Make
+Aeson was melted by 1337 h4x0r's plasmagun
+[ByQ]Descent was railed by CopyPasteCUT
+LoG was railed by g3 nme
+Make was shredded by dr4g0nizd's shrapnel
+Szarley ate dr4g0nizd's rocket
+[ByQ]Descent: its trainin...means who knows the future?
+1337 h4x0r almost dodged Aeson's rocket
+g3 nme was electrocuted by Make
+Make was melted by 1337 h4x0r's plasmagun
+dr4g0nizd was railed by Aeson
+Bruutal ate davide's rocket
+CopyPasteCUT was railed by Dragonfly
+Aeson ate LoG's rocket
+PromeX almost dodged Make's rocket
+[ByQ]Descent ate g3 nme's rocket
+zandwitch connected
+davide almost dodged LoG's rocket
+Dragonfly was melted by PromeX's plasmagun
+Szarley was in the wrong place.
+1337 h4x0r ate g3 nme's rocket
+Bruutal was electrocuted by Make
+LoG blew himself up.
+psikuta connected
+g3 nme was melted by PromeX's plasmagun
+CopyPasteCUT disconnected
+PromeX melted himself.
+Szarley was in the wrong place.
+Make was electrocuted by [ByQ]Descent
+1337 h4x0r ate dr4g0nizd's rocket
+Aeson was pummeled by PromeX
+[ByQ]Descent ate Bruutal's rocket
+g3 nme was pummeled by PromeX
+dr4g0nizd almost dodged psikuta's rocket
+davide almost dodged Bruutal's rocket
+Szarley was melted by dr4g0nizd's plasmagun
+Aeson was pummeled by PromeX
+LoG was electrocuted by Make
+Make was melted by dr4g0nizd's plasmagun
+Bruutal almost dodged psikuta's rocket
+zandwitch was pummeled by PromeX
+g3 nme: well, if you wanna advance in skill, then you should train with good players, not bad
+recording to demos/FFA-[ByQ]Descent-hellsgate-2016_08_28-15_25_58.dm_91.
+g3 nme: right?
+[ByQ]Descent: ..and funny ..
+psikuta: :)
+g3 nme: :)
+psikuta: :)
+psikuta: hf
+[ByQ]Descent was electrocuted by g3 nme
+[ByQ]Descent: ..
+zandwitch almost dodged LoG's rocket
+dr4g0nizd ate Szarley's rocket
+g3 nme almost dodged psikuta's rocket
+LoG almost dodged Aeson's rocket
+PromeX was in the wrong place.
+dr4g0nizd: ur jokin nme looool
+Szarley ate psikuta's rocket
+psikuta ate Bruutal's rocket
+1337 h4x0r almost dodged Bruutal's rocket
+Dragonfly was electrocuted by g3 nme
+Aeson almost dodged PromeX's rocket
+LoG was railed by dr4g0nizd
+Make was electrocuted by [ByQ]Descent
+[ByQ]Descent was electrocuted by g3 nme
+dr4g0nizd ate Szarley's rocket
+Bruutal blew himself up.
+Szarley almost dodged psikuta's rocket
+1337 h4x0r almost dodged PromeX's rocket
+davide almost dodged LoG's rocket
+Dragonfly was electrocuted by [ByQ]Descent
+psikuta almost dodged zandwitch's rocket
+zandwitch ate LoG's rocket
+g3 nme almost dodged Aeson's rocket
+[ByQ]Descent ate 1337 h4x0r's rocket
+1337 h4x0r ate Bruutal's rocket
+Bruutal ate Aeson's rocket
+Dragonfly almost dodged Szarley's rocket
+1337 h4x0r blew himself up.
+Aeson almost dodged 1337 h4x0r's rocket
+davide was electrocuted by psikuta
+Make almost dodged Bruutal's rocket
+dr4g0nizd was electrocuted by g3 nme
+zandwitch was electrocuted by g3 nme
+[ByQ]Descent almost dodged psikuta's rocket
+PromeX almost dodged Bruutal's rocket
+g3 nme almost dodged Bruutal's rocket
+Szarley almost dodged LoG's rocket
+Aeson was electrocuted by [ByQ]Descent
+[ByQ]Descent was electrocuted by g3 nme
+davide ate Make's rocket
+dr4g0nizd: u want to be good at ffa?
+psikuta almost dodged Bruutal's rocket
+dr4g0nizd was melted by g3 nme's plasmagun
+psikuta: :)
+LoG almost dodged Szarley's rocket
+zandwitch ate Dragonfly's rocket
+Bruutal blew himself up.
+1337 h4x0r ate LoG's rocket
+g3 nme ate Aeson's rocket
+Make was electrocuted by psikuta
+PromeX was electrocuted by [ByQ]Descent
+Shotgun Soph Rs™ connected
+Dragonfly almost dodged Aeson's rocket
+Aeson was electrocuted by Make
+dr4g0nizd ate psikuta's rocket
+LoG ate g3 nme's rocket
+dr4g0nizd: ustop being scared of other players
+[ByQ]Descent almost dodged psikuta's rocket
+1337 h4x0r ate zandwitch's rocket
+PromeX was electrocuted by Make
+psikuta got the Battle Suit!
+Aeson ate g3 nme's rocket
+Szarley was electrocuted by [ByQ]Descent
+zandwitch almost dodged psikuta's rocket
+g3 nme ate PromeX's rocket
+dr4g0nizd almost dodged psikuta's rocket
+Bruutal almost dodged Aeson's rocket
+davide ate LoG's rocket
+Make almost dodged Shotgun Soph Rs™'s rocket
+[ByQ]Descent was electrocuted by g3 nme
+1337 h4x0r ate PromeX's rocket
+Aeson ate LoG's rocket
+zandwitch was electrocuted by g3 nme
+Shotgun Soph Rs™ almost dodged g3 nme's rocket
+Dragonfly was electrocuted by [ByQ]Descent
+LoG ate g3 nme's rocket
+Szarley ate Aeson's rocket
+[ByQ]Descent ate dr4g0nizd's grenade
+g3 nme ate PromeX's rocket
+Bruutal ate Aeson's rocket
+Aeson almost dodged davide's rocket
+davide ate Bruutal's rocket
+LoG almost dodged Make's rocket
+1337 h4x0r ate dr4g0nizd's grenade
+dr4g0nizd almost dodged [ByQ]Descent's rocket
+[ByQ]Descent killed the Battle Suit carrier!
+psikuta ate [ByQ]Descent's rocket
+PromeX almost dodged zandwitch's rocket
+Make was in the wrong place.
+Shotgun Soph Rs™ ate psikuta's rocket
+Szarley ate g3 nme's rocket
+g3 nme almost dodged Dragonfly's rocket
+Aeson ate davide's rocket
+Dragonfly almost dodged davide's rocket
+1337 h4x0r was gunned down by [ByQ]Descent
+davide ate LoG's rocket
+PromeX ate psikuta's rocket
+Bruutal ate LoG's rocket
+[ByQ]Descent almost dodged Aeson's rocket
+psikuta ate davide's rocket
+zandwitch almost dodged g3 nme's rocket
+Szarley ate dr4g0nizd's rocket
+g3 nme was railed by Make
+Shotgun Soph Rs™ cratered.
+Aeson almost dodged Bruutal's rocket
+dr4g0nizd was electrocuted by [ByQ]Descent
+Shotgun Soph Rs™ disconnected
+PromeX almost dodged psikuta's rocket
+[ByQ]Descent ate dr4g0nizd's grenade
+1337 h4x0r ate Bruutal's rocket
+davide ate dr4g0nizd's grenade
+Dragonfly was electrocuted by g3 nme
+g3 nme almost dodged Aeson's rocket
+Szarley was in the wrong place.
+dr4g0nizd was electrocuted by [ByQ]Descent
+Make almost dodged Aeson's rocket
+Bruutal almost dodged davide's rocket
+Aeson almost dodged zandwitch's rocket
+davide was electrocuted by g3 nme
+lostcost connected
+[ByQ]Descent ate Bruutal's rocket
+PromeX almost dodged LoG's rocket
+1337 h4x0r ate g3 nme's rocket
+[ByQ]Descent: =))
+dr4g0nizd ate psikuta's rocket
+zandwitch almost dodged Szarley's rocket
+Szarley almost dodged Make's rocket
+LoG was railed by [ByQ]Descent
+Bruutal almost dodged psikuta's rocket
+psikuta ate Aeson's rocket
+davide ate g3 nme's rocket
+Dragonfly almost dodged psikuta's rocket
+Make ate LoG's rocket
+Aeson almost dodged Szarley's rocket
+g3 nme was electrocuted by psikuta
+1337 h4x0r almost dodged PromeX's rocket
+Szarley almost dodged LoG's rocket
+psikuta almost dodged LoG's rocket
+Bruutal almost dodged zandwitch's rocket
+Dragonfly was melted by g3 nme's plasmagun
+[ByQ]Descent almost dodged Aeson's rocket
+davide almost dodged Make's rocket
+LoG ate Szarley's rocket
+dr4g0nizd was gunned down by Aeson
+1337 h4x0r blew himself up.
+g3 nme almost dodged Make's rocket
+zandwitch was electrocuted by Make
+Aeson almost dodged [ByQ]Descent's rocket
+Make ate psikuta's rocket
+davide ate Dragonfly's rocket
+Szarley almost dodged LoG's rocket
+dr4g0nizd was electrocuted by g3 nme
+Dragonfly was in the wrong place.
+[ByQ]Descent was melted by zandwitch's plasmagun
+1337 h4x0r ate g3 nme's rocket
+psikuta almost dodged zandwitch's rocket
+zandwitch ate dr4g0nizd's grenade
+PromeX almost dodged LoG's rocket
+psikuta: :)
+g3 nme almost dodged Aeson's rocket
+LoG almost dodged psikuta's rocket
+Make almost dodged PromeX's rocket
+Aeson almost dodged [ByQ]Descent's rocket
+Bruutal almost dodged [ByQ]Descent's rocket
+Szarley almost dodged [ByQ]Descent's rocket
+[ByQ]Descent was electrocuted by psikuta
+1337 h4x0r blew himself up.
+davide ate psikuta's rocket
+Dragonfly almost dodged LoG's rocket
+dr4g0nizd almost dodged PromeX's rocket
+zandwitch was electrocuted by [ByQ]Descent
+PromeX was electrocuted by [ByQ]Descent
+[ByQ]Descent was electrocuted by Make
+davide ate psikuta's rocket
+Bruutal almost dodged Aeson's rocket
+Aeson ate LoG's rocket
+g3 nme ate LoG's rocket
+Szarley almost dodged zandwitch's rocket
+dr4g0nizd was electrocuted by 1337 h4x0r
+1337 h4x0r ate dr4g0nizd's grenade
+LoG almost dodged PromeX's rocket
+Dragonfly was electrocuted by [ByQ]Descent
+davide disconnected
+psikuta ate Aeson's rocket
+[ByQ]Descent almost dodged g3 nme's rocket
+1337 h4x0r ate zandwitch's rocket
+zandwitch almost dodged PromeX's rocket
+Aeson got the Battle Suit!
+LoG was railed by g3 nme
+Szarley almost dodged psikuta's rocket
+PromeX was shredded by dr4g0nizd's shrapnel
+Make was shredded by dr4g0nizd's shrapnel
+Dragonfly was in the wrong place.
+g3 nme was shredded by dr4g0nizd's shrapnel
+1337 h4x0r was melted by Bruutal's plasmagun
+psikuta was in the wrong place.
+lostcost disconnected
+psikuta: asd
+zandwitch was electrocuted by [ByQ]Descent
+1337 h4x0r disconnected
+Szarley was melted by Bruutal's plasmagun
+dr4g0nizd was electrocuted by Make
+Yaldyr connected
+g3 nme almost dodged LoG's rocket
+Bruutal ate LoG's rocket
+Make was in the wrong place.
+PromeX almost dodged psikuta's rocket
+Make disconnected
+psikuta ate [ByQ]Descent's rocket
+zmievskiy connected
+Szarley was electrocuted by g3 nme
+Dragonfly was in the wrong place.
+[ByQ]Descent ate psikuta's rocket
+LoG ate dr4g0nizd's grenade
+zandwitch blew himself up.
+zandwitch: +axccc
+psikuta ate g3 nme's rocket
+g3 nme: :)
+[ByQ]Descent killed the Battle Suit carrier!
+Aeson was electrocuted by [ByQ]Descent
+Bruutal almost dodged [ByQ]Descent's rocket
+Dragonfly ate LoG's rocket
+[ByQ]Descent almost dodged g3 nme's rocket
+zandwitch ate psikuta's rocket
+g3 nme almost dodged Szarley's rocket
+LoG was shredded by dr4g0nizd's shrapnel
+dr4g0nizd ate psikuta's rocket
+PromeX was electrocuted by [ByQ]Descent
+Aeson almost dodged psikuta's rocket
+psikuta almost dodged Aeson's rocket
+Szarley ate Bruutal's rocket
+Dragonfly almost dodged g3 nme's rocket
+[ByQ]Descent almost dodged g3 nme's rocket
+Yaldyr almost dodged g3 nme's rocket
+zandwitch ate PromeX's rocket
+g3 nme almost dodged PromeX's rocket
+PromeX almost dodged psikuta's rocket
+dr4g0nizd was in the wrong place.
+Bruutal blew himself up.
+Szarley was railed by [ByQ]Descent
+Dragonfly was electrocuted by g3 nme
+LoG blew himself up.
+zandwitch almost dodged psikuta's rocket
+PromeX was electrocuted by [ByQ]Descent
+psikuta ate Bruutal's rocket
+dr4g0nizd almost dodged g3 nme's rocket
+zmievskiy was electrocuted by [ByQ]Descent
+Yaldyr almost dodged zandwitch's rocket
+Szarley almost dodged Aeson's rocket
+Bruutal ate g3 nme's rocket
+g3 nme almost dodged psikuta's rocket
+Dragonfly almost dodged [ByQ]Descent's rocket
+Aeson ate psikuta's rocket
+PromeX was shredded by dr4g0nizd's shrapnel
+zandwitch was shredded by dr4g0nizd's shrapnel
+zmievskiy was electrocuted by g3 nme
+LoG was in the wrong place.
+[ByQ]Descent ate zandwitch's rocket
+Dragonfly almost dodged Aeson's rocket
+Szarley ate psikuta's rocket
+dr4g0nizd almost dodged zandwitch's rocket
+Yaldyr ate Bruutal's rocket
+Aeson ate LoG's rocket
+PromeX was electrocuted by [ByQ]Descent
+psikuta ate dr4g0nizd's grenade
+Dragonfly ate LoG's rocket
+Aeson almost dodged psikuta's rocket
+g3 nme ate [ByQ]Descent's rocket
+zandwitch blew himself up.
+MOTYLA NOGA connected
+[ByQ]Descent ate PromeX's rocket
+Bruutal almost dodged Yaldyr's rocket
+psikuta ate dr4g0nizd's rocket
+Dragonfly ate psikuta's rocket
+Szarley almost dodged Aeson's rocket
+zmievskiy almost dodged Aeson's rocket
+dr4g0nizd was melted by g3 nme's plasmagun
+psikuta: :)
+Aeson was in the wrong place.
+Skafa connected
+g3 nme almost dodged Yaldyr's rocket
+LoG almost dodged Yaldyr's rocket
+Yaldyr blew himself up.
+Bruutal was electrocuted by Dragonfly
+zandwitch almost dodged Aeson's rocket
+dr4g0nizd was electrocuted by zmievskiy
+psikuta was in the wrong place.
+PromeX was electrocuted by g3 nme
+Dragonfly ate [ByQ]Descent's rocket
+LoG ate Aeson's rocket
+Szarley ate psikuta's rocket
+g3 nme almost dodged Yaldyr's rocket
+Aeson was railed by [ByQ]Descent
+dr4g0nizd was electrocuted by g3 nme
+Yaldyr almost dodged psikuta's rocket
+zandwitch blew himself up.
+Dragonfly was electrocuted by LoG
+LoG almost dodged psikuta's rocket
+zmievskiy was melted by zandwitch's plasmagun
+g3 nme was shredded by dr4g0nizd's shrapnel
+zandwitch ate Aeson's rocket
+Szarley ate [ByQ]Descent's rocket
+Skafa ate psikuta's rocket
+psikuta ate LoG's rocket
+Yaldyr almost dodged Aeson's rocket
+MOTYLA NOGA ate dr4g0nizd's grenade
+[ByQ]Descent ate LoG's rocket
+dr4g0nizd ate Dragonfly's rocket
+zandwitch almost dodged Yaldyr's rocket
+Aeson was shredded by dr4g0nizd's shrapnel
+Yaldyr ate g3 nme's rocket
+MOTYLA NOGA got the Battle Suit!
+LoG almost dodged zandwitch's rocket
+Bruutal was melted by g3 nme's plasmagun
+PromeX was shredded by MOTYLA NOGA's shrapnel
+zmievskiy almost dodged [ByQ]Descent's rocket
+[ByQ]Descent ate Yaldyr's rocket
+Dragonfly almost dodged psikuta's rocket
+Yaldyr was shredded by dr4g0nizd's shrapnel
+zandwitch ate g3 nme's rocket
+g3 nme blew himself up.
+dr4g0nizd tripped on his own grenade.
+psikuta was shredded by MOTYLA NOGA's shrapnel
+Skafa ate Yaldyr's rocket
+PromeX ate psikuta's rocket
+Dragonfly was melted by zandwitch's plasmagun
+LoG ate Yaldyr's rocket
+Szarley ate MOTYLA NOGA's grenade
+zandwitch was melted by g3 nme's plasmagun
+zmievskiy almost dodged Aeson's rocket
+Bruutal was in the wrong place.
+psikuta almost dodged PromeX's rocket
+Yaldyr was electrocuted by Aeson
+g3 nme was in the wrong place.
+[ByQ]Descent ate dr4g0nizd's grenade
+[ByQ]Descent: =))
+dr4g0nizd: :)
+Skafa was shredded by dr4g0nizd's shrapnel
+Bruutal ate Szarley's rocket
+Aeson almost dodged Yaldyr's rocket
+LoG almost dodged psikuta's rocket
+Dragonfly ate dr4g0nizd's grenade
+Yaldyr ate dr4g0nizd's rocket
+g3 nme ate [ByQ]Descent's rocket
+dr4g0nizd almost dodged [ByQ]Descent's rocket
+PromeX was gunned down by psikuta
+MOTYLA NOGA almost dodged [ByQ]Descent's rocket
+[ByQ]Descent almost dodged MOTYLA NOGA's rocket
+Szarley ate Bruutal's rocket
+zandwitch blew himself up.
+zmievskiy ate Aeson's rocket
+psikuta was railed by PromeX
+LoG was electrocuted by g3 nme
+Dragonfly was melted by zandwitch's plasmagun
+zmievskiy almost dodged Yaldyr's rocket
+Skafa was railed by [ByQ]Descent
+Bruutal almost dodged g3 nme's rocket
+dr4g0nizd was in the wrong place.
+g3 nme almost dodged LoG's rocket
+Yaldyr almost dodged [ByQ]Descent's rocket
+zandwitch was electrocuted by Dragonfly
+Aeson almost dodged LoG's rocket
+[ByQ]Descent ate zmievskiy's rocket
+MOTYLA NOGA almost dodged LoG's rocket
+LoG ate Yaldyr's rocket
+Dragonfly was electrocuted by zandwitch
+PromeX almost dodged zmievskiy's rocket
+zmievskiy was gunned down by g3 nme
+[ByQ]Descent almost dodged Aeson's rocket
+Szarley almost dodged Yaldyr's rocket
+Yaldyr ate psikuta's rocket
+Aeson was shredded by dr4g0nizd's shrapnel
+g3 nme almost dodged Skafa's rocket
+psikuta ate LoG's rocket
+Skafa almost dodged Szarley's rocket
+dr4g0nizd almost dodged [ByQ]Descent's rocket
+MOTYLA NOGA almost dodged Yaldyr's rocket
+Yaldyr almost dodged LoG's rocket
+PromeX almost dodged [ByQ]Descent's rocket
+LoG almost dodged Skafa's rocket
+Bruutal almost dodged psikuta's rocket
+zmievskiy was electrocuted by g3 nme
+zandwitch was electrocuted by Dragonfly
+[ByQ]Descent was shredded by dr4g0nizd's shrapnel
+Dragonfly was shredded by dr4g0nizd's shrapnel
+MOTYLA NOGA almost dodged Aeson's rocket
+Aeson blew himself up.
+g3 nme almost dodged Yaldyr's rocket
+psikuta ate PromeX's rocket
+Bruutal almost dodged zmievskiy's rocket
+dr4g0nizd almost dodged [ByQ]Descent's rocket
+zmievskiy ate zandwitch's rocket
+[ByQ]Descent was electrocuted by g3 nme
+Szarley almost dodged LoG's rocket
+PromeX almost dodged Yaldyr's rocket
+zandwitch almost dodged Skafa's rocket
+g3 nme almost dodged Aeson's rocket
+Aeson ate psikuta's rocket
+Dragonfly ate [ByQ]Descent's rocket
+dr4g0nizd tripped on his own grenade.
+psikuta almost dodged zmievskiy's rocket
+zmievskiy was electrocuted by g3 nme
+g3 nme was electrocuted by Yaldyr
+Skafa blew himself up.
+[ByQ]Descent ate Dragonfly's rocket
+Szarley ate LoG's rocket
+LoG blew himself up.
+Bruutal was railed by Yaldyr
+Dragonfly almost dodged zandwitch's rocket
+Yaldyr ate Dragonfly's rocket
+Aeson was shredded by dr4g0nizd's shrapnel
+PromeX was electrocuted by g3 nme
+zmievskiy ate Szarley's rocket
+dr4g0nizd was electrocuted by [ByQ]Descent
+g3 nme almost dodged Skafa's rocket
+psikuta almost dodged Bruutal's rocket
+MOTYLA NOGA was electrocuted by Dragonfly
+Dragonfly ate Aeson's rocket
+Szarley almost dodged zandwitch's rocket
+LoG was electrocuted by g3 nme
+[ByQ]Descent almost dodged Bruutal's rocket
+zandwitch ate Szarley's rocket
+Yaldyr was electrocuted by g3 nme
+g3 nme ate Bruutal's rocket
+dr4g0nizd almost dodged Aeson's rocket
+psikuta ate Bruutal's rocket
+Aeson ate PromeX's grenade
+LoG was in the wrong place.
+Dragonfly was electrocuted by [ByQ]Descent
+zmievskiy was electrocuted by g3 nme
+Skafa ate MOTYLA NOGA's grenade
+Bruutal was shredded by MOTYLA NOGA's shrapnel
+g3 nme hit the fraglimit.
+zandwitch was electrocuted by g3 nme
+Aeson: g
+psikuta: joke
+[ByQ]Descent: =))
+Stopped demo.
+Wrote screenshots/FFA-[ByQ]Descent-hellsgate-2016_08_28-15_33_00.jpg
+g3 nme: yup
+psikuta: not you
+psikuta: second score
+g3 nme: that's y u don't play rocket :)
+psikuta: :DDD
+Szarley disconnected
+[ByQ]Descent: =)))))
+Aeson tried to invade Skafa's personal space
+Skafa tried to invade psikuta's personal space
+psikuta tried to invade zandwitch's personal space
+g3 nme: i know mate
+Yaldyr disconnected
+[ByQ]Descent: :D
+[ByQ]Descent switched teams.
+g3 nme was melted by LoG's plasmagun
+Dragonfly was electrocuted by Aeson
+PromeX was melted by zmievskiy's plasmagun
+g3 nme: it's just a mode
+zandwitch called a vote.
+dr4g0nizd almost dodged psikuta's rocket
+Bruutal almost dodged Skafa's rocket
+zmievskiy almost dodged Skafa's rocket
+g3 nme was melted by LoG's plasmagun
+MOTYLA NOGA was gunned down by Aeson
+psikuta was melted by LoG's plasmagun
+Skafa ate zandwitch's rocket
+g3 nme: where luck is like 50 percent of a win
+PromeX was in the wrong place.
+zmievskiy was melted by LoG's plasmagun
+zandwitch was melted by Bruutal's plasmagun
+Aeson almost dodged MOTYLA NOGA's rocket
+Dragonfly was in the wrong place.
+MOTYLA NOGA ate Aeson's rocket
+Skafa ate Aeson's rocket
+psikuta ate Aeson's rocket
+g3 nme ate Bruutal's rocket
+PromeX ate zandwitch's rocket
+zmievskiy was in the wrong place.
+Aeson almost dodged Skafa's rocket
+MOTYLA NOGA was melted by LoG's plasmagun
+psikuta ate g3 nme's rocket
+Bruutal blew himself up.
+psikuta: you need feeling which one to hit
+LoG was melted by zmievskiy's plasmagun
+psikuta: :d
+g3 nme was melted by dr4g0nizd's plasmagun
+Vote failed.
+Skafa was melted by zmievskiy's plasmagun
+zmievskiy was in the wrong place.
+g3 nme: yup
+psikuta: to score i mean
+Dragonfly was melted by Bruutal's plasmagun
+dr4g0nizd almost dodged zandwitch's rocket
+Skafa got the Red Armor.
+g3 nme: 'sound'
+g3 nme: :)
+zandwitch was melted by dr4g0nizd's plasmagun
+Aeson ate psikuta's rocket
+PromeX was electrocuted by MOTYLA NOGA
+Aeson: nah i think if ur fast its not all luck
+g3 nme was melted by dr4g0nizd's plasmagun
+[ByQ]Descent: tactics and strategy matters ... =))
+LoG almost dodged Skafa's rocket
+g3 nme: i once lost with 24k
+MOTYLA NOGA almost dodged psikuta's rocket
+Dragonfly was in the wrong place.
+Bruutal was melted by dr4g0nizd's plasmagun
+PromeX got the Battle Suit!
+psikuta: :)
+psikuta: :)
+psikuta: :)
+psikuta: :)
+psikuta: :)
+psikuta: :)
+g3 nme: maybe to you?
+dr4g0nizd was melted by zmievskiy's plasmagun
+Skafa almost dodged MOTYLA NOGA's rocket
+Aeson was railed by Dragonfly
+zandwitch almost dodged MOTYLA NOGA's rocket
+g3 nme: almostlost?
+zmievskiy ate psikuta's rocket
+g3 nme: first one had 14k
+LoG was melted by Bruutal's plasmagun
+Skafa was railed by Dragonfly
+Bruutal almost dodged Aeson's rocket
+zandwitch called a vote.
+psikuta: rather not
+psikuta almost dodged PromeX's rocket
+g3 nme: no, some ukrainian guy
+Aeson was melted by Skafa's plasmagun
+dr4g0nizd tripped on his own grenade.
+Skafa was shredded by LoG's shrapnel
+zmievskiy ate LoG's grenade
+Dragonfly was electrocuted by MOTYLA NOGA
+g3 nme: warpy guy
+dr4g0nizd got the Red Armor.
+Bruutal was melted by zandwitch's plasmagun
+psikuta was melted by zandwitch's plasmagun
+psikuta: we are most of the case in line with dmg
+g3 nme: can't recall his name
+zandwitch ate PromeX's grenade
+Aeson: its still skill to lasthit optimally idk
+MOTYLA NOGA was shredded by LoG's shrapnel
+psikuta was electrocuted by Dragonfly
+g3 nme ate LoG's grenade
+Dragonfly was melted by zmievskiy's plasmagun
+dr4g0nizd was melted by zandwitch's plasmagun
+Aeson blew himself up.
+g3 nme: :)
+g3 nme: hehe :)
+You may not participate in this vote.
+g3 nme: lasthit :)
+g3 nme almost dodged MOTYLA NOGA's rocket
+zmievskiy was electrocuted by Aeson
+zandwitch was melted by dr4g0nizd's plasmagun
+dr4g0nizd ate [ByQ]Descent's rocket
+psikuta was electrocuted by Dragonfly
+LoG was electrocuted by [ByQ]Descent
+Vote failed.
+Bruutal was electrocuted by Dragonfly
+g3 nme: an actual thing in ffa :)
+Skafa almost dodged PromeX's rocket
+psikuta: yep your skill is ending with gametype
+LoG called a vote.
+PromeX almost dodged Aeson's rocket
+MOTYLA NOGA was electrocuted by psikuta
+dr4g0nizd almost dodged Aeson's rocket
+[ByQ]Descent almost dodged psikuta's rocket
+g3 nme was melted by Dragonfly's plasmagun
+Skafa ate MOTYLA NOGA's rocket
+Dragonfly was melted by zmievskiy's plasmagun
+Aeson blew himself up.
+dr4g0nizd almost dodged psikuta's rocket
+PromeX was shredded by LoG's shrapnel
+MOTYLA NOGA was melted by zandwitch's plasmagun
+psikuta was shredded by dr4g0nizd's shrapnel
+zandwitch almost dodged Aeson's rocket
+PromeX: pls vote yes just change tehe fucking map
+[ByQ]Descent was electrocuted by Dragonfly
+Skafa ate Aeson's rocket
+Dragonfly was melted by zandwitch's plasmagun
+Bruutal was melted by zandwitch's plasmagun
+Aeson was melted by zandwitch's plasmagun
+[ByQ]Descent: :DDDDDDDDDDDDDDDDDDDDDDD
+zmievskiy was melted by zandwitch's plasmagun
+zandwitch was melted by MOTYLA NOGA's plasmagun
+g3 nme was electrocuted by Dragonfly
+MOTYLA NOGA ate LoG's grenade
+Bruutal was shredded by LoG's shrapnel
+[ByQ]Descent almost dodged dr4g0nizd's rocket
+Aeson: im not votin for space lameber
+psikuta: i was playing recently with most top ffa guys
+PromeX was in the wrong place.
+Vote failed.
+dr4g0nizd almost dodged [ByQ]Descent's rocket
+g3 nme ate Skafa's rocket
+zmievskiy was melted by Bruutal's plasmagun
+Dragonfly almost dodged [ByQ]Descent's rocket
+zmievskiy disconnected
+Bruutal was melted by zandwitch's plasmagun
+PromeX was in the wrong place.
+zandwitch ate [ByQ]Descent's rocket
+g3 nme: don't tell that to dragonized
+LoG was melted by PromeX's plasmagun
+g3 nme almost dodged Skafa's rocket
+psikuta: and clearly for me cook is really unbeatable
+psikuta: :D
+[ByQ]Descent ate Aeson's rocket
+Aeson was melted by Bruutal's plasmagun
+LoG called a vote.
+g3 nme: well you beat him
+psikuta ate dr4g0nizd's rocket
+PromeX ate Skafa's rocket
+g3 nme: a few times
+dr4g0nizd almost dodged Bruutal's rocket
+[ByQ]Descent was melted by LoG's plasmagun
+Dragonfly was melted by LoG's plasmagun
+psikuta: out of 100 games
+zandwitch was melted by MOTYLA NOGA's plasmagun
+MOTYLA NOGA ate Aeson's rocket
+psikuta: you loose 70
+Skafa was melted by PromeX's plasmagun
+dr4g0nizd was melted by LoG's plasmagun
+g3 nme: he's really good at quad
+Bruutal was electrocuted by Dragonfly
+g3 nme was melted by LoG's plasmagun
+psikuta: yep, he is
+zandwitch was melted by LoG's plasmagun
+g3 nme: i rarely played him
+Skafa was melted by dr4g0nizd's plasmagun
+LoG was electrocuted by psikuta
+[ByQ]Descent almost dodged psikuta's rocket
+]\writec
+    writeconfig
+    writeClientConfig
+Dragonfly was railed by Aeson
+PromeX was gunned down by zandwitch
+psikuta ate dr4g0nizd's rocket
+Skafa almost dodged dr4g0nizd's rocket
+dr4g0nizd was melted by Bruutal's plasmagun
+]\writec
+    writeconfig
+    writeClientConfig
+PromeX disconnected
+g3 nme: although i was constantly beating him when he was bunnye
+g3 nme was gunned down by zandwitch
+Skafa got the Battle Suit!
+Vote failed.
+Aeson ate Bruutal's rocket
+Skafa was in the wrong place.
+]\l
+    lock
+    listaccess
+    levelshot
+    loaddeferred
+    loadhud
+    ListInputDevices
+    listcvars
+    listcmds
+    logfile = "0"
+    lobby_autoconnect = ""
+Bruutal almost dodged dr4g0nizd's rocket
+Dragonfly ate MOTYLA NOGA's rocket
+[ByQ]Descent ate psikuta's rocket
+dr4g0nizd ate Aeson's rocket
+]\to
+    touchFile
+    togglechathistory
+    toggleconsole
+    toggle
+LoG almost dodged MOTYLA NOGA's rocket
+LoG called a vote.
+g3 nme: now he's really good with quad and powerups in general
+Bruutal switched teams.
+g3 nme ate psikuta's rocket
+zandwitch was electrocuted by Aeson
+]\con
+    connect
+    condump
+    confirmOrder
+    configstrings
+    connect_lobby
+    con_noprint = "0"
+    con_matchlimit = "16"
+    con_background = "0"
+    con_height = "0.5"
+    con_opacity = "0.9"
+    con_scale = "0.5"
+    con_speed = "3"
+    con_timestamps = "0"
+dr4g0nizd ate MOTYLA NOGA's rocket
+psikuta: yep
+g3 nme: literally builds up the stack for them
+[ByQ]Descent was electrocuted by Dragonfly
+trying ui/assets/flags/nepal.TGA...
+g3 nme: lol
+Aeson was melted by MOTYLA NOGA's plasmagun
+LoG was melted by MOTYLA NOGA's plasmagun
+]\condump
+usage: condump <filename>
+g3 nme was gunned down by zandwitch
+Skafa was melted by MOTYLA NOGA's plasmagun
+MOTYLA NOGA was melted by Skafa's plasmagun
+psikuta was electrocuted by Dragonfly
+psikuta: ye
+LoG almost dodged dr4g0nizd's rocket
+psikuta: but in duel he's not that strong
+dr4g0nizd was gunned down by zandwitch
+Aeson was in the wrong place.
+zandwitch was melted by Dragonfly's plasmagun
+g3 nme ate MOTYLA NOGA's rocket
+Dragonfly almost dodged psikuta's rocket
+[ByQ]Descent ate psikuta's rocket
+g3 nme: he's lacking aim
+Vote failed.
+g3 nme: and dodge
+]\condump ffa-custom-28-08-2016
+Dumped console text to ffa-custom-28-08-2016.
+

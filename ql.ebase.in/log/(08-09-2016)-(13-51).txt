@@ -1,0 +1,1344 @@
+GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr
+GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array
+GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4
+GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal
+GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp
+GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp
+GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_IBM_rasterpos_clip
+GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp
+GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage
+GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil
+GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2
+GL_NV_shader_buffer_load GL_NV_texgen_reflectioGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: 12, 1182 x 793 windowed hz:85
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 298 milli seconds
+UI menu load time = 201 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 4 LoD cracks
+...loaded 3796 faces, 306 meshes, 62 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 813 milli seconds
+CL_InitCGame:  6.21 seconds
+5 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+
+----------------------
+9551 files in pk3 files
+dfpimmortal3 got the Red Armor.
+цыганский was melted by Pio_GGG's plasmagun
+5killer was electrocuted by Ghibe
+TARS was in the wrong place.
+recording to demos/FFA-overkill-2016_09_08-06_18_57.dm_91.
+reblochon: hf
+5killer was in the wrong place.
+цыганский switched teams.
+║▌║█║▌│║▌║: old maps for old spawns
+toff connected
+TARS got the Red Armor.
+dfpimmortal3 got the Mega Health.
+foque was electrocuted by jelito666
+5killer was electrocuted by цыганский
+цыганский was electrocuted by Ghibe
+tramal ate TARS's rocket
+bdjumakov was railed by reblochon
+beisikki connected
+Pio_GGG was electrocuted by jelito666
+dfpimmortal3 was electrocuted by цыганский
+║▌║█║▌│║▌║: darndest*
+5killer was electrocuted by Ghibe
+tramal was electrocuted by Ghibe
+Ghibe was electrocuted by dfpimmortal3
+foque ate beisikki's rocket
+bdjumakov was electrocuted by цыганский
+цыганский was electrocuted by reblochon
+TARS almost dodged beisikki's rocket
+beisikki was electrocuted by 5killer
+toff disconnected
+jelito666 got the Red Armor.
+Ghibe was gunned down by dfpimmortal3
+dfpimmortal3 was electrocuted by TARS
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ connected
+reblochon was electrocuted by Ghibe
+tramal was electrocuted by beisikki
+цыганский almost dodged TARS's rocket
+bdjumakov was electrocuted by Pio_GGG
+foque was railed by reblochon
+Pio_GGG was electrocuted by dfpimmortal3
+TARS got the Mega Health.
+5killer was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+TARS almost dodged dfpimmortal3's rocket
+цыганский got the Regeneration!
+bdjumakov almost dodged beisikki's rocket
+jelito666 got the Quad Damage!
+Ghibe killed the Regeneration carrier!
+цыганский ate Ghibe's rocket
+dfpimmortal3 was electrocuted by jelito666
+dfpimmortal3 killed the Quad Damage carrier!
+jelito666 ate dfpimmortal3's rocket
+beisikki was gunned down by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by TARS
+foque blew himself up.
+цыганский killed the Regeneration carrier!
+Ghibe was electrocuted by цыганский
+tramal was electrocuted by 5killer
+dfpimmortal3 got the Red Armor.
+jelito666 was electrocuted by TARS
+bdjumakov was railed by TARS
+5killer killed the Quad Damage carrier!
+TARS was electrocuted by 5killer
+beisikki was gunned down by dfpimmortal3
+Ghibe was electrocuted by 5killer
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by jelito666
+tramal killed the Regeneration carrier!
+цыганский was electrocuted by tramal
+tramal killed the Regeneration carrier!
+foque ate tramal's rocket
+║▌║█║▌│║▌║: i can scroll down
+dfpimmortal3 ate jelito666's rocket
+beisikki ate TARS's rocket
+TARS was railed by Pio_GGG
+foque killed the Quad Damage carrier!
+5killer was railed by foque
+Ghibe got the Mega Health.
+foque was electrocuted by Ghibe
+Pio_GGG was electrocuted by dfpimmortal3
+tramal was electrocuted by цыганский
+bdjumakov was electrocuted by Ghibe
+reblochon killed the Quad Damage carrier!
+Ghibe was electrocuted by reblochon
+reblochon was electrocuted by TARS
+foque was electrocuted by jelito666
+beisikki ate tramal's rocket
+цыганский almost dodged dfpimmortal3's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was in the wrong place.
+5killer almost dodged tramal's rocket
+dfpimmortal3 blew himself up.
+TARS was electrocuted by reblochon
+tramal was electrocuted by Ghibe
+jelito666 was railed by Ghibe
+Pio_GGG was in the wrong place.
+dfpimmortal3 got the Red Armor.
+foque was electrocuted by TARS
+bdjumakov ate beisikki's rocket
+Ghibe ate tramal's rocket
+reblochon was electrocuted by 5killer
+цыганский was electrocuted by TARS
+Pio_GGG was in the wrong place.
+dfpimmortal3 was electrocuted by jelito666
+jelito666 almost dodged bdjumakov's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by beisikki
+tramal was electrocuted by 5killer
+5killer almost dodged beisikki's rocket
+цыганский was in the wrong place.
+Ghibe almost dodged TARS's rocket
+reblochon ate ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+tramal was electrocuted by jelito666
+jelito666 got the Mega Health.
+dfpimmortal3 almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+Pio_GGG was electrocuted by 5killer
+5killer was electrocuted by Ghibe
+bdjumakov was electrocuted by jelito666
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by TARS
+reblochon was railed by beisikki
+TARS was railed by foque
+║▌║█║▌│║▌║: Smashing Pumpkins - Today
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Red Armor.
+цыганский was electrocuted by Ghibe
+bdjumakov was electrocuted by 5killer
+Ghibe was electrocuted by dfpimmortal3
+beisikki was electrocuted by jelito666
+tramal was electrocuted by 5killer
+dfpimmortal3 was electrocuted by Pio_GGG
+5killer was railed by reblochon
+Pio_GGG ate bdjumakov's rocket
+цыганский was electrocuted by jelito666
+tramal was electrocuted by цыганский
+Ghibe was railed by beisikki
+bdjumakov was electrocuted by 5killer
+TARS was railed by beisikki
+dfpimmortal3 was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by TARS
+bdjumakov was electrocuted by Ghibe
+5killer was electrocuted by tramal
+jelito666 was electrocuted by Ghibe
+цыганский was electrocuted by reblochon
+Pio_GGG was railed by reblochon
+jelito666 got the Mega Health.
+foque was electrocuted by jelito666
+dfpimmortal3 almost dodged TARS's rocket
+TARS was railed by reblochon
+5killer was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+tramal was railed by reblochon
+beisikki was railed by reblochon
+Ghibe was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+цыганский almost dodged dfpimmortal3's rocket
+jelito666 was electrocuted by TARS
+bdjumakov was railed by reblochon
+5killer was in the wrong place.
+TARS got the Red Armor.
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by цыганский
+jelito666 got the Regeneration!
+dfpimmortal3 was railed by reblochon
+Ghibe got the Quad Damage!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ killed the Quad Damage carrier!
+Ghibe was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Pio_GGG ate bdjumakov's rocket
+TARS was electrocuted by jelito666
+reblochon was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+5killer almost dodged bdjumakov's rocket
+foque was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+beisikki killed the Regeneration carrier!
+jelito666 was electrocuted by beisikki
+dfpimmortal3 almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+цыганский ate beisikki's rocket
+bdjumakov was electrocuted by reblochon
+foque was electrocuted by tramal
+reblochon killed the Quad Damage carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by reblochon
+TARS was electrocuted by Ghibe
+Ghibe was electrocuted by tramal
+tramal almost dodged reblochon's rocket
+цыганский was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+dfpimmortal3 got the Mega Health.
+jelito666 was railed by beisikki
+bdjumakov was electrocuted by TARS
+5killer was electrocuted by reblochon
+TARS got the Red Armor.
+jelito666 killed the Quad Damage carrier!
+dfpimmortal3 was electrocuted by jelito666
+reblochon was electrocuted by tramal
+foque killed the Quad Damage carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by foque
+TARS was in the wrong place.
+цыганский was electrocuted by tramal
+Pio_GGG was electrocuted by beisikki
+5killer was electrocuted by tramal
+beisikki was electrocuted by цыганский
+bdjumakov was electrocuted by tramal
+Ghibe was electrocuted by tramal
+dfpimmortal3 was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+foque was electrocuted by Pio_GGG
+jelito666 was electrocuted by 5killer
+Pio_GGG was electrocuted by tramal
+5killer was electrocuted by Ghibe
+цыганский was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+reblochon ate tramal's rocket
+tramal was railed by TARS
+dfpimmortal3 was railed by TARS
+TARS was electrocuted by цыганский
+jelito666 almost dodged beisikki's rocket
+Ghibe almost dodged reblochon's rocket
+foque got the Red Armor.
+tramal almost dodged dfpimmortal3's rocket
+Pio_GGG was railed by beisikki
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by jelito666
+dfpimmortal3 was electrocuted by TARS
+5killer almost dodged jelito666's rocket
+jelito666 got the Mega Health.
+Ghibe ate tramal's rocket
+цыганский was gunned down by TARS
+Pio_GGG was in the wrong place.
+5killer was electrocuted by TARS
+beisikki was electrocuted by Ghibe
+TARS was electrocuted by tramal
+bdjumakov was electrocuted by jelito666
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was gunned down by dfpimmortal3
+reblochon almost dodged Ghibe's rocket
+5killer was electrocuted by jelito666
+Ghibe almost dodged jelito666's rocket
+dfpimmortal3 got the Red Armor.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged dfpimmortal3's rocket
+dfpimmortal3 was railed by TARS
+foque was railed by цыганский
+5killer ate reblochon's rocket
+tramal almost dodged jelito666's rocket
+beisikki was electrocuted by jelito666
+jelito666 was electrocuted by 5killer
+Pio_GGG was electrocuted by tramal
+TARS was railed by Ghibe
+reblochon was gunned down by dfpimmortal3
+Ghibe was railed by beisikki
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by tramal
+цыганский was electrocuted by 5killer
+5killer was electrocuted by Ghibe
+tramal was railed by dfpimmortal3
+bdjumakov was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+beisikki was in the wrong place.
+foque was electrocuted by 5killer
+jelito666 got the Mega Health.
+dfpimmortal3 was electrocuted by TARS
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by beisikki
+TARS was electrocuted by reblochon
+Pio_GGG was electrocuted by 5killer
+tramal was electrocuted by Ghibe
+Ghibe was electrocuted by reblochon
+jelito666 ate цыганский's rocket
+5killer ate dfpimmortal3's rocket
+foque was electrocuted by TARS
+цыганский ate bdjumakov's grenade
+bdjumakov was electrocuted by цыганский
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by tramal
+Ghibe was electrocuted by tramal
+jelito666 got the Red Armor.
+dfpimmortal3 blew himself up.
+TARS was electrocuted by tramal
+bdjumakov was in the wrong place.
+reblochon ate beisikki's rocket
+5killer was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+bdjumakov: pedali
+jelito666 got the Regeneration!
+tramal ate Pio_GGG's rocket
+Ghibe was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by beisikki
+reblochon almost dodged dfpimmortal3's rocket
+Pio_GGG was electrocuted by jelito666
+beisikki was railed by цыганский
+dfpimmortal3 got the Quad Damage!
+TARS killed the Quad Damage carrier!
+dfpimmortal3 was electrocuted by TARS
+цыганский was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ghibe was electrocuted by tramal
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Mega Health.
+foque was electrocuted by jelito666
+5killer was electrocuted by tramal
+dfpimmortal3 was electrocuted by TARS
+tramal was railed by reblochon
+bdjumakov was electrocuted by beisikki
+Ghibe got the Red Armor.
+Pio_GGG almost dodged цыганский's rocket
+foque was electrocuted by 5killer
+Ghibe was railed by TARS
+dfpimmortal3 was railed by TARS
+5killer was electrocuted by tramal
+цыганский was electrocuted by jelito666
+foque was in the wrong place.
+jelito666 killed the Quad Damage carrier!
+TARS was electrocuted by jelito666
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by reblochon
+tramal was electrocuted by reblochon
+jelito666 was electrocuted by Ghibe
+reblochon was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+5killer was gunned down by dfpimmortal3
+bdjumakov was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Pio_GGG was railed by цыганский
+dfpimmortal3 was electrocuted by TARS
+Ghibe was electrocuted by TARS
+foque almost dodged reblochon's rocket
+jelito666 was electrocuted by 5killer
+5killer was railed by цыганский
+reblochon was railed by tramal
+Ghibe was electrocuted by dfpimmortal3
+TARS was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+tramal got the Mega Health.
+dfpimmortal3 was electrocuted by jelito666
+beisikki ate reblochon's rocket
+tramal ate bdjumakov's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by jelito666
+foque was electrocuted by reblochon
+dfpimmortal3 was in the wrong place.
+Pio_GGG was electrocuted by 5killer
+tramal: *=8]
+bdjumakov was electrocuted by 5killer
+TARS was electrocuted by Ghibe
+jelito666 was electrocuted by tramal
+reblochon was electrocuted by tramal
+5killer was gunned down by dfpimmortal3
+foque was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+jelito666 got the Red Armor.
+tramal was electrocuted by beisikki
+Ghibe was railed by цыганский
+Pio_GGG was electrocuted by 5killer
+цыганский was electrocuted by dfpimmortal3
+dfpimmortal3 was railed by beisikki
+foque was railed by TARS
+цыганский was railed by beisikki
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by Ghibe
+tramal almost dodged dfpimmortal3's rocket
+5killer was gunned down by dfpimmortal3
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ghibe was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+bdjumakov was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by beisikki
+dfpimmortal3 was electrocuted by jelito666
+TARS was electrocuted by Ghibe
+Pio_GGG was electrocuted by beisikki
+║▌║█║▌│║▌║: mac id the best opinion so far
+foque was electrocuted by reblochon
+jelito666 was electrocuted by TARS
+Pio_GGG got the Mega Health.
+tramal was railed by beisikki
+5killer was electrocuted by Ghibe
+TARS was electrocuted by jelito666
+dfpimmortal3 almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+reblochon cratered.
+jelito666 was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ghibe was gunned down by dfpimmortal3
+Pio_GGG was gunned down by TARS
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by reblochon
+beisikki was shredded by bdjumakov's shrapnel
+TARS was electrocuted by 5killer
+bdjumakov tripped on his own grenade.
+dfpimmortal3 was railed by foque
+reblochon was electrocuted by jelito666
+Ghibe got the Red Armor.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate tramal's rocket
+цыганский almost dodged bdjumakov's rocket
+Ghibe was in the wrong place.
+5killer was railed by foque
+jelito666 almost dodged Pio_GGG's rocket
+tramal was railed by TARS
+foque was electrocuted by 5killer
+jelito666 got the Regeneration!
+Pio_GGG was railed by цыганский
+5killer almost dodged beisikki's rocket
+dfpimmortal3 was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+TARS was electrocuted by reblochon
+tramal was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was in the wrong place.
+dfpimmortal3 got the Quad Damage!
+foque was electrocuted by Ghibe
+цыганский was gunned down by jelito666
+5killer was electrocuted by tramal
+tramal was railed by цыганский
+bdjumakov almost dodged beisikki's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was gunned down by dfpimmortal3
+foque was electrocuted by TARS
+reblochon got the Red Armor.
+5killer got the Mega Health.
+TARS was melted by Pio_GGG's plasmagun
+Ghibe was gunned down by dfpimmortal3
+Pio_GGG was railed by цыганский
+║▌║█║▌│║▌║: & why is ghibe here
+цыганский killed the Regeneration carrier!
+5killer was railed by цыганский
+jelito666 was railed by цыганский
+tramal killed the Quad Damage carrier!
+dfpimmortal3 almost dodged tramal's rocket
+jelito666: :)
+jelito666: :)
+jelito666: :)
+jelito666: :)
+jelito666: :)
+jelito666: :)
+5killer was electrocuted by tramal
+Pio_GGG was electrocuted by tramal
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by jelito666
+foque blew himself up.
+dfpimmortal3 almost dodged tramal's rocket
+reblochon was railed by TARS
+bdjumakov was electrocuted by jelito666
+цыганский was railed by foque
+jelito666 was electrocuted by tramal
+Ghibe was electrocuted by tramal
+reblochon was in the wrong place.
+tramal was electrocuted by jelito666
+TARS almost dodged dfpimmortal3's rocket
+Ghibe was electrocuted by jelito666
+5killer ate Pio_GGG's rocket
+jelito666 was railed by beisikki
+Pio_GGG was electrocuted by TARS
+bdjumakov was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+dfpimmortal3 almost dodged reblochon's rocket
+reblochon was electrocuted by jelito666
+jelito666 was electrocuted by TARS
+TARS almost dodged tramal's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Mega Health.
+║▌║█║▌│║▌║: 1.000.000-01 frag
+5killer was electrocuted by TARS
+Ghibe was electrocuted by dfpimmortal3
+tramal was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by TARS
+bdjumakov ate Pio_GGG's rocket
+foque was electrocuted by reblochon
+TARS was electrocuted by dfpimmortal3
+цыганский got the Red Armor.
+dfpimmortal3 ate jelito666's rocket
+Pio_GGG ate jelito666's rocket
+reblochon was electrocuted by tramal
+tramal was electrocuted by 5killer
+beisikki was electrocuted by Ghibe
+TARS was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by Ghibe
+jelito666 was electrocuted by tramal
+Pio_GGG ate reblochon's rocket
+dfpimmortal3 was electrocuted by TARS
+5killer was electrocuted by TARS
+bdjumakov was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+TARS was electrocuted by Ghibe
+цыганский almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+foque almost dodged TARS's rocket
+dfpimmortal3 was electrocuted by reblochon
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by bdjumakov
+beisikki was electrocuted by TARS
+tramal was electrocuted by dfpimmortal3
+5killer ate reblochon's rocket
+Pio_GGG was railed by цыганский
+TARS was railed by jelito666
+dfpimmortal3 was electrocuted by beisikki
+цыганский was railed by Ghibe
+reblochon was railed by TARS
+TARS got the Mega Health.
+tramal was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by dfpimmortal3
+Ghibe got the Red Armor.
+bdjumakov was electrocuted by цыганский
+5killer was electrocuted by TARS
+foque was electrocuted by цыганский
+TARS almost dodged reblochon's rocket
+Pio_GGG was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+beisikki was railed by jelito666
+5killer almost dodged dfpimmortal3's rocket
+reblochon ate Ghibe's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by foque
+dfpimmortal3 ate Pio_GGG's rocket
+цыганский was electrocuted by beisikki
+Ghibe was electrocuted by reblochon
+tramal was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Pio_GGG was in the wrong place.
+foque was in the wrong place.
+bdjumakov was electrocuted by jelito666
+beisikki got the Regeneration!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ killed the Regeneration carrier!
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+цыганский was electrocuted by tramal
+Pio_GGG almost dodged tramal's rocket
+jelito666 was railed by цыганский
+reblochon was electrocuted by dfpimmortal3
+Ghibe killed the Regeneration carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was ripped up by Ghibe's HMG
+beisikki got the Red Armor.
+Ghibe was electrocuted by jelito666
+5killer was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+TARS was electrocuted by jelito666
+beisikki was in the wrong place.
+bdjumakov was in the wrong place.
+tramal was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+dfpimmortal3 was railed by reblochon
+Ghibe got the Quad Damage!
+foque was in the wrong place.
+TARS got the Mega Health.
+jelito666 was electrocuted by Ghibe
+Ghibe was in the wrong place.
+цыганский was electrocuted by reblochon
+TARS was in the wrong place.
+tramal was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+bdjumakov was electrocuted by jelito666
+foque was electrocuted by jelito666
+reblochon was in the wrong place.
+5killer was electrocuted by jelito666
+beisikki was in the wrong place.
+foque disconnected
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged Ghibe's rocket
+Pio_GGG was in the wrong place.
+jelito666 was electrocuted by TARS
+dfpimmortal3 was electrocuted by TARS
+Ghibe was electrocuted by tramal
+beisikki got the Red Armor.
+5killer was electrocuted by jelito666
+цыганский was electrocuted by jelito666
+reblochon was electrocuted by tramal
+beisikki was in the wrong place.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged Pio_GGG's rocket
+jelito666 was electrocuted by Ghibe
+║▌║█║▌│║▌║: WILDCARD
+dfpimmortal3 was electrocuted by tramal
+Ghibe ate reblochon's rocket
+Pio_GGG almost dodged reblochon's rocket
+5killer was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+bdjumakov was electrocuted by tramal
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was melted by TARS's plasmagun
+цыганский was in the wrong place.
+tramal got the Mega Health.
+jelito666 was electrocuted by tramal
+tramal was gunned down by dfpimmortal3
+цыганский was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+TARS was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+dfpimmortal3 was electrocuted by 5killer
+Pio_GGG was electrocuted by tramal
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was in the wrong place.
+jelito666 got the Red Armor.
+5killer was electrocuted by dfpimmortal3
+Ghibe was electrocuted by tramal
+jelito666 was in the wrong place.
+tramal was electrocuted by TARS
+N3K! connected
+reblochon was electrocuted by jelito666
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ blew himself up.
+dfpimmortal3 was electrocuted by beisikki
+bdjumakov was electrocuted by Ghibe
+5killer was electrocuted by beisikki
+TARS was electrocuted by beisikki
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Pio_GGG was melted by reblochon's plasmagun
+Ghibe was electrocuted by tramal
+jelito666 was electrocuted by beisikki
+dfpimmortal3 almost dodged reblochon's rocket
+TARS almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+beisikki was electrocuted by jelito666
+Pio_GGG was electrocuted by TARS
+5killer was gunned down by dfpimmortal3
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was gunned down by dfpimmortal3
+jelito666 got the Mega Health.
+Ghibe was in the wrong place.
+jelito666 hit the fraglimit.
+tramal ate jelito666's rocket
+tramal: gg
+Stopped demo.
+Wrote screenshots/FFA-overkill-2016_09_08-06_29_44.jpg
+bdjumakov disconnected
+║▌║█║▌│║▌║: i believe
+Ghibe disconnected
+5killer disconnected
+dfpimmortal3 disconnected
+jelito666 disconnected
+цыганский got the Mega Health.
+TARS was in the wrong place.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by цыганский
+reblochon was railed by цыганский
+║▌║█║▌│║▌║ disconnected
+TARS called a vote.
+tramal disconnected
+цыганский almost dodged beisikki's rocket
+Pio_GGG was melted by beisikki's plasmagun
+TARS got the Red Armor.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was melted by beisikki's plasmagun
+beisikki was railed by цыганский
+Pio_GGG was in the wrong place.
+Pio_GGG disconnected
+Vote failed.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged beisikki's rocket
+цыганский was railed by N3K!
+reblochon timed out
+TARS got the Mega Health.
+N3K! was railed by beisikki
+N3K! got the Quad Damage!
+beisikki ate ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's grenade
+TARS was electrocuted by N3K!
+TARS disconnected
+цыганский killed the Quad Damage carrier!
+N3K! was railed by цыганский
+N3K! got the Red Armor.
+цыганский was gunned down by beisikki
+N3K! was gunned down by beisikki
+цыганский was ripped up by beisikki's HMG
+beisikki got the Mega Health.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by beisikki
+цыганский called a vote.
+Vote passed.
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: NVIDIA Corporation
+GL_RENDERER: GeForce 8800 GT/PCI/SSE2
+GL_VERSION: 3.3.0
+GL_EXTENSIONS: GL_ARB_blend_func_extended GL_ARB_color_buffer_float GL_ARB_compatibility GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_depth_texture GL_ARB_draw_buffers
+GL_ARB_draw_elements_base_vertex GL_ARB_draw_instanced GL_ARB_ES2_compatibility GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_program
+GL_ARB_fragment_program_shadow GL_ARB_fragment_shader GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_geometry_shader4 GL_ARB_get_program_binary GL_ARB_half_float_pixel
+GL_ARB_half_float_vertex GL_ARB_imaging GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query GL_ARB_occlusion_query2
+GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite GL_ARB_provoking_vertex GL_ARB_robustness GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_separate_shader_objects
+GL_ARB_shader_bit_encoding GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_shadow GL_ARB_sync GL_ARB_texture_border_clamp GL_ARB_texture_buffer_object GL_ARB_texture_compression
+GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float
+GL_ARB_texture_mirrored_repeat GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_swizzle
+GL_ARB_timer_query GL_ARB_transpose_matrix GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_buffer_object GL_ARB_vertex_program GL_ARB_vertex_shader
+GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_array GL_ARB_window_pos GL_ATI_draw_buffers GL_ATI_texture_float GL_ATI_texture_mirror_once GL_S3_s3tc GL_EXT_texture_env_add GL_EXT_abgr
+GL_EXT_bgra GL_EXT_bindable_uniform GL_EXT_blend_color GL_EXT_blend_equation_separate GL_EXT_blend_func_separate GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_compiled_vertex_array
+GL_EXT_Cg_shader GL_EXT_depth_bounds_test GL_EXT_direct_state_access GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_blit
+GL_EXT_framebuffer_multisample GL_EXTX_framebuffer_mixed_formats GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_geometry_shader4 GL_EXT_gpu_program_parameters GL_EXT_gpu_shader4
+GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_packed_pixels GL_EXT_pixel_buffer_object GL_EXT_point_parameters GL_EXT_provoking_vertex GL_EXT_rescale_normal
+GL_EXT_secondary_color GL_EXT_separate_shader_objects GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_two_side GL_EXT_stencil_wrap GL_EXT_texture3D GL_EXT_texture_array
+GL_EXT_texture_buffer_object GL_EXT_texture_compression_latc GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map GL_EXT_texture_edge_clamp
+GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_lod GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp
+GL_EXT_texture_object GL_EXT_texture_shared_exponent GL_EXT_texture_sRGB GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_vertex_array GL_EXT_vertex_array_bgra GL_IBM_rasterpos_clip
+GL_IBM_texture_mirrored_repeat GL_KTX_buffer_region GL_NV_blend_square GL_NV_conditional_render GL_NV_copy_depth_to_color GL_NV_copy_image GL_NV_depth_buffer_float GL_NV_depth_clamp
+GL_NV_explicit_multisample GL_NV_fence GL_NV_float_buffer GL_NV_fog_distance GL_NV_fragment_program GL_NV_fragment_program_option GL_NV_fragment_program2 GL_NV_framebuffer_multisample_coverage
+GL_NV_geometry_shader4 GL_NV_gpu_program4 GL_NV_half_float GL_NV_light_max_exponent GL_NV_multisample_coverage GL_NV_multisample_filter_hint GL_NV_occlusion_query GL_NV_packed_depth_stencil
+GL_NV_parameter_buffer_object GL_NV_parameter_buffer_object2 GL_NV_pixel_data_range GL_NV_point_sprite GL_NV_primitive_restart GL_NV_register_combiners GL_NV_register_combiners2
+GL_NV_shader_buffer_load GL_NV_texgen_reflectioGL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 4
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(0-bits)
+MODE: 12, 1182 x 793 windowed hz:85
+GAMMA: hardware w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: GL_LINEAR_MIPMAP_LINEAR
+picmip: 3
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+HACK: using vertex lightmap approximation
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 293 milli seconds
+UI menu load time = 194 milli seconds
+34 bots parsed
+Loading dll file cgame
+stitched 0 LoD cracks
+...loaded 2408 faces, 228 meshes, 97 trisurfs, 0 flares
+trying sprites/foe2.PNG...
+UI menu load time = 812 milli seconds
+CL_InitCGame:  6.36 seconds
+6 msec to draw all images
+Com_TouchMemory: 0 msec
+Not recording a demo.
+----- FS_Startup -----
+Current search path:
+C:\Program Files\Steam\steamapps\common\Quake Live/76561198256168099/baseq3
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\pak00.pk3 (0x15a37833 - 9285 files)
+C:\Program Files\Steam\steamapps\common\Quake Live\baseq3\bin.pk3 (0x7c1d0d5e - 5 files)
+C:\Program Files\Steam\steamapps\common\Quake Live/baseq3
+C:\Program Files\Steam\steamapps\workshop\content\282440\664528873/
+C:\Program Files\Steam\steamapps\workshop\content\282440\538941289/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606\\workshop_extras.pk3 (0x47805cc3 - 261 files)
+C:\Program Files\Steam\steamapps\workshop\content\282440\539421606/
+C:\Program Files\Steam\steamapps\workshop\content\282440\543312745/
+C:\Program Files\Steam\steamapps\workshop\content\282440\539252269/
+
+----------------------
+9551 files in pk3 files
+цыганский got the Red Armor.
+N3K! got the Mega Health.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by цыганский
+цыганский was railed by N3K!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was melted by beisikki's plasmagun
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ: descent, great game
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ: :p
+serg.senko connected
+N3K! was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[ByQ]Descent: mean - factory?
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was melted by beisikki's plasmagun
+beisikki was electrocuted by цыганский
+цыганский almost dodged serg.senko's rocket
+serg.senko was railed by [ByQ]Descent
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ: there was a flying game called descent . around quake1 times . i trhink
+[ByQ]Descent was railed by N3K!
+beisikki called a vote.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ: ;:p
+Voting time has expired.
+recording to demos/FFA-[ByQ]Descent-bloodrun-2016_09_08-06_32_51.dm_91.
+[ByQ]Descent: i know
+[ByQ]Descent: 386sx33
+[ByQ]Descent: =))
+beisikki was railed by N3K!
+serg.senko was gunned down by [ByQ]Descent
+beisikki was gunned down by [ByQ]Descent
+serg.senko ate ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+serg.senko was electrocuted by beisikki
+FreeBeer connected
+N3K! was gunned down by [ByQ]Descent
+unknown cmd Item
+beisikki was electrocuted by N3K!
+цыганский almost dodged FreeBeer's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Quad Damage!
+serg.senko was gunned down by N3K!
+[ByQ]Descent almost dodged serg.senko's rocket
+beisikki killed the Quad Damage carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged beisikki's rocket
+serg.senko was electrocuted by цыганский
+цыганский ate N3K!'s grenade
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged [ByQ]Descent's rocket
+serg.senko ate beisikki's rocket
+FreeBeer was electrocuted by beisikki
+цыганский tripped on his own grenade.
+N3K! was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+beisikki was railed by [ByQ]Descent
+FreeBeer almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+serg.senko was melted by beisikki's plasmagun
+N3K! ate цыганский's rocket
+цыганский blew himself up.
+FreeBeer was railed by [ByQ]Descent
+[ByQ]Descent was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+serg.senko ate FreeBeer's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by [ByQ]Descent
+N3K! was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+цыганский ate [ByQ]Descent's grenade
+serg.senko ate FreeBeer's rocket
+цыганский was railed by [ByQ]Descent
+FreeBeer ate serg.senko's rocket
+beisikki was electrocuted by цыганский
+N3K! was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by [ByQ]Descent
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by beisikki
+serg.senko was railed by [ByQ]Descent
+цыганский was electrocuted by beisikki
+beisikki almost dodged FreeBeer's rocket
+цыганский was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+FreeBeer was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+serg.senko was electrocuted by цыганский
+цыганский almost dodged serg.senko's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Quad Damage!
+N3K! was electrocuted by цыганский
+FreeBeer almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+serg.senko was gunned down by [ByQ]Descent
+beisikki killed the Quad Damage carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by beisikki
+beisikki ate ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+Ouxouiga connected
+serg.senko was gunned down by [ByQ]Descent
+FreeBeer was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was gunned down by [ByQ]Descent
+[ByQ]Descent almost dodged FreeBeer's rocket
+N3K! was electrocuted by цыганский
+beisikki was electrocuted by цыганский
+serg.senko was electrocuted by цыганский
+FreeBeer was electrocuted by цыганский
+serg.senko was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by цыганский
+[ByQ]Descent almost dodged N3K!'s rocket
+[ByQ]Descent: ..
+цыганский was electrocuted by N3K!
+N3K! was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+FreeBeer was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+beisikki was electrocuted by N3K!
+Ouxouiga was electrocuted by цыганский
+N3K! was electrocuted by [ByQ]Descent
+serg.senko almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+[ByQ]Descent was railed by beisikki
+Ouxouiga almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged N3K!'s rocket
+цыганский almost dodged N3K!'s rocket
+serg.senko was railed by [ByQ]Descent
+ante connected
+цыганский ate serg.senko's rocket
+[ByQ]Descent was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+цыганский: bind space
+N3K! almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+serg.senko almost dodged beisikki's rocket
+Ouxouiga almost dodged beisikki's rocket
+цыганский was electrocuted by FreeBeer
+beisikki was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ouxouiga almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+serg.senko ate N3K!'s rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by цыганский
+FreeBeer tripped on his own grenade.
+цыганский was electrocuted by [ByQ]Descent
+ante was electrocuted by N3K!
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+serg.senko was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+цыганский was electrocuted by [ByQ]Descent
+FreeBeer got the Quad Damage!
+[ByQ]Descent was shredded by N3K!'s shrapnel
+N3K! was gunned down by FreeBeer
+Ouxouiga ate serg.senko's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was gunned down by FreeBeer
+цыганский was gunned down by FreeBeer
+serg.senko was gunned down by [ByQ]Descent
+Ouxouiga almost dodged N3K!'s rocket
+ante was gunned down by FreeBeer
+[ByQ]Descent was gunned down by FreeBeer
+Ouxouiga killed the Quad Damage carrier!
+FreeBeer almost dodged Ouxouiga's rocket
+serg.senko killed the Quad Damage carrier!
+Ouxouiga almost dodged serg.senko's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by [ByQ]Descent
+цыганский was gunned down by beisikki
+Ouxouiga was electrocuted by цыганский
+ante was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[ByQ]Descent almost dodged Ouxouiga's rocket
+Bijan connected
+serg.senko was railed by N3K!
+beisikki was railed by N3K!
+Ouxouiga was railed by цыганский
+serg.senko was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+N3K! almost dodged FreeBeer's rocket
+[ByQ]Descent was gunned down by beisikki
+цыганский ate ante's rocket
+[ByQ]Descent was electrocuted by цыганский
+Ouxouiga was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+serg.senko was electrocuted by цыганский
+N3K! was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ante was electrocuted by [ByQ]Descent
+цыганский almost dodged FreeBeer's rocket
+Ouxouiga was melted by N3K!'s plasmagun
+FreeBeer was gunned down by beisikki
+N3K! was electrocuted by Bijan
+serg.senko was electrocuted by beisikki
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged [ByQ]Descent's rocket
+beisikki was railed by FreeBeer
+цыганский was railed by Bijan
+N3K! was gunned down by [ByQ]Descent
+ante was electrocuted by цыганский
+N3K! ate serg.senko's grenade
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by [ByQ]Descent
+serg.senko almost dodged ante's rocket
+Ouxouiga ate FreeBeer's grenade
+цыганский almost dodged N3K!'s rocket
+[ByQ]Descent ate ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+FreeBeer got the Quad Damage!
+beisikki almost dodged FreeBeer's rocket
+ante was electrocuted by [ByQ]Descent
+Bijan was gunned down by beisikki
+цыганский was pummeled by FreeBeer
+Ouxouiga was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[ByQ]Descent was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+N3K! was electrocuted by Bijan
+[ByQ]Descent: thnx ..
+beisikki was melted by FreeBeer's plasmagun
+Bijan was melted by FreeBeer's plasmagun
+Ouxouiga was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate Ouxouiga's rocket
+N3K! was electrocuted by [ByQ]Descent
+[ByQ]Descent was gunned down by цыганский
+serg.senko was electrocuted by beisikki
+Bijan was electrocuted by N3K!
+[ByQ]Descent killed the Quad Damage carrier!
+FreeBeer was gunned down by [ByQ]Descent
+ante almost dodged serg.senko's rocket
+[ByQ]Descent was railed by Bijan
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by N3K!
+цыганский was railed by Bijan
+Ouxouiga was electrocuted by beisikki
+Bijan was railed by FreeBeer
+serg.senko was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+N3K! was gunned down by beisikki
+beisikki almost dodged цыганский's rocket
+цыганский almost dodged ante's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by N3K!
+serg.senko was electrocuted by N3K!
+FreeBeer almost dodged [ByQ]Descent's rocket
+windu connected
+ante almost dodged N3K!'s rocket
+Bijan almost dodged beisikki's rocket
+[ByQ]Descent almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+цыганский ate serg.senko's grenade
+N3K! was electrocuted by beisikki
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by N3K!
+ante was electrocuted by beisikki
+beisikki ate FreeBeer's rocket
+Bijan was railed by цыганский
+Ouxouiga ate windu's rocket
+цыганский ate FreeBeer's rocket
+ante ate N3K!'s rocket
+serg.senko was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[ByQ]Descent was railed by Bijan
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate beisikki's rocket
+serg.senko was electrocuted by цыганский
+Ouxouiga almost dodged FreeBeer's rocket
+windu almost dodged FreeBeer's rocket
+FreeBeer almost dodged beisikki's rocket
+N3K! was electrocuted by цыганский
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+цыганский almost dodged [ByQ]Descent's rocket
+Bijan almost dodged [ByQ]Descent's rocket
+[ByQ]Descent was melted by N3K!'s plasmagun
+beisikki ate ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate ante's rocket
+цыганский almost dodged N3K!'s rocket
+ante was electrocuted by цыганский
+Ouxouiga was railed by Bijan
+serg.senko almost dodged FreeBeer's rocket
+beisikki was electrocuted by цыганский
+[ByQ]Descent almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+N3K! was railed by FreeBeer
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate serg.senko's grenade
+цыганский almost dodged windu's rocket
+windu was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ouxouiga ate [ByQ]Descent's rocket
+serg.senko was gunned down by N3K!
+ante was railed by Bijan
+Bijan was electrocuted by цыганский
+FreeBeer got the Quad Damage!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ killed the Quad Damage carrier!
+FreeBeer almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+serg.senko was electrocuted by Bijan
+цыганский ate FreeBeer's rocket
+N3K! was electrocuted by FreeBeer
+windu almost dodged serg.senko's rocket
+Ouxouiga was railed by [ByQ]Descent
+цыганский ate windu's rocket
+N3K! almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+beisikki was electrocuted by ante
+windu was gunned down by Bijan
+Bijan almost dodged FreeBeer's rocket
+Ouxouiga was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ante was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Bijan was electrocuted by цыганский
+N3K! killed the Quad Damage carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by N3K!
+beisikki was electrocuted by цыганский
+Ouxouiga ate N3K!'s rocket
+N3K! blew himself up.
+[ByQ]Descent almost dodged windu's rocket
+windu almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+цыганский ate FreeBeer's rocket
+ante was electrocuted by FreeBeer
+serg.senko almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+Ouxouiga was gunned down by N3K!
+beisikki ate [ByQ]Descent's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged windu's rocket
+N3K! almost dodged Ouxouiga's rocket
+ante almost dodged [ByQ]Descent's rocket
+[ByQ]Descent ate serg.senko's grenade
+цыганский ate beisikki's grenade
+Ouxouiga was electrocuted by Bijan
+beisikki was electrocuted by N3K!
+Bijan ate ante's rocket
+windu was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[ByQ]Descent ate serg.senko's grenade
+VEBgenickschuss connected
+N3K! ate ante's rocket
+serg.senko was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate serg.senko's grenade
+Ouxouiga was shredded by beisikki's shrapnel
+Bijan was electrocuted by цыганский
+beisikki was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+serg.senko was electrocuted by [ByQ]Descent
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by N3K!
+цыганский was gunned down by [ByQ]Descent
+[ByQ]Descent ate Ouxouiga's rocket
+Bijan almost dodged N3K!'s rocket
+ante ate beisikki's rocket
+N3K! almost dodged windu's rocket
+windu ate N3K!'s rocket
+beisikki was melted by N3K!'s plasmagun
+Bijan was railed by цыганский
+VEBgenickschuss ate serg.senko's rocket
+цыганский almost dodged windu's rocket
+Ouxouiga blew himself up.
+N3K! was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+FreeBeer cratered.
+windu was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[ByQ]Descent almost dodged serg.senko's rocket
+цыганский almost dodged Ouxouiga's rocket
+VEBgenickschuss was electrocuted by Bijan
+windu ate FreeBeer's rocket
+serg.senko was shredded by Bijan's shrapnel
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate ante's rocket
+цыганский almost dodged ante's rocket
+[ByQ]Descent ate ante's rocket
+Ouxouiga was gunned down by N3K!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ hit the fraglimit.
+Bijan was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+FreeBeer disconnected
+Stopped demo.
+Wrote screenshots/FFA-[ByQ]Descent-bloodrun-2016_09_08-06_43_59.jpg
+Ouxouiga: hahaha grenades...
+[ByQ]Descent switched teams.
+Ouxouiga switched teams.
+VEBgenickschuss called a vote.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ: lol yes
+N3K!: Some grande problemas gettiings frags in this ffa..
+beisikki disconnected
+цыганский was electrocuted by Bijan
+windu got the Mega Health.
+Ginosaji connected
+Bijan almost dodged N3K!'s rocket
+ante ate windu's rocket
+gvrk connected
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate windu's rocket
+windu ate N3K!'s rocket
+N3K! was electrocuted by Bijan
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Red Armor.
+ante was electrocuted by цыганский
+Bijan was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+serg.senko almost dodged windu's rocket
+VEBgenickschuss was gunned down by Ginosaji
+Vote failed.
+Ginosaji was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ante was melted by цыганский's plasmagun
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate windu's rocket
+Ouxouiga disconnected
+N3K! ate windu's rocket
+serg.senko got the Mega Health.
+Bijan was melted by цыганский's plasmagun
+цыганский was melted by N3K!'s plasmagun
+gvrk was melted by VEBgenickschuss's plasmagun
+serg.senko was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Bijan was electrocuted by цыганский
+windu got the Quad Damage!
+Ginosaji was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+VEBgenickschuss was melted by windu's plasmagun
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by Bijan
+serg.senko was railed by N3K!
+Ginosaji was melted by windu's plasmagun
+цыганский was melted by windu's plasmagun
+Bijan killed the Quad Damage carrier!
+windu ate Bijan's grenade
+Bijan was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ante was melted by Ginosaji's plasmagun
+N3K! was melted by windu's plasmagun
+VEBgenickschuss ate gvrk's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate Ginosaji's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Red Armor.
+ante got the Mega Health.
+N3K! ate Ginosaji's rocket
+цыганский ate Ginosaji's rocket
+serg.senko ate Ginosaji's rocket
+Bijan almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+цыганский was electrocuted by Bijan
+gvrk disconnected
+N3K! almost dodged Ginosaji's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by Bijan
+recording to demos/FFA-bloodrun-2016_09_08-06_45_44.dm_91.
+N3K! switched teams.
+цыганский disconnected
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Mega Health.
+Ginosaji ate VEBgenickschuss's rocket
+windu got the Red Armor.
+serg.senko was railed by Bijan
+serg.senko timed out
+ante almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+Ginosaji was pummeled by VEBgenickschuss
+VEBgenickschuss was gunned down by Bijan
+ante was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged windu's rocket
+Bijan got the Red Armor.
+Ginosaji was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+VEBgenickschuss was electrocuted by Bijan
+windu was electrocuted by Bijan
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Quad Damage!
+[HD]Tootsie connected
+windu got the Mega Health.
+VEBgenickschuss almost dodged Ginosaji's rocket
+Ginosaji ate ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+VEBgenickschuss was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Bijan ate windu's rocket
+windu was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ante almost dodged Ginosaji's rocket
+Bijan: :>
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Red Armor.
+Bijan almost dodged Ginosaji's rocket
+VEBgenickschuss was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ginosaji was railed by Bijan
+windu almost dodged ante's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Mega Health.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by Bijan
+.. connected
+Bijan almost dodged windu's rocket
+Ginosaji almost dodged VEBgenickschuss's rocket
+ante was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+.. got the Red Armor.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by Bijan
+VEBgenickschuss was gunned down by [HD]Tootsie
+[HD]Tootsie ate windu's grenade
+.. almost dodged Bijan's rocket
+Ginosaji was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+.. was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Bijan was melted by windu's plasmagun
+║▌║█║▌│║▌║ connected
+..: FUCK YOU
+..: FUCK YOU
+..: FUCK YOU
+[ByQ]Descent: ..
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by [HD]Tootsie
+Bijan: :>
+[HD]Tootsie: @_@
+Bijan got the Mega Health.
+windu was railed by ..
+[HD]Tootsie: @_@
+ante was gunned down by Bijan
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Red Armor.
+Ginosaji was gunned down by ..
+.. ate windu's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate windu's rocket
+Bijan: :>
+Bijan almost dodged windu's rocket
+Ginosaji almost dodged ante's rocket
+0katus connected
+windu was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+VEBgenickschuss ate [HD]Tootsie's rocket
+.. was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ante almost dodged Ginosaji's rocket
+.. got the Mega Health.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Red Armor.
+VEBgenickschuss almost dodged [HD]Tootsie's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate windu's rocket
+windu ate Ginosaji's rocket
+Bijan almost dodged ..'s rocket
+[HD]Tootsie got the Quad Damage!
+║▌║█║▌│║▌║ timed out
+Ginosaji almost dodged windu's rocket
+.. was railed by [HD]Tootsie
+windu was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ginosaji was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+VEBgenickschuss was electrocuted by [HD]Tootsie
+Bijan was gunned down by ..
+VEBgenickschuss disconnected
+║▌║█║▌│║▌║ connected
+.. got the Red Armor.
+Ginosaji killed the Quad Damage carrier!
+[HD]Tootsie almost dodged Ginosaji's rocket
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ killed the Quad Damage carrier!
+windu was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+0katus got the Mega Health.
+Ginosaji ate ..'s rocket
+ante was electrocuted by ..
+Ginosaji was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[HD]Tootsie almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+Bijan cratered.
+.. was melted by 0katus's plasmagun
+║▌║█║▌│║▌║: ho0w far id UK from hawaii
+Ginosaji was shredded by windu's shrapnel
+0katus was railed by [HD]Tootsie
+[HD]Tootsie got the Red Armor.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by [HD]Tootsie
+mähä connected
+Bijan almost dodged ..'s rocket
+0katus was melted by Ginosaji's plasmagun
+.. almost dodged [HD]Tootsie's rocket
+Bijan ate [HD]Tootsie's rocket
+0katus got the Mega Health.
+[HD]Tootsie was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ginosaji almost dodged 0katus's rocket
+.. ate windu's grenade
+windu tripped on his own grenade.
+windu got the Red Armor.
+mähä almost dodged ..'s rocket
+.. ate 0katus's rocket
+0katus almost dodged windu's rocket
+Bijan almost dodged windu's rocket
+[HD]Tootsie almost dodged 0katus's rocket
+ante almost dodged windu's rocket
+Ginosaji ate 0katus's rocket
+.. blew himself up.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ ate ante's rocket
+..: FUCK YOU
+..: FUCK YOU
+..: FUCK YOU
+..: FUCK YOU
+Bijan ate Ginosaji's rocket
+ante was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+windu was gunned down by ..
+0katus almost dodged Ginosaji's rocket
+║▌║█║▌│║▌║: in hawaii we have more woman ,,, adnt
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Mega Health.
+0katus was electrocuted by Bijan
+[HD]Tootsie was gunned down by ..
+Ginosaji ate windu's grenade
+windu ate ..'s rocket
+.. blew himself up.
+0katus got the Red Armor.
+mähä cratered.
+ante blew himself up.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ got the Quad Damage!
+Bijan almost dodged windu's rocket
+[HD]Tootsie was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+0katus was electrocuted by ..
+.. almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+mähä was electrocuted by Bijan
+..: FUCK YOU
+..: FUCK YOU
+..: FUCK YOU
+..: FUCK YOU
+0katus almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+Ginosaji was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+windu almost dodged ante's rocket
+ante blew himself up.
+mähä almost dodged ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ's rocket
+0katus got the Mega Health.
+windu got the Red Armor.
+ante disconnected
+Ginosaji was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged 0katus's rocket
+mähä disconnected
+windu almost dodged ..'s rocket
+.. almost dodged 0katus's rocket
+Ginosaji ate [HD]Tootsie's rocket
+.. ate 0katus's rocket
+Bijan almost dodged windu's rocket
+.. got the Red Armor.
+[HD]Tootsie was railed by Bijan
+Bijan ate windu's grenade
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by [HD]Tootsie
+0katus got the Mega Health.
+0katus was railed by [HD]Tootsie
+Ginosaji almost dodged windu's rocket
+.. got the Red Armor.
+.. was railed by [HD]Tootsie
+Bijan ate Ginosaji's rocket
+Ginosaji ate ..'s rocket
+0katus was railed by [HD]Tootsie
+║▌║█║▌│║▌║: i really hope am elvis presley
+Ginosaji was electrocuted by Bijan
+Bijan got the Mega Health.
+windu was railed by ..
+0katus was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was gunned down by Bijan
+Bijan got the Red Armor.
+[HD]Tootsie was railed by ..
+Bijan was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+Ginosaji almost dodged windu's rocket
+.. got the Quad Damage!
+windu blew himself up.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged ..'s rocket
+windu was railed by ..
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was electrocuted by Bijan
+windu ate 0katus's rocket
+Ginosaji was electrocuted by Bijan
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ killed the Quad Damage carrier!
+.. was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+0katus got the Mega Health.
+Ginosaji was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+[HD]Tootsie killed the Quad Damage carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by [HD]Tootsie
+windu killed the Quad Damage carrier!
+[HD]Tootsie almost dodged windu's rocket
+.. got the Red Armor.
+0katus almost dodged windu's rocket
+Bijan killed the Quad Damage carrier!
+windu was electrocuted by Bijan
+Bijan was electrocuted by ..
+.. killed the Quad Damage carrier!
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ was railed by ..
+Ginosaji almost dodged 0katus's rocket
+..: FUCK YOU
+..: FUCK YOU
+..: FUCK YOU
+[HD]Tootsie ate windu's rocket
+.. was electrocuted by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+0katus almost dodged windu's rocket
+trying ui/assets/flags/XX.TGA...
+windu was gunned down by Bijan
+║▌║█║▌│║▌║: back in 1954
+Ginosaji was electrocuted by ..
+[HD]Tootsie was gunned down by Bijan
+0katus got the Red Armor.
+ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ almost dodged 0katus's rocket
+.. got the Mega Health.
+[HD]Tootsie was railed by Bijan
+║▌║█║▌│║▌║: we used the bugs:
+.. was railed by ᴯ ᴱ ᴸ ᴵ ᴬ ᴸ
+]\condump (08-09-2016)-(13-51)
+Dumped console text to (08-09-2016)-(13-51).
+

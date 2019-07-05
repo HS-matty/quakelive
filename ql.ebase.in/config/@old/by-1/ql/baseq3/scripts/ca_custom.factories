@@ -1,0 +1,23 @@
+{
+"id": "ca_custom",
+"title": "ClanArena Custom",
+"author": "matty",
+"description": "TeamDamage On",
+"basegt": "ca",
+"cvars": {
+"dmflags": "0",
+"g_dropCmds": "0",
+"g_startingWeapons": "255",
+"g_startingHealth": "200",
+"g_startingArmor": "100",
+"g_spawnItemArmor": "1",
+"g_spawnItemAmmo":  "1",
+"g_spawnItemHealth": "1",
+"g_spawnItemPowerup":  "1",
+"g_startingAmmo_sg": "20",
+"g_startingAmmo_rl": "20",
+"g_startingAmmo_rg": "25",
+"g_startingAmmo_lg": "200",
+"g_startingAmmo_gl": "20"
+}
+}
