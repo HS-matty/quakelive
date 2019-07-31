@@ -1,0 +1,86 @@
+
+Session Start: Wed Nov 18 02:09:49 2015
+Session Ident: PredatH0r
+<[ByQ]Descent> hi
+<PredatH0r> h
+<PredatH0r> i
+<[ByQ]Descent> on qlstats.net last game was `1hr ago ..
+<[ByQ]Descent> ~
+<PredatH0r> thx. looks like it got stuck after changing the config on-the-fly :/
+<[ByQ]Descent> ok
+<PredatH0r> should be ok again
+<[ByQ]Descent> ok
+<[ByQ]Descent> yeah, it works ..
+<PredatH0r> for the new ranking site i'll suggest we have a network of feeders/stats trackers, so when one fails, the others take care of it
+<[ByQ]Descent> https://github.com/swallentin/ql-server-monitor ?
+<PredatH0r> well...yea... but it's all in the todo there, nothing implemented. atm probably less stable than my feeder
+<PredatH0r> i'll help where i can to get that one working stable
+<[ByQ]Descent> mean the same, but many stats "server" daemons and then upload to the main server?
+<[ByQ]Descent> your feed works, that one - is pre-alpha =)
+<[ByQ]Descent> who knows ...
+<[ByQ]Descent> how many bugs and etc ...  I suggest not to moving but make kind of two versions until it become fully stable ..
+<[ByQ]Descent> hi
+<[ByQ]Descent> just checked Steam Server Browser: my US servers not showed ... they online for sure: us-1.ql.ebase.in
+<[ByQ]Descent> others are ok ..
+<PredatH0r> i suspect you have the limit set to 1000 servers. there's more than 1000 QL servers now, so a couple are not listed
+<[ByQ]Descent> :D
+<PredatH0r> open the master server query options pane (the middle toolbar button) and switch to 2000
+<[ByQ]Descent> already =)
+<[ByQ]Descent> thnx
+<[ByQ]Descent> didnt help
+<[ByQ]Descent> in steam-browser - ok
+<[ByQ]Descent> tag: Chicago
+<PredatH0r> did you click on "Find Servers" or just "Update Servers"? you'll need the first to re-query the master server
+<[ByQ]Descent> update
+<PredatH0r> update only updates the status of the server that you already have in your list
+<[ByQ]Descent> ye
+<[ByQ]Descent> it works no
+<[ByQ]Descent> now
+<[ByQ]Descent> thnx =)
+<[ByQ]Descent> btw: do u speak russian? :D (saw russian interface) ..
+<PredatH0r> nope, only german, english and a bit of spanish
+<PredatH0r> lmiol was so kind and translated the UI to russian
+<[ByQ]Descent> =)
+Session Time: Thu Nov 19 00:00:00 2015
+[00:07] <[ByQ]Descent> hi
+[00:07] <[ByQ]Descent> maybe you know, in steam server browser there is location US, and US/IL
+[00:07] <[ByQ]Descent> how is set?
+[00:07] <[ByQ]Descent> how it set?
+[00:11] <[ByQ]Descent> there is kind of  a bug - tag "Chicago" , if you just enter it, you'll see one part of the pubblic Chicago servers, but there is other part with the THE SAME tag "Chicago", but you need to click inside ql browser on tag (and get for sure the same TAG 8-|  ) to see other part of the servers T
+[00:11] <[ByQ]Descent> for example
+[00:13] <[ByQ]Descent> tag CROM - can see the same tag "Chicago", but not visible to others..
+[00:13] <[ByQ]Descent> maybe I'm kind of see something wrong .. 
+[11:07] <PredatH0r> Location is automatically detected through a geo-ip online service
+[11:08] <PredatH0r> sometimes the information only contains the country (US), but most of the time also a state. sometimes the information is wrong though, especially when the IP belongs to a cloud hoster
+[11:09] <PredatH0r> the server browser built into QL is case sensitive atm. so "chicago" and "Chicago" don't match
+[12:17] <[ByQ]Descent> both "Chicago" ..
+[12:18] <[ByQ]Descent> I'll check again ..
+[12:32] <[ByQ]Descent> http://ql.ebase.in/(2-different)-(Chicago)-(19-11-2015)-(12-26).jpg
+[12:32] <[ByQ]Descent> >8-[  ]
+[12:32] <[ByQ]Descent> =)
+[12:36] <PredatH0r> the CROM server has a space in front of "Chicago" in the tags
+[12:37] <PredatH0r> sponge isn't removing them when comparing/searching for tags
+[12:38] <[ByQ]Descent> not visible space?
+[12:39] <PredatH0r> http://i.imgur.com/8qcZuIK.png
+[12:40] <[ByQ]Descent> so its a bug? 
+[12:41] <PredatH0r> kind of. people shouldn't put spaces into sv_tags to begin with
+[12:41] <PredatH0r> but then quake should also remove them when it registers the server with the master server
+[12:41] <[ByQ]Descent> ok, thnx
+[12:42] <PredatH0r> right now the strings must be an exact match for quake. including spaces and upper/lowercase
+[12:43] <[ByQ]Descent> ok..
+[13:06] <[ByQ]Descent> ..maybe needed to be posted to bugs somewhere ..
+[13:16] <PredatH0r> i added it to the bug list in the beta tester forum
+[13:18] <[ByQ]Descent> thnx
+Session Time: Fri Nov 20 00:00:00 2015
+[01:13] <[ByQ]Descent> hi
+[01:16] <[ByQ]Descent> by-1.ql.ebase.in:27970 not in servers list (playing right now) ...
+[01:16] <[ByQ]Descent> by-1.ql.ebase.in:27972 too
+[01:31] <PredatH0r> feeder restart. we'll see how long it lasts
+[01:33] <[ByQ]Descent> ok, thnx
+[01:34] <[ByQ]Descent> ye, I see it ..
+Session Time: Sat Nov 21 00:00:01 2015
+Session Time: Sun Nov 22 00:00:00 2015
+[14:12] <[ByQ]Descent> HI
+[14:13] <[ByQ]Descent> What do you think about removing the word "loss" when you #2 in 16/16 ffa?
+[14:17] <[ByQ]Descent> (for example)
+Session Close: Sun Nov 22 19:00:29 2015

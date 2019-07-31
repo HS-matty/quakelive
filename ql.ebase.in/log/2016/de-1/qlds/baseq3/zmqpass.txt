@@ -1,0 +1,2 @@
+stats_stats=byqdescent
+rcon_rcon=byqdescent

@@ -1,0 +1,164 @@
+
+Session Start: Sun Nov 15 00:00:00 2015
+Session Ident: #minqlbot
+03[00:21] * LtC is now known as LtC|afk
+02[00:34] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) Quit (Signed off)
+03[01:06] * b1ngo (~b1ngo@i5E878A80.versanet.de) has joined #minqlbot
+03[01:34] * PerpetualWar_ is now known as PerpetualWa_afk
+02[01:37] * b1ngo (~b1ngo@i5E878A80.versanet.de) Quit (Signed off)
+02[02:04] * sanak (~s@ip-84-119-90-13.unity-media.net) Quit (Signed off)
+02[02:12] * MarkocroCop (~shaun@cpe-107-185-55-183.socal.res.rr.com) Quit (Ping timeout)
+03[02:22] * LtC|afk is now known as LtC
+02[02:23] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) Quit (Signed off)
+03[03:13] * [1]MrButcher (~MrButcher@p57990809.dip0.t-ipconnect.de) has joined #minqlbot
+02[03:14] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) Quit (Ping timeout)
+03[03:14] * [1]MrButcher is now known as MrButcher
+[03:14] <Melodeiro> tjone270: thanks, very useful plugin
+03[03:24] * shaun (~shaun@cpe-107-185-55-183.socal.res.rr.com) has joined #minqlbot
+03[03:46] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) has joined #minqlbot
+02[04:17] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+02[05:33] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) Quit (Signed off)
+[06:07] <Melodeiro> Mino: is there a way to disable motd sound without modifying motd.py?
+03[06:13] * dqpb (~qdbp@dqpb.users.quakenet.org) has joined #minqlbot
+03[06:19] * dqpb (~qdbp@dqpb.users.quakenet.org) has left #minqlbot (O)_(O)
+03[06:19] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+02[06:36] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+03[06:48] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+[07:39] <MrButcher> mhhh i fiddled around with zmq rcon and stats this morning
+[07:40] <MrButcher> i made the rcon script to work, but i had to specify the ip address 127.0.0.1
+[07:40] <MrButcher> and this shows up during server start:
+[07:40] <MrButcher> [minqlx.late_init] INFO: Loading preset plugins...
+[07:40] <MrButcher> [minqlx.load_plugin] INFO: Loading plugin 'plugin_manager'...
+[07:40] <MrButcher> [minqlx.load_plugin] INFO: Loading plugin 'essentials'...
+[07:40] <MrButcher> [minqlx.load_plugin] INFO: Loading plugin 'motd'...
+[07:40] <MrButcher> [minqlx.load_plugin] INFO: Loading plugin 'permission'...
+[07:40] <MrButcher> [minqlx.load_plugin] INFO: Loading plugin 'ban'...
+[07:40] <MrButcher> [minqlx.load_plugin] INFO: Loading plugin 'clan'...
+[07:40] <MrButcher> [minqlx.load_plugin] INFO: Loading plugin 'names'...
+[07:40] <MrButcher> [minqlx.late_init] INFO: Stats listener started on tcp://127.0.0.1:27970.
+[07:40] <MrButcher> I: 15-11-15 05:34:39 zauth: ZAP request mechanism=NULL ipaddress=127.0.0.1
+[07:41] <MrButcher> ..
+[07:41] <MrButcher> [minqlx.late_init] INFO: Stats listener started on tcp://127.0.0.1:27970.
+[07:41] <MrButcher> I: 15-11-15 05:34:39 zauth: ZAP request mechanism=NULL ipaddress=127.0.0.1
+[07:41] <MrButcher> I: 15-11-15 05:34:39 zauth: - allowed (NULL)
+[07:41] <MrButcher> I: 15-11-15 05:34:39 zauth: - ZAP reply status_code=200 status_text=OK
+[07:41] <MrButcher> [minqlx.late_init] INFO: We're good to go!
+[07:41] <MrButcher> whats that code=200? something i need to take care off?
+[07:47] <Melodeiro> MrButcher: Guess no, its just a debug code
+[07:47] <MrButcher> tnx
+03[09:56] * PerpetualWa_afk is now known as PerpetualWar_
+[10:22] <carmethene> Mino: I just had a vote fail 9-5
+[10:22] <carmethene> I mean, it wasn't enough for the server to pass it
+[10:22] <carmethene> but it should have been enough for qlx to auto-pass it anyway, but it didn't
+[10:22] <carmethene> what's the actual threshold for passing those things
+[10:22] <carmethene> ?
+[10:22] <carmethene> server has 21 people
+[10:27] <Thaya> lo0l MrButcher
+[10:28] <Thaya> hannibal
+[10:28] <Thaya> long time no see
+02[11:01] * Thaya (~x@Aqila.users.quakenet.org) Quit (Read error: Connection reset by peer)
+03[12:51] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) has joined #minqlbot
+[13:05] <@Mino> Hmm, that's interesting. It should've been passed at that point assuming default settings. It's passed if (number of votes)/(number of non-spec player) > 0.33 by default.
+03[13:08] * tjone270_ (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+02[13:12] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+[13:12] <@Mino> Oh, I actually think I see the problem.
+[13:14] <@Mino> Doesn't look like I check if a vote is currently active before firing off the "vote_called" event. So in the case someone tries to call a vote while a vote is active, it'll trip up the code in essentials.
+[13:15] <@Mino> Gonna try confirming that's the case, and if it is, it'll be an easy fix.
+[13:16] <@Mino> Yup, that's it.
+[13:26] <Melodeiro> Mino: is there a way to disable motd sound without modifying motd.py?
+03[13:33] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+02[13:34] * tjone270_ (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+03[13:51] * LtC is now known as LtC|afk
+03[14:19] * LtC|afk is now known as LtC
+02[14:48] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) Quit (Read error: Connection reset by peer)
+03[14:54] * tjone270_ (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+02[14:59] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+03[15:39] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+02[15:40] * tjone270_ (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+[15:57] <@Mino> Melodeiro: Sorry for the late reply. No, not at the moment. I think I'll add a cvar to change or disable the sound, since I've had people ask me that several times already.
+03[16:00] * tjone270_ (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+02[16:01] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+[16:02] <@Mino> Done: https://github.com/MinoMino/minqlx-plugins/commit/a8206c4f069371df9c1e22288f2ae6b19d982931
+03[16:14] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) has joined #minqlbot
+02[16:16] * tjone270_ (~tjone270@tho1717339.lnk.telstra.net) Quit (Ping timeout)
+[16:17] <@Mino> Anyone around? I need 2 people to just drop by my server for like 10 seconds.
+[16:18] <xLink> ip?
+[16:18] <@Mino> minomino.org:64550
+03[16:18] * tjone270 (~tjone270@tho1717339.lnk.telstra.net) has joined #minqlbot
+[16:19] <@Mino> Need one more guy
+[16:19] <sno> sure
+[16:19] <@Mino> Thanks
+01[16:52] <[ByQ]Descent> only windows installation?
+[16:53] <@Mino> Depends on which one you're talking about. The old bot that runs on the client is Windows only, the new one runs on the dedicated server and is Linux only.
+[16:54] <@Mino> The old one doesn't work at the moment, though. Haven't bothered updating it yet, since it's inferior in practically every aspect.
+01[16:55] <[ByQ]Descent> ahh ok, looked at https://github.com/MinoMino/minqlbot
+[16:56] <@Mino> Yeah, that's the old one. People kinda gathered here when I put up minqlx, so I just decided to keep this channel for both of them.
+[16:56] <@Mino> The one in topic is the one you'll want to look at if you want the QLDS one.
+01[16:57] <[ByQ]Descent> already .. =)
+03[16:59] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) has joined #minqlbot
+03[17:22] * TB`oFF|AsianEye is now known as TB|AsianEyes
+03[17:23] * TB|AsianEyes is now known as aeyes
+[17:29] <xLink> Mino: just trying to setup your server mod, getting ImportError: No module named 'redis'
+[17:29] <xLink> redis is installed & running
+[17:30] <@Mino> But not the Python module. Something must've failed under the easy_install/pip step.
+[17:34] <xLink> gah
+[17:38] <xLink> got it working :P
+[17:38] <xLink> though this is throwing up a few times 
+[17:38] <xLink> minqlx.zip/minqlx/_core.py:78: FutureWarning: split() requires a non-empty pattern match.
+[17:39] <@Mino> That's fine. It's a bug in Python 3.5 and is fixed already, so it'll probably go away with 3.5.1.
+[17:39] <xLink> ah cool
+[17:46] <zurn> lol they are playing 5s against bots and losing
+[17:46] <zurn> on my server
+01[17:57] <[ByQ]Descent> Mino: sudo python3.5 -m easy_install pyzmq hiredis
+01[17:57] <[ByQ]Descent> error while compiling
+01[17:57] <[ByQ]Descent> error: Setup script exited with error: command 'i586-linux-gnu-gcc' failed with exit status 1
+[17:58] <@Mino> i586? minqlx is x64 only atm, so even if that error is solved, it won't work.
+01[17:59] <[ByQ]Descent> oops, it's local x32
+01[17:59] <[ByQ]Descent> x68
+03[18:06] * mattiZed (~mattized@mattiZed.users.quakenet.org) has joined #minqlbot
+[18:07] <zurn> Mino: at game end the bot says i'm a leaver but I never joined the game
+[18:07] <zurn> did that two games in a row
+[18:07] <@Mino> What versions are you on?
+[18:08] <zurn> latest
+[18:08] <zurn> 1.0.0
+[18:08] <@Mino> Latest plugins too?
+[18:08] <zurn> plugins 0.0.4.0
+[18:08] <@Mino> k
+[18:08] <xLink> Mino: how do you update the plugins? just git pull in the folder?
+[18:09] <@Mino> Yup
+[18:11] <@Mino> Not quite seeing where it could go wrong, zurn. Were you in spec all the time? You didn't join at all, even for a while?
+[18:12] <zurn> I havent joined at all 
+[18:17] <@Mino> That's really weird. I can't see why it would do that. Do you happen to know if someone else left in those games that should've been on that list instead?
+[18:34] <Melodeiro> Mino: Which git command can i use for updating minqlx-plugins?
+[18:34] <xLink> git pull
+[18:34] <@Mino> git pull origin
+[18:34] <Melodeiro> Even without .git http link?
+[18:34] <@Mino> Yes
+[18:35] <Melodeiro> Thanks!
+[18:35] <xLink> you need to be in the right folder though
+[18:35] <@Mino> Once you've cloned the repo, it saves all that stuff in the .git directory.
+[18:35] <@Mino> Yeah, that too
+[18:35] <Melodeiro> Ok
+[18:42] <Melodeiro> Hmm i just renamed my old minqlx-plugins folder for best results, did git clone https://github.com/MinoMino/minqlx-plugins.git and there is no .git folder
+01[18:42] <[ByQ]Descent> ..it's new version testing? 
+[18:43] <Melodeiro> Guess yes
+[18:43] <@Mino> If you did a simple "ls" then directories starting with a period don't show up.
+[18:43] <@Mino> You need to do "ls -a" for that.
+[18:43] <@Mino> But you don't even need to worry about the .git directory anyway.
+[18:44] <@Mino> Your working directory needs to be minqlx-plugins, not the .git.
+[18:44] <Melodeiro> No, i "cd .git" and "git pull origin" which both told me that .git not exists
+[18:45] <Melodeiro> Omg i just need to do it from minqlx-plugins xD
+[18:45] <@Mino> Yup
+[18:45] <Melodeiro> Now it works
+[18:58] <xLink> Mino: the redis instance stores what?
+01[19:04] <[ByQ]Descent> =)
+02[19:33] * MrButcher (~MrButcher@p57990809.dip0.t-ipconnect.de) Quit (Quit:  HydraIRC -> http://www.hydrairc.com <- Po-ta-to, boil em, mash em, stick em in a stew.)
+[19:35] <kanzo> changing cg_autohop resets name back to normal
+[19:41] <@Mino> Yeah, I'll fix that. Handicap and rail colors probably do to.
+[19:41] <@Mino> xLink: Permissions, MOTDs, games left/completed if leaver ban is on, bans, etc. etc.
+[19:41] <xLink> Mino: okay, does it matter if multiple instances are connected to the same redis db
+[19:42] <@Mino> No. Unless you want that stuff to be separate, that's the recommended way of doing it.
+[19:45] <xLink> ^^
+03[20:16] * Luscious (~Luscious@88.222.93.150) has joined #minqlbot
+02[20:45] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) Quit (Signed off)
+Session Close: Sun Nov 15 21:35:19 2015

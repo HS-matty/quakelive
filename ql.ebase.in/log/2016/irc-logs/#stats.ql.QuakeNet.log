@@ -1,0 +1,529 @@
+
+Session Start: Wed Nov 18 18:10:29 2015
+Session Ident: #stats.ql
+[18:10] * Now talking in #stats.ql
+[18:10] * Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-server-monitor'
+[18:10] * Set by inl on Fri Nov 13 22:59:40
+[19:25] * PerpetualWa_afk is now known as PerpetualWar_
+[19:25] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[20:40] * b1ngo has joined #stats.ql
+[20:59] * ph0en|X has joined #stats.ql
+[21:21] * vks has joined #stats.ql
+[22:23] * vixterra has joined #stats.ql
+[22:25] * sno has joined #stats.ql
+[22:52] * b1ngo has quit IRC (Signed off)
+[22:52] * lonewulf has quit IRC (Signed off)
+[23:21] * vks has quit IRC (Quit)
+[23:27] * lonewulf has joined #stats.ql
+[23:31] * vixterra has quit IRC (Signed off)
+Session Time: Thu Nov 19 00:00:00 2015
+[00:13] * BarelyMiSSeD has joined #stats.ql
+[01:05] * rzeka has joined #stats.ql
+[01:18] * ph0en|X has left #stats.ql
+[01:29] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:19] * Dbzruler72 has joined #stats.ql
+[03:48] * PredatH0r is now known as PREDATH0R
+[03:59] * vixterra has joined #stats.ql
+[04:37] * ananus has joined #stats.ql
+[04:50] * ananus has quit IRC (Signed off)
+[05:55] * BarelyMiSSeD has quit IRC (Signed off)
+[07:22] * vixterra has quit IRC (Signed off)
+[08:05] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[08:06] * Dbzruler72 has joined #stats.ql
+[08:09] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[08:10] * xananux has joined #stats.ql
+[08:45] * thunderboss has joined #stats.ql
+[08:46] * xananux has left #stats.ql (quitter)
+[10:07] * PREDATH0R is now known as PredatH0r
+[10:58] * vks has joined #stats.ql
+[11:45] * mattiZed has joined #stats.ql
+[11:47] * PerpetualWa_afk is now known as PerpetualWar_
+[12:20] * PerpetualWar_ is now known as PerpetualWa_afk
+[12:31] * lonewulf_ has joined #stats.ql
+[12:35] * lonewulf has quit IRC (Ping timeout)
+[12:26] * Lanoiah has joined #stats.ql
+[12:38] * Lanoiah has quit IRC (Quit: Page closed)
+[12:50] * PsiAmp has joined #stats.ql
+[12:52] * PsiAmp has quit IRC (Quit: Page closed)
+[14:22] * mattiZed has quit IRC (Quit: Leaving...)
+[15:37] * mattiZed has joined #stats.ql
+[16:32] * Dbzruler72 has joined #stats.ql
+[18:07] * PerpetualWa_afk is now known as PerpetualWar_
+[18:46] <mattiZed> guys, can you please give an overview who is logging?
+[18:46] <mattiZed> inl, rulex and predathor?
+[18:52] <rulex> correct
+[18:53] <rulex> probably not the same servers but
+[18:53] <rulex> though*
+[18:53] <rulex> :)
+[18:59] <mattiZed> kk
+[18:59] <mattiZed> how is progress coming along? ::D
+[19:01] <PerpetualWar_> slow :D
+[19:01] <PerpetualWar_> thanks to PredatH0r's help I also set up stats collecting for my servers (mostly ca pickup)
+[21:10] * b1ngo has joined #stats.ql
+[21:12] * idur has joined #stats.ql
+[21:15] <idur> hey im a newbie programmer with c++ and python experience trying to learn something and hopefully help others, ive heard there are some projects in the work to replace qlranks, minqlbot etc, any chance i can take part?
+[21:46] * rzeka has left #stats.ql (Textual IRC Client: www.textualapp.com)
+[21:46] * rzeka has joined #stats.ql
+[21:47] <rzeka> mattiZed I am logging, but not with ql-server-monitor
+[21:47] <rzeka> I log into sql database (data, match id and event type)
+[21:47] <PredatH0r> idur: nice to meet motivated people :)
+[21:47] <rzeka> basically I can reproduce json returned by ql :)
+[21:48] <idur> thanks ;)
+[22:03] * lonewulf_ has quit IRC (Signed off)
+[22:06] * lonewulf has joined #stats.ql
+[22:08] <rzeka> wdx2 he?
+[22:09] <rzeka> WTF 3GB? :D
+[22:09] <wdx2> :)
+[22:09] <wdx2> accident
+[22:09] <rzeka> :D
+[22:21] * vixterra has joined #stats.ql
+[22:33] * tjone270_ has joined #stats.ql
+[22:33] * Q sets mode: +o tjone270_
+[22:33] * tjone270 has quit IRC (Ping timeout)
+Session Time: Fri Nov 20 00:00:00 2015
+[00:16] * lonewulf has quit IRC (Signed off)
+[00:22] * b1ngo has quit IRC (Signed off)
+[01:10] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:16] * vks has quit IRC (Quit)
+[01:20] * [ByQ]Descent slaps PredatH0r around a bit with a large trout
+[01:41] * PredatH0r is now known as PREDATH0R
+[02:00] * lonewulf has joined #stats.ql
+[02:02] * idur has quit IRC (Quit: Page closed)
+[02:38] * mattiZed has quit IRC (Quit: Leaving)
+[03:54] * QBall has quit IRC (Signed off)
+[04:20] * vks has joined #stats.ql
+[04:31] * vks has quit IRC (Quit)
+[05:33] * lonewulf has quit IRC (Signed off)
+[05:53] * lonewulf has joined #stats.ql
+[05:57] * hannibal has quit IRC (Quit: Leaving)
+[08:11] * wdx has joined #stats.ql
+[08:11] * Q sets mode: +o wdx
+[08:13] * wdx2 has quit IRC (Ping timeout)
+[09:31] * vks has joined #stats.ql
+[10:03] * vixterra has quit IRC (Signed off)
+[10:35] * vks has quit IRC (Quit)
+[10:43] * mattiZed has joined #stats.ql
+[12:04] * PREDATH0R is now known as PredatH0r
+[12:48] * vks has joined #stats.ql
+[12:50] * Flash652 has joined #stats.ql
+[12:55] * Flash652 has quit IRC (Quit: 12( www.nnscript.com 12:: NoNameScript 4.22 12:: www.esnation.com 12))
+[13:45] <PredatH0r> new version of https://github.com/PredatH0r/XonStat/blob/master/feeder/feeder.node.js
+[13:46] <PredatH0r> it will now reconnect to stats ZMQ when there is no activity for 15min (to solve the problem with QL just going silent)
+[13:49] <PredatH0r> well, looks like i added a bug too :/
+[13:52] <rulex> :)
+[13:52] <PredatH0r> or to be more precise... i hit a bug in the zmq node module
+[13:53] <PredatH0r> disconnect() and close() don't seem to free the socket resource. after a series or disconnect() + connect() i bang out with "too many open files"
+[14:01] <PredatH0r> oh, interesting. disconnect needs an address as parameter
+[14:02] <PredatH0r> looks like the whole zmq socket class allows connecting to multiple servers within a single instance
+[14:07] <rulex> yea
+[14:07] <rulex> same in python
+[14:07] <PredatH0r> strange API. the password is set on the whole socket though, not per connection
+[14:09] <PredatH0r> looks like passing the address to disconnect() solved my problem. close() alone didn't close the network connections
+[14:12] <PredatH0r> good think i accidentally pasted my code with 1 min idle reconnect timeout. otherwise i would not have caught that problem in time :)
+[14:12] <PredatH0r> good thing*
+[15:07] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[15:08] * mattiZed has joined #stats.ql
+[16:21] * vks has quit IRC (Quit)
+[17:49] <inl> Good afternoon! I've made a bunch of progress on the ql-stats-models for mongodb. I'm still writing unit test for a few game events, this helps me nail down the use-cases for the data model and also the API usage. 
+[17:50] <inl> If life don't get in the way, I'll have something up on github during the weekend. It would be great if more people could help out with improving the data model and how we store information.
+[17:51] <inl> My goal is to be able to provide an API/data storage solution that allows any server admin to opt-in and any user/developer to consume data from.
+[17:53] <inl> And have the communite donate money to help pay for infrastructure costs.
+[17:56] * idur has joined #stats.ql
+[18:07] <PredatH0r> infrastructure cost? what kind of instrastructure are you planning to use?
+[18:16] * PerpetualWa_afk is now known as PerpetualWar_
+[18:30] <mattiZed> inl: much appreciated
+[18:33] <[ByQ]Descent> =)
+[18:51] <rulex> right on
+[18:58] <[ByQ]Descent> ..better to set up ql-currency-issue and forget about "US-Federal-Reserve-System", "Merkel" and others ... :D
+[18:58] <PredatH0r> is any of the code checked in? ql-stats-engine and ql-server-monitor are 9 days old, ql-stats-api is removed
+[18:59] <[ByQ]Descent> I'll try to set up it locally .. to test..
+[19:06] <inl> mongodb/redis/nginx
+[19:06] <inl> if i can find a suitable api proxy service that is affordable i'll skip nginx and cache through api proxy server
+[19:06] <inl> node.js for api
+[19:06] <inl> angular.js for webapp
+[19:07] <inl> since things are changin quite a bit with the code-base i haven't released anything to the public.
+[19:07] <rulex> i know dat feel
+[19:07] <rulex> :)
+[19:08] <inl> the api and data model will be release publicly but the layer which perform the actual persistance to redis and mongodb will be closed as that's my secret sauce
+[19:08] <inl> but the ql-server-monitor and ql-stats-models will be available.
+[19:09] <inl> so you will be able to set up your own server and stats tracking
+[19:10] <PredatH0r> i had no idea this is going to be a closed source project
+[19:10] <inl> everything is open source
+[19:10] <inl> it's just a small portion that doesn't make sense to open source
+[19:10] <inl> like HOW we do rank calculations and how we store stuff in redis
+[19:11] <inl> that could be open sourced possibly, but for now i'd say it's better to let it be core developer thing
+[19:11] <PredatH0r> if you keep some code to yourself, that also means you are the only developer who can even run this system
+[19:12] <inl> No, that's not true.
+[19:12] <inl> But the big point here is that why the fuck should we open source it
+[19:12] <inl> that will fragment the whole thing
+[19:12] <inl> what we need is money for infrastructure so we can host a platform for everyone
+[19:13] <inl> what's key to getting QL to not DIE
+[19:13] <inl> is an API that exposes ALL game data
+[19:13] <inl> And allows developer for bots, balancing, etc to consume
+[19:14] <inl> if i open source it all, then all of you will run in your own direction
+[19:14] <inl> and we have 12 systems running and players suffer
+[19:15] <PredatH0r> don't get me wrong. i'm not tryign to hold you back
+[19:16] <inl> i will leave all core components open sourced, like the server monitor, the ql-stats-models (events to mongodb)
+[19:16] <PredatH0r> atm i don't have the slightest insight of what's happening
+[19:16] <inl> there is a layer inbetween there which is basically on game event, use this method in ql-stats-models to create/save/update player etc etc but there is also some stuff concearning redis lists and such
+[19:17] <PredatH0r> so i don't even see a possibility to help you out with anything
+[19:17] <inl> I'll happily fill you in, it's not that big of deal
+[19:18] <inl> but now i need a dinner and glass of whine and wallow in the fact that finally it's weekend and i get to code all night with good conciense
+[19:18] <PerpetualWar_> inl
+[19:19] <PerpetualWar_> just one questiojn
+[19:19] <PredatH0r> it's not really about me. if you do it all by yourself and release the final product when it's done, it might turn out that you're the only person able to maintain it
+[19:19] <PerpetualWar_> I actually support PredatH0r in this
+[19:19] <PerpetualWar_> having only one person maintain it
+[19:19] <PerpetualWar_> is not good thing
+[19:19] * rulex opens a beer
+[19:19] <PredatH0r> ^ copy that
+[19:19] <PerpetualWar_> but my question is this
+[19:20] <PerpetualWar_> will we be able to take only certain stats
+[19:20] <PerpetualWar_> (for example from ca pickup servers)
+[19:20] <PerpetualWar_> and use only them for balancing if we wish so ?
+[19:20] <PerpetualWar_> will the api provide that ability ?
+[19:21] <PerpetualWar_> tbh I hoped for some project that will provide engine for ppl to set up on their servers
+[19:22] <PerpetualWar_> and collect and balance using their servers only if they wished so
+[19:22] <rulex> i believe it will if i understood correctly my previous talk with inl
+[19:22] <PerpetualWar_> ok rulex thats good then
+[19:23] <rulex> but it will probably take some time
+[19:23] <rulex> i guess overall duel elo is prio 1
+[19:23] <rulex> :)
+[19:23] <PerpetualWar_> elo is already working ?
+[19:23] <PerpetualWar_> right ?
+[19:25] <rulex> think so
+[19:25] <inl> overall main objective is getting servers and data into a system in a maintainable way so it can be exposed
+[19:25] <inl> stats and ranks are separated
+[19:25] <inl> logically
+[19:26] <PerpetualWar_> any roadmap for the project ?
+[19:31] <PredatH0r> PerpetualWar_: i uploaded a new feeder.node.js today. it will now reconnect automatically when a server is silent for 15min
+[19:31] <inl> 1. set the data model
+[19:31] <PerpetualWar_> oh cool PredatH0r
+[19:31] <PerpetualWar_> link ?
+[19:31] <inl> 2. integrate the data model with the ql-server-manager
+[19:31] <rulex> <@PredatH0r> new version of https://github.com/PredatH0r/XonStat/blob/master/feeder/feeder.node.js
+[19:32] <PredatH0r> https://raw.githubusercontent.com/PredatH0r/XonStat/master/feeder/feeder.node.js
+[19:32] <inl> 3. implement redis persistance of in-memory stuff
+[19:32] <inl> 4. build api
+[19:32] <inl> 5. implement team ranking algorithms
+[19:32] <inl> 6. build web app
+[19:33] * inl has left #stats.ql
+[19:33] <rulex> 7. /part
+[19:33] <PerpetualWar_> hm ?
+[19:33] <rulex> :D
+[19:33] <PerpetualWar_> what was that ?
+[19:33] * inl has joined #stats.ql
+[19:33] * Q sets mode: +o inl
+[19:33] <PerpetualWar_> oh
+[19:34] <inl> MY DAUGHTER GOT A HOLD OF THE KEYB
+[19:34] <inl> ops
+[19:34] <inl> chaos
+[19:34] <PerpetualWar_> :)
+[19:34] <rulex> :D
+[19:34] <PerpetualWar_> we were like , huh? :D
+[19:35] <rulex> he's done with our shit already
+[19:36] <[ByQ]Descent> ..looks like new "Joint-Stock-Company" meeting ..
+[19:36] <rulex> joint meeting, very interresting
+[19:37] <[ByQ]Descent> =)
+[19:38] <PredatH0r> i'll be honest. i kind of miss the planning phase in this project
+[19:38] <rulex> less planning, more doing
+[19:39] <[ByQ]Descent> rulex - new "Executive Director" .. 
+[19:39] <PredatH0r> a recipe to failure
+[19:40] <[ByQ]Descent> =)
+[19:41] <rulex> B)
+[20:11] * mattiZed has quit IRC (Quit: Leaving)
+[21:00] <inl> anyways, i'll be publishing the ql-stats-models within the next few days, i think it would be great to have some feedback on it.
+[21:01] <inl> in short it's just mongoose schemas based on the t-sql schemas i've seen posted in here, plus some mongodb sugar/nosql benefits for the win and a bunch of unit test (where i use the game stats events JSON payloads as fixtures)
+[21:02] <inl> tl;dr, ql event json to mongodb documents.
+[22:09] <[ByQ]Descent> =)
+[22:26] * idur has quit IRC (Quit: Page closed)
+Session Time: Sat Nov 21 00:00:01 2015
+[01:16] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:01] * vixterra has joined #stats.ql
+[02:04] * carmethene has joined #stats.ql
+[02:04] <carmethene> did not know this was a thing
+[02:04] <carmethene> but I love each and every one of you
+[02:04] <tjone270_> now you do :D
+[02:04] <carmethene> people have been asking me about it forever
+[02:04] <carmethene> as if it was in my power to do anythign about it :P
+[02:04] <tjone270_> http://qlstats.net:8080
+[02:04] <tjone270_> seen that yet?
+[02:04] <carmethene> what is the current status btw?
+[02:04] <carmethene> oh yes, my server is feeding into it
+[02:05] <carmethene> I'm at #3 on active servers
+[02:05] <carmethene> speaking of which
+[02:05] <carmethene> PredatH0r: can I add my duel server too?
+[02:05] <tjone270_> Ah :). rulex/PredatH0r/inl would be able to tell you more about how far the project's going.
+[02:06] * tjone270_ has quit IRC (Signed off)
+[02:06] * tjone270 has joined #stats.ql
+[02:06] * Q sets mode: +o tjone270
+[02:07] <PredatH0r> ip / port / pass ?
+[02:08] <carmethene> PredatH0r: same as the one you already have
+[02:08] <carmethene> except 27962
+[02:08] <carmethene> carmethene.com:27962
+[02:09] <carmethene> 27960 is CA which you already have
+[02:09] <carmethene> 61 is Instabounce should you want that
+[02:09] <carmethene> they all share the same pass for stats
+[02:09] <carmethene> wow, I could have said all that in way fewer lines
+[02:09] <PredatH0r> done
+[02:09] <carmethene> thank you :)
+[02:13] * lonewulf has quit IRC (Ping timeout)
+[02:24] <sno> PredatH0r: any requirements for getting servers added to stats gathering on qlstats?
+[02:25] <PredatH0r> atm none
+[02:25] <sno> so doesn't matter if normal qlds or with minqlx etc?
+[02:26] <PredatH0r> atm not, but there might be something later when real data collection / filtering starts
+[02:27] <PredatH0r> right now it's all a mess in the database
+[02:27] <sno> ok, mind adding the omega public ctf servers? we have one in nl and one in de
+[02:27] <PredatH0r> sure. i need ip, port, pass (if any)
+[02:29] <sno> pm'd, ta
+[02:32] <sno> how are stats stored against player names, steamids or nicks?
+[02:32] <PredatH0r> steam-ids
+[02:32] <sno> cool
+[02:33] <sno> how are stats gathered for ctf games?
+[02:35] <sno> i mean is there a team game formula or something
+[02:49] <PredatH0r> tbh, i have no idea. i use the xonstats code from xonotic. it's probably score based
+[03:01] <sno> ah right
+[03:39] * garz has joined #stats.ql
+[03:49] <garz> hi
+[03:56] <[ByQ]Descent> hi
+[04:11] * vks has joined #stats.ql
+[04:11] <garz> i can program and i have a vision for what i would like to do for ql, if i find the time
+[04:11] <garz> what is the status with your vision?
+[04:12] <[ByQ]Descent> =)
+[04:12] <[ByQ]Descent> what the problem just to do it?
+[04:15] <garz> none
+[04:17] <garz> the title of this channel says, its about people collaborating
+[04:17] <garz> maybe i can be a part
+[04:18] <garz> is there anything that is collaboratively done?
+[04:18] <pex> it's 5 different projects all using 5 different technologies, not really worth the effort imo
+[04:21] <garz> why not?
+[04:25] <[ByQ]Descent> mm...every project developed by  author   ...
+[04:26] <garz> ?
+[04:26] <garz> so there are 5 different people doing something like qlranks
+[04:27] <garz> everybody competing with each other
+[04:39] <[ByQ]Descent> everything is in alpha status right now as far as I know .. 
+[04:39] <garz> what else do you know :D
+[04:39] <garz> just tell me everything =)
+[04:54] <[ByQ]Descent> :D
+[04:55] <[ByQ]Descent> ..
+[05:24] * garz has quit IRC (Quit: Page closed)
+[05:58] * PredatH0r is now known as PREDATH0R
+[07:56] * vks has quit IRC (Quit)
+[07:59] * vks has joined #stats.ql
+[08:10] * lonewulf has joined #stats.ql
+[08:11] * lonewulf has quit IRC (Registered)
+[08:11] * lonewulf has joined #stats.ql
+[08:11] * lonewulf has quit IRC (Signed off)
+[08:49] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[11:02] * PerpetualWa_afk is now known as PerpetualWar_
+[11:25] * Dbzruler72 has joined #stats.ql
+[12:22] * b1ngo has joined #stats.ql
+[12:34] * lolca has joined #stats.ql
+[12:36] * lolca is now known as gojira_
+[12:45] <gojira_> how do i get my server on qlstats?
+[12:50] * lonewulfn6 has quit IRC (Ping timeout)
+[13:09] <tjone270> talk to PredatH0r :)
+[13:12] * Dbzruler73 has joined #stats.ql
+[13:13] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[13:13] * Dbzruler73 is now known as Dbzruler72
+[13:14] * Dbzruler72 has quit IRC (Signed off)
+[13:48] * lonewulfn6 has joined #stats.ql
+[14:24] * vixterra has quit IRC (Signed off)
+[14:55] * PREDATH0R is now known as PredatH0r
+[15:08] * b1ngo has quit IRC (Signed off)
+[15:31] * mattiZed has joined #stats.ql
+[17:54] * zippercoat has joined #stats.ql
+[17:57] * teh1337 has quit IRC (Ping timeout)
+[17:57] * zippercoat is now known as teh1337
+[18:15] * idur has joined #stats.ql
+[18:36] * gojira_ has quit IRC (Quit: Leaving)
+[19:21] <sno> PredatH0r: mind adding 2 more servers ? :)
+[19:28] * wdx is now known as wdx2
+[19:32] <PredatH0r> ofc not. as soon as i get the PayPal confirmation :)
+[19:41] * lonewulf has joined #stats.ql
+[19:44] <sno> haha :p
+[19:45] <sno> 46.101.230.5:27961 / 46.101.230.5:27962 cheers
+[19:45] <sno> paypal is in the post ;)
+[19:53] <PredatH0r> same password as the others?
+[19:55] <PredatH0r> well, doesn't work
+[19:56] * pex has quit IRC (Signed off)
+[19:58] <sno> ye same pass
+[19:59] <sno> hmm sec
+[20:00] <sno> yea should work, same pass and ip just next 2 ports
+[20:01] <sno> can see ip connecting in for stats for first one ok
+[20:01] <[ByQ]Descent> =)
+[20:02] <[ByQ]Descent> 2sno: it wasnt actually a joke .. :D
+[20:02] <sno> oh wait, im a newb
+[20:02] <PredatH0r> i can't connect to the 2 ips.
+[20:03] <[ByQ]Descent> =)
+[20:03] <sno> sorry try now PredatH0r 
+[20:03] <sno> had wrong stats port for some reason
+[20:03] <sno> yep see it now, cheers 
+[20:03] <sno> :D
+[20:09] * melba has joined #stats.ql
+[20:09] <PredatH0r> welcome!
+[20:09] <melba> )
+[20:10] <melba> have you looked into trueskill or no time/
+[20:10] <PredatH0r> no. trueskill is patented and licenses are exclusively given out to XBox games
+[20:10] <melba> because i want to run a simulation against some match stats, see how's the rating inflation
+[20:11] <melba> pretty sure you can use it in nonprofit stuff
+[20:11] <melba> at least others are
+[20:12] <PredatH0r> i can send you my match data collection if you like. but it's all unfiltered
+[20:12] <melba> sure np
+[20:12] <PredatH0r> or you can set up your own stats grabber for your servers
+[20:17] <melba> i was going the road of trying to grab stats from pub servers, but if you already have some, even better
+[20:21] <PredatH0r> http://beham.biz/2015-11.zip
+[20:22] <[ByQ]Descent> ..got it
+[20:23] <PredatH0r> some day we should have a discussion in here to figure out the criteria for matches that are included in the ranking/elo calculations
+[20:24] <melba> cool, thanks. i'll report if i come up with some useful result 
+[20:24] <melba> at least to contribute to the tribal knowledge if nothing else )
+[20:36] * pex has joined #stats.ql
+[20:44] * idur slaps wdx2 around a bit with a large fishbot
+[21:49] * b1ngo has joined #stats.ql
+[22:24] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[22:33] * vks has quit IRC (Quit)
+[22:49] * [QLB] has joined #stats.ql
+[22:51] * [QLB] has left #stats.ql
+[22:59] <melba> PredatH0r, is it possible people are playing on many accounts or stealing each other's nicks? )
+[22:59] <melba> have you noticed anything like that
+[22:59] <[ByQ]Descent> =)
+[23:00] <PredatH0r> anyone can have any nick
+[23:00] <PredatH0r> i just played vs. a polish sya_
+[23:01] <[ByQ]Descent> yesterday  ffa server joined putin and played wavs: putins talks, USSR hymn and etc .. :D
+[23:01] <PredatH0r> yea, he does it all the time. also the screaming monkeys
+[23:02] <[ByQ]Descent> ..
+[23:02] <melba> nice
+[23:05] <melba> http://pastebin.com/SbbFMLZb
+[23:05] <melba> scroll down
+[23:05] <melba> at bottom in fact ;d
+[23:10] <melba> forgot to remove instagib
+[23:12] <[ByQ]Descent> and..
+[23:12] <melba> http://pastebin.com/uVM5699E
+[23:13] <melba> without insta
+[23:13] <PredatH0r> you should do that by steam-id, not by nickname
+[23:14] <PredatH0r> i appear multiple times with different color codes
+[23:15] <melba> it is by steamid
+[23:15] <PredatH0r> i just noticed. i see 2 different steam IDs for my nick
+[23:15] <melba> yes
+[23:15] <melba> that's why my initial question
+[23:15] <PredatH0r> and neigher one is ranked as good as it should be :)
+[23:18] <PredatH0r> actually, neither one of these 2 IDs is mine
+[23:21] <[ByQ]Descent> :D
+[23:25] <PredatH0r> they belong to "istwo" and "BlinD". according to the steam profile, they never used my nick
+[23:25] <PredatH0r> oooooooh, i guess i know
+[23:25] <PredatH0r> melba: listen up!
+[23:25] <melba> i fixed that
+[23:25] <PredatH0r> in the earlier files, i did not filter out the WARMUP stuff
+[23:26] <PredatH0r> also, by speccing someone, they BECOME that player, including the steamid
+[23:26] <[ByQ]Descent> >:-[         ]
+[23:28] * zurn has quit IRC (Signed off)
+[23:37] <PredatH0r> wtf. i found my steam id in your data. nickname "ArseMaster"
+[23:37] <melba> i fixed that already
+[23:37] <melba> )
+[23:38] <PredatH0r>  :)
+[23:38] <PredatH0r> ok. so no fundamental data problem?
+[23:46] <melba> http://pastebin.com/Ff3a2r4R
+[23:46] <melba> looks better
+[23:46] <melba> hopefully ur id is correct )
+[23:48] <melba> data should be fine
+[23:49] <PredatH0r> looks a lot better
+[23:57] <melba> the code http://pastebin.com/xLFN77PC
+Session Time: Sun Nov 22 00:00:00 2015
+[00:09] <PredatH0r> i trying to find any reliable source about the trueskill license model. but there is none
+[00:10] <PredatH0r> the guy who wrote the python implementation mentioned that it's free for non-commercial, but i can't find any confirmation for that
+[00:10] <melba> yeah it's a gray area
+[00:11] <melba> don't use it if you are worried
+[00:12] <melba> but i'm not happy with elo for the team modes, so i had to do this
+[00:15] <PredatH0r> did you take a look at the xonstat/qlstats rating code?
+[00:15] <melba> yeah it uses sqlalchemy
+[00:15] <melba> and i always think twice before learning yet another orm
+[00:15] <melba> )
+[00:16] <melba> it's gonna be a mess to change it
+[00:16] <PredatH0r> efforts are underway to completely replace qlstats
+[00:17] <PredatH0r> with something javascript / angularjs / nodejs /reactjs / mongoose / mogodb / redis / .... based
+[00:17] <melba> yeah i'm not touching that
+[00:17] <melba> )
+[00:17] <melba> i just told them to use trueskill a few times
+[00:17] <melba> but i doubt they will
+[00:22] <PredatH0r> i'd prefer if rating numbers were transparent. they should only be used for matchmaking/shuffling
+[00:23] <PredatH0r> ocd makes people do weired things
+[00:23] <melba>  yeah was just talking to stitch about it
+[00:24] <melba>  someone for lolca should make a minqlx shuffle plugin, i guess they are suffering the most
+[00:25] <PredatH0r> right. i talked to mino yesterday
+[00:25] <PredatH0r> i added an API URL to expose the rating values from qlstats.net for the time being
+[00:25] <PredatH0r> it's using the same input/output as qlranks did, so it should be straight forward to implement
+[00:26] <PredatH0r> i even ported my /elo userscript, but i won't make it public
+[00:26] <melba> )
+[00:27] <PredatH0r> the source code acutally is. but i won't bundle it with extraql
+[00:49] <melba> PLAY_TIME i assume is since connected to server
+[00:49] <melba> not since game started
+[00:53] * melba_ has joined #stats.ql
+[00:53] <melba_> final attempt http://pastebin.com/U0FupCDR
+[00:53] <melba_> works well imo
+[00:55] * melba has quit IRC (Ping timeout)
+[00:56] <PredatH0r> there is indeed something fishy with playtime
+[00:56] <PredatH0r> i've seen players with 20h playtime out of a 10min match
+[00:58] * idur has quit IRC (Quit: Page closed)
+[00:59] <PredatH0r> i like the final version. i'm in the top 40 :)
+[00:59] <melba_> no point punishing quits in ffa
+[00:59] <melba_> which changes the rating's meaning from how likely you are to win the game itself to how likely are you to score more than others
+[01:00] <PredatH0r> what do you mean? are you now extrapolating score/kill/death from playtime to matchtime?
+[01:01] <melba_> i was thinking about it, because trueskill supports it, but don't think we have that data
+[01:01] <PredatH0r> are you aggregating playtime/score if a player appears multiple times in a game (e.g. switching to spec and back)
+[01:01] <melba_> server reports the total 
+[01:02] <melba_> at least it used to
+[01:02] <PredatH0r> cool
+[01:02] <melba_> i doubt they changed it
+[01:03] <PredatH0r> time for some bg ffa
+[01:03] <melba_> )
+[01:40] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:40] * PerpetualWa_afk is now known as PerpetualWar_
+[02:09] * vixterra has joined #stats.ql
+[02:10] <inl> splurgh, data schemas coming along nicely. I'm managed to have a sort of optimized way of storing data up until match_report data event. (player_connect, player_disconnect, player_stats). Once i've completed the unit tests for match_report event I'd say the core db model/ persistance should be in place, i'll be publishing the repo once the last bit is in place and all unit tests pass.
+[02:31] * b1ngo has quit IRC (Signed off)
+[03:18] * PerpetualWar_ is now known as PerpetualWa_afk
+[04:14] * ph0en|X has joined #stats.ql
+[04:38] * ph0en|X has left #stats.ql
+[04:55] * melba_ has quit IRC (Ping timeout)
+[05:42] * PredatH0r is now known as PREDATH0R
+[06:45] * lonewulf has quit IRC (Signed off)
+[06:53] * lonewulf has joined #stats.ql
+[10:28] * PerpetualWa_afk is now known as PerpetualWar_
+[11:26] * vks has joined #stats.ql
+[12:37] * PREDATH0R is now known as PredatH0r
+[12:40] * melba has joined #stats.ql
+[13:52] * vks has quit IRC (Quit)
+[15:32] * vixterra has quit IRC (Signed off)
+[16:47] * idur has joined #stats.ql
+[18:08] * thunderboss has quit IRC (Ping timeout)
+[18:26] * Kal has joined #stats.ql
+[18:47] * vks has joined #stats.ql
+[19:00] * Disconnected
+Session Close: Sun Nov 22 19:00:29 2015
+
+Session Start: Mon Nov 23 18:49:05 2015
+Session Ident: #stats.ql
+[18:49] * Now talking in #stats.ql
+[18:49] * Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-server-monitor'
+[18:49] * Set by inl on Fri Nov 13 21:59:40
+[19:37] * mattiZed has joined #stats.ql
+[20:53] * mattiZed` has joined #stats.ql
+[20:53] * mattiZed` has quit IRC (Quit: Leaving...)
+[21:44] * cenix has quit IRC (Ping timeout)
+[22:18] * melba has quit IRC (Ping timeout)
+[22:37] * CENiX has joined #stats.ql
+[22:37] * CENiX is now known as cenix
+[22:46] * idur has joined #stats.ql
+Session Time: Tue Nov 24 00:00:00 2015
+[00:26] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[00:54] * idur has quit IRC (Quit: Page closed)
+[01:03] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:12] * cenix is now known as CENiX
+[02:37] * carmethene has quit IRC (Signed off)
+[02:38] * carmethene has joined #stats.ql
+[03:27] * lonewulf has quit IRC (Signed off)
+[03:42] * PredatH0r is now known as PREDATH0R
+[03:45] * CENiX is now known as cenix
+[03:47] * vks has joined #stats.ql
+[04:20] * lonewulf has joined #stats.ql
+[04:22] * cenix is now known as CENiX

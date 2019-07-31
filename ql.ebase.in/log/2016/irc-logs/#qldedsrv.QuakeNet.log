@@ -1,0 +1,1797 @@
+
+Session Start: Wed Nov 18 18:10:29 2015
+Session Ident: #qldedsrv
+[18:10] * Now talking in #qldedsrv
+[18:10] * Topic is 'http://bit.do/linuxQLsrv :: Linux Server Guide, thanks Yakumo. Feel free to ask any questions, get help from experienced users, propose new server ideas, share your expertise etc. Server owners that want their stats collected, can join #stats.ql'
+[18:10] * Set by PerpetualWar on Sat Nov 07 13:51:48
+[18:21] * Mogrot has quit IRC (Ping timeout)
+[18:28] * g0rilla has joined #qldedsrv
+[18:31] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[18:32] * vtchill has quit IRC (Signed off)
+[18:48] * Mogrot has joined #qldedsrv
+[19:25] * PerpetualWa_off is now known as PerpetualWar
+[19:25] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[19:44] * vtchill has joined #qldedsrv
+[20:01] * crobartie is now known as crobartie|AFK
+[20:05] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[20:06] * g0rilla has joined #qldedsrv
+[20:17] * Linkyyy^off is now known as Linkyyy
+[20:25] * Danmer has joined #qldedsrv
+[20:40] * b1ngo has joined #qldedsrv
+[20:47] * McAfee has joined #qldedsrv
+[21:00] * flair has joined #qldedsrv
+[21:07] * Rick971 has quit IRC (Signed off)
+[21:07] * Rick971 has joined #qldedsrv
+[21:10] * spinalfluid has joined #qldedsrv
+[21:14] * spinalfluid` has quit IRC (Ping timeout)
+[21:16] * Mogrot has quit IRC (Ping timeout)
+[21:18] * Linkyyy is now known as Linkyyy^off
+[21:21] * vks has joined #qldedsrv
+[21:26] * PECKA is now known as pecka
+[21:30] * pecka is now known as PECKA
+[21:30] * Oh`Christ`Off is now known as Oh`Christ
+[21:31] * PECKA is now known as pecka
+[21:57] * pecka is now known as PECKA
+[22:07] * crobartie|AFK is now known as crobartie
+[22:15] * Melodeiro has joined #qldedsrv
+[22:23] * vixterra has joined #qldedsrv
+[22:24] * PECKA is now known as pecka
+[22:38] * pecka is now known as PECKA
+[22:39] * [BA]PqO`Off has quit IRC (Ping timeout)
+[22:40] * [BA]PqO`Off has joined #qldedsrv
+[22:40] * [BA]PqO`Off is now known as [BA]PqO
+[22:45] * Mogrot has joined #qldedsrv
+[22:52] * b1ngo has quit IRC (Signed off)
+[22:52] * lonewulf has quit IRC (Signed off)
+[23:08] * loveless has joined #qldedsrv
+[23:10] * Linkyyy^off is now known as Linkyyy
+[23:11] * fx_off is now known as fx
+[23:11] * psygib has quit IRC (Ping timeout)
+[23:13] * fx is now known as fx_off
+[23:13] * PECKA is now known as pecka
+[23:21] * vks has quit IRC (Quit)
+[23:25] * Danmer_ has joined #qldedsrv
+[23:25] * lonewulf has joined #qldedsrv
+[23:26] * Danmer has quit IRC (Ping timeout)
+[23:31] * vixterra has quit IRC (Signed off)
+[23:59] * pecka is now known as PECKA
+Session Time: Thu Nov 19 00:00:00 2015
+[00:00] * PECKA is now known as pecka
+[00:07] * spinalfluid has quit IRC (Ping timeout)
+[00:07] * spinalfluid` has joined #qldedsrv
+[00:20] <rzeka> Is is possible to check score from rcon console?
+[00:23] * pecka is now known as PECKA
+[00:26] * Danmer_ has quit IRC (Signed off)
+[00:42] * crobartie is now known as crobartie|AFK
+[00:47] * PECKA is now known as pecka
+[00:53] * pecka is now known as PECKA
+[01:18] * Linkyyy is now known as Linkyyy^off
+[01:28] * PECKA is now known as pecka
+[01:29] * PerpetualWar is now known as PerpetualWa_off
+[01:32] * pecka is now known as PECKA
+[01:54] * PECKA is now known as pecka
+[01:57] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[02:21] * Dbzruler72 has joined #qldedsrv
+[02:31] * pecka is now known as PECKA
+[02:33] <tjone270> rzeka: status gives the player's score along with other information
+[02:45] <rzeka> tjone270 I thought about team scores ;)
+[02:46] <tjone270> Ohh, I see
+[02:46] <tjone270> Idk :\
+[02:47] <syncore> why not just get g_redscore and g_bluescore
+[02:48] * psygib has joined #qldedsrv
+[02:49] <rzeka> syncore it doesn't return anything
+[02:51] <rzeka> I don't see anything useful in cvarlist nor cmdlist
+[03:06] * Oh`Christ is now known as Oh`Christ`Off
+[03:51] * [BA]PqO is now known as [BA]PqO`Off
+[03:59] * vixterra has joined #qldedsrv
+[04:06] * McAfee has left #qldedsrv
+[04:22] * crobartie|AFK has quit IRC (Signed off)
+[04:33] * McAfee has joined #qldedsrv
+[04:33] * McAfee has left #qldedsrv
+[04:34] * McAfee has joined #qldedsrv
+[04:45] * roasticle has quit IRC (Ping timeout)
+[04:58] * Tlog1kR has joined #qldedsrv
+[05:01] * vtchill has quit IRC (Read error: Operation timed out)
+[05:47] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[05:54] * vtchill has joined #qldedsrv
+[06:03] * flair has quit IRC (Read error: Connection reset by peer)
+[06:08] * roast has joined #qldedsrv
+[06:12] * vtchill has quit IRC (Signed off)
+[06:58] * Mogrot has quit IRC (Ping timeout)
+[07:04] * spinalfluid has joined #qldedsrv
+[07:07] * spinalfluid` has quit IRC (Ping timeout)
+[07:22] * vixterra has quit IRC (Signed off)
+[08:05] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[08:06] * Dbzruler72 has joined #qldedsrv
+[08:09] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[08:18] * vtchill has joined #qldedsrv
+[08:22] * Mogrot has joined #qldedsrv
+[08:28] * xananux has joined #qldedsrv
+[08:39] * psygib has quit IRC (Signed off)
+[08:46] * xananux has left #qldedsrv (quitter)
+[09:03] * psygib has joined #qldedsrv
+[09:03] * psygib has quit IRC (Registered)
+[09:03] * psygib has joined #qldedsrv
+[10:18] * vtchill has quit IRC (Signed off)
+[10:31] * McAfee has left #qldedsrv
+[10:50] * Tlog1kR has quit IRC (Read error: Connection reset by peer)
+[10:58] * vks has joined #qldedsrv
+[11:27] * Mogrot has quit IRC (Ping timeout)
+[11:45] * mattiZed has joined #qldedsrv
+[11:45] * Q sets mode: +v mattiZed
+[11:47] * PerpetualWa_off is now known as PerpetualWar
+[12:20] * PerpetualWar is now known as PerpetualWa_off
+[12:31] * lonewulf_ has joined #qldedsrv
+[12:35] * lonewulf has quit IRC (Ping timeout)
+[13:05] * fx_off is now known as fx
+[13:15] * fx is now known as fx_off
+[12:52] * Rick971 has joined #qldedsrv
+[13:00] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[13:01] * Rick971 has joined #qldedsrv
+[13:28] * psygib has quit IRC (Signed off)
+[13:30] * loveless has quit IRC (Signed off)
+[13:35] * Rick971_ has joined #qldedsrv
+[13:39] * Rick971 has quit IRC (Ping timeout)
+[14:07] * Rick971 has joined #qldedsrv
+[14:11] * Rick971_ has quit IRC (Ping timeout)
+[14:22] * mattiZed has quit IRC (Quit: Leaving...)
+[14:31] * flair has joined #qldedsrv
+[14:57] * Rick971_ has joined #qldedsrv
+[15:01] * Rick971 has quit IRC (Ping timeout)
+[15:09] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[15:09] * Rick971_ has joined #qldedsrv
+[15:36] * Linkyyy^off is now known as Linkyyy
+[15:37] * mattiZed has joined #qldedsrv
+[15:37] * Q sets mode: +v mattiZed
+[15:47] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[15:47] * Rick971_ has joined #qldedsrv
+[16:05] * McAfee has joined #qldedsrv
+[16:09] * Rick971 has joined #qldedsrv
+[16:13] * Rick971_ has quit IRC (Ping timeout)
+[16:32] * Dbzruler72 has joined #qldedsrv
+[16:37] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[16:38] * Rick971 has joined #qldedsrv
+[16:56] * vtchill has joined #qldedsrv
+[17:08] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[17:08] * Rick971 has joined #qldedsrv
+[17:09] * vtchill_ has joined #qldedsrv
+[17:11] * vtchill has quit IRC (Ping timeout)
+[17:11] * vtchill_ is now known as vtchill
+[17:17] * Rick971_ has joined #qldedsrv
+[17:21] * vtchill has quit IRC (Signed off)
+[17:21] * Rick971 has quit IRC (Ping timeout)
+[17:58] * Rick971 has joined #qldedsrv
+[18:02] * Rick971_ has quit IRC (Ping timeout)
+[18:07] * PerpetualWa_off is now known as PerpetualWar
+[18:22] * Linkyyy is now known as Linkyyy^off
+[18:45] * Linkyyy^off is now known as Linkyyy
+[18:58] * Rick971_ has joined #qldedsrv
+[19:02] * Rick971 has quit IRC (Ping timeout)
+[19:06] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[19:06] * Rick971_ has joined #qldedsrv
+[19:15] * g0rilla has joined #qldedsrv
+[19:21] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[19:21] * Rick971_ has joined #qldedsrv
+[19:25] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[19:26] * Rick971_ has joined #qldedsrv
+[19:26] * vtchill has joined #qldedsrv
+[20:01] * Danmer has joined #qldedsrv
+[20:23] * Linkyyy is now known as Linkyyy^off
+[20:30] <lonewulf_> Going through quakelive.focus log (Steam release time) .. read this and LOL
+[20:30] <lonewulf_> 18:13 8/<g gPredatH0rg8/>g emy windows server is running the whole day without issues so far
+[20:30] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[20:31] <lonewulf_> This was around the time of all the Linux qlds crashes.
+[20:31] * Rick971_ has joined #qldedsrv
+[20:31] <lonewulf_> heh
+[20:31] <vtchill> anyone know of documentation describing every config var that can be set in either server.cfg or on the exec line (e.g. +set fs_homepath)
+[20:32] <lonewulf_> I wish..that would be gold.
+[20:33] <McAfee> we need to turn sponge into a singularity, then we will have all the knowledge xD
+[20:33] <lonewulf_> lol
+[20:34] <McAfee> but this is a start: http://www.regurge.at/ql/
+[20:34] <McAfee> http://www.holysh1t.net/quake-live-commands-list/
+[20:34] <sponge-> listcvars *
+[20:35] <sponge-> but there's just a lot of shit that was in q3 and doesn't do anything in ql
+[20:35] * Oh`Christ`Off is now known as Oh`Christ
+[20:35] <vtchill> yea exactly, i just want to know what is relative to the server config without everything else
+[20:35] <lonewulf_> terminal history too short for listcvars*
+[20:35] <vtchill> especially without all the cvars that do nothing
+[20:35] <McAfee> didnt the wolfet version of listcvars and listcmds have comments in the output ?
+[20:35] <sponge-> look at g_, pmove_, weapon_, and sv_
+[20:35] <vtchill> any easy way to print this list out from console/
+[20:36] <sponge-> logfile 2
+[20:36] <sponge-> and then run the cmd
+[20:36] <McAfee> you could also run the command 26 times: listcvars a*    .... listcvars z*
+[20:37] <lonewulf_> Thats what I did the other night ^^
+[20:38] <McAfee> but yeah i think wolfet, or either etqw, had comments when outputing cvars
+[20:38] <sponge-> that was tech 4
+[20:38] <McAfee> :)
+[20:38] * Rick971 has joined #qldedsrv
+[20:40] <sponge-> when it comes down to it i dont even know what all the cvars do and its not even apparent in the code sometimes
+[20:40] <sponge-> and then theres stuff like disable_* which aren't registered cvars at all
+[20:41] <McAfee> yeah but if we turn you into a singularity, there's stuff you know that you are not aware you know :P
+[20:41] <lonewulf_> we may never know all the definitions to listcvars* :((
+[20:43] <lonewulf_> quake is the most mysterious game ever.
+[20:43] * Rick971_ has quit IRC (Ping timeout)
+[20:45] <McAfee> Was it ALL Carmack as far as cvars go back then quake3 was released?
+[20:46] <McAfee> when*
+[20:47] <McAfee> and John Cash, accoridng to the credits... don't think i remember him
+[20:50] <roast> i remember johnny cash
+[20:51] <McAfee> http://www.mobygames.com/developer/sheet/view/developerId,1063/
+[20:52] <Drayan> that's quite a CV
+[20:55] <lonewulf_> High pings today on servers
+[20:55] * lonewulf_ wonders if its only him
+[20:55] <lonewulf_> time too restart vps I suppose.
+[21:01] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:01] * Rick971 has joined #qldedsrv
+[21:07] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:07] * Rick971 has joined #qldedsrv
+[21:09] * crobartie has joined #qldedsrv
+[21:10] * b1ngo has joined #qldedsrv
+[21:12] * Linkyyy^off is now known as Linkyyy
+[21:18] * [BA]PqO`Off is now known as [BA]PqO
+[21:27] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:27] * Rick971 has joined #qldedsrv
+[21:42] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:43] * Rick971 has joined #qldedsrv
+[22:03] * lonewulf_ has quit IRC (Signed off)
+[22:06] * lonewulf has joined #qldedsrv
+[22:07] * [BA]PqO is now known as [BA]PqO`Off
+[22:07] * vtchill_ has joined #qldedsrv
+[22:09] * vtchill has quit IRC (Ping timeout)
+[22:09] * vtchill_ is now known as vtchill
+[22:21] * Mogrot has joined #qldedsrv
+[22:21] * vixterra has joined #qldedsrv
+[22:22] * sanak has joined #qldedsrv
+[22:33] * tjone270_ has joined #qldedsrv
+[22:33] * Q sets mode: +o tjone270_
+[22:33] * tjone270 has quit IRC (Ping timeout)
+[22:42] <lonewulf> My ping to my Chicago servers (this has been like this all day so far) have gone from 30 ping to 130ping
+[22:42] <lonewulf> for me.
+[22:42] <lonewulf> would this be an issue w/my vps, or my actual isp?
+[22:42] <lonewulf> my isp right?
+[22:43] <carmethene> traceroute it?
+[22:43] <lonewulf> trying to figure out who to contact, my isp, or the vps Im using for qlds.
+[22:43] <carmethene> traceroute it
+[22:43] <lonewulf> kk
+[22:43] <lonewulf> thanks
+[22:43] <carmethene> hopefully you will see the ping jump suddenly during one of the hops
+[22:44] <carmethene> or maybe you'll just see your packets taking a ridiculous route
+[22:44] <lonewulf> I think its on my end (my isp).. because all the low ping servers that I would normally connect too, are now well over a 100 ping.
+[22:44] <lonewulf> let me google traceroute
+[22:44] <lonewulf> xD
+[22:44] <carmethene> sounds that way, but traceroute will give you more concrete info
+[22:44] <carmethene> are you on windows or linux?
+[22:45] <carmethene> I'm guessing the former?
+[22:45] <lonewulf> kk thank you sir
+[22:45] <carmethene> open cmd.exe, tracert www.google.com
+[22:45] <carmethene> or such
+[22:45] <lonewulf> kk
+[22:45] <lonewulf> currently on win7
+[22:45] <lonewulf> using PuTTY
+[22:45] <lonewulf> lol
+[22:45] <carmethene> nothing wrong with that
+[22:45] * crobartie has quit IRC (Signed off)
+[22:45] <lonewulf> but I play from win7, so yeah.
+[22:46] <lonewulf> I prefer to be in my Arch Linux install tho
+[22:46] <lonewulf> :D
+[22:46] <carmethene> I'm stuck in Windows land too
+[22:46] <carmethene> Cygwin to the rescue
+[22:46] <lonewulf> but no Linux client for ql.
+[22:46] <lonewulf> lol
+[22:46] <lonewulf> cool
+[22:46] <lonewulf> I've used Cygwin before.
+[22:46] <carmethene> mostly Cygwin or Chrome Mosh to my Debian workstation
+[22:47] <lonewulf> Very nice!
+[22:47] <carmethene> it's a great compromise :)
+[22:47] <carmethene> just need to figure out how to get PulseAudio working over SSH and I'm done
+[22:49] <lonewulf> gl with that.
+[22:50] <lonewulf> thought I had notes on that..
+[22:50] <lonewulf> just checked, and was about 
+[22:50] <lonewulf> scp
+[22:50] <lonewulf> # Copy files from a remote server to your local computer.
+[22:50] <lonewulf> That wont help you any ^
+[22:50] <lonewulf> :o
+[22:51] <carmethene> ah I know roughly how to do it, just need to sit down and figure out the details
+[22:51] <lonewulf> ah, the fun part!
+[22:51] <lonewulf> :D
+[22:51] <carmethene> you can expose the audio hardware as a port
+[22:52] <carmethene> then on the remote client, you point at the port, et voila, remote audio, just like remote X
+[22:52] <carmethene> but obviously you don't want your audio hardware sitting open on the network, so there's some ssh tunnelling involved, etc
+[22:52] <carmethene> anyhow, any luck with the traceroute?
+[22:52] <lonewulf> trying now
+[22:54] <lonewulf> 'traceroute' is not recognized as an internal or external command,
+[22:54] <lonewulf> operable program or batch file.
+[22:54] <lonewulf> stupid windows command prompt.
+[22:54] <Drayan> tracert
+[22:54] <lonewulf> kk ty
+[22:55] <carmethene> 11:45 < carmethene> open cmd.exe, tracert www.google.com
+[22:55] <lonewulf> I put my actual ip to my qlds in.
+[22:55] <lonewulf> :o
+[22:55] <carmethene> even bettr
+[22:56] <lonewulf> Trace complete.
+[22:56] <carmethene> anything obvious with the timings?
+[22:57] <lonewulf> goes from 1 ms to 17 to 30 to 127
+[22:57] <carmethene> that last one sounds pretty egregious
+[22:57] <carmethene> try some other sites, find a pattern
+[22:57] <carmethene> see if you can identify a specific hop where it goes up
+[22:57] <carmethene> that should tell you who you need to contact
+[22:57] <lonewulf> kk
+[22:57] <carmethene> if it's right at the start, it's your local network
+[22:57] <carmethene> just outside that, your ISP
+[22:58] <lonewulf> over a maximum of 30 hops:
+[22:58] <carmethene> on the far end, it's probably the target machine
+[22:58] <lonewulf> its says.
+[22:58] <carmethene> etc
+[22:58] <carmethene> also doing a few passes helps
+[22:58] <lonewulf> Roger that~
+[22:58] <carmethene> sometimes the large hop is temporary
+[22:58] <lonewulf> kk
+[22:58] <carmethene> e.g. 4,5,3,4,5,2000,2,4
+[22:59] <carmethene> which implies some amount of packet loss, or routing insanity
+[22:59] <lonewulf> its my isp
+[22:59] <carmethene> I had a case where the spike was moving around all over the traceroute
+[22:59] <lonewulf> the 127 jump is in a town very close to me
+[22:59] <carmethene> turned out to be faulty hardware right outside the house
+[22:59] <lonewulf> very close = a couple miles away.
+[22:59] <carmethene> there you go then
+[23:00] <lonewulf> :D
+[23:00] <carmethene> what's your server ip btw?
+[23:00] <carmethene> I'll tell you what I'm pinging to it
+[23:00] <lonewulf> 45.63.70.118:27960-2
+[23:00] <lonewulf> Im running 3 duel servers
+[23:00] <lonewulf> classic
+[23:00] <carmethene> steady 80ms-ish
+[23:01] <lonewulf> is that good for you?
+[23:01] <lonewulf> server is in Chicago
+[23:01] <carmethene> for Chicago?  Yeah I guess so
+[23:01] <carmethene> I'm in San Francisco
+[23:01] <lonewulf> kk cool
+[23:01] <lonewulf> ah
+[23:01] <lonewulf> thats great for you then
+[23:01] <lonewulf> :p
+[23:02] <carmethene> :)
+[23:02] <lonewulf> well, calling the ISP
+[23:02] <lonewulf> Maybe I'll get lucky and get a gamer tech help person.. and he/she will give me better routing around the World.!
+[23:02] <lonewulf> :))
+[23:03] <carmethene> heh
+[23:03] <carmethene> it happens
+[23:03] <carmethene> our local Comcast office is amazeballs
+[23:03] <lonewulf> :o
+[23:04] <[ByQ]Descent> try us-1.ql.ebase.in - its in Chicago too...
+[23:04] <carmethene> me or him?
+[23:05] <lonewulf> I usually ping low 20s there [ByQ]Descent.
+[23:05] <lonewulf> its well over a 100 as well.
+[23:05] <carmethene> high 80s
+[23:05] <carmethene> much the same as lonewulf's
+[23:05] * vtchill has quit IRC (Signed off)
+[23:05] <lonewulf> :D
+[23:06] <[ByQ]Descent> traceroute ...
+[23:06] <[ByQ]Descent> linux: top
+[23:06] <lonewulf> I was in Steam Server Browser when I noticed the hight pings to Chicago. (was like this server browser sucks)
+[23:07] <lonewulf> s/hight/high
+[23:09] <lonewulf> Not! Its my ISP that sucks!
+[23:09] <lonewulf> heh
+[23:10] <roast> have you tried closing your goat porn torrents
+[23:10] <[ByQ]Descent> ..for sure it helps ..
+[23:11] <lonewulf> lol
+[23:11] <lonewulf> I dont torrent
+[23:11] <roast> close your goat porn usenet downloads
+[23:12] <lonewulf> lol
+[23:13] <[ByQ]Descent> :D
+[23:15] <lonewulf> Just glad its on my end (ISP)
+[23:16] <lonewulf> knowing that I can leave my servers up
+[23:16] <lonewulf> would have hated a regular user joined and had horrible ping. (they might not reconnect in the future)
+[23:16] <lonewulf> :D
+[23:16] <lonewulf> had it been vultr.com (vps Im using)
+[23:17] <lonewulf> Im watching them like a hawk..
+[23:18] <[ByQ]Descent> other users have ping issues or not?
+[23:18] <lonewulf> Also, found a way to install Arch GNU/Linux on DO now too.
+[23:18] <lonewulf> :D
+[23:18] <lonewulf> Digital Ocean.
+[23:19] <lonewulf> Noone has complained about my server(s)
+[23:21] <lonewulf> http://beaveris.me/install-archlinux-with-full-control-on-digitalocean-vps/
+[23:21] <[ByQ]Descent> ..
+[23:23] * [BA]PqO`Off is now known as [BA]PqO
+[23:24] * vtchill has joined #qldedsrv
+[23:26] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[23:26] * Rick971 has joined #qldedsrv
+[23:28] <McAfee> fyi @ traceroute, some servers ignore ICMP, others reply with a lower priority, so some hops will always report a high ping, but the next hop is normal again.
+[23:29] <McAfee> you did sort of cover it when you said it was temporary
+[23:30] <McAfee> but it's more like permanently configured to not give a good reply.
+[23:32] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[23:32] * Rick971 has joined #qldedsrv
+[23:35] * Linkyyy is now known as Linkyyy^off
+[23:38] * Rick971_ has joined #qldedsrv
+[23:39] * Rick971 has quit IRC (Read error: Operation timed out)
+[23:39] * flair has quit IRC (Read error: Connection reset by peer)
+[23:56] * NOR has joined #qldedsrv
+Session Time: Fri Nov 20 00:00:00 2015
+[00:01] * flair has joined #qldedsrv
+[00:03] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[00:04] * Rick971_ has joined #qldedsrv
+[00:07] * Mogrot has quit IRC (Signed off)
+[00:16] * lonewulf has quit IRC (Signed off)
+[00:17] * Rick971 has joined #qldedsrv
+[00:22] * Rick971_ has quit IRC (Ping timeout)
+[00:22] * b1ngo has quit IRC (Signed off)
+[00:23] * Danmer has quit IRC (Signed off)
+[00:37] <NOR> Need some help with config and stuff. Anyone able to help me a bit?
+[00:37] <NOR> Dedicated srv.
+[00:38] * Oh`Christ is now known as Oh`Christ`Off
+[00:38] <tjone270_> Ahoy, sure, what'd you need to know?
+[00:39] <NOR> Well, how to deny callvote for another mod than ex: duel.
+[00:39] <tjone270_> g_voteFlags 8 is the cvar that will disable that. 
+[00:40] <NOR> ok, tryed that i server.cfg but I could still vote .. But i'm admin :) ?
+[00:40] <tjone270_> You'll also need to make sure your map-pool doesn't contain modes outside of the ones you'd like to run.
+[00:40] <tjone270_> Admins bypass vote flags.
+[00:40] <NOR> Ahh k :)
+[00:42] * Mogrot has joined #qldedsrv
+[00:44] * [BA]PqO is now known as [BA]PqO`Off
+[00:53] * Rick971_ has joined #qldedsrv
+[00:56] * Vig1lantE has joined #qldedsrv
+[00:57] * Rick971 has quit IRC (Ping timeout)
+[00:58] <NOR> tjone270_ are you still here ?
+[00:59] <tjone270_> Ahoy :)
+[00:59] <NOR> Some tips / hints about running the run_xxx as an daemon or...
+[01:00] <NOR> screen is not the way :S but..
+[01:00] <NOR> ?
+[01:00] <tjone270_> to run it daemonised, you'll need to either suspend and background the process, (and disown if you want to exit the remote shell, if it's remote).
+[01:01] <NOR> mm, command example?
+[01:01] <tjone270_> You can also start the process with nohup, and end the line with & to daemonise it. 
+[01:01] <tjone270_> ./quakestart.sh & disown %1
+[01:01] <tjone270_> or 
+[01:02] <tjone270_> nohup ./quakestart.sh &
+[01:02] <tjone270_> or use supervisor
+[01:02] <NOR> should I su as "user" before running ?
+[01:03] <tjone270_> indeed
+[01:03] <NOR> :)
+[01:03] <NOR> Ok, I've seen the bash script for launching multiple servers, but how about starting at server startup
+[01:04] <NOR> ?
+[01:04] <tjone270_> as in if the linux server itself has been down, and to start the quake process on boot?
+[01:04] <vtchill> just run supervisor and have something like upstart start supervisor at boot
+[01:05] <vtchill> thats the way i run it
+[01:05] <NOR> ues tjone270_
+[01:05] <NOR> yes*
+[01:05] <vtchill> that way cyclig the box auto runs the qlds servers 
+[01:05] <vtchill> and supervisor will auto restart if one qlds instance crashes while the box is still running
+[01:05] <NOR> Ok
+[01:05] <tjone270_> what vtchill says will work, or you could whack in a small sudo -u "user" /path/to/script & disown %1
+[01:06] <tjone270_> to rc.local
+[01:06] * Oh`Christ`Off is now known as Oh`Christ
+[01:06] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[01:10] * PerpetualWar is now known as PerpetualWa_off
+[01:10] * tjone270_ changes topic to 'http://bit.do/linuxQLsrv :: Linux Server Guide, thanks Yakumo. Feel free to ask any questions, get help from experienced users, propose new server ideas, share your expertise etc. We have a question/answer exchange site: http://tomtecsolutions.com.au'
+[01:11] * tjone270_ changes topic to 'http://bit.do/linuxQLsrv :: Linux Server Guide, thanks Yakumo. Feel free to ask any questions, get help from experienced users etc. We have a question/answer exchange site: http://tomtecsolutions.com.au/qxchange'
+[01:11] * tjone270_ changes topic to 'http://bit.do/linuxQLsrv :: Linux Server Guide, thanks Yakumo. Feel free to ask any questions, get help from experienced users etc. We have a (just launched!) question/answer exchange site: http://tomtecsolutions.com.au/qxchange'
+[01:16] * vks has quit IRC (Quit)
+[01:20] * roasticle has joined #qldedsrv
+[01:20] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[01:20] * Rick971_ has joined #qldedsrv
+[01:23] * sanak has quit IRC (Signed off)
+[01:23] * roast has quit IRC (Ping timeout)
+[01:30] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[01:30] * Rick971_ has joined #qldedsrv
+[01:35] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[01:36] * Rick971_ has joined #qldedsrv
+[01:59] <[ByQ]Descent> var to show damage near crosshair? ;D
+[01:59] <[ByQ]Descent> lost
+[02:00] * lonewulf has joined #qldedsrv
+[02:01] <[ByQ]Descent> or something ..
+[02:01] <[ByQ]Descent> oops, found
+[02:01] <[ByQ]Descent> =)
+[02:08] * McAfee has left #qldedsrv
+[02:09] <snipe> lonewulf: just remember that in tracerotue a single hop reporting random latency isn't a problem unless the following ups also incur the same latency issue
+[02:09] <snipe> eg if there is an increse of 50ms on hop 3 then hop4, hop5, hop6 etc all would have an increase of 50ms if the issue is hop 3
+[02:10] <snipe> otherwise it is just icmp rate limiting on the router or switch cpu to protect from dos
+[02:10] <snipe> ugh cant type, isn't a problem unless the following hops** also incur the same latency issue
+[02:12] <snipe> also if it is your ISP they are not likely todo anything for you unless you are paying for a dedicated circuit which has SLA guarantees
+[02:13] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[02:14] <snipe> thats the difference of paying $20-$100 for internet versus $600+
+[02:14] * Rick971_ has joined #qldedsrv
+[02:18] * Mogrot has quit IRC (Signed off)
+[02:18] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[02:19] * Rick971_ has joined #qldedsrv
+[02:27] * Oh`Christ is now known as Oh`Christ`Off
+[02:34] * NOR has quit IRC (Ping timeout)
+[02:37] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[02:38] * Rick971_ has joined #qldedsrv
+[02:38] * mattiZed has quit IRC (Quit: Leaving)
+[02:41] <carmethene> snipe: a sudden jump in ping implies a technical issue though
+[02:42] <carmethene> if there's a legitimate fault in the line, the ISP should help out
+[02:42] <carmethene> but yeah that's good advice re timings
+[02:50] <lonewulf> snipe: Appreciate the response. I pretty much understand what you're telling me.
+[02:51] <lonewulf> I called my ISP and they are claiming, no packet loss, so no problem.. Currently chatting w/VULTR (vps Im using for qlds)
+[02:54] * Rick971 has joined #qldedsrv
+[02:55] <lonewulf> but tracert shows me leaving my Asus router, 2nd line says * Request timed out. The next 5 hops are all my ISP (ping times in the 20s), then it jumps to 130 ping in the Town my ISP is in.. the next 10 hops or so are all 120 - 150 ping until I get to my qlds ip.
+[02:56] <lonewulf> ^^ Thats what made me think the issue was w/my ISP. cause it happens so early in the tracert.
+[02:57] <lonewulf> basically the qlds I spawned in Chicago, I USED to get 30-39 ping..and all morning/day long pings times at my Chicago have been 120+ ping.
+[02:59] * Rick971_ has quit IRC (Ping timeout)
+[02:59] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[02:59] * Rick971 has joined #qldedsrv
+[03:01] <lonewulf> I think it almost has to be my ISP..simply because all the other qlds server I USED to ping 20-40 are all now well over 100 ping for me.
+[03:03] <lonewulf> Unless those servers are using vultr vps as well.. what are the odds tho?
+[03:03] <lonewulf> xD
+[03:20] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[03:21] * Rick971 has joined #qldedsrv
+[03:39] * Rick971_ has joined #qldedsrv
+[03:40] <snipe> carmethene: it doesnt suggest anything other than RTT increased
+[03:42] <snipe> reasons why can be line/fabric between hop2->hop3 saturated, QoS of ICMP only not udp/tcp, control plane of hop3 saturated(doesnt always increase RTT for tcp/udp), rate limiting of ICMP
+[03:42] <snipe> many other possibilities
+[03:43] * Rick971 has quit IRC (Ping timeout)
+[03:43] <snipe> it not directly linked to being an issue unless it persists to the subsequent hops
+[03:44] <snipe> it is not*
+[03:45] <snipe> lonewulf: run winmtr if you are on windows else mtr on linux... it will be a continuous trace
+[03:46] <snipe> if you see a jump to 130 in the same town and all the following hops are >=130 then that is the issue
+[03:46] <snipe> if subquent hops are <=130 then it is not the issue
+[03:47] <snipe> sorry i just cannot type today
+[03:47] <snipe> the * * * just indicates rules which are blocking icmp
+[03:47] <snipe> in your case.
+[03:51] <snipe> carmethene: typically the issue is overselling by the ISP, they often will not help you with that (it is how they make more money) and you will only know by speaking maybe 2-3 levels up from initial phone support
+[03:52] <carmethene> interesting
+[03:52] <carmethene> I guess I just got lucky then
+[03:53] <carmethene> snipe: I did not know about mtr, thanks, that's a neat little tool
+[03:54] <snipe> typically if you spend 600$+ then you have an in-network/provider latency commitment in which they will work with you
+[03:54] <carmethene> I'm not a network guy - did a lot of this for my degree but I've since forgotten it all
+[03:54] <carmethene> relearning now :)
+[03:54] <carmethene> sure
+[03:54] * QBall has quit IRC (Signed off)
+[03:54] <snipe> twcs/comcasts of the world are just a headache
+[03:55] <snipe> iirc comcast used to purposely route netflix traffic over oversaturated lines/routes on purpose
+[03:55] <snipe> causing netflix to be unusable by comcasts customer base
+[03:56] * Vig1lantE has quit IRC (Ping timeout)
+[03:58] <lonewulf> snipe: lol
+[03:58] <lonewulf> VULTT VPS literally just had me send him/her winMTR results.
+[03:59] <lonewulf> you good man..damn good.
+[04:01] <snipe> :P mtr is a nice tool... popular in network eng world
+[04:01] <lonewulf> :D
+[04:01] <lonewulf> winMTR basically told me the same thing that tracrt told me.
+[04:02] <snipe> thats typically is the case, just it has many more options and is continuous
+[04:02] <snipe> well mtr has many options not sure about winmtr
+[04:03] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[04:03] * Rick971_ has joined #qldedsrv
+[04:03] <lonewulf> snipe: VULTR said:
+[04:03] <lonewulf> - MTR (or WinMTR - http://sourceforge.net/projects/winmtr/files/Latest/ ) in BOTH directions (to/from <Server IP>)
+[04:03] <lonewulf> - Your source IP address
+[04:03] <lonewulf> - Destination IP address (If not <Server IP>)
+[04:04] <lonewulf> I then sent the info he/she wanted..
+[04:04] <lonewulf> then VULTR said:
+[04:04] <lonewulf> I have forwarded your ticket our network engineers so they can investigate the reported issue further. Please allow for some additional time while we review this ticket.
+[04:04] <lonewulf> Lloyd W. Slade
+[04:04] <lonewulf> Systems Administrator 
+[04:04] <lonewulf> Sorry bout the spam.
+[04:04] <snipe> nice of them
+[04:04] <lonewulf> :)
+[04:05] <lonewulf> so problem is on there (VULTR) end?
+[04:05] <snipe> both directions as the return path from the server may go over different routes
+[04:05] <lonewulf> If they are having network engineers looking into it.
+[04:05] <snipe> past them both in pastebin.com and link me
+[04:05] <snipe> paste/
+[04:05] <snipe> X out the end IPs if you want
+[04:05] <lonewulf> xD
+[04:05] <lonewulf> I was just thinking like this guy isnt going to DDOS me is he?
+[04:05] <lonewulf> :p
+[04:06] <snipe> first level support likely doesnt understand them
+[04:06] <lonewulf> gotcha
+[04:06] <snipe> i havent ddosd anyone in 12 yrs :|
+[04:06] <lonewulf> :D
+[04:07] <lonewulf> snipe: hold on man..the networking engineer just got back w/me.. they say its my ISP and they are known for doing this.
+[04:07] <lonewulf> wtf!?!
+[04:07] <snipe> what isp?
+[04:08] <snipe> he might just be speaking in general
+[04:08] <snipe> but curious
+[04:11] <carmethene> that's great customer service from your vps provider
+[04:11] <carmethene> well above and beyond
+[04:12] <lonewulf> snipe: I'll pastebin what he/she just typed too me..please dont attack me. (DDOS)
+[04:12] <lonewulf> shit is crazy
+[04:12] <lonewulf> its my ISP
+[04:12] <lonewulf> like I orginally thought.
+[04:13] <lonewulf> I mean shit, ping jumps up at my ISP and stay hight all the way to VULTR.
+[04:13] <snipe> justX out your ips :P
+[04:13] <lonewulf> kk
+[04:13] <snipe> keep other hop ips
+[04:14] <snipe> so right it sounds like isp, im curious about the return route too thou
+[04:14] <lonewulf> snipe: I dont see any sensitive info here. (besides my vps qlds ip)
+[04:15] <snipe> x that out if you want
+[04:15] <lonewulf> snipe: sent in pm.
+[04:15] <lonewulf> let me know what you think.
+[04:15] <lonewulf> my ISP basically pulled a fast one on me.
+[04:16] <lonewulf> routing me shitty intentionally.
+[04:16] <lonewulf> crazy man.
+[04:16] <carmethene> can you change ISP?
+[04:16] <lonewulf> sure
+[04:17] <lonewulf> Im not happy w/this cable internet anyways. It shitty.
+[04:17] <carmethene> San Jose's getting Google Fibre apparently
+[04:17] <carmethene> bastards
+[04:17] <carmethene> we have to wait for all the old people to die first, they're blocking anyone digging up the road in SF for fibre install
+[04:18] <lonewulf> Wow..thats serious.
+[04:18] <carmethene> it's pretty normal beahviour
+[04:18] <carmethene> people don't like change
+[04:19] <lonewulf> ikr.
+[04:19] <lonewulf> Well wish me luck..calling my damn ISP
+[04:19] <lonewulf> Fuck it.. I dont care who sees.
+[04:19] <snipe> you live on west coast?
+[04:19] <lonewulf> http://pastebin.com/Bqv6Xq6L
+[04:20] <lonewulf> In the middle of the US.
+[04:20] <lonewulf> Missouri
+[04:20] <snipe> ah
+[04:20] <lonewulf> snipe: what do you think?
+[04:20] <lonewulf> about my ISP
+[04:20] <lonewulf> ?
+[04:20] <lonewulf> pretty shitty of them eh?
+[04:20] * vks has joined #qldedsrv
+[04:20] <lonewulf> :|
+[04:22] <snipe> to me..
+[04:22] <lonewulf> lol
+[04:22] <snipe> it looks like you are being routed to cali
+[04:22] <lonewulf> ROFL
+[04:22] <lonewulf> would NOT surprise me.
+[04:22] <lonewulf> this all just started this morning.
+[04:22] <snipe> xo isnt a crap transit
+[04:22] <snipe> its not the best
+[04:23] <snipe> but it isnt the worst
+[04:23] <lonewulf> 40 ping to chicago I delt with.. when I should be getting 20 ping
+[04:23] <snipe> so me.. i dont have the hops prior..
+[04:23] <lonewulf> kk well thank for everything snipe!
+[04:23] <lonewulf> right
+[04:23] * vtchill has quit IRC (Ping timeout)
+[04:23] <snipe> hop 10 is some incali area
+[04:24] <lonewulf> Im just trying to figure out how to get to a higher level of tech support, to maybe solve this.
+[04:24] <snipe> somewhere  in*
+[04:24] <lonewulf> so pisssed right now, I just wanna call and curse them out.
+[04:24] <snipe> if traceroute to that from a chicagoserver i get 120ms latency because it hits san jose
+[04:24] <lonewulf> ah
+[04:24] <carmethene> what I'm curious about is why it suddenly got worse
+[04:24] <lonewulf> right
+[04:25] <carmethene> maybe you could work around it with wtfast or such?
+[04:25] <lonewulf> I heard wtfast is fake
+[04:25] <lonewulf> not real
+[04:25] <lonewulf> only ppl getting sponsor money from them tell ppl wtfast will reduce ping times.
+[04:25] <lonewulf> thats false info.
+[04:25] <lonewulf> lol
+[04:26] <snipe> let me put it this way
+[04:26] <lonewulf> :D
+[04:26] <snipe> your isp hands off to
+[04:26] <snipe> 209.117.168.233
+[04:26] <lonewulf> kk
+[04:26] <snipe> 1 sec getting text
+[04:27] <snipe>  14.|-- te0-12-0-0.rar3.sanjose-c  0.0%    10  105.9 110.8 105.9 135.1   9.2
+[04:27] <snipe>  15.|-- 216.156.16.145.ptr.us.xo.  0.0%    10  106.9 107.1 106.8 108.8   0.5
+[04:27] <snipe>  16.|-- 209.117.168.233           10.0%    10  106.1 106.1 106.0 106.2   0.0
+[04:27] <snipe> all 106 ms..
+[04:27] <snipe> that host i in san jose area
+[04:27] <lonewulf> :\
+[04:27] <snipe> so your ISP is routing you to san jose area to connectto xo
+[04:27] <lonewulf> kk
+[04:27] <carmethene> snipe: why does that happen?
+[04:28] <carmethene> load balancing?
+[04:28] <carmethene> that's a huge round trip
+[04:28] <snipe> i think it is exactly whatt he networkeng said.... 
+[04:28] <carmethene> I didn't get the email
+[04:28] <snipe> isp has lack of peers
+[04:28] <carmethene> ah
+[04:28] <carmethene> lonewulf: my server is right next to San Jose
+[04:28] <snipe> and/or they just want to use the cheaper transit
+[04:28] <carmethene> lonewulf: curious, what do you ping to it?
+[04:29] <carmethene> carmethene.com
+[04:29] <lonewulf> sec
+[04:29] <carmethene> snipe: gotcha
+[04:29] <carmethene> this stuff is fascinating
+[04:31] * vks has quit IRC (Quit)
+[04:31] <snipe> also its a little finny that your asus route sets its own reverse dns as router.asus.com :P
+[04:31] <snipe> funny*
+[04:33] * psygib has joined #qldedsrv
+[04:37] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[04:38] * Rick971_ has joined #qldedsrv
+[04:53] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[04:54] * Rick971_ has joined #qldedsrv
+[04:54] <lonewulf> Off the phone w/ISP.. they are sending my issue to a provisioning team, I'll know something within 24hrs :|
+[04:54] <lonewulf> Plus they said everyone in my area is getting 100 down.. not 50 like I do.
+[04:54] <lonewulf> So I may see improvements, not sure.
+[04:57] <lonewulf> carmethene: 68ms to your server
+[04:57] * lonewulf curses to himself
+[04:59] <lonewulf> lol
+[05:00] <lonewulf> snipe: carmethene: pings are back to normal.
+[05:00] <lonewulf> lol
+[05:00] <lonewulf> no clue what they (my ISP) did.
+[05:00] <lonewulf> I havent been off the phone for 5mins.
+[05:00] <lonewulf> :D
+[05:01] <lonewulf> They said they was going to 'flush' something.
+[05:02] <lonewulf> Also: A speakeasy.net/speedtest says I now get 80 down instead of 50.
+[05:02] <lonewulf> :o
+[05:03] <snipe> do another mtr
+[05:03] <snipe> see if route to san jose changed
+[05:03] <lonewulf> kk
+[05:03] <lonewulf> Charter is 'shady'
+[05:03] <lonewulf> heh.
+[05:04] <lonewulf> most ppl would of never noticed a diff in their internet performance.
+[05:04] <lonewulf> Im talking about the average 'Joe'.
+[05:04] <snipe> exactly why most isps ignore complaints, majority dont know
+[05:04] * lonewulf sighs
+[05:05] <snipe> going to guess hop9 is different and likely prior nodes as well
+[05:05] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[05:06] * Rick971_ has joined #qldedsrv
+[05:08] <lonewulf> snipe: ~
+[05:08] <lonewulf> http://pastebin.com/6BL0hgJj
+[05:08] <snipe> ah interesting
+[05:08] <lonewulf> still 38 - 40 ping in game for me.
+[05:09] <lonewulf> was hoping for lower ping
+[05:09] <lonewulf> xD
+[05:09] <snipe> ah read columns wrong
+[05:09] <snipe> didnt have header
+[05:10] <snipe> column 5
+[05:10] <snipe> so yea hop10 in the orig
+[05:10] * PlayDooM is now known as PIayDooM|counte
+[05:10] <lonewulf> snipe: am I good now?
+[05:11] <lonewulf> good as its going to get for me I suppose.
+[05:11] <snipe> wow yea xofucked up big time
+[05:12] <snipe> hop 9 is perfectly ok in the orig .. i didnt realize 5th column was latency
+[05:12] <snipe> so your isp was ok
+[05:12] <snipe> 9 is around chicago
+[05:12] <lonewulf> hmm
+[05:12] * PIayDooM|counte is now known as DieselPower
+[05:13] * DieselPower is now known as PlayDooM|counte
+[05:13] <snipe> eh no
+[05:13] <snipe> things are completey different now
+[05:13] <snipe> xo did some big changes im not sure what
+[05:14] <snipe> i did trace both of those hops from chicago previously and both went to san jose
+[05:14] <snipe> now they both goto chicago
+[05:17] <lonewulf> snipe: shady
+[05:17] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[05:17] <lonewulf> So nothing wrong with VULTR VPS.. Issue was my ISP.
+[05:17] * Rick971_ has joined #qldedsrv
+[05:18] <lonewulf> actually VULTR gave me the 'knowledge' to use vs my ISP.
+[05:18] <lonewulf> go vultr!
+[05:20] <snipe> i think it was xo
+[05:20] <lonewulf> :D
+[05:21] <lonewulf> Thank you man!
+[05:21] <snipe> cam you provide the full mtr for the first one?
+[05:21] <lonewulf> meant alot you going through this w/me.
+[05:21] <snipe> im curious if your isp hops changed?
+[05:21] <lonewulf> full?
+[05:21] <lonewulf> mtr will run forever
+[05:21] <lonewulf> oh
+[05:21] <lonewulf> isp
+[05:21] <lonewulf> kk
+[05:21] <snipe> i mean include the charter hops in the orig run
+[05:21] <snipe> yea
+[05:23] <lonewulf> snipe: 
+[05:23] <lonewulf> MTR running on my ISP IP
+[05:23] <lonewulf> is just a one-liner
+[05:23] <lonewulf> nothing to see here
+[05:23] <snipe> oh no i mean
+[05:24] <snipe> http://pastebin.com/Bqv6Xq6L
+[05:24] <snipe> do you have thefull ^
+[05:24] <snipe> not the abbreviated hop list for the origional trace
+[05:25] <lonewulf> snipe: Is this what you want?
+[05:25] <lonewulf> http://pastebin.com/JmmBacsG
+[05:26] <snipe> yea
+[05:26] <lonewulf> kk
+[05:26] <lonewulf> You lucky I didnt delete yet. lol
+[05:26] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[05:26] <snipe> ok yea your isp is ok
+[05:27] <lonewulf> :D
+[05:27] * Rick971_ has joined #qldedsrv
+[05:27] <lonewulf> my ISP is 'shady
+[05:27] <snipe> well there that lol
+[05:27] <lonewulf> :D
+[05:28] <lonewulf> kk I want to reboot PC now.
+[05:28] <lonewulf> <3
+[05:33] <snipe> cu
+[05:33] * lonewulf has quit IRC (Signed off)
+[05:42] * Rick971_ has quit IRC (Signed off)
+[05:52] * Vig1lantE has joined #qldedsrv
+[05:53] * lonewulf has joined #qldedsrv
+[05:57] * hannibal has quit IRC (Quit: Leaving)
+[06:17] * m1dnight has joined #qldedsrv
+[06:18] <m1dnight> What protocols does the server use? tcp or udp? (for server and rcon)
+[06:18] <m1dnight> I have opened both atm, but its probably only one of both?
+[06:22] <tjone270_> UDP for server
+[06:22] <tjone270_> TCP for RCON, iirc
+[06:24] <tjone270_> most likely tcp for stats also, but unsure.
+[06:25] <m1dnight> hmmm,thats something Im unaware of
+[06:25] <m1dnight> oh stats runs on the gameport
+[06:25] <m1dnight> so that makes sense
+[06:25] <tjone270_> :)
+[06:25] <m1dnight> so just tcp for rcon then
+[06:25] <m1dnight> thanks tjone270_
+[06:25] <tjone270_> pretty sure :) welcome
+[06:25] <m1dnight> lets see if this thing runs on an atom.. :>
+[06:26] <tjone270_> def will
+[06:26] <m1dnight> good. Its on a home connection, but a 250/20 mbit connection
+[06:26] <m1dnight> so im guessing that wil do just fine.
+[06:26] <tjone270_> you're guessing correctly
+[06:52] * McAfee has joined #qldedsrv
+[07:30] * Vig1lantE has quit IRC (Signed off)
+[07:54] * Vig1lantE has joined #qldedsrv
+[08:22] * vtchill has joined #qldedsrv
+[08:29] * HaasPaas has joined #qldedsrv
+[08:33] * PaasHaas has quit IRC (Ping timeout)
+[09:03] * vtchill has quit IRC (Signed off)
+[09:06] * McAfee has left #qldedsrv
+[09:31] * vks has joined #qldedsrv
+[10:03] * vixterra has quit IRC (Signed off)
+[10:12] * Vig1lantE has quit IRC (Signed off)
+[10:35] * vks has quit IRC (Quit)
+[10:43] * mattiZed has joined #qldedsrv
+[10:43] * Q sets mode: +v mattiZed
+[12:19] * HaasPaas is now known as PaasHaas
+[12:26] * [BA]PqO`Off is now known as [BA]PqO
+[12:48] * vks has joined #qldedsrv
+[13:02] * Rick971 has joined #qldedsrv
+[13:03] * psygib has quit IRC (Signed off)
+[13:26] * crobartie has joined #qldedsrv
+[15:07] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[15:08] * mattiZed has joined #qldedsrv
+[15:08] * Q sets mode: +v mattiZed
+[15:12] * Linkyyy^off is now known as Linkyyy
+[15:35] * crobartie has quit IRC (Ping timeout)
+[15:35] * crobartie has joined #qldedsrv
+[15:40] * McAfee has joined #qldedsrv
+[15:47] * g0rilla has joined #qldedsrv
+[16:21] * vks has quit IRC (Quit)
+[16:31] <roasticle> yeah i have a server on 150/10, tis fine
+[17:00] * Linkyyy is now known as Linkyyy^off
+[17:14] * QBall has joined #qldedsrv
+[17:36] * [BA]PqO is now known as [BA]PqO`Off
+[17:53] <roasticle> easiest way to monitor a bunch of servers is open a steam server info window for each hah
+[17:53] <roasticle> they refresh stats automatically
+[17:54] <m1dnight> how do you do that?
+[17:54] <roasticle> as far as just looking at maps/player activity
+[17:54] * m1dnight is new to all the steam stuff
+[17:54] <roasticle> find your server in steam right click show server info
+[17:54] <roasticle> you can do that for multiple servers and it opens a window for each
+[17:55] <m1dnight> oh like that :D
+[17:55] <m1dnight> Eh, quake doesnt run properly here. Cba to fix it.
+[17:55] <m1dnight> Im just the serverguy :>
+[17:57] <roasticle> these windows will tell you if server is not responding as well
+[17:57] <roasticle> handier than you'd think
+[18:16] * PerpetualWa_off is now known as PerpetualWar
+[18:16] <m1dnight> where does one put the qlserver.cfg files?
+[18:16] <m1dnight> I see that .quakelive/serverport/baseq3 is in the searchpath
+[18:16] <m1dnight> but i think thats the one that gets overwritten, right?
+[18:23] <roasticle> if you are setting seperate fs_basepath's they wont get overwritten
+[18:23] <m1dnight> ah that would be another flag to the binary then
+[18:23] <m1dnight> lemme see
+[18:23] <m1dnight> (small note: ^C doesnt work to stop a server? I have to sigkill it?)
+[18:33] <Drayan> does for me
+[18:33] <m1dnight> odd
+[18:33] <Drayan> might be because I set ttycon to 0
+[18:33] <m1dnight> oh wait, might be because im running it through a script
+[18:34] <m1dnight> but i dont think so, though
+[18:46] * vtchill has joined #qldedsrv
+[18:46] * Rick971 has quit IRC (Signed off)
+[18:46] * Rick971 has joined #qldedsrv
+[19:38] <m1dnight> task of today: write a plugin for my irc bot!
+[19:39] <m1dnight> thatd be cool :)
+[20:11] * mattiZed has quit IRC (Quit: Leaving)
+[20:19] <snipe> i would send a quit instead of kill
+[20:19] <snipe> :P
+[20:19] <snipe> -3
+[20:25] <m1dnight> Doesn't do it, so it seems..
+[20:25] <m1dnight> Drayan: how do you set the ttycon?
+[20:25] <m1dnight> Is it an argument to the binary?
+[20:27] <Drayan> +set ttycon 0
+[20:27] <Drayan> yes
+[20:27] <Drayan> might work in server.cfg for all I know
+[20:28] * Oh`Christ`Off is now known as Oh`Christ
+[20:35] * Danmer has joined #qldedsrv
+[20:41] <m1dnight> is there a manpage or something for that binary, btw?
+[20:42] <m1dnight> the manual says "you can add commandline options at will" thats nice, but which ones are there :>
+[20:42] <vtchill> asked this yesterday, sponge suggesting looking at /listcvars command and also looking at g_, sv_, etc. commands from console
+[20:43] <vtchill> no manual
+[20:43] <m1dnight> oh
+[20:43] <m1dnight> oh basically they are qlserver.cfg commands
+[20:43] <m1dnight> that explains a lot
+[20:43] <m1dnight> I thought they were specific to the binary
+[20:43] <vtchill> yea basically
+[20:44] <vtchill> i think it just passes them through to the qlds for parsing
+[20:44] <lonewulfn6> logfile 0
+[20:45] <lonewulfn6> then command
+[20:45] <lonewulfn6> will output to txt file
+[20:45] <vtchill> what does the number after logfile mean?
+[20:45] <lonewulfn6> not sure
+[20:47] * mikul is now known as mikul|afk
+[20:53] <m1dnight> hmm ^C still doesnt work
+[20:53] <m1dnight> strange
+[20:56] <m1dnight> in htop I do can see that the ttycon optoin is not in the flaglist
+[20:56] <m1dnight> so perhaps a syntax error
+[21:35] <McAfee> number after logfile means, bufferd or unbuffered writes, afaik
+[21:36] <McAfee> if you have a crash situation that is not a graceful crash, you dont want buffered writes
+[21:44] * PECKA is now known as pecka
+[21:48] * pecka is now known as PECKA
+[22:12] <QBall> logfile 2 will work
+[22:12] <QBall> 2 makes sure it's flushed before writing to the file
+[22:13] <QBall> 0 would have no logging at all so that makes 0 sense :D
+[22:15] * spinalfluid has quit IRC (Read error: Connection reset by peer)
+[22:21] * spinalfluid has joined #qldedsrv
+[22:42] <carmethene> http://games.slashdot.org/story/15/11/19/2040200/docker-turns-to-minecraft-for-server-ops
+[22:42] <carmethene> next step, manage qlds supervisor instances from within quake
+[22:45] <m1dnight> it could be doable by just making a bot recognize an admin and then parse commands from regular chat
+[23:10] * psygib has joined #qldedsrv
+[23:10] * psygib has quit IRC (Registered)
+[23:10] * psygib has joined #qldedsrv
+[23:11] * psygib has quit IRC (Signed off)
+[23:12] * psygib has joined #qldedsrv
+[23:12] * psygib has quit IRC (Registered)
+[23:12] * psygib has joined #qldedsrv
+[23:35] * NOR has joined #qldedsrv
+[23:46] <NOR> hello again
+[23:46] <NOR> :)
+[23:48] <NOR> ok, so i'm trying to use the script provided on steamcommunity to start multiple servers, but it's not working. Just starts the first server on first port (Noob me)
+[23:49] <NOR> Any help appreciated
+[23:49] <NOR> :)
+Session Time: Sat Nov 21 00:00:01 2015
+[00:09] <[ByQ]Descent> gameport=`expr $1 + 2796 ?
+[00:09] <[ByQ]Descent> depends on your start script ..
+[00:39] * Oh`Christ is now known as Oh`Christ`Off
+[00:42] <m1dnight> you need to pass the number to the script
+[00:42] <m1dnight> so if you want 5 servers, run the script with 1, 2, 3, 4, 5
+[00:44] <NOR> ah k
+[00:44] <NOR> thx
+[01:00] * Danmer has quit IRC (Signed off)
+[01:16] * PerpetualWar is now known as PerpetualWa_off
+[01:42] * Rick971_ has joined #qldedsrv
+[01:47] * Rick971 has quit IRC (Ping timeout)
+[01:56] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[01:57] * Rick971_ has joined #qldedsrv
+[02:00] * tjone270_ changes topic to 'http://bit.do/linuxQLsrv :: Linux Server Guide, thanks Yakumo. Feel free to ask any questions, get help from experienced users etc. Take a look at http://goo.gl/cnUILO for some useful sample scripts to start multiple servers from one machine.'
+[02:01] * vixterra has joined #qldedsrv
+[02:06] * tjone270_ has quit IRC (Signed off)
+[02:06] * tjone270 has joined #qldedsrv
+[02:06] * Q sets mode: +o tjone270
+[02:12] * vtchill_ has joined #qldedsrv
+[02:13] * lonewulf has quit IRC (Ping timeout)
+[02:15] * vtchill has quit IRC (Ping timeout)
+[02:15] * vtchill_ is now known as vtchill
+[02:16] * vtchill has quit IRC (Signed off)
+[02:21] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[02:21] * Rick971_ has joined #qldedsrv
+[02:50] * HaasPaas has joined #qldedsrv
+[02:55] * PaasHaas has quit IRC (Ping timeout)
+[03:14] <McAfee> is it worth setting a location cvar for servers, or that never catched on?
+[03:16] <tjone270> nope, never seems to make any difference
+[03:25] * crobartie has quit IRC (Signed off)
+[03:37] * flair has quit IRC (Read error: Connection reset by peer)
+[03:39] * flair has joined #qldedsrv
+[04:11] * vks has joined #qldedsrv
+[04:20] * psygib has quit IRC (Signed off)
+[04:22] * NOR has quit IRC (Read error: Connection reset by peer)
+[04:51] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[06:53] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[07:56] * vks has quit IRC (Quit)
+[07:59] * vks has joined #qldedsrv
+[08:10] * lonewulf has joined #qldedsrv
+[08:11] * lonewulf has quit IRC (Registered)
+[08:11] * lonewulf has joined #qldedsrv
+[08:11] * lonewulf has quit IRC (Signed off)
+[08:49] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[09:19] * Danmer has joined #qldedsrv
+[09:26] * vtchill has joined #qldedsrv
+[09:43] * vtchill has quit IRC (Signed off)
+[09:51] <vks> hello all, anyone else getting random lag on map 6++
+[09:57] * McAfee has left #qldedsrv
+[11:02] * PerpetualWa_off is now known as PerpetualWar
+[11:25] * Dbzruler72 has joined #qldedsrv
+[12:22] * b1ngo has joined #qldedsrv
+[12:34] * lolca has joined #qldedsrv
+[12:36] * lolca is now known as gojira_
+[12:50] * lonewulfn6 has quit IRC (Ping timeout)
+[12:51] * HaasPaas is now known as PaasHaas
+[13:12] * Dbzruler73 has joined #qldedsrv
+[13:13] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[13:13] * Dbzruler73 is now known as Dbzruler72
+[13:14] * Dbzruler72 has quit IRC (Signed off)
+[13:18] <m1dnight> maybe im going to make a better rcon cliënt. its pretty basic
+[13:22] <m1dnight> http://m.slashdot.org/story/302749
+[13:22] <m1dnight> oops wrong button
+[13:24] * Samja has joined #qldedsrv
+[13:30] <vks> hello, do i need to create factories to play the ra3 maps in like ffa?
+[13:32] <b1ngo> as far as i know you only need to vote the map +ffa
+[13:37] <PlayDooM|counte> http://steamcommunity.com/sharedfiles/filedetails/?id=551148976&searchtext=ra3map
+[13:37] <PlayDooM|counte> CA only
+[13:37] <PlayDooM|counte> ra3map no item map
+[13:48] * lonewulfn6 has joined #qldedsrv
+[14:24] * vixterra has quit IRC (Signed off)
+[14:33] <m1dnight> how can I check if my server is actually in the main list?
+[14:33] <m1dnight> well, on the main server. it stays empty way too long
+[14:37] <m1dnight> oh just spotted it
+[14:38] <m1dnight> hurray
+[14:38] <m1dnight> Im having ping issues though. Belgian people have ping 20ish, other than that 70 :<
+[14:45] <m1dnight> hmm maybe I should try it with a VPS. Just doubting between OVH and DigitalOcean
+[15:02] * Gelenkbusfahrer has joined #qldedsrv
+[15:03] <Gelenkbusfahrer> oi... is there a last-to-connect-autospec plugin for minqlx available?
+[15:08] * b1ngo has quit IRC (Signed off)
+[15:18] * Linkyyy^off is now known as Linkyyy
+[15:31] * mattiZed has joined #qldedsrv
+[15:31] * Q sets mode: +v mattiZed
+[16:07] * crobartie has joined #qldedsrv
+[16:15] * Dbzruler72 has joined #qldedsrv
+[16:20] * crobartie is now known as crobartie|AFK
+[16:54] * g0rilla has joined #qldedsrv
+[17:21] * McAfee has joined #qldedsrv
+[17:40] <PaasHaas> heya
+[17:40] <PaasHaas> factories.txt needs to be in baseq3 or baseq3/scripts?
+[17:43] * Linkyyy is now known as Linkyyy^off
+[17:43] <McAfee> yes, i called mine something.factory i think
+[17:44] <Drayan> call it factories.txt if you want to override/remove default factories
+[17:45] <McAfee> seems like i used something.factories
+[17:45] <Drayan> yes
+[17:45] <Drayan> if you want to add you do something.factories
+[17:45] <PaasHaas> ah kk
+[17:46] <PaasHaas> how to load the file then?
+[17:46] * Rick971 has joined #qldedsrv
+[17:46] <Drayan> it's automatic
+[17:46] <PaasHaas> huh
+[17:46] <McAfee> automagical :P
+[17:46] <Drayan> it loads all .factories files in the scripts folder
+[17:46] <PaasHaas> ahhh
+[17:46] <PaasHaas> kk
+[17:47] <PaasHaas> will try thx :)
+[17:47] <PaasHaas> one more question
+[17:47] <PaasHaas> added workshops in the workshop file...but it downloads everytime @ serverstart
+[17:47] <Drayan> are you launching qzeroded from the same folder each time?
+[17:48] <PaasHaas> yea
+[17:48] <Drayan> as in, your current working directory
+[17:48] <Drayan> not the file location
+[17:48] <PaasHaas> ill try
+[17:48] <PaasHaas> thx
+[17:49] <Drayan> I put a "cd ~/Steam/" in my launch script
+[17:49] <Drayan> so workshop items always get saved relative to there
+[17:50] <McAfee> hmm, i thought it would use the fshomepath
+[17:50] <Drayan> nah
+[17:50] <Drayan> maybe it should, I'm not sure what happens when you launch multiple servers at the same time and try to update the same workshop item simultaneously
+[17:50] <Drayan> and it tries to update*
+[17:51] <PaasHaas> oke...launch scrip starts with exec /home/steam blabla
+[17:51] <McAfee> depends if it downloads to temp file and overwrite, or it writes in place
+[17:51] <PaasHaas> need to cd first?
+[17:51] <Drayan> I put cd before the qzeroded lines
+[17:52] <PaasHaas> kk will try
+[17:52] <PaasHaas> thx :)
+[17:54] * zippercoat has joined #qldedsrv
+[17:57] * teh1337 has quit IRC (Ping timeout)
+[17:57] * zippercoat is now known as teh1337
+[18:15] <PaasHaas> kk the cd ~/Steam/ does the trick for not downloading same workshops all over...thx :)
+[18:36] * gojira_ has quit IRC (Quit: Leaving)
+[18:37] * Oh`Christ`Off is now known as Oh`Christ
+[18:50] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[18:51] * Rick971 has joined #qldedsrv
+[19:25] * vtchill has joined #qldedsrv
+[19:36] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[19:37] * Rick971 has joined #qldedsrv
+[19:37] * vtchill has quit IRC (Signed off)
+[19:38] * vtchill has joined #qldedsrv
+[19:41] * lonewulf has joined #qldedsrv
+[19:47] * vtchill has quit IRC (Signed off)
+[19:51] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[19:56] * pex has quit IRC (Signed off)
+[20:18] * crobartie|AFK is now known as crobartie
+[20:19] * Oh`Christ is now known as Oh`Christ`Off
+[20:36] * pex has joined #qldedsrv
+[21:03] * tepes has joined #qldedsrv
+[21:49] * b1ngo has joined #qldedsrv
+[22:11] <m1dnight> Would DigitalOcean be a good provider for a quakeserver?
+[22:11] <m1dnight> Before I buy a droplet
+[22:13] <PerpetualWar> many use dig ocean for quake servers
+[22:13] <m1dnight> cool. then ill buy one as well.
+[22:13] <PerpetualWar> but some experience lags
+[22:13] <m1dnight> First im going to try and debug the ping issues with my home server. Not sure why it gives high latency for people outside .be
+[22:14] <PerpetualWar> you can also check host1plus
+[22:20] <b1ngo> wait
+[22:21] <b1ngo> all our pRophecy servers running at gamerzhost.de
+[22:21] <b1ngo> check that out also
+[22:24] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[22:31] <[ByQ]Descent> :D
+[22:32] * PECKA is now known as pecka
+[22:33] * vks has quit IRC (Quit)
+[22:58] <carmethene> https://www.jitbit.com/alexblog/249-now-thats-what-i-call-a-hacker/
+[23:15] <[ByQ]Descent> has gamerzhost.de english version or what? 8-[ ]
+[23:17] <[ByQ]Descent> ..
+[23:21] * Oh`Christ`Off is now known as Oh`Christ
+[23:28] * zurn has quit IRC (Signed off)
+[23:31] * zurn has joined #qldedsrv
+[23:31] * Samja has quit IRC (Signed off)
+[23:47] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[23:47] * Rick971 has joined #qldedsrv
+Session Time: Sun Nov 22 00:00:00 2015
+[00:00] * Oh`Christ is now known as Oh`Christ`Off
+[00:05] * pecka is now known as PECKA
+[00:29] * PECKA is now known as pecka
+[00:59] * Danmer has quit IRC (Signed off)
+[01:24] * crobartie|2 has joined #qldedsrv
+[01:24] * crobartie has quit IRC (Ping timeout)
+[01:27] * crobartie|2 is now known as crobartie
+[01:40] * PerpetualWar is now known as PerpetualWa_off
+[01:40] * PerpetualWa_off is now known as PerpetualWar
+[01:47] * g0rilla has joined #qldedsrv
+[02:05] * flair has quit IRC (Ping timeout)
+[02:09] * vixterra has joined #qldedsrv
+[02:09] * flair has joined #qldedsrv
+[02:26] * crobartie has quit IRC (Signed off)
+[02:31] * b1ngo has quit IRC (Signed off)
+[03:05] * tjone270-phone has joined #qldedsrv
+[03:09] * tjone270-phone has quit IRC (Signed off)
+[03:15] * vtchill has joined #qldedsrv
+[03:18] * PerpetualWar is now known as PerpetualWa_off
+[03:21] * vtchill has quit IRC (Signed off)
+[03:23] * vtchill has joined #qldedsrv
+[03:50] * pecka is now known as PECKA
+[03:51] * vtchill has quit IRC (Signed off)
+[03:58] * Gelenkbusfahrer has quit IRC (Quit: Leaving)
+[04:02] * overflow has quit IRC (Ping timeout)
+[04:03] * overflow has joined #qldedsrv
+[04:48] * g0rilla has quit IRC (Signed off)
+[04:52] * devknof has joined #qldedsrv
+[05:11] * devknof has quit IRC (Signed off)
+[05:50] * psygib has joined #qldedsrv
+[06:22] * circus has joined #qldedsrv
+[06:45] * lonewulf has quit IRC (Signed off)
+[06:49] * Rick971 has quit IRC (Signed off)
+[06:53] * lonewulf has joined #qldedsrv
+[07:48] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[07:48] <zar-> sponge-: any way to not hear enemy sounds as spec? it's kind of obnoxious
+[07:49] <zar-> seems to only happen on certain servers. if you're specing a duel you can hear all kinds of sounds that the player can't actually hear
+[08:26] <McAfee> i dont recall getting that problem
+[08:35] * circus has quit IRC (Quit)
+[08:52] <vixterra> I've heard turning your sound hacks off fixes that problem
+[09:11] <McAfee> :D
+[09:27] * ramtech has quit IRC (Read error: Connection reset by peer)
+[09:27] * alblunty has joined #qldedsrv
+[10:11] * flairtv has joined #qldedsrv
+[10:11] * flair has quit IRC (Ping timeout)
+[10:28] * PerpetualWa_off is now known as PerpetualWar
+[11:26] * vks has joined #qldedsrv
+[11:41] * McAfee has quit IRC (Signed off)
+[12:12] * Danmer has joined #qldedsrv
+[12:16] * Dbzruler72 has joined #qldedsrv
+[13:52] * vks has quit IRC (Quit)
+[14:14] * dev3n_ has joined #qldedsrv
+[14:15] * dev3n has quit IRC (Ping timeout)
+[14:19] * hamster has joined #qldedsrv
+[14:27] <hamster> seeking QL 1v1 - EU - 1800+ elo please
+[14:28] * dev3n_ is now known as debv3n
+[14:28] * debv3n is now known as dev3n
+[14:51] <[ByQ]Descent> :D
+[14:56] * Dbzruler73 has joined #qldedsrv
+[14:57] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[14:57] * Dbzruler73 is now known as Dbzruler72
+[15:32] * g0rilla has joined #qldedsrv
+[15:32] * vixterra has quit IRC (Signed off)
+[15:51] * g00rilla has joined #qldedsrv
+[15:53] * g0rilla has quit IRC (Ping timeout)
+[16:14] * McAfee has joined #qldedsrv
+[16:51] * Oh`Christ`Off is now known as Oh`Christ
+[17:05] * hamster has quit IRC (Signed off)
+[17:07] * crobartie has joined #qldedsrv
+[17:07] * Oh`Christ is now known as Oh`Christ`Off
+[17:29] * Linkyyy^off is now known as Linkyyy
+[17:30] * Rick971 has joined #qldedsrv
+[18:04] * crobartie is now known as crobartie|AFK
+[18:47] * vks has joined #qldedsrv
+[19:00] * Disconnected
+Session Close: Sun Nov 22 19:00:29 2015
+
+Session Start: Mon Nov 23 18:49:05 2015
+Session Ident: #qldedsrv
+[18:49] * Now talking in #qldedsrv
+[18:49] * Topic is 'http://bit.do/linuxQLsrv :: Linux Server Guide, thanks Yakumo. Feel free to ask any questions, get help from experienced users etc. Take a look at http://goo.gl/cnUILO for some useful sample scripts to start multiple servers from one machine.'
+[18:49] * Set by tjone270_ on Sat Nov 21 01:59:50
+[19:04] * vtchill has joined #qldedsrv
+[19:09] * crobartie has joined #qldedsrv
+[19:15] * [BA]PqO is now known as [BA]PqO`Off
+[19:37] * mattiZed has joined #qldedsrv
+[19:37] * Q sets mode: +v mattiZed
+[19:38] * Hajen has joined #qldedsrv
+[19:38] <Hajen> Anyone know how to enable autodownload for a server ?
+[19:42] <roasticle> i didnt have to enable anything when i added my workshop maps
+[19:43] <tjone270> Auto-download is now irrelevant afaik
+[19:43] <Drayan> Hajen: if your server has custom maps you should upload them to the workshop
+[19:43] <Drayan> and yes, autodownload is dead
+[19:43] <roasticle> ya downloads from workshop, not server
+[19:44] <Hajen> ok, so if i have custom workshop maps installed in server the client shall get t he map automatically
+[19:44] <Hajen> not a cvar to set in the server ?
+[19:44] <Drayan> right
+[19:45] <Hajen> It does not seem to work on my server. Any suggestion what might be wrong ?
+[19:45] <Drayan> did you use workshop.txt?
+[19:45] <Hajen> yes
+[19:46] <Hajen> the server can change map, but im emediatly thrown out when not having the map/ra3map9.pl3
+[19:47] <Hajen> the server does not seem to enable autodownload for the client for some reason
+[19:47] <tjone270> the clients download the items via steam, so do the servers
+[19:47] <Drayan> the only reason I can think of that happening is that you manually moved the ra3 map pk3 on your server
+[19:47] <Drayan> to baseq3
+[19:47] <tjone270> so no file transfer occurs from the server to the client
+[19:47] <Drayan> maybe there's a clientside cvar for it
+[19:47] <Hajen> exactly
+[19:48] <Hajen> i just added the numbers to workshop.txt and the server downloaded the maps automatically when starting
+[19:48] <tjone270> are you sure it didn't say "failed download" or similar
+[19:48] <Hajen> yes
+[19:49] <Hajen> they are present in the correct directories
+[19:50] <tjone270> hmm
+[19:50] <tjone270> weird then
+[19:50] <Hajen> no additional port to open ?
+[19:51] <tjone270> nope, as I say, no transfer between server+client regarding workshop maps
+[19:51] <Hajen> but if the client is missing the map what happens
+[19:51] <tjone270> server references a map to client, if client has map, load map, else request item download from steam, load map upon download completion
+[19:51] <Hajen> AHA! then it must be a client issue
+[19:51] <Hajen> :)
+[19:52] <Hajen> ty
+[19:52] <tjone270> not entirely necessarily
+[19:52] <tjone270> try running https://github.com/tjone270/Quake-Live/blob/master/qlds-scripts/autodownload.sh
+[19:53] <tjone270> I've had a similar issue that you've described
+[19:53] <tjone270> that script will remove all workshop maps and re-download them externally from QLDS, which works better for me than QLDS download does
+[19:54] <Hajen> ok now its running
+[19:54] <tjone270> with my script or something else?
+[19:55] <Hajen> yes
+[19:55] <tjone270> well, which?
+[19:55] <Hajen> after the autodownload completes ill try again and keep you posted
+[19:55] <tjone270> oh, I see, thanks
+[19:57] <Hajen> Im going to build an irc bot that fetches data from the server and analysis the data. Were are the server logs stored ?
+[19:57] <tjone270> if you're running the server in supervisor, check out /tmp/qzeroded_*
+[19:58] <tjone270> otherwise, might be in the fs_homepath
+[19:58] <Hajen> using supervisor
+[20:10] * crobartie has quit IRC (Signed off)
+[20:12] <Hajen> Tried it again from client side. But first i removed the workshop folder in the client machine and tried to connect. It downloaded the map but the client culden't load the map
+[20:13] <Hajen> I guess the the map is broken !?
+[20:13] <Hajen> can this happen ?
+[20:13] <tjone270> what map is it again
+[20:13] <Hajen> ra3mapXY
+[20:13] <QBall> its possible, people are are uploading all kinds of crap to the workshop atm :D
+[20:13] <Hajen> XY = 1,2,6,9,...
+[20:13] <Hajen> it worked yesterday
+[20:13] <Hajen> ....
+[20:14] <Hajen> quakelive updated.
+[20:14] <tjone270> loaded ra3map13 just now, no problems
+[20:14] <Hajen> did you connect from client ?
+[20:15] <tjone270> yes
+[20:15] * Dbzruler72 has joined #qldedsrv
+[20:15] * Linkyyy^off is now known as Linkyyy
+[20:15] <tjone270> here's the server I'm on
+[20:16] <tjone270>  /connect brisbane.quakelive.tomtecsolutions.com.au:27960
+[20:16] <Hajen> i got it to work
+[20:17] <Hajen> ty for help
+[20:17] <tjone270> you're welcome :)
+[20:17] <Hajen> i think autodownload.sh solved it
+[20:17] <Hajen> i have three servers running
+[20:17] <tjone270> ah, good :D
+[20:17] <Hajen> on two i updated the maps using your  scripts
+[20:17] <Hajen> on the third i did not
+[20:17] <Hajen> that one did not work
+[20:17] <Hajen> but the others did
+[20:17] <tjone270> I see
+[20:18] <Hajen> :)
+[20:18] <tjone270> that's good :D
+[20:18] <Hajen> yes
+[20:19] <tjone270> sponge-: if I set a cvar that doesn't exist in a factory, like "helloworld":"1", will it create the cvar, or fail and move on
+[20:20] <sponge-> dunno! i think it will fail and move on
+[20:20] <tjone270> okay, how does one create cvars?
+[20:20] <sponge-> you can't
+[20:21] <sponge-> you might be able to add it in server.cfg
+[20:21] <sponge-> i dont know i never tried it
+[20:21] <tjone270> okay, so like seta helloworld 1?
+[20:21] <sponge-> yea
+[20:21] <tjone270> I'm reading the listcmds 
+[20:22] <tjone270> there's a cvaradd command and cvarmult command
+[20:22] <tjone270> what're they for
+[20:24] <tjone270> sponge-?
+[20:24] <sponge-> cvaradd cg_fov -5
+[20:24] <sponge-> reduces fov by 5 everytime you do it
+[20:24] <tjone270> ah, I see, math functions
+[20:26] * Mogrot has quit IRC (Ping timeout)
+[20:26] * Oh`Christ`Off is now known as Oh`Christ
+[20:45] * Danmer has joined #qldedsrv
+[20:53] * mattiZed` has joined #qldedsrv
+[20:53] * Q sets mode: +v mattiZed`
+[20:53] * mattiZed` has quit IRC (Quit: Leaving...)
+[21:02] * Hajen has quit IRC (Ping timeout)
+[21:38] * crobartie has joined #qldedsrv
+[21:51] * vtchill_ has joined #qldedsrv
+[21:51] * vtchill has quit IRC (Ping timeout)
+[21:51] * vtchill_ is now known as vtchill
+[21:51] * flair has quit IRC (Read error: Connection reset by peer)
+[21:55] * flair has joined #qldedsrv
+[21:58] * [BA]PqO`Off is now known as [BA]PqO
+[22:01] * mikul|afk is now known as mikul
+[22:03] * fx is now known as fx_off
+[22:03] * fx_off is now known as fx
+[22:17] <McAfee> i wish toggle took extra params :(
+[22:18] <McAfee> seta typically creats cvars btw, but as for doing it within the factory, you'll just have to tesit
+[22:18] <McAfee> test it
+[22:21] <McAfee> ...i tested it, factories can create cvars
+[22:21] <McAfee> :) that was easy
+[23:04] * loveless has joined #qldedsrv
+[23:05] * vtchill has quit IRC (Ping timeout)
+[23:08] * vtchill has joined #qldedsrv
+[23:16] * vtchill has quit IRC (Ping timeout)
+[23:21] * [BA]PqO is now known as [BA]PqO`Off
+[23:26] * vtchill has joined #qldedsrv
+[23:27] * Danmer has quit IRC (Signed off)
+[23:31] * G1N-zurn is now known as zurn
+[23:33] * fx is now known as fx_off
+[23:44] * Mogrot has joined #qldedsrv
+[23:49] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[23:49] * Rick971 has joined #qldedsrv
+Session Time: Tue Nov 24 00:00:00 2015
+[00:26] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[00:29] * tepes has quit IRC (Signed off)
+[00:39] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[00:54] * vtchill_ has joined #qldedsrv
+[00:54] * vtchill has quit IRC (Ping timeout)
+[00:54] * vtchill_ is now known as vtchill
+[01:03] * PerpetualWar is now known as PerpetualWa_off
+[01:09] * vtchill has quit IRC (Ping timeout)
+[01:47] * Linkyyy is now known as Linkyyy^off
+[02:28] * Vig1lantE has joined #qldedsrv
+[02:37] * carmethene has quit IRC (Signed off)
+[02:38] * carmethene has joined #qldedsrv
+[02:39] * roast has joined #qldedsrv
+[02:43] * roasticle has quit IRC (Ping timeout)
+[02:46] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[03:04] * crobartie has quit IRC (Signed off)
+[03:09] * Vig1lantE has quit IRC (Ping timeout)
+[03:24] * Oh`Christ is now known as Oh`Christ`Off
+[03:27] * lonewulf has quit IRC (Signed off)
+[03:31] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[03:31] * Rick971 has joined #qldedsrv
+[03:34] * Rick971 has quit IRC (Signed off)
+[03:37] * Rick971 has joined #qldedsrv
+[03:47] * vks has joined #qldedsrv
+[04:20] * lonewulf has joined #qldedsrv
+[04:22] * Mogrot has quit IRC (Ping timeout)
+[04:52] * Vig1lantE has joined #qldedsrv
+[05:00] * Rick971 has quit IRC (Ping timeout)
+[05:11] * Rick971 has joined #qldedsrv
+[05:52] * flair has quit IRC (Read error: Connection reset by peer)
+[05:57] * Rick971 has quit IRC (Ping timeout)
+[05:58] * Rick971 has joined #qldedsrv
+[06:29] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[06:45] * vks has quit IRC (Quit)
+[06:48] * vks has joined #qldedsrv
+[07:01] * Vig1lantE has quit IRC (Signed off)
+[07:10] * Dbzruler73 has joined #qldedsrv
+[07:12] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[07:13] * Dbzruler73 has quit IRC (Read error: Operation timed out)
+[07:56] * vixterra has joined #qldedsrv
+[08:54] * Mogrot has joined #qldedsrv
+[09:52] * [BA]PqO`Off is now known as [BA]PqO
+[10:24] * [BA]PqO is now known as [BA]PqO`Off
+[10:30] * mattiZed has joined #qldedsrv
+[10:30] * Q sets mode: +v mattiZed
+[10:58] * McAfee has left #qldedsrv
+[11:00] * Mogrot has quit IRC (Ping timeout)
+[11:58] * psygib has quit IRC (Signed off)
+[11:59] * loveless has quit IRC (Signed off)
+[12:04] * PerpetualWa_off is now known as PerpetualWar
+[12:27] * PerpetualWar is now known as PerpetualWa_off
+[12:34] * Dbzruler72 has joined #qldedsrv
+[13:01] * Mogrot has joined #qldedsrv
+[13:43] * crobartie has joined #qldedsrv
+[13:57] * overflow has quit IRC (Ping timeout)
+[14:02] * PaasHaas has quit IRC (Quit: Leaving)
+[14:04] * PaasHaas has joined #qldedsrv
+[14:14] * Linkyyy^off is now known as Linkyyy
+[14:22] * Rick971 has joined #qldedsrv
+[14:50] * fx_off is now known as fx
+[15:07] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[15:07] * Rick971 has joined #qldedsrv
+[15:24] * fx is now known as fx_off
+[15:43] * Melodeiro has joined #qldedsrv
+[15:49] * overflow has joined #qldedsrv
+[15:54] * Linkyyy is now known as Linkyyy^off
+[16:17] * Mogrot has quit IRC (Ping timeout)
+[16:25] * overflow has quit IRC (Ping timeout)
+[16:29] * McAfee has joined #qldedsrv
+[16:54] * PlayDooM|counte has quit IRC (*.net *.split)
+[16:56] * PaasHaas is now known as Paas|AFK
+[16:56] <roast> wrack is drowning himself on dredwerkz but is delaying his death because he has regen
+[16:57] <roast> ಠ_ಠ
+[17:16] * Maverick|MSG has quit IRC (Ping timeout)
+[17:20] * vks has quit IRC (Read error: EOF from client)
+[17:35] * Linkyyy^off is now known as Linkyyy
+[18:08] * mikul has quit IRC (Ping timeout)
+[18:25] * mikul has joined #qldedsrv
+[18:29] * overflow has joined #qldedsrv
+[18:45] * g0rilla has joined #qldedsrv
+[18:48] * vtchill has joined #qldedsrv
+[18:48] * lonewulf has quit IRC (Signed off)
+[18:56] * mattiZed has quit IRC (Quit: Leaving)
+[18:58] * lonewulf has joined #qldedsrv
+[19:20] * Linkyyy is now known as Linkyyy^off
+[19:21] * fragtion has joined #qldedsrv
+[19:24] * PerpetualWa_off is now known as PerpetualWar
+[20:04] * Mino has joined #qldedsrv
+[20:15] * Linkyyy^off is now known as Linkyyy
+[20:28] * Linkyyy is now known as Linkyyy^off
+[20:29] * Linkyyy^off is now known as Linkyyy
+[20:37] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[20:50] * collerok has joined #qldedsrv
+[20:50] <collerok> yo
+[20:51] <collerok> is there any support for win based serv?
+[20:53] <collerok> server ask me for some 'steam auth token'  but there was no problems yesterday
+[20:53] <collerok> what is this shit this token?
+[21:03] * Oh`Christ`Off is now known as Oh`Christ
+[21:04] <McAfee> i was experimenting with it, but there is no official support for it
+[21:11] * flair has joined #qldedsrv
+[21:14] <McAfee> when do you get that error?
+[21:21] <collerok> from client when connecting serv
+[21:25] <collerok>  'no steam auth token' its saying
+[21:33] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:34] * Rick971 has joined #qldedsrv
+[21:44] * Mino has left #qldedsrv (Leaving)
+[21:44] * vks has joined #qldedsrv
+[21:46] * Danmer has joined #qldedsrv
+[22:05] * Mogrot has joined #qldedsrv
+[22:05] * fx_off is now known as fx
+[22:06] * fx is now known as fx_off
+[22:07] * Rick971 has quit IRC (Ping timeout)
+[22:09] * Rick971_ has joined #qldedsrv
+[22:10] * vtchill_ has joined #qldedsrv
+[22:10] * vtchill has quit IRC (Ping timeout)
+[22:10] * vtchill_ is now known as vtchill
+[22:12] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[22:17] * pex has quit IRC (Signed off)
+[22:18] * Rick971_ has joined #qldedsrv
+[22:19] * pex has joined #qldedsrv
+[22:24] * flair has quit IRC (Read error: EOF from client)
+[22:27] <carmethene> workshop uploads are really heating up
+[22:27] <carmethene> there are several cases now where different users have uploaded the same maps
+[22:27] <carmethene> upload wars!
+[22:27] <pex> yeah and have the maps break the damn server
+[22:27] <pex> no quality control whatsoever
+[22:28] <pex> half*
+[22:36] * vtchill has quit IRC (Ping timeout)
+[22:36] * Temppp has joined #qldedsrv
+[22:36] * vtchill_ has joined #qldedsrv
+[22:37] * collerok has quit IRC (Ping timeout)
+[22:40] <Temppp> Hi
+[22:41] <Temppp> I have a question regarding starting multiple servers including different mod (TDM, 1on1, FFA, and so on). Is there a command like +set gametype I can use ? 
+[22:42] <Drayan> you change gametype with the map command (or the callvote map command)
+[22:42] <Drayan> callvote map ironworks ctf
+[22:45] <Temppp> so using this "+set sv_mappoolFile "mappool_pqlffa.txt"" will make the server an ffa server?
+[22:46] * vtchill_ has quit IRC (Ping timeout)
+[22:46] <Drayan> er
+[22:46] <McAfee> assuming the file exists
+[22:47] * vtchill has joined #qldedsrv
+[22:52] * Temppp has quit IRC (Quit: Page closed)
+[22:56] * vtchill has quit IRC (Ping timeout)
+[22:56] <[ByQ]Descent> +set basegt "ffa" \+set factory "ffa" \+set fraglimit 100 \+set sv_mapPoolFile = "mappool_ffa.txt" \
+[22:58] * Oh`Christ is now known as Oh`Christ`Off
+[22:58] <sponge-> what on earth
+[22:58] <sponge-> just do +map campgrounds ffa
+[22:58] <sponge-> those are not console cvars
+[22:59] <sponge-> and you dont do = in +set either
+[22:59] <sponge-> err sorry +map won't work on the cmdline, there's a cvar serverStartup in server.cfg or something, use that instead so it runs when the servers finishes loading
+[22:59] <[ByQ]Descent> =)
+[23:00] <sponge-> but yea all you need to do to lock a server to a gametype is to add 8 to g_voteflags and use an appropriate mappool, thats it
+[23:02] <McAfee> i don't understand the "Not follow the guide" mentality
+[23:03] <[ByQ]Descent> .. setting multiple servers may be such unpredictable .. :D
+[23:03] * PlayDooM|counte has joined #qldedsrv
+[23:03] <McAfee> --"my server don't work" --"what part of the guide are you stuck on?" --"no, i'm doing it my own way" --"oh, how is that working out for you?"
+[23:04] * Dbzruler72 has joined #qldedsrv
+[23:06] * vtchill has joined #qldedsrv
+[23:08] * vtchill has quit IRC (Signed off)
+[23:16] * vtchill has joined #qldedsrv
+[23:19] * Linkyyy is now known as Linkyyy^off
+[23:35] * Oh`Christ`Off is now known as Oh`Christ
+[23:38] * Hajen has joined #qldedsrv
+[23:40] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[23:46] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[23:47] * Rick971_ has joined #qldedsrv
+[23:53] * Danmer_ has joined #qldedsrv
+[23:56] * Danmer has quit IRC (Ping timeout)
+[23:59] * spinalfluid has quit IRC (Ping timeout)
+Session Time: Wed Nov 25 00:00:00 2015
+[00:04] <McAfee> lol, some servers have so many viewers, the spectator list is bugged, wraps around too soon
+[00:26] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[00:27] * Rick971_ has joined #qldedsrv
+[00:27] * Mogrot has quit IRC (Ping timeout)
+[00:30] * Mogrot has joined #qldedsrv
+[00:35] * Rick971_ has quit IRC (Ping timeout)
+[00:42] * Rick971_ has joined #qldedsrv
+[01:16] * PerpetualWar is now known as PerpetualWa_off
+[01:16] <lonewulf> Update: $5 Digital Ocean, $5 Vultr not enough really..
+[01:17] <lonewulf> The Hitch warning(s): are real.
+[01:17] <Drayan> how many servers?
+[01:17] <[ByQ]Descent> what configuration?
+[01:17] <lonewulf> 1
+[01:17] <Drayan> eh
+[01:17] <[ByQ]Descent> 1?
+[01:17] <Drayan> x86 or x64?
+[01:17] <kanzo> what
+[01:17] <[ByQ]Descent> =)
+[01:18] <lonewulf> happens with one, or 3, or 10 instances..thats not the issue.
+[01:18] <Drayan> i've yet to have a hitch
+[01:18] <kanzo> bots?
+[01:18] <lonewulf> no bots
+[01:18] <lonewulf> single cpu is struggling.
+[01:18] <lonewulf> tons of ppl have, and are complaining about it.
+[01:19] <[ByQ]Descent> maybe its vps, its linux/qldedsrv configuration issues ..
+[01:20] <lonewulf> tried both x86 and x64
+[01:21] <[ByQ]Descent> lags or what?
+[01:22] <lonewulf> Its a Hitch warning.
+[01:22] <lonewulf> so yes, lag.
+[01:23] <syncore> wat
+[01:23] <lonewulf> Going to try 10 dollar USD Vultr, and DO.
+[01:23] <syncore> i don't get that on my cheap digitalocean
+[01:23] <lonewulf> hrmm
+[01:23] <lonewulf> I dont get it all day everday..
+[01:24] <lonewulf> but it does seem to happen everyday.
+[01:24] <lonewulf> Carry on Soliders. I figure smth out.
+[01:25] <lonewulf> s/I/I'll
+[01:26] <[ByQ]Descent> I had a  lot of kind of strange problems (lags too - good srv), look at chown/chmod on .quakelive , try to run qlded in terminal under root and check
+[01:27] <lonewulf> kk
+[01:32] * Melodeiro has quit IRC (Ping timeout)
+[01:36] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[01:36] * Rick971_ has joined #qldedsrv
+[01:40] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[01:40] * Rick971_ has joined #qldedsrv
+[01:42] * Rick971 has joined #qldedsrv
+[01:46] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[01:46] * Rick971 has joined #qldedsrv
+[01:47] * Rick971_ has quit IRC (Ping timeout)
+[01:49] * Hajen_ has joined #qldedsrv
+[01:50] <Hajen_> Hi guys, im trying to run minqlx. Im getting the follwing error: ERROR: ld.so: object './minqlx.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+[01:50] <Hajen_> Do i need to recompile it for x86 ?
+[01:51] <Drayan> I think someone said it only worked with x64 but I don't really know
+[01:51] <[ByQ]Descent> ... it's only for x64 as far as I know .. x86 in future .. maybe ..
+[01:51] <Hajen_> have someone got it to work on x86 ?
+[01:52] <Hajen_> I guess its all about the hook.
+[01:52] * loveless has joined #qldedsrv
+[01:52] <Hajen_> Have anyone tried to compile it ?
+[01:53] <[ByQ]Descent> ..
+[01:56] <syncore> it is only for x64, and you can talk to the guy who made it in #minqlbot
+[01:56] <Hajen_> ok
+[01:56] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[01:56] * Rick971 has joined #qldedsrv
+[02:18] * spinalfluid has joined #qldedsrv
+[02:20] * McAfee has left #qldedsrv
+[02:23] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[02:23] * Rick971 has joined #qldedsrv
+[02:31] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[02:32] * Rick971 has joined #qldedsrv
+[02:35] * Mogrot has quit IRC (Ping timeout)
+[02:44] * Rick971_ has joined #qldedsrv
+[02:48] * Rick971 has quit IRC (Ping timeout)
+[02:57] * crobartie has quit IRC (Ping timeout)
+[03:00] * vtchill has quit IRC (Ping timeout)
+[03:04] * Oh`Christ is now known as Oh`Christ`Off
+[03:17] * Rick971 has joined #qldedsrv
+[03:21] * Rick971_ has quit IRC (Ping timeout)
+[03:38] * Hajen_ has quit IRC (Quit: Page closed)
+[03:44] * Rick971_ has joined #qldedsrv
+[03:48] * Rick971 has quit IRC (Ping timeout)
+[03:55] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[03:55] * Rick971_ has joined #qldedsrv
+[04:15] * Rick971_ has quit IRC (Ping timeout)
+[05:00] * PaasHaas has joined #qldedsrv
+[05:03] * Paas|AFK has quit IRC (Ping timeout)
+[05:07] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[05:14] * syncore has quit IRC (Signed off)
+[05:20] * syncore has joined #qldedsrv
+[05:58] * Dbzruler72 has joined #qldedsrv
+[06:28] * vks has quit IRC (Read error: Connection reset by peer)
+[06:34] * vks has joined #qldedsrv
+[06:44] * psygib has joined #qldedsrv
+[06:52] * McAfee has joined #qldedsrv
+[06:58] * Mogrot has joined #qldedsrv
+[07:19] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[07:21] * Dbzruler72 has joined #qldedsrv
+[07:22] * Danmer_ has quit IRC (Signed off)
+[07:23] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[08:29] * Melodeiro has joined #qldedsrv
+[09:02] * Vig1lantE has joined #qldedsrv
+[09:03] * Mogrot has quit IRC (Ping timeout)
+[09:14] * flair has joined #qldedsrv
+[09:39] * Vig1lantE has quit IRC (Signed off)
+[10:16] * McAfee has left #qldedsrv
+[10:30] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[10:31] * PerpetualWa_off is now known as PerpetualWar
+[10:37] * PerpetualWar is now known as PerpetualWa_off
+[11:08] * Mogrot has joined #qldedsrv
+[11:19] * psygib has quit IRC (Signed off)
+[12:53] * b1ngo has joined #qldedsrv
+[12:55] * mattiZed has joined #qldedsrv
+[12:55] * Q sets mode: +v mattiZed
+[13:14] * tjone270 has quit IRC (Read error: Connection reset by peer)
+[13:14] * tjone270 has joined #qldedsrv
+[13:15] * Mogrot has quit IRC (Read error: Connection reset by peer)
+[13:15] * Q sets mode: +o tjone270
+[13:40] * loveless has quit IRC (Signed off)
+[13:41] * b1ngo has quit IRC (Signed off)
+[13:43] * ogn1b has joined #qldedsrv
+[13:46] * ogn1b has quit IRC (Signed off)
+[13:46] * vixterra has quit IRC (Signed off)
+[14:05] * tjone270 has quit IRC (Signed off)
+[14:32] * crobartie has joined #qldedsrv
+[14:35] * crobartie has quit IRC (Signed off)
+[14:39] * PerpetualWa_off is now known as PerpetualWar
+[15:13] * Dbzruler72 has joined #qldedsrv
+[15:20] * Melodeiro has joined #qldedsrv
+[15:36] * tepes has joined #qldedsrv
+[15:46] * crobartie has joined #qldedsrv
+[15:55] * vks has quit IRC (Read error: EOF from client)
+[15:57] * lonewulfn6 has quit IRC (Ping timeout)
+[16:41] * g0rilla has joined #qldedsrv
+[16:41] * g0rilla has quit IRC (Signed off)
+[17:04] * McAfee has joined #qldedsrv
+[17:18] * spinalfluid has quit IRC (Read error: Connection reset by peer)
+[17:22] * g0rilla has joined #qldedsrv
+[17:22] * Granis` has joined #qldedsrv
+[17:24] * Granis has quit IRC (Ping timeout)
+[17:24] * Granis` is now known as Granis
+[17:24] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[17:29] * mattiZed has joined #qldedsrv
+[17:29] * Q sets mode: +v mattiZed
+[17:29] * PerpetualWar is now known as PerpetualWa_off
+[17:33] * crobartie is now known as crobartie|AFK
+[17:34] * mattiZed has quit IRC (Quit: Leaving...)
+[17:34] * spinalfluid has joined #qldedsrv
+[17:56] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[17:56] * Melodeiro has joined #qldedsrv
+[18:05] * b1ngo has joined #qldedsrv
+[18:07] * PerpetualWa_off is now known as PerpetualWar
+[18:09] * b1ngo2 has joined #qldedsrv
+[18:09] * b1ngo is now known as b1ngo|offline
+[18:10] * b1ngo2 has quit IRC (EOF from client)
+[18:11] * b1ngo|offline is now known as b1ngo
+[18:11] * b1ngo2 has joined #qldedsrv
+[18:11] * b1ngo2 has quit IRC (EOF from client)
+[18:12] * b1ngo is now known as b1ngo|offline
+[18:15] * b1ngo|offline is now known as b1ngo
+[18:35] * b1ngo has quit IRC (Signed off)
+[18:39] * away has joined #qldedsrv
+[18:39] * away is now known as b1ngo
+[18:50] * b1ngo has quit IRC (Signed off)
+[18:51] * away has joined #qldedsrv
+[18:52] * away is now known as b1ngo
+[19:19] * b1ngo is now known as b1ngo|offline
+[20:06] * lonewulfn6 has joined #qldedsrv
+[20:22] * lonewulf has quit IRC (Signed off)
+[20:35] * Danmer has joined #qldedsrv
+[20:44] * Oh`Christ`Off is now known as Oh`Christ
+[21:08] * XiN_ has joined #qldedsrv
+[21:15] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[21:44] * XiN_ has quit IRC (Quit: Page closed)
+[21:45] * Hajen has quit IRC (Quit: Page closed)
+[21:52] * b1ngo|offline is now known as b1ngo
+[22:01] * DS4ever01 has joined #qldedsrv
+[22:01] <DS4ever01> hey guys.. any germans here ? to fix my problem with my quake live server xD
+[22:05] <[ByQ]Descent> :D
+[22:11] <[ByQ]Descent> so only germans can fix problem with ql server? :D
+[22:12] <[ByQ]Descent> sure that not  .. =)
+[22:14] <DS4ever01> hahah xD no i dont think so... but its easy for me to explain in german than in english =D
+[22:14] <DS4ever01> i need a sample script for freezetag instagib.. 
+[22:15] <DS4ever01> and i cant find my server in the quake live serverlist/overview
+[22:24] <[ByQ]Descent> try to connect it using /connect ip
+[22:25] <[ByQ]Descent> check if it works ..
+[22:51] * loveless has joined #qldedsrv
+[22:55] * DS4ever01 has quit IRC (Quit: Page closed)
+[23:37] <carmethene> holy shit, the proverek map
+[23:37] <carmethene> http://steamcommunity.com/sharedfiles/filedetails/?id=560610357&searchtext=
+[23:38] <carmethene> I've never seen this one before
+[23:38] <McAfee> i guess the german figured it out, didnt even say thanks
+[23:39] <[ByQ]Descent> =)
+[23:39] <McAfee> carmethene, it's nice to see original ideas in maps
+[23:39] <McAfee> :P
+[23:39] <carmethene> McAfee: my experience is that the community hates originality
+[23:39] <carmethene> McAfee: have you seen that map?  the screenshot doesn't do it justice
+[23:40] <carmethene> it's overkill and campgrounds stuck together
+[23:40] <McAfee> i was being sarcastic
+[23:40] <carmethene> given that those are basically the only two maps anyone ever callvotes
+[23:40] <carmethene> I know you were
+[23:40] <carmethene> I'm English, we invented sarcasm
+[23:40] <carmethene> :P
+[23:40] <McAfee> you need to mix campgrounds and bloodrun = epic
+[23:40] <carmethene> interesting idea
+[23:41] <sponge-> i had converted/mirrored bloodrun for ctf, it was a surprisingly good map
+[23:41] <[ByQ]Descent> btw, is mappack with maps (ex:intelbloodrun) used anywhere?  is any problems with .pk3 downloadin and joinin servers?
+[23:41] <carmethene> where did you put the mirror?
+[23:41] <McAfee> sponge- weren't you off xD
+[23:41] <McAfee> until monday :P
+[23:41] <sponge-> no im in the office today im off tomorrow
+[23:42] <carmethene> [ByQ]Descent: what do you mean?  bloodrunblue (the intel one) works fine
+[23:42] <sponge-> carmethene: uh in that ya/pg room i think, the window where the quad spawns in ffa
+[23:42] <carmethene> sponge-: gotcha
+[23:42] <carmethene> that makes sense
+[23:42] <[ByQ]Descent> ok , thnx :D
+[23:43] <McAfee> i haven't seen the space variant of campgrounds in a while, is it still there?
+[23:43] <carmethene> [ByQ]Descent: have to get the extra map pack from the workshop, not sure I understood your question
+[23:43] <sponge-> its in the holiday pack
+[23:43] <carmethene> McAfee: yes
+[23:43] <carmethene> oh holiday pack? my bad
+[23:43] <[ByQ]Descent> I know, saw the comments with problems, decided to wait until everything went ok .. 
+[23:43] <carmethene> http://steamcommunity.com/sharedfiles/filedetails/?id=539421606
+[23:44] <carmethene> oh I get it
+[23:44] <sponge-> https://www.dropbox.com/s/bgwc7eyu121hv36/ztnctf.bsp found it
+[23:44] <carmethene> spacecamp is in the holiday pack
+[23:44] <carmethene> derp
+[23:44] <carmethene> [ByQ]Descent: oh, so there are definitely issues
+[23:44] <carmethene> a number of people couldn't join the server (unpure pk3 kick) with those blue maps
+[23:45] <carmethene> they all fixed it by nuking their quake install and downloading clean from Steam
+[23:45] <[ByQ]Descent> thats it .. so thats why I'm asking ..
+[23:45] <sponge-> thats fixed, people had the bloodrunintel.pk3 and zz_qcon_ads.pk3 in their dir
+[23:45] <carmethene> sponge-: ah great
+[23:45] <[ByQ]Descent> ok
+[23:45] <carmethene> there's no way for me to add that ztn map without it being on the workshop right?
+[23:46] <carmethene> unless I go non-pure
+[23:46] <sponge-> its not really complete/suitable for play
+[23:46] <carmethene> oh
+[23:46] <sponge-> but you can +set sv_pure 0 and then dump it in your basepath baseq3 to load it up and try it
+[23:46] <carmethene> ta
+[23:48] <McAfee> in this day and age, can't a game be payed for and still have ads? or that's a no-no ?
+[23:49] <sponge-> there aren't really any games that do in-game ads anymore
+[23:50] * lonewulf has joined #qldedsrv
+[23:50] * vtchill has joined #qldedsrv
+[23:51] <McAfee> is the windows dedicated (using a shortcut) a definite failure, or it can run for a few weeks without crashing?
+[23:51] <sponge-> but yea workshop wise, i'm not surprised, but still disappointed that it's just been q3 re-uploads all the way pretty much
+[23:54] <McAfee> i'd expect most of the custom maps ever on a regular rotation to be ported at some point
+[23:55] <McAfee> From a custom content point of view, is there anything quake3 can still do, that quake live would not be able to do? (eg: mods/scripts)
+[23:55] * Danmer has quit IRC (Signed off)
+[23:57] <[ByQ]Descent> maybe its more about q3 times, not mods/maps: in the early 200x were a lot internet clubs/cafes (in eastern europe for sure) to play q2/q3, clans, clanwars, a lot of local tourneys and etc.. 
+[23:58] <McAfee> i mean from the point of view, of replacing what's left of the quake3 community, and not hear excuses
+[23:58] <McAfee> it would be more people playing quakelive
+[23:58] <McAfee> if everything was eventually ported
+[23:59] <[ByQ]Descent> no local communities ... internet games - kind of depressive thing ..
+[23:59] <sponge-> ql can't do mods but otherwise should be the same
+[23:59] * PerpetualWar is now known as PerpetualWa_off
+[23:59] <McAfee> i used to go a lot of lan parties, broadband made them obsolete
+Session Time: Thu Nov 26 00:00:00 2015
+[00:00] <sponge-> more people are not going to play ql if all the content from q3 was there since there's not really anyone playing q3 in any significant numbers either
+[00:00] <McAfee> to go to*
+[00:01] <McAfee> but still, is there anything that quake3 can do, that ql can't do?
+[00:01] <McAfee> gibs xD
+[00:02] <[ByQ]Descent> everything can be made by custom factory (balance)
+[00:03] <McAfee> and as far as mods go?
+[00:03] <carmethene> 13:00      sponge-@ : ql can't do mods but otherwise should be the same
+[00:03] <[ByQ]Descent> t4 @ q3: 100 starting health, rail damage 100, +10 frags .. :D
+[00:03] <carmethene> that said, minqlx is getting powerful enough now to be a mod platform
+[00:06] <[ByQ]Descent> minqlx have problems with pointing itself, because the way "LD_PRELOAD" looks "not good" in case of "Steam" and "Id Software" licences ...
+[00:07] <Drayan> what?
+[00:07] <[ByQ]Descent> for sure, ql-managers had to have done kind of api to make such things "legal" ..
+[00:08] <[ByQ]Descent> :D
+[00:26] <sponge-> nope we didnt do crap for minqlx
+[00:32] * trapgod has joined #qldedsrv
+[00:40] <rzeka> Guys, what are sv_antic*Threshold for?
+[00:40] <[ByQ]Descent> I mean that minqlx has to be ALREADY kind of osp for q3.. problem only with absence ql-c-api that brakes development of minqlx and ql ..
+[00:46] <[ByQ]Descent> and another problem is servers monetization (not only ql), donation NOT-SOLUTION-FOR-SURE, my opinion is following: steam-top-managers have to be kicked right now.
+[00:51] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[00:52] <McAfee> i didnt understand that last sentence
+[00:53] <[ByQ]Descent> :D sure you did ..
+[00:54] <[ByQ]Descent> servers owners by default have part of subscriptions money ...
+[00:55] <McAfee> server owners as in the people who own the farms and rent them, or as in the admin that is renting a server and managing it?
+[01:00] <[ByQ]Descent> as people who making servers, which are part of business with money flows ..
+[01:12] <carmethene> I have a problem...
+[01:12] <carmethene> ra3map19 got updated like an hour ago
+[01:12] <carmethene> someone called it
+[01:12] <carmethene> so now anyone who connects, can't connect
+[01:13] <carmethene> since steam is giving them a different version of the map to the server
+[01:13] <carmethene> is there anything I can do about this situation?
+[01:13] <[ByQ]Descent> [23:44] <sponge-> https://www.dropbox.com/s/bgwc7eyu121hv36/ztnctf.bsp found it
+[01:13] <[ByQ]Descent> [23:44] <carmethene> spacecamp is in the holiday pack
+[01:13] <[ByQ]Descent> [23:44] <carmethene> derp
+[01:13] <[ByQ]Descent> [23:44] <carmethene> [ByQ]Descent: oh, so there are definitely issues
+[01:13] <[ByQ]Descent> [23:44] <carmethene> a number of people couldn't join the server (unpure pk3 kick) with those blue maps
+[01:13] <[ByQ]Descent> [23:45] <carmethene> they all fixed it by nuking their quake install and downloading clean from Steam
+[01:13] <[ByQ]Descent> [23:45] <[ByQ]Descent> thats it .. so thats why I'm asking ..
+[01:13] <[ByQ]Descent> [23:45] <sponge-> thats fixed, people had the bloodrunintel.pk3 and zz_qcon_ads.pk3 in their dir
+[01:13] <[ByQ]Descent> [23:45] <carmethene> sponge-: ah great
+[01:13] <[ByQ]Descent> [23:45] <[ByQ]Descent> ok
+[01:13] <carmethene> I mean, I know I can delete the workshop maps and restart, but I have no way of knowing WHEN that is necessary and it's a lot to redownload
+[01:13] <carmethene> just restarting the server doesn't seem to make it redownload the offending map either
+[01:15] <[ByQ]Descent> ..thats why I do not use custom maps until this get resolved ..
+[01:15] <McAfee> have a launch script that check for update, relaunch server once a week regardless
+[01:16] <carmethene> I've written a script that kills my supervisor processes, deletes the maps, starts a single server, downloads them, kills that server and restarts supervisord
+[01:16] <carmethene> so it's easy to sort, other than the time it takes
+[01:16] <carmethene> it's just the complete lack of control over when it's necessary that's causing me issues
+[01:16] <carmethene> like, he changed a map at lunchtime today, so what can I do?
+[01:16] <McAfee> must the server be actually killed?
+[01:16] <McAfee> cant a map change do the trick?
+[01:16] <sponge-> you need to restart the server to check for workshop updates
+[01:16] <carmethene> what sponge said
+[01:16] <[ByQ]Descent> maybe it is on the client side?
+[01:16] * b1ngo is now known as b1ngo|offline
+[01:17] <carmethene> sponge-: restarting the server doesn't seem to actually download updates
+[01:18] <carmethene> just confirmed it, killed the server, restarted, still on old version of the workshop map
+[01:18] <carmethene> so, I guess I could nuke the workshop folder and start a different server process on some hidden port to repopulate the cache without killing the original server
+[01:18] <carmethene> that's hacky and error prone though
+[01:19] <McAfee> and then compare the files and restart the servers if not identical
+[01:19] <McAfee> tedious
+[01:20] <McAfee> i havent played with workshop stuff, at all

@@ -1,0 +1,1 @@
+python zmq_rcon.py --host=tcp://185.139.1.29:28962 --password=123456byqdescent123456

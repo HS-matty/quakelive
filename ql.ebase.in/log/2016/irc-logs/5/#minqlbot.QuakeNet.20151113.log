@@ -1,0 +1,406 @@
+
+Session Start: Fri Nov 13 14:51:58 2015
+Session Ident: #minqlbot
+03[14:51] * Now talking in #minqlbot
+03[14:51] * Topic is 'New bot for the dedicated server out: https://github.com/MinoMino/minqlx'
+03[14:51] * Set by Mino on Thu Oct 29 04:51:54
+05[14:51] -Q- [#minqlbot] Please read the FAQ first: https://github.com/MinoMino/minqlbot/wiki/Frequently-Asked-Questions
+02[14:54] * bishop (~bishop@ip-88-153-29-165.hsi04.unitymediagroup.de) Quit (Ping timeout)
+02[14:55] * Thaya (~x@Aqila.users.quakenet.org) Quit (Read error: Connection reset by peer)
+[14:56] <kanzo> i dont get that error when using the python3.5 from https://launchpad.net/~fkrull/+archive/ubuntu/deadsnakes
+[14:57] <kanzo> gcc 4.8.4 http://paste.ubuntu.com/13246915/
+[14:58] <kanzo> http://paste.ubuntu.com/13246926/
+[15:16] <Gelenkbus> ok i'm stupid, how do link x86_64-linux-gnu-gcc gcc 
+[15:16] <Gelenkbus> x86_64-linux-gnu-gcc to gcc
+03[15:19] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) has joined #minqlbot
+[15:20] <@Mino> 1: do "which x86_64-linux-gnu-gcc" to find where it is.
+[15:20] <@Mino> 2: rename it to "x86_64-linux-gnu-gcc-4.8"
+[15:21] <@Mino> 3: do "which gcc" to find where it is
+[15:21] <@Mino> 4: ln -s path/to/gcc path/to/x86_64-linux-gnu-gcc
+[15:21] <@Mino> 5: repeat the same with g++
+[15:21] <Gelenkbus> awesome thanks much!!
+[15:22] <@Mino> To confirm it worked, you can do "x86_64-linux-gnu-gcc --version" and see it's 4.9
+[15:22] <@Mino> If it is, you can just go ahead and repeat the easy_install thing
+[15:22] <@Mino> I'll spam a bunch of warnings, but you can ignore those
+02[15:23] * vks (~vks@cpe-104-175-188-104.socal.res.rr.com) Quit (Read error: Connection reset by peer)
+[15:50] <Gelenkbus> i got the: You can do anything to me master! message ;D
+[15:56] <@Mino> Nice
+03[16:11] * mattiZed (~mattiZed@mattiZed.users.quakenet.org) has joined #minqlbot
+03[16:33] * Melodeiro (~kvirc@5.19.249.101) has joined #minqlbot
+03[16:44] * LtC is now known as LtC|afk
+02[16:44] * mattiZed (~mattiZed@mattiZed.users.quakenet.org) Quit (Quit: Leaving...)
+03[17:39] * PerpetualWar_ is now known as PerpetualWa_afk
+03[17:47] * mattiZed (~mattized@mattiZed.users.quakenet.org) has joined #minqlbot
+03[17:50] * PaasHaas (~Ron@g85030.upc-g.chello.nl) has joined #minqlbot
+03[17:57] * paper (~gab@ip-178-202-119-178.hsi09.unitymediagroup.de) has joined #minqlbot
+03[18:16] * PerpetualWa_afk is now known as PerpetualWar_
+03[18:20] * Thaya (~x@Aqila.users.quakenet.org) has joined #minqlbot
+[18:21] <mattiZed> man
+[18:21] <mattiZed> fallout is buggy as hell, heh
+[18:21] <@Mino> Indeed
+[18:21] <@Mino> And the UI is so bad
+[18:23] <mattiZed> have you been to the area with the water were you should fix the pipes? dude, wtf
+[18:23] <@Mino> Yeah
+[18:23] <mattiZed> textures and clipping completely fucked there
+[18:23] <mattiZed> ....
+[18:25] <@Mino> The physics were also really fucked up there. I was diving in there and found like a room, and as soon as I entered the water physics went away
+[18:25] <@Mino> I'd just drop to the floor as if I wasn't in the water
+[18:29] <@Mino> This is really messed up: http://minomino.org/screenshots/jpwY_2015-11-13_16-15-58.png
+[18:29] <@Mino> 0, 3 and 5 have the same Steam ID. 13 and 18 have the same too.
+[18:30] <@Mino> Not only that, but QLDS edited access.txt on the server and put 3 as admin.
+[18:37] <sno> not buggy at all mattiZed http://squee.st0ner.co.uk/fallout4/2015-11-11_00001.jpg 
+[18:37] <sno> :D
+[18:38] <sno> still less buggy than fo3 so far, only 1 freeze for me
+[18:54] <MrButcher> i guess i need some help again
+[18:54] <MrButcher> i installed your extension, and start up the server first time with the mino script, and i get
+[18:54] <MrButcher> quakelive@ubuntu:~$ ./runmyminoserver.sh
+[18:54] <MrButcher> ERROR: ld.so: object './minqlx.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS64): ignored.
+[18:54] <MrButcher> 1064 linux-i386 Oct 30 2015 17:09:54
+03[18:55] * bishop (~bishop@ip-88-153-59-220.hsi04.unitymediagroup.de) has joined #minqlbot
+02[18:55] * kiddy (~kiddy@h-94-254-57-220.na.cust.bahnhof.se) Quit (Signed off)
+03[19:14] * Fraggan (webchat@81-230-19-146-no133.bredband.skanova.com) has joined #minqlbot
+[19:14] <Fraggan> Hello
+[19:15] <@Mino> MrButcher: minqlx is x64 only at the moment. You launched the x86 build of the server.
+[19:15] <@Mino> Hi, Fraggan
+[19:15] <PerpetualWar_> hi Mino
+[19:16] <@Mino> Hi
+[19:16] <PerpetualWar_> when I wanna update your bot
+[19:16] <PerpetualWar_> on my server
+[19:16] <PerpetualWar_> how to do that ?
+[19:16] <@Mino> What version are you on?
+[19:16] <PerpetualWar_> thats good question
+[19:16] <@Mino> If you're above v0.0.1, then it's just a matter of downloading the tarball and extracting it in your qlds directory.
+[19:17] <PerpetualWar_> ye Im above that
+[19:17] <PerpetualWar_> for sure
+[19:17] <PerpetualWar_> ok
+[19:19] <PerpetualWar_> Im on 0.0.3
+[19:19] <@Mino> Oh, and you should do a git pull while in the minqlx-plugins directory
+[19:20] <PerpetualWar_> from server ? Whats command for that ?
+[19:21] <Fraggan> Mino: vad har du för grejer som du arbetar på just nu? Håller på att fixa igång en server som jag kan testa lite på och se om jag kan bistå med något.
+[19:21] <MrButcher> thanks mino, i used the x64 now and it fires up
+[19:22] <mattiZed> :D
+[19:22] <mattiZed> that /players output up there
+[19:22] <mattiZed> heh
+[19:22] <mattiZed> what have you done, Mino :D
+[19:23] <MrButcher> !myperm reads "you can do anything to me, master" :D
+[19:24] <MrButcher> how can i activate that speach thing, haha yeah and so on ?
+[19:24] <Fraggan> !load fun
+[19:24] <Fraggan> To acitivate the "fun" things
+[19:24] <Fraggan> i think it was
+[19:24] <Fraggan> ey btw Butcher =)
+[19:24] <MrButcher> no such plugin
+[19:26] <@Mino> Sorry, had to go AFK a bit.
+[19:26] <@Mino> A simple "git pull origin" should do it
+[19:27] <Fraggan> I have to fix my keyb before i can code anything. The "f" key doesnt work. :/ hard to program with out it haha
+[19:28] <MrButcher> git pull origin? was that for me?
+[19:28] <PerpetualWar_> fo rme
+[19:28] <MrButcher> ah ok
+[19:28] <MrButcher> getting confused
+[19:28] <@Mino> Fraggan: If you look at the v0.2.0 milestone on the main repo, you'll see what I'm going to work with when it comes to the core module. For plugins, I haven't really made a list of things to do, but I'd like to get fun, irc and silence plugins working for this one too.
+[19:29] <@Mino> The current fun plugin is still just sitting on my local disk. I need to make some changes to it before it goes live.
+[19:29] <@Mino> I'll try to get it up soon.
+[19:29] <@Mino> I can just pastebin it in the mean time if you want the one I use on my server
+[19:30] <@Mino> mattiZed: Not sure if that's me. I really hope it isn't, at least.
+[19:30] <@Mino> Although the access.txt editing is definitely not me
+[19:30] <@Mino> It's the second time I notice some random guy becoming admin all of a sudden
+[19:30] <@Mino> I hadn't even touched addadmin/mod or demote
+[19:30] <@Mino> Really messed up
+[19:31] <MrButcher> i wait for your live version, enough things i can set up meanwhile. thanks
+[19:31] <@Mino> Alright
+[19:32] <tjone270> So you've already made progress on porting fun.py across? I was going to give it a try. I've noticed admin issues too, I was demoted on a map change, had to fg the quake process and addadmin myself
+[19:32] <Fraggan> Okej, gonna check. Havent used git that much, will try to get familiar with it =)
+[19:33] <Fraggan> Mino: Are u devel in win or linux?
+[19:39] <MrButcher> can i put these commands, e.g. !setmotd also into server.cfg?
+[19:45] <@Mino> Fraggan: I code in Windows, but the target is obviously Linux
+[19:45] <@Mino> MrButcher: No, you don't put commands in the config, only cvars.
+[19:46] <@Mino> The MOTD is saved in the database, so you only need to do it once
+[19:46] <tjone270> Mino, have you already started porting fun.py across?
+[19:46] <@Mino> It's not really a port. Just a plugin with some silly stuff.
+[19:47] <@Mino> I'll add some of the old stuff in it too, though
+[19:47] <tjone270> Okay :)
+[19:49] <MrButcher> is there a nicer way to stop the server other then ctrl-c?
+[19:50] <MrButcher> it worked fine before, but with the extension i see
+[19:50] <MrButcher> [minqlx.log_exception] ERROR: KeyboardInterrupt
+[19:50] <MrButcher> [minqlx.log_exception] ERROR: 
+[19:50] <MrButcher> [minqlx.log_exception] ERROR: During handling of the above exception, another exception occurred:
+[19:50] <MrButcher> [minqlx.log_exception] ERROR: 
+[19:50] <MrButcher> [minqlx.log_exception] ERROR: Traceback (most recent call last):
+[19:50] <MrButcher> [minqlx.log_exception] ERROR:   File "minqlx.zip/minqlx/_handlers.py", line 181, in handle_frame
+[19:50] <MrButcher> [minqlx.log_exception] ERROR:     frame_tasks.run(blocking=False)
+[19:50] <MrButcher> [minqlx.log_exception] ERROR:   File "/usr/lib/python3.5/sched.py", line 132, in run
+[19:50] <MrButcher> [minqlx.log_exception] ERROR:     with lock:
+[19:50] <MrButcher> [minqlx.log_exception] ERROR: SystemError: <built-in method __enter__ of _thread.RLock object at 0x7f5910ad3660> returned a result with an error set
+[19:50] <@Mino> You ctrl+c'd
+[19:51] <MrButcher> yes
+[19:51] <@Mino> That's an exception in PYthon
+[19:52] <mattiZed> just type "quit" in the server's console...
+[19:53] <MrButcher> i used kill -9 already ......
+[19:53] <MrButcher> i dont have a console to the server open
+[19:53] <tjone270> kill -9's overkill
+[19:53] <tjone270> pun intended
+[19:53] <MrButcher> i just had the terminal i started the server with
+[19:54] <MrButcher> how to i open a server console?
+[19:54] <@Mino> That's the console
+[19:54] <MrButcher> ah ok :D
+[19:54] <@Mino> You can type stuff right in there
+[19:55] <PerpetualWar_> Mino, can you put in readme how to donwload python3.5 foir ubuntu ?
+02[19:55] * LtC|afk (~nnscript@oMgLunatiC.users.quakenet.org) Quit (Ping timeout)
+[19:56] <PerpetualWar_> was it wily ?
+[19:56] <PerpetualWar_> or ?
+[19:57] <mattiZed> perp: you can add the official repository for ubuntu 15
+[19:59] <@Mino> I'll add it to the wiki probably
+[19:59] <@Mino> and yeah, wily, which is Ubuntu 15.10 has it in the official repo
+[19:59] <@Mino> if you use an older version, you can add the repo manually
+[19:59] <@Mino> Just copy the line that's like http://some_url.com <codename> main
+[19:59] <@Mino> and put wily there for the codename
+[20:00] <PerpetualWar_> ye ok I go tthat
+[20:00] <PerpetualWar_> but Mino
+[20:00] <PerpetualWar_> listen
+[20:01] <PerpetualWar_> is it smart to change repos on server where I have other stuff like web server
+[20:01] <PerpetualWar_> could broke something there ?
+[20:02] <PerpetualWar_> or Im worrying too much ?
+[20:02] <@Mino> It won't matter since you're only installing python
+[20:02] <@Mino> as long as you remove the repo from sources.list after you're done
+[20:03] <PerpetualWar_> but Im gonna do apt-get update
+[20:03] <PerpetualWar_> that wont update all other stuff as well besides python ?
+[20:04] <mattiZed> this will only update your packet manager
+[20:05] <mattiZed> remove the repo, do apt-get update again and everything will be as before
+[20:05] <mattiZed> *updating the packet manager's lists, to be precise
+[20:05] <PerpetualWar_> ok then
+[20:05] <@Mino> apt-get upgrade does the actually upgrading
+[20:05] <mattiZed> apt-get upgrade is a different story though
+[20:05] <mattiZed> right
+[20:05] <@Mino> update just refreshes the packages in the repos
+[20:05] <@Mino> so just restore the old sources.list and do another apt-get update and it's back to normal
+[20:07] <PerpetualWar_> ok
+[20:09] <mattiZed> does anybody know if win 10 is now able to create a bootable usb stick from an iso file right out of the box?
+[20:10] <mattiZed> so far i really like that OS but i  still doubt it can do things like that :D
+[20:15] <Fraggan> hmm WTF!
+[20:15] <Fraggan> Isnt there a standalone server to download and install?
+[20:15] <Fraggan> Do I have to do it trough steam? Cant find it
+[20:16] <@Mino> It is done through Steam, yeah
+[20:16] <@Mino> and it is standalone
+[20:16] <@Mino> but it's not like you need to load the GUI or anything
+[20:16] <@Mino> just use steamcmd
+[20:17] <Fraggan> So i have to donwload and install steam to my linuxserver?
+[20:17] <Fraggan> Or is there a folder i can copy?
+[20:18] <@Mino> steamcmd
+[20:18] <@Mino> look it up
+[20:18] <Fraggan> ok
+[20:18] <Fraggan> i dont like this steam shit :D
+[20:18] <Fraggan> Mino: what hw are u using to run ur server?
+[20:19] <Fraggan> and internet?
+[20:19] <Fraggan> So I have somethjing to go on when deploying my server through vmware
+[20:19] <tjone270> mkdir ~/steamcmd; cd ~/steamcmd; wget https://steamcdn-a.akamaihd.net/client/installer/steamcmd_linux.tar.gz; tar -xvzf steamcmd_linux.tar.gz; rm steamcmd_linux.tar.gz
+[20:20] <tjone270> one liner to install steamcmd
+[20:20] <tjone270> ./steamcmd.sh +login anonymous +force_install_dir ~/steamcmd/steamapps/common/qlds/ +app_update 349090 +quit
+[20:20] <tjone270> one liner to install QLDS
+[20:22] <Gelenkbus> "The current fun plugin is still just sitting on my local disk. I need to make some changes to it before it goes live." pls do :) Cant await to have our old fun plugins working  
+02[20:23] * Thaya (~x@Aqila.users.quakenet.org) Quit (Read error: Connection reset by peer)
+[20:24] <mattiZed> Fraggan, i think steam is very good for QL and the community as a whole, tbh
+[20:25] <Gelenkbus> hi matti
+[20:26] <Gelenkbus> that topdog.io stuff, is this something serious which will grow to the new standard?
+[20:26] <mattiZed> hey mr busfahrer
+[20:26] <mattiZed> hmm maybe
+[20:26] <mattiZed> hope so
+[20:26] <mattiZed> inl is doing it
+[20:26] <Gelenkbus> inl?
+[20:26] <mattiZed> he's working on a website right now, i think
+[20:27] <Gelenkbus> oh kk
+[20:27] <Gelenkbus> got my minqlx bot installed today :D
+[20:27] <Gelenkbus> yay
+[20:27] <PerpetualWar_> Mino
+[20:27] <PerpetualWar_> have probs
+[20:28] <Gelenkbus> not that trivial if you're not familiar with linux
+[20:28] <PerpetualWar_> 1064 linux-x64 Oct 30 2015 17:10:27
+[20:28] <PerpetualWar_> [minqlx] Initializing...
+[20:28] <PerpetualWar_> [minqlx] Initializing Python...
+[20:28] <PerpetualWar_> [minqlx] Python initialization failed: 2
+[20:28] <PerpetualWar_> from supervisor log
+[20:31] <PerpetualWar_> hm ok that was my bad
+[20:31] <PerpetualWar_> forgot one moreline to install
+[20:35] <PerpetualWar_> !myperm shows 0 even though I have set qlx_owner <steamid> in server.cfg ?
+[20:36] <PerpetualWar_> any ideaS?
+[20:38] <PerpetualWar_> my bad again
+[20:39] <PerpetualWar_> ok working
+[20:39] <PerpetualWar_> how can I change that info which is on map load ?
+[20:41] <@Mino> nOT SURE WHAT YOU MEAN
+[20:41] <@Mino> caps
+[20:42] <mattiZed> that is in _core.py
+[20:42] <mattiZed> search for set_map_subtitles() function
+[20:43] <mattiZed> you will have to unzip minqlx.zip, if you use the archive
+[20:43] <mattiZed> and rezip again, if you want to keep it
+[20:43] <Gelenkbus> question regarding sound/vo/crash_new/37b_07_alt.wav in motd.py ... is this a directory within qlds?
+[20:43] <@Mino> You should be doing that using a plugin, not by modifying the core module
+[20:43] <@Mino> No, that's in pak00.pk3
+[20:43] <Gelenkbus> ah k
+[20:44] <mattiZed> ah well, i change the right in the core module
+[20:44] <PerpetualWar_> how to do that Mino ?
+[20:44] <Gelenkbus> it plays the sound only if motd is activated, right?
+[20:44] <PerpetualWar_> what plugin ?
+[20:44] <@Mino> A new one
+[20:44] <PerpetualWar_> not published yet ?
+[20:45] <@Mino> What I mean is you should be using your own plugin to do that
+[20:45] <Gelenkbus> ah no sry ..think i just set vo volume to 0
+[20:45] <@Mino> It'll persist upgrades and doesn't fuck up the whole thing if you mess something else up
+[20:45] <mattiZed> thats right though
+[20:45] <mattiZed> :D
+[20:45] <PerpetualWar_> I lost ya
+[20:46] <PerpetualWar_> I need to code my own plugin to do that ?
+[20:46] <PerpetualWar_> to change info ?
+[20:46] <@Mino> If you're talking about the stuff under the map name in the loading screen, then yes, that's the recommended way of doing it.
+[20:46] <mattiZed> you will have to set configstrings 3, 678 and 679
+[20:47] <PerpetualWar_> ye on map load
+[20:47] <mattiZed> have  a look into the code how mino does it and write a plugin from that
+[20:47] <PerpetualWar_> heh
+[20:47] <mattiZed> def set_map_subtitles():
+[20:47] <mattiZed>     minqlx.set_configstring(678, "Running minqlx ^6{}^7 with plugins ^6{}^7."
+[20:47] <mattiZed>         .format(minqlx.__version__, minqlx.__plugins_version__))
+[20:47] <mattiZed>     minqlx.set_configstring(679, "Check ^6http://github.com/MinoMino/minqlx^7 for more details.")
+[20:47] <PerpetualWar_> would be nice to be able to do that
+[20:47] <PerpetualWar_> unfortunatly Im not
+[20:47] <mattiZed> cmon perpy
+[20:47] <mattiZed> do some research :D
+[20:47] <PerpetualWar_> :D
+[20:48] <mattiZed> well mino, what event would you hook eventually?
+[20:48] <@Mino> "new_game"
+[20:48] <mattiZed> i remember that there was a problem with load_map
+[20:48] <mattiZed> ah right, that exists? nice
+[20:48] <PerpetualWar_> maybe tjone270 will write that plugin :D
+[20:48] <@Mino> Yeah, "new_game" will be called right after set_map_subtitles() is set
+[20:49] <mattiZed> well perp, have  a look into essentials.py for example
+[20:49] <mattiZed> there are some hooks in there, what functions they call you can easily find out
+[20:49] <mattiZed> and then go from there
+[20:49] <tjone270> perp: I'll supply you with a plugin that does it
+[20:49] <PerpetualWar_> awesome tjone270
+[20:49] <PerpetualWar_> :D
+[20:51] <mattiZed> ^^
+[20:51] <tjone270> stripping down my version now
+[20:53] <mattiZed> maybe i should write one to
+[20:53] <mattiZed> so i can skip fixing the _core.py every time, heh
+[20:54] <tjone270> https://gist.github.com/tjone270/1b7a3ffc5874558a9362
+[20:54] <tjone270> easy-to-use
+[20:54] <mattiZed> yep, well done
+[20:55] <PerpetualWar_> :D
+[20:55] <PerpetualWar_> nice
+[20:55] <PerpetualWar_> thanks tjone270 ;)
+[20:56] <PerpetualWar_> question TB`oFF|AsianEye
+[20:56] <PerpetualWar_> question tjone270
+[20:56] <tjone270> sure
+[20:56] <PerpetualWar_> can it be used on per server basis ?
+[20:56] <PerpetualWar_> uhm per port ?
+[20:57] <tjone270> yes
+[20:57] <PerpetualWar_> for exmaple I want different text for 27960
+[20:57] <tjone270> make multiple plugins
+[20:57] <PerpetualWar_> and 27962
+[20:57] <tjone270> or
+[20:57] <tjone270> have the plugin check the fs.homepath
+[20:57] <tjone270> and do differently according to the homepath
+[20:57] <PerpetualWar_> ok so it check fs_homepath and reads from there
+[20:57] <tjone270> `no
+[20:58] <tjone270> I can have it check the fs_homepath cvar
+[20:58] <mattiZed> not yet, heh
+[20:58] <tjone270> and if fs_homepath = "../../27960"
+[20:58] <mattiZed> but you can easily use get_cvar() for that
+[20:58] <tjone270> then do these configstrings, else to some other one
+[20:58] <tjone270> yes
+[20:58] <mattiZed> its not that hard, perp :>
+[20:59] <PerpetualWar_> lol
+[20:59] <mattiZed> you could even introduce cvar's for that
+[20:59] <mattiZed> and set the brandings via cfg
+[20:59] <mattiZed> or launchscript
+[20:59] <mattiZed> or or or
+[20:59] <mattiZed> :D
+[20:59] <tjone270> yes, qlx_brandName, qlx_topMessage, qlx_bottomMessage
+[21:00] <mattiZed> i got no time now, but i might do that tomorrow
+[21:00] <mattiZed> or tjone's gonna do that now, if he gets bored, heh
+[21:00] <tjone270> I should prob do that now
+[21:00] <PerpetualWar_> you should !
+[21:00] <PerpetualWar_> if you can
+[21:00] <tjone270> lol
+[21:00] <PerpetualWar_> :D
+[21:00] <tjone270> okay, give me a second
+[21:00] <PerpetualWar_> :D
+[21:00] <mattiZed> you're not a good teacher, tjone270 
+[21:00] <mattiZed> :D:D
+[21:00] <tjone270> I know
+[21:01] <tjone270> that's why people like me
+[21:01] <tjone270> :D
+[21:01] <mattiZed> you make people go lazy :D
+[21:01] <mattiZed> hah
+[21:01] <tjone270> I know :D I learn in the process of robbing people of the opportunity to learn
+[21:01] <mattiZed> but for real, perp. if you feel like it sometimes, have a look at the files and try to get a glimpse what they're doing
+[21:01] <mattiZed> if you run into questions then, feel free to ask again
+[21:01] <mattiZed> its always good to learn
+[21:02] <mattiZed> haha tjone270, i know what you mean :p
+[21:02] <tjone270> mattiZed's right :D
+[21:02] <mattiZed> kinda the same to me
+[21:02] <mattiZed> i ran a good bunch of people through the server-setup-process
+[21:02] <mattiZed> in query
+[21:02] <mattiZed> :D
+[21:03] <tjone270> `good :D
+[21:03] <tjone270> plan on making a script for it
+[21:03] <PerpetualWar_> well I already lookoed in essentials.py
+[21:03] <mattiZed> well, you kinda did that already
+02[21:03] * kanzo (~kanzo@kanzo.users.quakenet.org) Quit (Signed off)
+[21:03] <PerpetualWar_> but Im not making much of it tbh
+[21:03] <tjone270> yes, but also minqlx install
+[21:03] <mattiZed> but thats just little helpers - you're shooting for a more userfriendly kind of thing?
+[21:04] <tjone270> Eventually
+[21:04] <tjone270> one script 
+[21:04] <tjone270> with numbered options
+[21:04] <tjone270> like Install everything
+[21:04] <tjone270> install just this
+[21:04] <tjone270> update just that
+[21:04] <tjone270> kill everybody
+[21:04] <tjone270> etc
+[21:04] <mattiZed> well perp, first comes the initialization. and you add either hooks (which trigger when certain events happen, like vote_called) or commands
+[21:04] <mattiZed> commands trigger when some guy issues them, obviously
+[21:05] <mattiZed> and that add_hook( ) think would tell the plugin on the last argument what the plugin should to then
+[21:05] <mattiZed> basically a function call to self.brand_map for example
+[21:05] <mattiZed> and in that function you do your stuff
+[21:06] <mattiZed> once the function is done, the hook or command was processed
+[21:06] <mattiZed> and thats it, basically
+[21:06] <mattiZed> of course there is more to it, but that kinda is the basis
+[21:06] <PerpetualWar_> add_hook() is defined where ?
+[21:06] <mattiZed> *base
+[21:06] <mattiZed> in the core module
+[21:06] <mattiZed> some where
+[21:06] <mattiZed> :D
+[21:07] <mattiZed> could look that up now, but gtg
+[21:07] <PerpetualWar_> ye but how would you know it exist ? :D
+[21:07] <PerpetualWar_> there is no doc
+[21:07] <PerpetualWar_> for this right ? :D
+[21:07] <mattiZed> because the plugins you can already look at are using it frequently...
+[21:07] <mattiZed> they work, right?
+[21:07] <mattiZed> :D
+[21:07] <PerpetualWar_> oh ok
+[21:08] <mattiZed> if i had to take a guess, i'd say it is in here
+[21:08] <mattiZed> https://github.com/MinoMino/minqlx/blob/master/python/minqlx/_plugin.py
+[21:08] <mattiZed> yeah, search for add_hook( in that file :p
+[21:08] <@Mino> Yup, all the methods are there
+[21:08] <mattiZed> bb
+02[21:08] * mattiZed (~mattized@mattiZed.users.quakenet.org) Quit (Read error: Connection reset by peer)
+[21:21] <tjone270> PerpetualWar_: https://gist.github.com/tjone270/ed558025dd758f9e9689
+[21:21] <tjone270> set these cvars: qlx_serverBrandName, qlx_serverBrandTopField, qlx_serverBrandBottomField
+[21:22] <PerpetualWar_> perfert tjone270
+[21:22] <PerpetualWar_> thanks !
+[21:22] <tjone270> welcome :)
+[21:23] <PerpetualWar_> I need to restart server to take effect ?>
+[21:23] <PerpetualWar_> naturally :D
+[21:23] <tjone270> no
+[21:23] <tjone270> you just put the plugin
+[21:23] <tjone270> in
+[21:23] <tjone270> run !load branding
+[21:23] <PerpetualWar_> oh ok
+[21:24] <tjone270> then run /rcon set qlx_serverBrandName "My Awesome Server"
+[21:24] <PerpetualWar_> I will put those in server.cfg 's
+03[21:27] * kanzo (~kanzo@kanzo.users.quakenet.org) has joined #minqlbot
+02[21:28] * kanzo (~kanzo@kanzo.users.quakenet.org) Quit (Signed off)
+03[21:30] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) has joined #minqlbot
+03[21:32] * kanzo (~kanzo@kanzo.users.quakenet.org) has joined #minqlbot
+03[22:40] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) has joined #minqlbot
+02[22:47] * Fraggan (webchat@81-230-19-146-no133.bredband.skanova.com) Quit (Quit: Page closed)
+02[22:52] * paper (~gab@ip-178-202-119-178.hsi09.unitymediagroup.de) Quit (Read error: Connection reset by peer)
+02[23:22] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) Quit (Ping timeout)
+Session Close: Sat Nov 14 00:00:00 2015

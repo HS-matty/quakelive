@@ -1,0 +1,331 @@
+
+Session Start: Wed Nov 18 02:09:49 2015
+Session Ident: PredatH0r
+<[ByQ]Descent> hi
+<PredatH0r> h
+<PredatH0r> i
+<[ByQ]Descent> on qlstats.net last game was `1hr ago ..
+<[ByQ]Descent> ~
+<PredatH0r> thx. looks like it got stuck after changing the config on-the-fly :/
+<[ByQ]Descent> ok
+<PredatH0r> should be ok again
+<[ByQ]Descent> ok
+<[ByQ]Descent> yeah, it works ..
+<PredatH0r> for the new ranking site i'll suggest we have a network of feeders/stats trackers, so when one fails, the others take care of it
+<[ByQ]Descent> https://github.com/swallentin/ql-server-monitor ?
+<PredatH0r> well...yea... but it's all in the todo there, nothing implemented. atm probably less stable than my feeder
+<PredatH0r> i'll help where i can to get that one working stable
+<[ByQ]Descent> mean the same, but many stats "server" daemons and then upload to the main server?
+<[ByQ]Descent> your feed works, that one - is pre-alpha =)
+<[ByQ]Descent> who knows ...
+<[ByQ]Descent> how many bugs and etc ...  I suggest not to moving but make kind of two versions until it become fully stable ..
+<[ByQ]Descent> hi
+<[ByQ]Descent> just checked Steam Server Browser: my US servers not showed ... they online for sure: us-1.ql.ebase.in
+<[ByQ]Descent> others are ok ..
+<PredatH0r> i suspect you have the limit set to 1000 servers. there's more than 1000 QL servers now, so a couple are not listed
+<[ByQ]Descent> :D
+<PredatH0r> open the master server query options pane (the middle toolbar button) and switch to 2000
+<[ByQ]Descent> already =)
+<[ByQ]Descent> thnx
+<[ByQ]Descent> didnt help
+<[ByQ]Descent> in steam-browser - ok
+<[ByQ]Descent> tag: Chicago
+<PredatH0r> did you click on "Find Servers" or just "Update Servers"? you'll need the first to re-query the master server
+<[ByQ]Descent> update
+<PredatH0r> update only updates the status of the server that you already have in your list
+<[ByQ]Descent> ye
+<[ByQ]Descent> it works no
+<[ByQ]Descent> now
+<[ByQ]Descent> thnx =)
+<[ByQ]Descent> btw: do u speak russian? :D (saw russian interface) ..
+<PredatH0r> nope, only german, english and a bit of spanish
+<PredatH0r> lmiol was so kind and translated the UI to russian
+<[ByQ]Descent> =)
+Session Time: Thu Nov 19 00:00:00 2015
+[00:07] <[ByQ]Descent> hi
+[00:07] <[ByQ]Descent> maybe you know, in steam server browser there is location US, and US/IL
+[00:07] <[ByQ]Descent> how is set?
+[00:07] <[ByQ]Descent> how it set?
+[00:11] <[ByQ]Descent> there is kind of  a bug - tag "Chicago" , if you just enter it, you'll see one part of the pubblic Chicago servers, but there is other part with the THE SAME tag "Chicago", but you need to click inside ql browser on tag (and get for sure the same TAG 8-|  ) to see other part of the servers T
+[00:11] <[ByQ]Descent> for example
+[00:13] <[ByQ]Descent> tag CROM - can see the same tag "Chicago", but not visible to others..
+[00:13] <[ByQ]Descent> maybe I'm kind of see something wrong .. 
+[11:07] <PredatH0r> Location is automatically detected through a geo-ip online service
+[11:08] <PredatH0r> sometimes the information only contains the country (US), but most of the time also a state. sometimes the information is wrong though, especially when the IP belongs to a cloud hoster
+[11:09] <PredatH0r> the server browser built into QL is case sensitive atm. so "chicago" and "Chicago" don't match
+[12:17] <[ByQ]Descent> both "Chicago" ..
+[12:18] <[ByQ]Descent> I'll check again ..
+[12:32] <[ByQ]Descent> http://ql.ebase.in/(2-different)-(Chicago)-(19-11-2015)-(12-26).jpg
+[12:32] <[ByQ]Descent> >8-[  ]
+[12:32] <[ByQ]Descent> =)
+[12:36] <PredatH0r> the CROM server has a space in front of "Chicago" in the tags
+[12:37] <PredatH0r> sponge isn't removing them when comparing/searching for tags
+[12:38] <[ByQ]Descent> not visible space?
+[12:39] <PredatH0r> http://i.imgur.com/8qcZuIK.png
+[12:40] <[ByQ]Descent> so its a bug? 
+[12:41] <PredatH0r> kind of. people shouldn't put spaces into sv_tags to begin with
+[12:41] <PredatH0r> but then quake should also remove them when it registers the server with the master server
+[12:41] <[ByQ]Descent> ok, thnx
+[12:42] <PredatH0r> right now the strings must be an exact match for quake. including spaces and upper/lowercase
+[12:43] <[ByQ]Descent> ok..
+[13:06] <[ByQ]Descent> ..maybe needed to be posted to bugs somewhere ..
+[13:16] <PredatH0r> i added it to the bug list in the beta tester forum
+[13:18] <[ByQ]Descent> thnx
+Session Time: Fri Nov 20 00:00:00 2015
+[01:13] <[ByQ]Descent> hi
+[01:16] <[ByQ]Descent> by-1.ql.ebase.in:27970 not in servers list (playing right now) ...
+[01:16] <[ByQ]Descent> by-1.ql.ebase.in:27972 too
+[01:31] <PredatH0r> feeder restart. we'll see how long it lasts
+[01:33] <[ByQ]Descent> ok, thnx
+[01:34] <[ByQ]Descent> ye, I see it ..
+Session Time: Sat Nov 21 00:00:01 2015
+Session Time: Sun Nov 22 00:00:00 2015
+[14:12] <[ByQ]Descent> HI
+[14:13] <[ByQ]Descent> What do you think about removing the word "loss" when you #2 in 16/16 ffa?
+[14:17] <[ByQ]Descent> (for example)
+Session Close: Sun Nov 22 19:00:29 2015
+
+Session Start: Thu Nov 26 08:59:44 2015
+Session Ident: PREDATH0R
+[08:59] <[ByQ]Descent> helloy
+[08:59] <[ByQ]Descent> new server started
+[09:00] <[ByQ]Descent> de-3.ql.ebase.in
+[09:01] <[ByQ]Descent> ports: http://radmaster.net/de-3-ql-ebase-in.txt
+[18:04] <[ByQ]Descent> hi
+[18:05] <PredatH0r> hi
+[18:05] <PredatH0r> haven't had a chance yet to make the modification. stuck with some "real" work atm
+[18:05] <[ByQ]Descent> ah, ok
+[18:05] <[ByQ]Descent> np
+[18:06] <[ByQ]Descent> who knows which one is real :D
+[18:08] <PredatH0r> the one that i'm getting paid for :)
+[18:10] <PredatH0r> is that a new server or did you change hostname/ip?
+[18:10] <[ByQ]Descent> who knows which one have to be payed ... 
+[18:10] <[ByQ]Descent> new server
+[18:10] <[ByQ]Descent> de-3
+[18:10] <PredatH0r> k.
+[18:10] <PredatH0r> hostnames are usless for my purpose
+[18:10] <PredatH0r> all i can use are ips
+[18:11] <[ByQ]Descent> sec
+[18:11] <[ByQ]Descent> 151.236.17.23
+[18:12] <PredatH0r> thx. i already looked i up and didn't find it in my list. but i could not tell if it was a new ip of if your hostname changed
+[18:13] <[ByQ]Descent> D:\work\gui\gtk+sources>ping de-3.ql.ebase.in
+[18:13] <[ByQ]Descent> Обмен пакетами с de-3.ql.ebase.in [151.236.17.23] по 32 б
+[18:13] <[ByQ]Descent> Ответ от 151.236.17.23: число байт=32 время=34мс TTL=56
+[18:13] <[ByQ]Descent> Ответ от 151.236.17.23: число байт=32 время=33мс TTL=56
+[18:13] <[ByQ]Descent> Ответ от 151.236.17.23: число байт=32 время=36мс TTL=56
+[18:13] <[ByQ]Descent> Ответ от 151.236.17.23: число байт=32 время=34мс TTL=56
+[18:15] <[ByQ]Descent> sorry for lang/ru =)
+[18:16] <PredatH0r> lots of funny chars on my screen. not cyrillic, just random latin chars with crazy accents :)
+[18:17] <[ByQ]Descent> =)
+[18:19] <PredatH0r> servers added
+[18:22] <[ByQ]Descent> thnx  a lot, ever be in Minsk/BY - let me now =)
+[18:27] <[ByQ]Descent> or Saint-Petersburg ..
+[18:27] <PredatH0r> sure. but i don't have any travel plans atm
+[18:28] <PredatH0r> running my own business i'm pretty much tied to my location so my clients can reach me
+[18:29] <[ByQ]Descent> what kind of?
+[18:29] <[ByQ]Descent> software?
+[18:29] <PredatH0r> i'm developing/selling a software solution for companies in the construction sector
+[18:30] <PredatH0r> with specific features for the Austrian market, like our laws and standards
+[18:31] <[ByQ]Descent> accounting? or engineering?
+[18:32] <[ByQ]Descent> i'm specified on accounting ...
+[18:32] <PredatH0r> customer management, calculating tenders, progress/cost tracking of projects, billing, controlling, material management, ...
+[18:32] <[ByQ]Descent> yep=) http://hytex.radmaster.net
+[18:32] <[ByQ]Descent> sap?
+[18:33] <PredatH0r> nope, all developed by us/me
+[18:33] <[ByQ]Descent> lang?
+[18:33] <PredatH0r> sap doesn't have any of the necessary domain specific features for the construction business
+[18:33] <[ByQ]Descent> c#?
+[18:33] <PredatH0r> yea
+[18:34] <[ByQ]Descent> likve old Axapta ...
+[18:34] <[ByQ]Descent> *like
+[18:34] <[ByQ]Descent> Microsoft Axapta, now Dynamics
+[18:35] <[ByQ]Descent> http://matty.at.ebase.in
+[18:36] <PredatH0r> we started development in 2003 to replace a custom made solution
+[18:37] <[ByQ]Descent> matty.at.ebase.in - it's only relates to php5 development ..
+[18:37] <PredatH0r> at that time there was no solution for any of the big companies around, especially none that could migrate the data from our initial clients
+[18:37] <[ByQ]Descent> custom? php?  =)
+[18:37] <[ByQ]Descent> c++?
+[18:37] <[ByQ]Descent> excel? :D
+[18:39] <[ByQ]Descent> btw, see de-3  stats, it works, thnx ...
+[18:39] <PredatH0r> they were using a software which was no longer maintained, using a database engine that also was no longer maintained
+[18:39] <[ByQ]Descent> classic ..
+Session Time: Fri Nov 27 00:00:01 2015
+Session Time: Sat Nov 28 00:00:00 2015
+Session Time: Sun Nov 29 00:00:00 2015
+Session Close: Sun Nov 29 04:03:40 2015
+
+Session Start: Mon Nov 30 23:04:00 2015
+Session Ident: PredatH0r
+[23:04] <[ByQ]Descent> hi
+[23:04] <[ByQ]Descent> (Kingsman Ranked Duel Amsterdam #7 Now with !elo support!) servers use qlstats.net info?
+[23:08] <PredatH0r> i guess it's the minqlx plugin. i gave mino an API urls to pull data
+[23:09] <[ByQ]Descent> so he just gets elo calculated by qlstats?
+[23:10] <PredatH0r> the gets the elo numbers from qlstats. i don't know what math he does with it
+[23:11] <PredatH0r> when a new site is ready, he can easily change the URL to pull the numbers from the new site
+[23:11] <[ByQ]Descent> Would you be so kind giving me this api? =) 
+[23:12] <PredatH0r> for what purpose?
+[23:14] <PredatH0r> i'm fine with minqlx using the data for shuffling, but i dont want that data to be exposed for various reasons
+[23:14] <[ByQ]Descent> track stats for my servers (game played and etc ..) ..
+[23:14] <PredatH0r> that's why i didn't release my /elo script
+[23:14] <PredatH0r> oh, that's something completely different
+[23:15] <[ByQ]Descent> so and I'm kind of thinking - how to "insert-somehow" elo-support without minqlx ..
+[23:15] <PredatH0r> all i did for him is 1 url which has the same input+output as the old qlranks API url that was used to query player elos
+[23:15] <[ByQ]Descent> ahh, ok ..
+[23:16] <[ByQ]Descent> so that url is secret? :]
+[23:16] <PredatH0r> it's not really secret, i guess everyone can find it in the minqlx plugin source code
+[23:17] <PredatH0r> but i dont want 1000 people hammering my server with pointless ELO queries
+[23:17] <PredatH0r> especially with all that garbage in the database, those numbers are far from being reliable
+[23:18] <[ByQ]Descent> ok, so what about using info from qlstats.net with link to qlstats.net?
+[23:18] <[ByQ]Descent> just stats
+[23:19] <PredatH0r> i dont understand
+[23:19] <[ByQ]Descent> =) if I will post on ql.ebase.in overall  stats for my servers grabbing info from qlstats.net ? 
+[23:20] <[ByQ]Descent> mean without api?
+[23:21] <PredatH0r> well, since qlstats.net might be turned off when a new site arrives, i don't know if its worth your time to code anything qlstats.net related
+[23:21] <PredatH0r> there are a couple API urls, but even i don't know them. i copied xonstat 1:1 and made some modifications
+[23:22] <[ByQ]Descent> I can test them
+[23:22] <[ByQ]Descent> local usage
+[23:22] <[ByQ]Descent> not public
+[23:23] <PredatH0r> https://github.com/PredatH0r/XonStat/tree/master/xonstat/views
+[23:23] <PredatH0r> these are the scripts that generate the data for HTML or JSON output
+[23:24] <[ByQ]Descent>  methods have public url?
+[23:24] <PredatH0r> https://github.com/PredatH0r/XonStat/blob/master/xonstat/__init__.py
+[23:25] <PredatH0r> that's the public URLs
+[23:25] <PredatH0r> renderer=jsonp  are the API urls
+[23:25] <PredatH0r> the mako stuff is HTML
+[23:27] <[ByQ]Descent> means that - qlstats.net/player/12345678444/accuracy should return something ?
+[23:28] <PredatH0r> nope. hashkey=steamid. "id" is just the short internal player number
+[23:33] <[ByQ]Descent> mm.. 
+[23:37] <[ByQ]Descent> can you send the example ? (sorry for disturbing too much - using stackoverflow eaten me) ..
+[23:38] <[ByQ]Descent> ?hashkey=steamid or id=steamid? :D
+[23:41] <PredatH0r> wherever you see {hashkey} for something player related, that is the steam-id of the player
+[23:42] <[ByQ]Descent> ok
+[23:42] <PredatH0r> wherever you see {id}, it is the short number that you see when you hover your mouse over a player link on the web page
+[23:42] <PredatH0r> hashkey for a server is it's ipv4:port
+[23:59] <[ByQ]Descent> yep, it works
+[23:59] <[ByQ]Descent> http://qlstats.net:8080/player/13137.json
+Session Time: Tue Dec 01 00:00:00 2015
+[00:03] <[ByQ]Descent> this one  - not .. =( http://qlstats.net:8080/game/23235.json
+[00:03] <[ByQ]Descent> https://github.com/antzucaro/XonStat/wiki/API
+Session Time: Wed Dec 02 00:00:00 2015
+Session Time: Thu Dec 03 00:00:00 2015
+[01:34] <[ByQ]Descent> hi
+[01:35] <[ByQ]Descent> maybe you can tell me where can I send kind of ql-dedicated bug-report  ?
+[01:37] <PredatH0r> hmm, dunno any official / public accessible place.
+[01:38] <PredatH0r> try catching sponge- in the #quakelive channel
+[01:40] <[ByQ]Descent> ok thnx
+[01:41] <[ByQ]Descent> ..its about "looks like  memory leaks and zombie threads in x64 version"
+[02:26] <[ByQ]Descent> http://ql.ebase.in/htop-(by-ql-ebase-in)-(03-12-2015)-(01-51).JPG
+[02:27] <[ByQ]Descent> >:-[    |   ]      
+[02:29] <PredatH0r> are you sure it's not a badly configured supervisor which incorrectly thinks the process died and starts another
+[02:31] <[ByQ]Descent> Maybe, I stopped everything, top and htop - nothing (only system processes), mem-and-cpu-list-calculated: ~0 , 512mb of memory somewhere ...
+[02:32] <[ByQ]Descent> think that its linux-core-unlucky-apt-get :D
+[02:32] <[ByQ]Descent> *apt-get-update
+[02:33] <[ByQ]Descent> one-maybe-two servers ...
+[02:34] <[ByQ]Descent> (the same configuration) - 2gig, empty server, 2gb/2gb used ..
+[02:36] <[ByQ]Descent> ... also had some bugs with users, 2 weeks server works ok under user "steam", one day - dont want, writes cant write to .quakelive dir (deleting everything not helped), why one day it tries to write @root folder...
+[02:37] <[ByQ]Descent> starts under root - ok
+[02:38] <[ByQ]Descent> tried x86 on "bugged" server - seems ok by now ...
+[16:50] <[ByQ]Descent> swtiched to x86 - cpu%  for one full server up twice ..
+[16:50] <[ByQ]Descent> according to "top"
+Session Time: Fri Dec 04 00:00:00 2015
+Session Time: Sat Dec 05 00:00:00 2015
+Session Time: Sun Dec 06 00:00:00 2015
+[17:26] <[ByQ]Descent> btw
+[17:27] <[ByQ]Descent> about #qlpickup.ca 1 servers :D
+[17:27] <[ByQ]Descent> they are not public (passworded) ...
+[17:28] <[ByQ]Descent> =)
+Session Time: Mon Dec 07 00:00:00 2015
+[07:49] <[ByQ]Descent> btw, I fixed bug with memory load, some servers have now beetwen 500mb-2gb free memory .. 
+[19:35] <[ByQ]Descent> hi
+[19:36] <[ByQ]Descent> do you have kind of public google analytics stats counter? how many ppl visiting qlstats.net?
+[19:46] <PredatH0r> nope, nothing like that
+[20:17] <[ByQ]Descent> just common interest... (avg) how many / day ?
+[20:17] <[ByQ]Descent> .. even no  internal hosting stats?
+[20:18] <[ByQ]Descent> 8-[ ]
+Session Time: Tue Dec 08 00:00:00 2015
+[21:32] <[ByQ]Descent> think kind of <br> needed beetwen <serves-owners-servers> ..
+Session Time: Wed Dec 09 00:00:00 2015
+[00:43] <PredatH0r> i increased the margin a bit. that will have to do
+[01:00] <[ByQ]Descent> yep, a bit better, thnx ..
+[05:41] <[ByQ]Descent> hi, about qlstats.net:8081/servers.html
+[05:42] <[ByQ]Descent> some of my  servers became red , but they work, no reboot was made ..
+[05:43] <[ByQ]Descent> .. some bacame green back, some stays red
+[05:43] <[ByQ]Descent> because of idle maybe?
+[05:43] <[ByQ]Descent> *became
+[13:31] <PredatH0r> my code disconnects every 15min from idle servers. when it can't reconnect within a minute, it turns red
+[13:32] <PredatH0r> i'll have to take a closer look at some time, but i think it will retry to connect after 15mins again
+[17:58] <[ByQ]Descent> ... red color makes me feel nervous .. =)
+[17:59] <PredatH0r> hehehe, that's the whole purpose
+[17:59] <PredatH0r> i dont want my logs get flooded with connection errors
+[18:00] <PredatH0r> but there seems to be something wrong with reconnecing automatically
+[18:00] <PredatH0r> sometimes servers turn green automatically, sometimes they dont
+[18:01] <[ByQ]Descent> made screenshot with all green, gonna print, grint to powder, add to coffee ..
+[18:01] <PredatH0r> b1ngo's server are working atm, but looks like they just stay red after the connection failed at some time
+[18:03] <[ByQ]Descent> btw, I checked this stuff, when server idle abd I try to connect it using ip - no connection (/connect ip), but using steam -ok , so I think there is differnce btw ip and server-steam-ip ..
+[18:05] <PredatH0r> steam has some built-in firewall traversal techniques for their "steam sockets"
+[18:06] <PredatH0r> but i don't know if QL is using those
+[18:09] <[ByQ]Descent> ..b1ngo servers work, I checked 
+[18:09] <[ByQ]Descent> connect ip
+[18:09] <[ByQ]Descent> but they are red, so try to connect using steam
+[18:13] <[ByQ]Descent> ..mmm, "failed to retrieve servers details" in steam browser
+[18:13] <[ByQ]Descent> so..
+[18:13] <PredatH0r> these are the ZMQ Stats TCP ports, not the game server UDP ports
+[18:13] <PredatH0r> steam doesn't have to do anything with these
+[18:14] <[ByQ]Descent> ...but I cant join server using steam
+[18:16] <[ByQ]Descent> using ip not works too 8-[ ]
+[18:17] <PredatH0r> zmq stats doesn't work either anymore
+[18:17] <PredatH0r> ends up in a delayed/closed/retried loop
+[18:18] <[ByQ]Descent> ...
+[18:20] <PredatH0r> so atm, the red is actually correct
+[18:20] <[ByQ]Descent> maybe talk to him, he can grant any access, I can do kind of audit to check the problem ..
+[18:20] <[ByQ]Descent> because server deftly doesnt work 
+[18:21] <PredatH0r> he restarted them yesterday, then they turned green
+[18:21] <PredatH0r> earlier today they were red, but i could connect with my zmq test client
+[18:21] <PredatH0r> now i can't do that either
+[18:22] <PredatH0r> dunno if this is some sort of whacky cloud linux droplet that changes IP all the time
+[18:22] <[ByQ]Descent> I have server  "up" > 1 month
+[18:22] <[ByQ]Descent> something is bugged  there
+[18:22] <[ByQ]Descent> restart not help //
+[18:23] <PredatH0r> i'll let him know when he gets back online. can't find him in IRC atm
+[18:23] <[ByQ]Descent> ok
+[18:24] <PredatH0r> zurn's servers are red too, but i can connect to those
+[18:26] <PredatH0r> i saw you connect while watching the stats data
+[18:26] <PredatH0r> i added the server ip:port to the standard steam server browser, but that won't let me connect
+[18:26] <[ByQ]Descent> I connected..
+[18:26] <[ByQ]Descent> 104.153.108.27:27960
+[18:26] <PredatH0r> looks like it's getting 0.0.0.0 as server ip
+[18:27] <PredatH0r> but my steam client if f*'ed up anyway, that's why i had to write my own browser
+[18:33] <[ByQ]Descent> its - mean "server zmq" ?
+[18:33] <PredatH0r> i dont understand
+[18:34] <PredatH0r> oh, i meant that steam itself has issues on my pc. i can't use it to find or connect to servers
+[18:34] <PredatH0r> fails 90% of the time, but sometimes it works
+[18:36] <[ByQ]Descent> .. sometimes I get kind of it, but usually ok ..
+[18:38] <[ByQ]Descent> ...maybe miqxl ?
+[18:38] <[ByQ]Descent> minqxl ?
+[18:38] <[ByQ]Descent> both have one
+[18:38] <PredatH0r> nah, that's not quake related, happens to all games on my steam client
+[18:39] <[ByQ]Descent> mean about servers problems.. =)
+[18:39] <[ByQ]Descent> .. client problems -  maybe firewall, skype, antivirus, "tired" windows =)
+[18:41] <PredatH0r> i tried everything. same shit even after upgrading to win10
+[18:42] <PredatH0r> i suspect the VMware network drivers have some influence on it
+[18:42] <[ByQ]Descent> using winXp =)
+[18:45] <PredatH0r> lol. that's like fucking without condom at an aids convention
+[18:47] <[ByQ]Descent> its windows xp Custom 2012 year of built
+[18:47] <[ByQ]Descent> or 2013
+[18:48] <[ByQ]Descent> so.. =)
+[18:56] <PredatH0r> and NOW b1ngo's servers work again
+[18:56] <PredatH0r> what a mess
+[18:57] <[ByQ]Descent> ..someone joined...
+[18:58] <[ByQ]Descent> maybe because of that..
+[19:03] <PredatH0r> server running with "wake on lan" ?
+[19:25] <[ByQ]Descent> not sure .. think its only relates to "boot server"..
+[19:25] <[ByQ]Descent> or not?
+[19:28] <PredatH0r> yep, i was kidding. very strange server
+[19:28] <[ByQ]Descent> =)
+[19:29] <[ByQ]Descent> so, early morning mine gone red too ...
+[19:30] <[ByQ]Descent> ...server has it own personal life...
+[19:31] <[ByQ]Descent> *its
+[19:33] <PredatH0r> im adding some code as we speek to make sure it retries to connect to unresponsive servers after a while
+[19:35] <[ByQ]Descent> .. it can be steam trick, means - no steam connections, server become idle until *steam* connection...so you "cant get it by ip" ...
+[19:36] <[ByQ]Descent> ..or something like that ..
+Session Time: Thu Dec 10 00:00:00 2015

@@ -1,0 +1,182 @@
+
+Session Start: Sat Nov 14 00:00:00 2015
+Session Ident: #minqlbot
+03[00:08] * pex` is now known as pex
+03[00:25] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) has joined #minqlbot
+03[00:59] * PerpetualWar_ is now known as PerpetualWa_afk
+02[01:08] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) Quit (Signed off)
+03[01:25] * LtC is now known as LtC|afk
+03[01:32] * LtC|afk is now known as LtC
+02[01:56] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) Quit (Signed off)
+03[02:33] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) has joined #minqlbot
+02[02:41] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) Quit (Signed off)
+[02:54] <MrButcher> #mrbutcher
+03[03:14] * [1]MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) has joined #minqlbot
+02[03:18] * MrButcher (~MrButcher@pD9513F8E.dip0.t-ipconnect.de) Quit (Ping timeout)
+03[03:18] * [1]MrButcher is now known as MrButcher
+03[03:25] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) has joined #minqlbot
+02[03:44] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) Quit (Quit:  HydraIRC -> http://www.hydrairc.com <- In tests, 0x09 out of 0x0A l33t h4x0rz prefer it :))
+02[03:52] * Gelenkbus (webchat@ip4d14a818.dynamic.kabel-deutschland.de) Quit (Quit: Page closed)
+03[03:55] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) has joined #minqlbot
+02[04:02] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) Quit (Quit:  HydraIRC -> http://www.hydrairc.com <- Wibbly Wobbly IRC)
+03[04:03] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) has joined #minqlbot
+02[04:15] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) Quit (Quit:  HydraIRC -> http://www.hydrairc.com <-)
+02[04:20] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) Quit (Ping timeout)
+02[04:22] * DieselPower (DPMAN@DieselPower.users.quakenet.org) Quit (Ping timeout)
+Session Close: Sat Nov 14 04:22:17 2015
+
+Session Start: Sat Nov 14 04:22:17 2015
+Session Ident: #minqlbot
+02[04:22] * Disconnected
+02[04:26] * Attempting to rejoin channel #minqlbot
+03[04:26] * Rejoined channel #minqlbot
+03[04:26] * Topic is 'New bot for the dedicated server out: https://github.com/MinoMino/minqlx'
+03[04:26] * Set by Mino on Thu Oct 29 04:51:54
+03[04:30] * DieselPower (DPMAN@112.185.49.238) has joined #minqlbot
+03[04:31] * gloat (~meow@kity.cat) has joined #minqlbot
+03[04:41] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) has joined #minqlbot
+02[04:42] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) Quit (EOF from client)
+03[06:52] * Thaya (~x@Aqila.users.quakenet.org) has joined #minqlbot
+03[08:26] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) has joined #minqlbot
+03[08:50] * vks (~vks@cpe-104-175-188-104.socal.res.rr.com) has joined #minqlbot
+[09:10] <MrButcher> i once saw a server log being mirrored to a irc channel
+[09:10] <MrButcher> anyone knows how this works?
+[09:10] <carmethene> MrButcher: I made a modified version of the rcon script for sno
+[09:11] <carmethene> he was using it via an exec command in irssi to pipe the server rcon to an irc channel
+[09:11] <carmethene> https://bitbucket.org/carmethene/ql_rcon
+[09:11] <carmethene> you'll have to read the irssi docs for the exec command, or whatever client you're using, but the script takes the same args as the default rcon script
+[09:12] <carmethene> http://carmethene.com/ql/irc_rcon.png
+[09:13] <MrButcher> thanks for the information
+[09:14] <MrButcher> i am currently setting up a server, so maybe i set it up later. i just remember i saw it somewhere, mino, bombel, ... cant remember
+[09:15] <MrButcher> just for fun ......
+[09:16] <MrButcher> i already have a server standing here for seti, wiki, backup and so on holding all my docs and pics and media server functions and so on, now i added a ubuntu vm and created a server with minos and others guys help......
+[09:16] <MrButcher> its up, try it :D
+[09:16] <MrButcher> vampiric pql minqlx
+[09:16] <MrButcher> MrButcher's meat market :D
+[09:20] <carmethene> cool :)
+[09:20] <carmethene> in a game already
+[09:21] <carmethene> set up is fun, good learning experience
+[09:21] <carmethene> tjone270 has a bunch of really useful scripts for admin
+[09:21] <MrButcher> i'll keep that in mind
+[09:22] <MrButcher> i just started 3 days ago with all that.......
+[09:22] <MrButcher> my main problem is that i am not a unix guru
+[09:23] <MrButcher> however so far google and the guys here helped a lot... i really appreciate that
+[09:24] <MrButcher> my quake live client always abends after some time in background and windows mode
+02[09:33] * Thaya (~x@Aqila.users.quakenet.org) Quit (Read error: Connection reset by peer)
+03[10:50] * PerpetualWa_afk is now known as PerpetualWar_
+02[11:01] * bishop (~bishop@ip-88-153-59-220.hsi04.unitymediagroup.de) Quit (Ping timeout)
+03[11:10] * bishop (~bishop@ip-88-153-59-220.hsi04.unitymediagroup.de) has joined #minqlbot
+[12:43] <PerpetualWar_> Mino
+[12:43] <PerpetualWar_> can I have multiple owners added by qlx_owner cvar ?
+[12:43] <PerpetualWar_> if so, how, separate with comma ?
+[12:43] <@Mino> No, but a level 5 is virtually equivalent.
+[12:44] <PerpetualWar_> oh I see
+[12:44] <PerpetualWar_> ok
+[12:49] <PerpetualWar_> Mino I cannot set permissions in cfg files ?
+[12:50] <PerpetualWar_> I have to use !setperm on each serv ?
+[12:52] <@Mino> You only have to do it once assuming your servers share the same DB
+[12:53] <PerpetualWar_> oh ok
+[12:54] <PerpetualWar_> but in case i dont wanna same ppl have same perms on all ql servers on one node ?
+[12:54] <PerpetualWar_> is there a way to separate perms ?
+[12:54] <@Mino> Then use a different db for those servers
+[12:54] <@Mino> Redis has like 10 by default
+[12:54] <@Mino> so you can set qlx_redisDatabase to something other than 0
+[12:54] <PerpetualWar_> ok
+03[12:59] * mattiZed (~mattized@mattiZed.users.quakenet.org) has joined #minqlbot
+[13:42] <sno> carmethene: its working well :) one thing we've noticed is eventually the output is way behind the server, due to speed irssi outputs it
+[14:01] <tjone270> Is/will there be a way to send powerups from the server to a client/control other game logic?
+[14:02] <@Mino> As in give them for instance a quad with Python code?
+[14:02] <tjone270> Yes
+[14:02] <@Mino> Yeah, that should be possible
+[14:02] <@Mino> and I will add that at some point
+[14:02] <@Mino> if it's easy enough, I'll add it for v0.2.0
+[14:02] <tjone270> Okay, so not possible to do from a plugin at this stage?
+[14:02] <@Mino> No, not at the moment
+[14:03] <tjone270> Okay, that'll be great, having that functionality, be able to invent different game modes almost
+[14:03] <@Mino> Yup
+[14:03] <@Mino> I'll make it possible to modify health, ammo, position and velocity for v0.2.0 for sure. I'll look over what can also be added easily when I start implementing those.
+[14:04] <tjone270> Okay
+[14:04] <tjone270> Also, might be a good idea to allow the server to permit one player or more to use no-clip etc. 
+[14:05] <@Mino> That's on the v0.2.0 list as well
+[14:05] <tjone270> Will there be the functionality to call a vote from the server in the new version?
+[14:05] <@Mino> I'll just link the milestone instead
+[14:05] <@Mino> https://github.com/MinoMino/minqlx/milestones/v0.2.0
+[14:05] <tjone270> Oh good :)
+[14:05] <tjone270> thanks :)
+02[14:07] * vks (~vks@cpe-104-175-188-104.socal.res.rr.com) Quit (Quit)
+[14:09] <tjone270> in quake_common.h, you have an enum with game privileges, with :    PRIV_ROOT = 0x3. 
+[14:10] <tjone270> Is that privilege for the server, or an unknown/inaccessible privilege
+[14:11] <@Mino> It's part of id's admin implementation. Last time I checked, no admin commands require anything above admin.
+03[14:19] * vks (~vks@cpe-104-175-188-104.socal.res.rr.com) has joined #minqlbot
+03[15:45] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) has joined #minqlbot
+03[15:54] * Thaya (~x@Aqila.users.quakenet.org) has joined #minqlbot
+03[16:10] * kiddy (~kiddy@h-155-4-14-25.na.cust.bahnhof.se) has joined #minqlbot
+[16:12] <mattiZed> heh
+[16:12] <mattiZed> something crashed my redis
+[16:12] <mattiZed> :D
+[16:30] <@Mino> The duplicate Steam IDs issue when doing \players seems to be surprisingly common. The reason it doesn't seem to affect minqlx is that the ID can be found in several places, and the one I'm using is correct.
+[16:31] <@Mino> Now the question is whether or not minqlx is causing the weirdness, or if it's just sponge magic.
+[16:32] <@Mino> I haven't checked if the ZMQ stats is using the right ones or not, though.
+[16:32] <@Mino> So in that sense, it could affect parts of minqlx.
+[16:33] <PerpetualWar_> Mino when using !id it doesnt show perm levels
+[16:33] <PerpetualWar_> is there any way to check levels from console
+[16:33] <@Mino> !getperm
+[16:34] <PerpetualWar_> oik
+[16:34] <PerpetualWar_> ok but list
+[16:35] <PerpetualWar_> is there command that shows all admins in list even if not on server ?>
+[16:35] <PerpetualWar_> I mean not all of them
+[16:35] <PerpetualWar_> like show steamid
+[16:38] <PaasHaas> à banlist would be awesome as well :)
+[16:38] <PerpetualWar_> ^^
+[16:39] <PaasHaas> i just got my old fun.py to work thx to mino..thats awesome :)
+[16:45] <@Mino> No way to do that currently, but it's a good idea. I could add that later on.
+[16:49] <@Mino> A ban list is super easy, since I'm keeping a list of them in the DB
+[16:55] <@Mino> An admin list is a bit trickier since I don't keep a separate list of admins. I could start doing that, but current admins won't be there.
+[16:58] <PaasHaas> i think a permlist would be enough 
+[16:58] <@Mino> That's what I was talking about
+[16:58] <@Mino> A list of players with permission level >0
+[16:58] <@Mino> I could theoretically iterate over every single player, but that's awfully inefficient
+[16:59] <PaasHaas> ah kk
+[17:00] <PaasHaas> well...not that imporrtant imo :) most players are just complaining on the elo issue :)
+03[17:13] * LtC is now known as LtC|afk
+03[17:15] * LtC|afk is now known as LtC
+03[18:22] * b1ngo (~b1ngo@i5E878A80.versanet.de) has joined #minqlbot
+03[18:26] * LtC is now known as LtC|afk
+03[18:38] * LtC|afk is now known as LtC
+03[18:49] * DieselPower_ (DPMAN@112.185.49.238) has joined #minqlbot
+02[18:50] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) Quit (Ping timeout)
+02[18:50] * gloat (~meow@kity.cat) Quit (Read error: Operation timed out)
+02[18:51] * DieselPower (DPMAN@112.185.49.238) Quit (Ping timeout)
+03[18:51] * zgs (~za@gs-.users.quakenet.org) has joined #minqlbot
+02[18:52] * DieselPower_ (DPMAN@112.185.49.238) Quit (Ping timeout)
+03[18:52] * MrButcher (~MrButcher@p57ADD962.dip0.t-ipconnect.de) has joined #minqlbot
+03[18:53] * gloat (~meow@kity.cat) has joined #minqlbot
+03[18:53] * DieselPower (DPMAN@112.185.49.238) has joined #minqlbot
+03[19:03] * miSc (miSc@x1-6-04-a1-51-2c-3f-fd.cpe.webspeed.dk) has joined #minqlbot
+02[19:27] * mattiZed (~mattized@mattiZed.users.quakenet.org) Quit (Quit: Leaving)
+02[19:34] * kiddy (~kiddy@h-155-4-14-25.na.cust.bahnhof.se) Quit (Read error: Connection reset by peer)
+02[19:54] * b1ngo (~b1ngo@i5E878A80.versanet.de) Quit (Signed off)
+02[19:59] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) Quit (Ping timeout)
+03[20:46] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) has joined #minqlbot
+03[20:57] * b1ngo (~b1ngo@i5E878A80.versanet.de) has joined #minqlbot
+02[21:08] * b1ngo (~b1ngo@i5E878A80.versanet.de) Quit (Signed off)
+02[21:38] * zgs (~za@gs-.users.quakenet.org) Quit (Signed off)
+02[21:55] * mmaluco (~mmaluco@ipbcc209b8.dynamic.kabel-deutschland.de) Quit (Signed off)
+02[22:20] * pex (~grazer@pwnyexprress.users.quakenet.org) Quit (Signed off)
+03[22:50] * pex (~grazer@pwnyexprress.users.quakenet.org) has joined #minqlbot
+[23:20] <xLink> Mino: is there a way of tracking the uptime of a server?
+[23:21] <@Mino> I didn't add a command for it, but I do keep track of it. You can get it by calling "minqlx.uptime()".
+03[23:21] * LtC (~nnscript@oMgLunatiC.users.quakenet.org) has joined #minqlbot
+[23:22] <@Mino> If you're the owner, you can do "!eval minqlx.uptime()" to get it printed.
+[23:22] <@Mino> Assuming the "raw" plugin is loaded, that is.
+[23:22] <xLink> i havent actually setup your server mod yet
+[23:22] <@Mino> Oh, I see
+[23:22] <xLink> but tis something id like to keep track off
+[23:22] <xLink> once i do
+[23:23] <xLink> which should be later tonight 
+03[23:30] * sanak (~s@ip-84-119-90-13.unity-media.net) has joined #minqlbot
+[23:38] <tjone270> For anyone that finds it useful: https://github.com/tjone270/Quake-Live/blob/master/minqlx-plugins/branding.py
+[23:39] <zurn> tjone270: i'm using it, works great thanks :)
+[23:39] <tjone270> :) good to hear
+[23:41] <xLink> oh nice :D
+Session Close: Sun Nov 15 00:00:00 2015

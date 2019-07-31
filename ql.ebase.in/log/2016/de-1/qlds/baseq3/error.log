@@ -1,0 +1,13 @@
+
+=========== ERR_FATAL REPORT =========
+Opening IP socket: localhost:27960
+Hostname: ebase.in
+Alias: ebase
+IP: 191.101.124.150
+stdin is not a tty, tty console mode failed
+map (map) (factory)
+Valid factories: actf ad ca ctf dom duel oneflag ffa ft har ictf iffa ift infected quadhog race rr tdm vca 
+Hitch warning: 1351 msec frame time
+zmq stats and rcon passwords updated
+shutting down idle dedicated server after sv_idleExit (120) secondsversion: 1064 linux-i386 Oct 30 2015 17:09:54
+g_version: 1064 linux-i386 Oct 30 2015 17:10:04

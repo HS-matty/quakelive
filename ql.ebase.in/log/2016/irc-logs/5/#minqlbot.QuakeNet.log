@@ -1,0 +1,375 @@
+
+Session Start: Thu Dec 17 06:02:28 2015
+Session Ident: #minqlbot
+[06:02] * Now talking in #minqlbot
+[06:02] -Q- [#minqlbot] Please read the FAQ first: https://github.com/MinoMino/minqlbot/wiki/Frequently-Asked-Questions
+[06:27] <Melodeiro> Is there a way to use centralized minqlx database between server machines?
+[06:32] <EduCatOR> dayum i am back!
+[06:40] * Melodeiro|2 has joined #minqlbot
+[06:44] * Melodeiro has quit IRC (Ping timeout)
+[06:46] * Melodeiro|2 has quit IRC (Ping timeout)
+[07:00] * Melodeiro has joined #minqlbot
+[07:00] * vks has joined #minqlbot
+[07:01] * qdbp has joined #minqlbot
+[07:10] * lonewulfn6 has joined #minqlbot
+[07:25] <carmethene> Melodeiro: mino said you could do that by exposing a redis database over the public network, but that the latency might impact the performance of the server
+[07:25] <carmethene> since it was written for local access
+[07:26] <carmethene> that was the last answer I saw to that question
+[07:35] <carmethene> Mino: hey, I know your reasons re not putting callvotes, etc into IRC
+[07:35] <carmethene> but I'm really starting to miss not having certain critical admin events, such as kicks
+[07:36] <carmethene> right now there's no way to see who triggered a kick (callvote or !kick) so I keep having to delve into the log, which somewhat defeats the object of having IRC in the first place
+[07:36] <carmethene> not whining, just some feedback.  I can just change locally if you don't agree :)
+[08:35] <Melodeiro> carmethene: do you know is it planned feature nevertheless?
+[08:36] <carmethene> you'd have to ask mino, I'm just repeating what I saw last time someone asked since he's asleep
+[08:36] <carmethene> you can certainly make it work now
+[08:37] <carmethene> just expose redis publicly over the internet
+[08:37] <carmethene> and set that public ip/port as the redis address on the server
+[08:38] <EduCatOR> them holiday parties tho... 
+[08:39] <Melodeiro> Which probmems will this lead?
+[08:39] <Melodeiro> Or i should ask this either?
+[08:50] <carmethene> Melodeiro: he said it might cause stalls on the server
+[08:51] <carmethene> since it expects the redis requests to complete immediately
+[08:51] <carmethene> I don't think he threaded the requests
+[08:53] <Melodeiro> Thats what i was afraid of
+[08:53] <carmethene> I wonder if there's a way to do db mirroring in redis
+[08:54] <carmethene> http://redis.io/topics/replication
+[08:54] <carmethene> I bet that would work
+[09:00] * Lysop has quit IRC (Signed off)
+[09:14] <Melodeiro> I just thought about something like local temporary database/cache which then goes to redis database over internet
+[09:15] <Melodeiro> And replication seems to do it like i want xD
+[09:24] * NeKro`oFF is now known as NeKro
+[09:25] * NeKro is away (Bin off)
+[09:25] * NeKro is now known as NeKro`oFF
+[09:34] * Fraggot has joined #minqlbot
+[09:35] <Fraggot> hello gents i have a CA dedicated server up, i'm having problems installing minobot, could anyone help me?
+[09:38] <Melodeiro> Fraggot: you should install minqlx instead: https://github.com/MinoMino/minqlx
+[09:39] <Fraggot> yea sorry, thats the one i'm trying to install, just new to scripts and such but the svr is running on ubuntu atm
+[09:39] <tjone270> Hi guys, just to let you know, don't use !demote on an admin, the server crashes
+[09:39] <Melodeiro> On which the step you got a trouble?
+[09:41] <vks> hey all, anyonen else have redis-server data base issues?
+[09:42] <Fraggot> i'm about to startinstalling it, but got lost while reading the instructions :( sorry kinda new to linux as a whole
+[09:44] <Fraggot> i don't understand what Ubuntu 15's package repository is 
+[09:44] <Fraggot> do i just follow the instructions as per the webpage verbatim?
+[09:45] <Melodeiro> What version of linux do you use? 14.04?
+[09:45] <Melodeiro> *ubuntu
+[09:45] <Fraggot> yup 14.04 lts
+[09:46] <Melodeiro> Then you need to add repository with python3.5: http://askubuntu.com/questions/682869/install-python-3-5-on-vivid-using-apt-get
+[09:46] <Fraggot> ok on it :)
+[09:46] <Melodeiro> There is the answer below, you just need these commands:
+[09:47] <Melodeiro> sudo add-apt-repository ppa:fkrull/deadsnakes
+[09:47] <Melodeiro> sudo apt-get update
+[09:47] <Fraggot> so these ya..      sudo add-apt-repository ppa:fkrull/deadsnakes     sudo apt-get update     sudo apt-get install python3.5
+[09:47] <carmethene> 22:44     tjone270  : shouldn't server be at root permission, should be able to addadmin/demote whoever and whatever?
+[09:47] <carmethene> tjone270: details
+[09:47] <carmethene> :P
+[09:47] <carmethene> ever get the feeling Bethesda doesn't care about us?
+[09:48] <Melodeiro> You should install python3.5-dev as well
+[09:48] <carmethene> so, I'm actually using python 3.4
+[09:48] <carmethene> and everything is peachy
+[09:48] <carmethene> I just replaced all instances of 3.5 with 3.4 in the makefile before compiling
+[09:48] <carmethene> mino was gracious enough to fix the irc plug-in for me
+[09:49] <Fraggot> ok i'll type those commands into the command prompt
+[09:49] <Melodeiro> i use this repo for the 6th time, and for me is all ok too
+[09:50] * BlinD has joined #minqlbot
+[09:52] <Melodeiro> carmethene: i don't get the feeling yet that Bethesda care about us:) Except for QL maybe, a bit
+[09:53] <carmethene> I would think compared to the fallout 4 income we're not worth caring about
+[09:55] * lonewulftp has joined #minqlbot
+[09:55] <tjone270> carmethene: there is this: https://github.com/MinoMino/minqlx/blob/master/python/minqlx/_player.py#L296
+[09:55] <Melodeiro> And i talking about Fallout 4, since it does not contain any expirience of Fallout: New Vegas, which was the roleplaying game
+[09:55] <tjone270> it's likely that the server runs at that level
+[09:56] <tjone270> running /rcon demote <id> crashes the server if the target is an admin.
+[09:57] <carmethene> gotcha
+[09:57] <tjone270> :)
+[09:58] <tjone270> so obviously, that needs to be fixed quick smart, as !demote is affected by this rather stupid bug
+[09:58] <carmethene> hold on
+[09:58] <carmethene> so, I saw the change in the log re no longer being able to deop each other
+[09:58] <tjone270> Yes
+[09:58] <carmethene> and assumed it was just inadequate testing
+[09:58] <carmethene> but are you saying the crash happens specifically with minqlx users at that level?
+[09:58] <carmethene> or it happens generally?
+[09:59] <carmethene> the reason for my original statement was that it seems like sponge is lacking qa resources
+[09:59] <carmethene> but it's understandable people not qa'ing against minqlx
+[09:59] <tjone270> and client-side, that's true, but server side when tried, the server crashes. I'm saying that if you're a Quake Live admin in-game, and the server, which runs at root level, attempts to demote you, it crashes
+[09:59] <carmethene> right 
+[09:59] <carmethene> is there any way in which that can occur without minqlx?
+[09:59] <carmethene> e.g. a demote through rcon?
+[10:00] <tjone270> the minqlx command !demote is a link to minqlx.console_command("demote {}".format(msg[1])
+[10:00] <tjone270> )
+[10:00] <carmethene> ok
+[10:00] <carmethene> so yeah, inadequate testing
+[10:00] <tjone270> so it's a Quake Live thing
+[10:00] <tjone270> and not a minqlx thing
+[10:00] <carmethene> so one guy making and pushing code changes with no oversight
+[10:00] <carmethene> which is not to criticise sponge, I know he's working hardf
+[10:00] <carmethene> but, yeah, not the way to do software
+[10:00] <tjone270> Nope, not at all.
+[10:00] <carmethene> actually that makes me appreciate mino more :P
+[10:00] <carmethene> very low levels of wtf
+[10:01] <tjone270> Yes
+[10:01] <carmethene> "Jeff Dean compiles and runs his code before submitting, but only to check for compiler and CPU bugs."
+[10:01] * carmethene coughs
+[10:04] <Fraggot> Melodeiro: ok i've installed python 3.5 using the command on the page you sent
+[10:04] <Fraggot> :)
+[10:05] <Melodeiro> python3.5-dev either?
+[10:05] <tjone270> perhaps replace minqlx.console_command("demote {}".format(msg[1])) with minqlx.client_command(player.id, "demote {}".format(msg[1])), that would run it client side, and prevent crashes as it works client-side
+[10:05] <Fraggot> how do i install python3.5-dev?
+[10:05] <Melodeiro> sudo apt-get install python3.5-dev
+[10:05] <Fraggot> ok will do
+[10:06] <Fraggot> ok done
+[10:06] <syncore> wooo it works
+[10:06] <syncore> https://www.syncore.org/woo.png
+[10:07] <Fraggot> do i type this now? sudo apt-get -y install redis-server git
+[10:07] <Melodeiro> Yep
+[10:08] <Fraggot> You should remove sid by commenting out or removing the line you added to sources.list earlier and then do sudo apt-get update again to make sure you don't install any unstable packages unintentionally later.
+[10:09] <Melodeiro> It is for debian, so you need to go next
+[10:09] <Fraggot> i'm on this step now, confused @ remove sid
+[10:09] <Fraggot> ahhh ok
+[10:10] * LtC has joined #minqlbot
+[10:10] <Fraggot> would this be correct? git clone https://github.com/MinoMino/minqlx-plugins.git
+[10:10] <Fraggot> sorry for the step by step walkthrough. i'm really comming at this blind. :(
+[10:11] <BlinD> what?
+[10:11] <BlinD> ;-)
+[10:11] <Melodeiro> You should download tarballs first
+[10:11] <Fraggot> hahah sorry blind :)
+[10:11] <BlinD> just kidding =)
+[10:11] <BlinD> haha
+[10:12] <Fraggot> cause i'm on the command prompt- whats the cmd to download a "tarbal?"
+[10:12] <Melodeiro> https://github.com/MinoMino/minqlx/releases there pick the lastest, copy .tar.gz link and download it with "wget"
+[10:12] <BlinD> nice work Mino btw with the new version so qucik
+[10:12] <BlinD> quick
+[10:12] <Melodeiro> Thats how you will update it btw
+[10:13] <Fraggot> so i go back to ubuntu gui to download the file?
+[10:13] <Melodeiro> You can do it with wget also
+[10:14] <Melodeiro> wget https://github.com/MinoMino/minqlx/releases/download/v0.4.0/minqlx_v0.4.0.tar.gz
+[10:14] <Fraggot> ok i'll type that exact into cmd
+[10:15] <BlinD> see that u are in right location
+[10:15] <BlinD> when using wget
+[10:15] <Melodeiro> He is right
+[10:15] <BlinD> then u dont have to either move it or point tar to right loc
+[10:15] <BlinD> ok
+[10:15] <BlinD> =)
+[10:15] <Fraggot> so i go to my quakelive svr directory?
+[10:16] <Melodeiro> Yep
+[10:16] <Fraggot> ok ok :)
+[10:17] <Fraggot> sorry just to confirm. its the dir ending witth /qlds yes?
+[10:17] * vks has quit IRC (Quit)
+[10:17] <Melodeiro> If you installed there, then yes
+[10:18] <Fraggot> yeah i installed it using a real step by step pdf which included how to set up ubuntu in oracle
+[10:19] <Fraggot> Asia needs a server bad, so i decided to set one up without knowing really what i'm doing 
+[10:20] * LtC has quit IRC (Read error: Operation timed out)
+[10:22] <Melodeiro> Thats ok, you are not setting up nuclear reactor
+[10:24] <Fraggot> all this cmdline stuff is pretty foreign to me since dos days
+[10:24] <Fraggot> ok done with that step
+[10:24] <Fraggot> type this now? git clone https://github.com/MinoMino/minqlx-plugins.git
+[10:24] * LtC has joined #minqlbot
+[10:25] <Melodeiro> No, first extract archive: "tar -xvf %name_of_archive%"
+[10:25] <Fraggot> hi LtC :)
+[10:25] <Fraggot> ahhh okok so tar -xvf minqlx_v0.4.0.tar.gz  ?
+[10:26] <Melodeiro> Yep
+[10:26] <Fraggot> ok extracted into /qlds dir
+[10:27] <Melodeiro> Now these 7 commands (in the same directory)
+[10:27] <Melodeiro> Starting with git
+[10:27] <Fraggot> roger, thanks
+[10:32] * LtC has quit IRC (Ping timeout)
+[10:33] <Fraggot> ok, did get a bunch of warnings and stuff though so i hope i did everything ok
+[10:35] <Fraggot> can i run the server now?
+[10:36] <Melodeiro> Yep, just use run_server_x64_minqlx.sh instead of run_server_x64.sh
+[10:37] <Fraggot> ok i'll try it
+[10:37] <Melodeiro> And there below info about settings, especially you need qlx_owner
+[10:39] <Fraggot> wow! its up :)
+[10:40] <Fraggot> i'll try to see how i can configure it now
+[10:43] <Fraggot> ok sorry me again, where do i find qlx_owner etc?
+[10:44] <Melodeiro> In readme or in your server?
+[10:45] <Fraggot> well i'm in the server now 
+[10:46] <Mino> Good morning.
+[10:46] <Fraggot> and i type /qlx_owner into console and says cmd not recognised
+[10:46] <Mino> Fraggot: Those are cvars. Either set them in your server.cfg or as command line arguments.
+[10:46] <Mino> They're no different than for instance sv_maxclients
+[10:46] <Fraggot> okok i'll put those lines into my server.cfg
+[10:46] <Mino> Yup
+[10:49] <EduCatOR> judge dredd one of the best movies of all time? lol 
+[10:49] <Fraggot> do i need to type set qlx_owner steamid or is qlx_owner steamid enough?
+[10:49] <Fraggot> Dredd was good. Judge Dredd was rubbish :)
+[10:50] <EduCatOR> dredd 3d lol, not the one from 95 lol
+[10:50] <Mino> set qlx_owner "123123"
+[10:50] * LtC has joined #minqlbot
+[10:50] <Fraggot> ok ty :)
+[10:53] * tjone270 has quit IRC (Signed off)
+[10:53] * tjone270 has joined #minqlbot
+[10:55] * LtC|afk has joined #minqlbot
+[10:56] * LtC has quit IRC (Ping timeout)
+[10:57] <Fraggot> when executing commands. does it work like it did before in minobot, eg: !teens, !balance etc
+[10:58] <Mino> Yes, but those commands are part of the "balance" plugin. It's not loaded by default, so you need to add: set qlx_plugins "DEFAULT, balance"
+[10:58] <Fraggot> ok thanks
+[10:58] <Mino> and if you don't want to restart the server after that, a simple "!load balance" will load it for the current session too.
+[10:58] <Fraggot> ok cool thanks for the help
+[10:58] <Fraggot> and great work man. seriously
+[10:59] <Mino> Thanks
+[10:59] <Fraggot> to  Melodeiro as well who help me step by step set this up, the Asia community of quakers owes you one :)
+[11:03] * LtC has joined #minqlbot
+[11:05] * LtC|afk has quit IRC (Ping timeout)
+[11:05] * vks has joined #minqlbot
+[11:06] <PaasHaas> are there new plugins released as well? or no need updating them 
+[11:07] <PaasHaas> new mino version works great btw :P
+[11:08] <Mino> I added a workshop.py plugin that makes it possible to load workshop stuff using a cvar. It's in the default plugin list, so if you use that or the DEFAULT keyword, you'll run into issues if you haven't updated.
+[11:09] <PaasHaas> ah kk!
+[11:09] <Mino> There's also a couple of small bug fixes there.
+[11:09] <PaasHaas> will get it then...thx :)
+[11:16] <Fraggot> hi i'm trying to figure out what the fun plugin does?
+[11:16] <Mino> It triggers sounds when you type certain stuff in chat.
+[11:16] <Mino> Like, if you type "hahaha" a sound plays for the whole server.
+[11:17] <Mino> And for those who don't want the sounds, they can type !sounds to disable them just for themselves.
+[11:17] <Fraggot> ah okok do i enable it in serve.cfg as well?
+[11:17] <Fraggot> server.cfg
+[11:18] <Mino> Yeah, in order to have it load on launch, you need to add it to qlx_plugins too.
+[11:18] <Fraggot> qlx_plugins "DEFAULT, fun   ?
+[11:19] <PaasHaas> qlx_workshopreferences ...
+[11:19] * bishop has quit IRC (EOF from client)
+[11:19] <PaasHaas> i dont get it :)
+[11:19] <Mino> Fraggot: Yes, but if you had balance there, you shouldn't remove it.
+[11:19] <Mino> Just add fun to the end of the list.
+[11:19] <Fraggot> so add it after a comma?
+[11:19] <Mino> Yup
+[11:19] <Melodeiro> Fraggot: Thanks
+[11:19] <Fraggot> ok 
+[11:19] <PaasHaas> its like starting the serv with a default workshop or smth?
+[11:20] <Mino> PaasHaas: If you have a workshop item, adding one to that cvar will force all clients to download that item to play on your server.
+[11:20] <Fraggot> thanks to you guys i'm actually starting to understand how this works cheers
+[11:20] * bishop has joined #minqlbot
+[11:20] <Mino> That means that you can put sounds in that workshop item and be guaranteed to have all clients have that sound on their filesystem.
+[11:21] <PaasHaas> ah kk
+[11:21] * LtC has quit IRC (Ping timeout)
+[11:21] <PaasHaas> and ref to a workshop id?
+[11:21] <PaasHaas> or ids?
+[11:21] <Mino> That cvar is a list of workshop ids
+[11:22] <Mino> separated by commas
+[11:22] <PaasHaas> ah nice
+[11:23] <Mino> Several people already had custom sounds and stuff, but it required them to make their own custom plugin to add them.
+[11:23] <Mino> So the idea with the workshop plugin is that they can instead just edit a cvar.
+[11:24] <PaasHaas> oke....only map workshops were autodownloaded by clients so far
+[11:24] <Mino> Yeah, only the ones referenced by the server
+[11:24] <PaasHaas> ah kk get it :)
+[11:25] <Fraggot> is there any way to edit the txt which appears on the bottom panel when people join the server?
+[11:25] <PaasHaas> branding.py
+[11:25] <Fraggot> gotcha ty
+[11:25] <Mino> That's a custom plugin by tjone270 here, it's not in the official repo.
+[11:25] <Mino> Get it here: https://github.com/tjone270/Quake-Live/blob/master/minqlx-plugins/branding.py
+[11:26] <Mino> And put it in your minqlx-plugins directory
+[11:26] <Fraggot> ahh okok was looking for it but counldn't find thanks
+[11:26] <Mino> After you load that one, you can set the three cvars there to edit those fields.
+[11:27] <Mino> qlx_serverBrandName, qlx_serverBrandTopField, and qlx_serverBrandBottomField
+[11:28] <PaasHaas> its nasty btw...when doing a git pull origin on the plugins...it wont update because i made some customs to essentials.py...have to remove file first then update...its logic but annoying :P
+[11:28] <Fraggot> ok this may sound stupid, but how do i download the file :( sorry i'm an idiot. the link just shows me a page with some txt on it
+[11:29] <Fraggot> ahhh so don't install it?
+[11:29] <Mino> PaasHaas: That's how git works. On the other hand, if you learn git and use it like it's meant to be used, you can have it automatically merge my updates with your custom stuff.
+[11:29] <tjone270> you can wget https://raw.githubusercontent.com/tjone270/Quake-Live/master/minqlx-plugins/branding.py
+[11:29] <Mino> Fraggot: Change your working directory to qlds/minqlx-plugins and then do wget https://raw.githubusercontent.com/tjone270/Quake-Live/master/minqlx-plugins/branding.py
+[11:30] <Fraggot> ok got it thanks
+[11:30] <Mino> After you've done that, you just add "branding" to qlx_plugins like you did with fun and balance.
+[11:30] <Fraggot> gotcha :)
+[11:41] * LtC|afk has joined #minqlbot
+[11:42] * tkrr has joined #minqlbot
+[11:45] * tkrr has quit IRC (Signed off)
+[11:46] * NeKro`oFF is now known as NeKro
+[11:47] * LtC|afk has quit IRC (Ping timeout)
+[11:48] * NeKro is away (Bin off)
+[11:48] * NeKro is now known as NeKro`oFF
+[11:49] * LtC has joined #minqlbot
+[11:49] * NeKro`oFF is now known as NeKro
+[11:50] <NeKro> Somethere? I have a question :)
+[11:55] <Mino> Ask away
+[12:00] * vks has quit IRC (Quit)
+[12:02] * b1ngo|off is now known as b1ngo
+[12:03] * vks has joined #minqlbot
+[12:05] <NeKro> Where Do i have to store qlx_owner ? I created a qlx.cfg and added +exec qlx.cfg in Server startup. But i had perm Level 0. When the Server is Running and I manually execute qlx.cfg then my perm Level is Master
+[12:06] <Mino> I don't know about adding a separate config, I haven't tried that. I'd recommend either just directly adding it to your command line arguments or your server.cfg.
+[12:07] <NeKro> That is a good idea to add qlx_owner in command line ;)
+[12:10] <b1ngo> nekro??
+[12:10] <b1ngo> bau das in die server.cfg rein
+[12:11] <NeKro> Hab ich zu erst gemacht. Aber der hatte immer gemeckert vonnwegen falsches steam64 Format 
+[12:11] <NeKro> :/
+[12:11] <b1ngo> mom
+[12:11] <b1ngo> set qlx_owner "nummerhierrein"
+[12:12] <b1ngo> steht bei mir inner server cfg
+[12:12] <NeKro> Komisch. Heute abend nochmal probieren 
+[12:12] <b1ngo> sorry for the german mino
+[12:12] <b1ngo> nekro is a clan member from me :)
+[12:13] <NeKro> Wie hast du die motd usw. Geändert? Bei dem alten Min bot gab's ja die db Datei die man bearbeiten konnte
+[12:13] <b1ngo> 2 arten. 1. die 1.zeile kannste per set qlx_motdHeader "^7www.team-prophecy.de^1|^3Admin^7: b^11^7ngo ^2| ^7smoke" machen
+[12:14] <b1ngo> das 2. fuer alle server !setmotdall 
+[12:14] <b1ngo> im spiel
+[12:14] <b1ngo> oder einzel fuer jeden server !setmotd
+[12:15] <b1ngo> ich kann die nachher eine bespiel cfg geben oder ich schicke sie dir per email. dann kannste da reinschaun
+[12:15] <b1ngo> und die umwursten
+[12:20] * Melodeiro|2 has joined #minqlbot
+[12:20] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:21] * Melodeiro|2 is now known as Melodeiro
+[12:22] <NeKro> Danke für die tips
+[12:22] <NeKro> Ja wäre klasse wenn du mir das per Mail senden könntest. Meine Adresse hast du ja b1ngo
+[12:22] <NeKro> ;)
+[12:22] * PaasHaas has quit IRC (Read error: Connection reset by peer)
+[12:22] * PREDATH0R is now known as PredatH0r
+[12:23] * PaasHaas has joined #minqlbot
+[12:23] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:23] * Melodeiro has joined #minqlbot
+[12:23] <b1ngo> kein dingen. ich schicke sie dir ma
+[12:24] <b1ngo> erm gut. gib mir die email nochma
+[12:26] <b1ngo> so bouncer geht down. muss den server neu machen. ich connecte ma so. brb
+[12:27] * b1ngo is now known as b1ngo|off
+[12:27] * b1ngo|off has quit IRC (Signed off)
+[12:27] * b1ngo has joined #minqlbot
+[12:28] <b1ngo> so re
+[12:29] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:29] * Melodeiro has joined #minqlbot
+[12:31] * _stitch has quit IRC (Read error: Connection reset by peer)
+[12:31] <Fraggot> hi there, i've loaded the names plugin but i still can't change my name to colored ones. help pls :)
+[12:31] * vks has quit IRC (Quit)
+[12:32] <Mino> Are you using !name?
+[12:32] <Fraggot> oh so you set it via !name and not in console anymore?
+[12:32] <Mino> You can use !name in the console too
+[12:33] <Mino> Just not \name
+[12:33] <Fraggot> okok i'll try thanks
+[12:33] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:33] * Melodeiro has joined #minqlbot
+[12:34] <Fraggot> so it has to be your steam name yea? you can't change it to a different name
+[12:34] <Mino> You can if you set qlx_enforceSteamName to 0
+[12:34] <Fraggot> ahh i see thanks
+[12:35] <PredatH0r> you could use extraQL and its /steamnick command/cvar to change your name
+[12:36] <PredatH0r> it adds colors to my nick when i start QL and sets the old nick back when I exit
+[12:36] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:37] * Melodeiro has joined #minqlbot
+[12:37] <Fraggot> cool beans
+[12:37] <Fraggot> thanks predathor
+[12:37] <PredatH0r> you're welcome
+[12:38] * Melodeiro|2 has joined #minqlbot
+[12:38] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:48] * LtC is now known as LtC|afk
+[12:53] <b1ngo> nekro email is raus
+[12:54] * vks has joined #minqlbot
+[13:00] * Fraggot has quit IRC (Quit: Page closed)
+[13:04] * b1ngo has quit IRC (Signed off)
+[13:13] * b1ngo2 has joined #minqlbot
+[13:15] * b1ngo has joined #minqlbot
+[13:16] * b1ngo has quit IRC (Registered)
+[13:16] * b1ngo has joined #minqlbot
+[13:16] * b1ngo2 has quit IRC (Signed off)
+[13:21] * zippercoat has joined #minqlbot
+[13:22] * teh1337 has quit IRC (Ping timeout)
+[13:22] * zippercoat is now known as teh1337
+[13:29] * crobartie has joined #minqlbot
+[13:34] * NeKro is away (Bin off)
+[13:34] * NeKro is now known as NeKro`oFF
+[13:39] * lonewulftp has quit IRC (EOF from client)
+[13:49] * LtC|afk is now known as LtC
+[13:55] <BlinD> hmm wierd i have no pics on preview after upgrade
+[13:55] <BlinD> in the serverlist
+[13:55] <BlinD> anyone else?
+[13:55] <BlinD> standard quake img
+[14:02] <BlinD> if u browse my server in gui ther is only standard quake live pic on it
+[14:08] * lonewulftp has joined #minqlbot
+[14:20] * Linkyyy^off is now known as Linkyyy
+[14:48] * crobartie is now known as crobartie|AFK
+[14:55] <PredatH0r> qdbp: is that HSQLS server yours?
+[14:56] <PredatH0r> any chance you could remove all the fake game type tags?
+[17:05] * Disconnected
+Session Close: Fri Dec 18 00:00:00 2015

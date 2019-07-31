@@ -1,0 +1,2864 @@
+
+Session Start: Wed Nov 18 18:10:29 2015
+Session Ident: #stats.ql
+[18:10] * Now talking in #stats.ql
+[18:10] * Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-server-monitor'
+[18:10] * Set by inl on Fri Nov 13 22:59:40
+[19:25] * PerpetualWa_afk is now known as PerpetualWar_
+[19:25] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[20:40] * b1ngo has joined #stats.ql
+[20:59] * ph0en|X has joined #stats.ql
+[21:21] * vks has joined #stats.ql
+[22:23] * vixterra has joined #stats.ql
+[22:25] * sno has joined #stats.ql
+[22:52] * b1ngo has quit IRC (Signed off)
+[22:52] * lonewulf has quit IRC (Signed off)
+[23:21] * vks has quit IRC (Quit)
+[23:27] * lonewulf has joined #stats.ql
+[23:31] * vixterra has quit IRC (Signed off)
+Session Time: Thu Nov 19 00:00:00 2015
+[00:13] * BarelyMiSSeD has joined #stats.ql
+[01:05] * rzeka has joined #stats.ql
+[01:18] * ph0en|X has left #stats.ql
+[01:29] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:19] * Dbzruler72 has joined #stats.ql
+[03:48] * PredatH0r is now known as PREDATH0R
+[03:59] * vixterra has joined #stats.ql
+[04:37] * ananus has joined #stats.ql
+[04:50] * ananus has quit IRC (Signed off)
+[05:55] * BarelyMiSSeD has quit IRC (Signed off)
+[07:22] * vixterra has quit IRC (Signed off)
+[08:05] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[08:06] * Dbzruler72 has joined #stats.ql
+[08:09] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[08:10] * xananux has joined #stats.ql
+[08:45] * thunderboss has joined #stats.ql
+[08:46] * xananux has left #stats.ql (quitter)
+[10:07] * PREDATH0R is now known as PredatH0r
+[10:58] * vks has joined #stats.ql
+[11:45] * mattiZed has joined #stats.ql
+[11:47] * PerpetualWa_afk is now known as PerpetualWar_
+[12:20] * PerpetualWar_ is now known as PerpetualWa_afk
+[12:31] * lonewulf_ has joined #stats.ql
+[12:35] * lonewulf has quit IRC (Ping timeout)
+[12:26] * Lanoiah has joined #stats.ql
+[12:38] * Lanoiah has quit IRC (Quit: Page closed)
+[12:50] * PsiAmp has joined #stats.ql
+[12:52] * PsiAmp has quit IRC (Quit: Page closed)
+[14:22] * mattiZed has quit IRC (Quit: Leaving...)
+[15:37] * mattiZed has joined #stats.ql
+[16:32] * Dbzruler72 has joined #stats.ql
+[18:07] * PerpetualWa_afk is now known as PerpetualWar_
+[18:46] <mattiZed> guys, can you please give an overview who is logging?
+[18:46] <mattiZed> inl, rulex and predathor?
+[18:52] <rulex> correct
+[18:53] <rulex> probably not the same servers but
+[18:53] <rulex> though*
+[18:53] <rulex> :)
+[18:59] <mattiZed> kk
+[18:59] <mattiZed> how is progress coming along? ::D
+[19:01] <PerpetualWar_> slow :D
+[19:01] <PerpetualWar_> thanks to PredatH0r's help I also set up stats collecting for my servers (mostly ca pickup)
+[21:10] * b1ngo has joined #stats.ql
+[21:12] * idur has joined #stats.ql
+[21:15] <idur> hey im a newbie programmer with c++ and python experience trying to learn something and hopefully help others, ive heard there are some projects in the work to replace qlranks, minqlbot etc, any chance i can take part?
+[21:46] * rzeka has left #stats.ql (Textual IRC Client: www.textualapp.com)
+[21:46] * rzeka has joined #stats.ql
+[21:47] <rzeka> mattiZed I am logging, but not with ql-server-monitor
+[21:47] <rzeka> I log into sql database (data, match id and event type)
+[21:47] <PredatH0r> idur: nice to meet motivated people :)
+[21:47] <rzeka> basically I can reproduce json returned by ql :)
+[21:48] <idur> thanks ;)
+[22:03] * lonewulf_ has quit IRC (Signed off)
+[22:06] * lonewulf has joined #stats.ql
+[22:08] <rzeka> wdx2 he?
+[22:09] <rzeka> WTF 3GB? :D
+[22:09] <wdx2> :)
+[22:09] <wdx2> accident
+[22:09] <rzeka> :D
+[22:21] * vixterra has joined #stats.ql
+[22:33] * tjone270_ has joined #stats.ql
+[22:33] * Q sets mode: +o tjone270_
+[22:33] * tjone270 has quit IRC (Ping timeout)
+Session Time: Fri Nov 20 00:00:00 2015
+[00:16] * lonewulf has quit IRC (Signed off)
+[00:22] * b1ngo has quit IRC (Signed off)
+[01:10] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:16] * vks has quit IRC (Quit)
+[01:20] * [ByQ]Descent slaps PredatH0r around a bit with a large trout
+[01:41] * PredatH0r is now known as PREDATH0R
+[02:00] * lonewulf has joined #stats.ql
+[02:02] * idur has quit IRC (Quit: Page closed)
+[02:38] * mattiZed has quit IRC (Quit: Leaving)
+[03:54] * QBall has quit IRC (Signed off)
+[04:20] * vks has joined #stats.ql
+[04:31] * vks has quit IRC (Quit)
+[05:33] * lonewulf has quit IRC (Signed off)
+[05:53] * lonewulf has joined #stats.ql
+[05:57] * hannibal has quit IRC (Quit: Leaving)
+[08:11] * wdx has joined #stats.ql
+[08:11] * Q sets mode: +o wdx
+[08:13] * wdx2 has quit IRC (Ping timeout)
+[09:31] * vks has joined #stats.ql
+[10:03] * vixterra has quit IRC (Signed off)
+[10:35] * vks has quit IRC (Quit)
+[10:43] * mattiZed has joined #stats.ql
+[12:04] * PREDATH0R is now known as PredatH0r
+[12:48] * vks has joined #stats.ql
+[12:50] * Flash652 has joined #stats.ql
+[12:55] * Flash652 has quit IRC (Quit: 12( www.nnscript.com 12:: NoNameScript 4.22 12:: www.esnation.com 12))
+[13:45] <PredatH0r> new version of https://github.com/PredatH0r/XonStat/blob/master/feeder/feeder.node.js
+[13:46] <PredatH0r> it will now reconnect to stats ZMQ when there is no activity for 15min (to solve the problem with QL just going silent)
+[13:49] <PredatH0r> well, looks like i added a bug too :/
+[13:52] <rulex> :)
+[13:52] <PredatH0r> or to be more precise... i hit a bug in the zmq node module
+[13:53] <PredatH0r> disconnect() and close() don't seem to free the socket resource. after a series or disconnect() + connect() i bang out with "too many open files"
+[14:01] <PredatH0r> oh, interesting. disconnect needs an address as parameter
+[14:02] <PredatH0r> looks like the whole zmq socket class allows connecting to multiple servers within a single instance
+[14:07] <rulex> yea
+[14:07] <rulex> same in python
+[14:07] <PredatH0r> strange API. the password is set on the whole socket though, not per connection
+[14:09] <PredatH0r> looks like passing the address to disconnect() solved my problem. close() alone didn't close the network connections
+[14:12] <PredatH0r> good think i accidentally pasted my code with 1 min idle reconnect timeout. otherwise i would not have caught that problem in time :)
+[14:12] <PredatH0r> good thing*
+[15:07] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[15:08] * mattiZed has joined #stats.ql
+[16:21] * vks has quit IRC (Quit)
+[17:49] <inl> Good afternoon! I've made a bunch of progress on the ql-stats-models for mongodb. I'm still writing unit test for a few game events, this helps me nail down the use-cases for the data model and also the API usage. 
+[17:50] <inl> If life don't get in the way, I'll have something up on github during the weekend. It would be great if more people could help out with improving the data model and how we store information.
+[17:51] <inl> My goal is to be able to provide an API/data storage solution that allows any server admin to opt-in and any user/developer to consume data from.
+[17:53] <inl> And have the communite donate money to help pay for infrastructure costs.
+[17:56] * idur has joined #stats.ql
+[18:07] <PredatH0r> infrastructure cost? what kind of instrastructure are you planning to use?
+[18:16] * PerpetualWa_afk is now known as PerpetualWar_
+[18:30] <mattiZed> inl: much appreciated
+[18:33] <[ByQ]Descent> =)
+[18:51] <rulex> right on
+[18:58] <[ByQ]Descent> ..better to set up ql-currency-issue and forget about "US-Federal-Reserve-System", "Merkel" and others ... :D
+[18:58] <PredatH0r> is any of the code checked in? ql-stats-engine and ql-server-monitor are 9 days old, ql-stats-api is removed
+[18:59] <[ByQ]Descent> I'll try to set up it locally .. to test..
+[19:06] <inl> mongodb/redis/nginx
+[19:06] <inl> if i can find a suitable api proxy service that is affordable i'll skip nginx and cache through api proxy server
+[19:06] <inl> node.js for api
+[19:06] <inl> angular.js for webapp
+[19:07] <inl> since things are changin quite a bit with the code-base i haven't released anything to the public.
+[19:07] <rulex> i know dat feel
+[19:07] <rulex> :)
+[19:08] <inl> the api and data model will be release publicly but the layer which perform the actual persistance to redis and mongodb will be closed as that's my secret sauce
+[19:08] <inl> but the ql-server-monitor and ql-stats-models will be available.
+[19:09] <inl> so you will be able to set up your own server and stats tracking
+[19:10] <PredatH0r> i had no idea this is going to be a closed source project
+[19:10] <inl> everything is open source
+[19:10] <inl> it's just a small portion that doesn't make sense to open source
+[19:10] <inl> like HOW we do rank calculations and how we store stuff in redis
+[19:11] <inl> that could be open sourced possibly, but for now i'd say it's better to let it be core developer thing
+[19:11] <PredatH0r> if you keep some code to yourself, that also means you are the only developer who can even run this system
+[19:12] <inl> No, that's not true.
+[19:12] <inl> But the big point here is that why the fuck should we open source it
+[19:12] <inl> that will fragment the whole thing
+[19:12] <inl> what we need is money for infrastructure so we can host a platform for everyone
+[19:13] <inl> what's key to getting QL to not DIE
+[19:13] <inl> is an API that exposes ALL game data
+[19:13] <inl> And allows developer for bots, balancing, etc to consume
+[19:14] <inl> if i open source it all, then all of you will run in your own direction
+[19:14] <inl> and we have 12 systems running and players suffer
+[19:15] <PredatH0r> don't get me wrong. i'm not tryign to hold you back
+[19:16] <inl> i will leave all core components open sourced, like the server monitor, the ql-stats-models (events to mongodb)
+[19:16] <PredatH0r> atm i don't have the slightest insight of what's happening
+[19:16] <inl> there is a layer inbetween there which is basically on game event, use this method in ql-stats-models to create/save/update player etc etc but there is also some stuff concearning redis lists and such
+[19:17] <PredatH0r> so i don't even see a possibility to help you out with anything
+[19:17] <inl> I'll happily fill you in, it's not that big of deal
+[19:18] <inl> but now i need a dinner and glass of whine and wallow in the fact that finally it's weekend and i get to code all night with good conciense
+[19:18] <PerpetualWar_> inl
+[19:19] <PerpetualWar_> just one questiojn
+[19:19] <PredatH0r> it's not really about me. if you do it all by yourself and release the final product when it's done, it might turn out that you're the only person able to maintain it
+[19:19] <PerpetualWar_> I actually support PredatH0r in this
+[19:19] <PerpetualWar_> having only one person maintain it
+[19:19] <PerpetualWar_> is not good thing
+[19:19] * rulex opens a beer
+[19:19] <PredatH0r> ^ copy that
+[19:19] <PerpetualWar_> but my question is this
+[19:20] <PerpetualWar_> will we be able to take only certain stats
+[19:20] <PerpetualWar_> (for example from ca pickup servers)
+[19:20] <PerpetualWar_> and use only them for balancing if we wish so ?
+[19:20] <PerpetualWar_> will the api provide that ability ?
+[19:21] <PerpetualWar_> tbh I hoped for some project that will provide engine for ppl to set up on their servers
+[19:22] <PerpetualWar_> and collect and balance using their servers only if they wished so
+[19:22] <rulex> i believe it will if i understood correctly my previous talk with inl
+[19:22] <PerpetualWar_> ok rulex thats good then
+[19:23] <rulex> but it will probably take some time
+[19:23] <rulex> i guess overall duel elo is prio 1
+[19:23] <rulex> :)
+[19:23] <PerpetualWar_> elo is already working ?
+[19:23] <PerpetualWar_> right ?
+[19:25] <rulex> think so
+[19:25] <inl> overall main objective is getting servers and data into a system in a maintainable way so it can be exposed
+[19:25] <inl> stats and ranks are separated
+[19:25] <inl> logically
+[19:26] <PerpetualWar_> any roadmap for the project ?
+[19:31] <PredatH0r> PerpetualWar_: i uploaded a new feeder.node.js today. it will now reconnect automatically when a server is silent for 15min
+[19:31] <inl> 1. set the data model
+[19:31] <PerpetualWar_> oh cool PredatH0r
+[19:31] <PerpetualWar_> link ?
+[19:31] <inl> 2. integrate the data model with the ql-server-manager
+[19:31] <rulex> <@PredatH0r> new version of https://github.com/PredatH0r/XonStat/blob/master/feeder/feeder.node.js
+[19:32] <PredatH0r> https://raw.githubusercontent.com/PredatH0r/XonStat/master/feeder/feeder.node.js
+[19:32] <inl> 3. implement redis persistance of in-memory stuff
+[19:32] <inl> 4. build api
+[19:32] <inl> 5. implement team ranking algorithms
+[19:32] <inl> 6. build web app
+[19:33] * inl has left #stats.ql
+[19:33] <rulex> 7. /part
+[19:33] <PerpetualWar_> hm ?
+[19:33] <rulex> :D
+[19:33] <PerpetualWar_> what was that ?
+[19:33] * inl has joined #stats.ql
+[19:33] * Q sets mode: +o inl
+[19:33] <PerpetualWar_> oh
+[19:34] <inl> MY DAUGHTER GOT A HOLD OF THE KEYB
+[19:34] <inl> ops
+[19:34] <inl> chaos
+[19:34] <PerpetualWar_> :)
+[19:34] <rulex> :D
+[19:34] <PerpetualWar_> we were like , huh? :D
+[19:35] <rulex> he's done with our shit already
+[19:36] <[ByQ]Descent> ..looks like new "Joint-Stock-Company" meeting ..
+[19:36] <rulex> joint meeting, very interresting
+[19:37] <[ByQ]Descent> =)
+[19:38] <PredatH0r> i'll be honest. i kind of miss the planning phase in this project
+[19:38] <rulex> less planning, more doing
+[19:39] <[ByQ]Descent> rulex - new "Executive Director" .. 
+[19:39] <PredatH0r> a recipe to failure
+[19:40] <[ByQ]Descent> =)
+[19:41] <rulex> B)
+[20:11] * mattiZed has quit IRC (Quit: Leaving)
+[21:00] <inl> anyways, i'll be publishing the ql-stats-models within the next few days, i think it would be great to have some feedback on it.
+[21:01] <inl> in short it's just mongoose schemas based on the t-sql schemas i've seen posted in here, plus some mongodb sugar/nosql benefits for the win and a bunch of unit test (where i use the game stats events JSON payloads as fixtures)
+[21:02] <inl> tl;dr, ql event json to mongodb documents.
+[22:09] <[ByQ]Descent> =)
+[22:26] * idur has quit IRC (Quit: Page closed)
+Session Time: Sat Nov 21 00:00:01 2015
+[01:16] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:01] * vixterra has joined #stats.ql
+[02:04] * carmethene has joined #stats.ql
+[02:04] <carmethene> did not know this was a thing
+[02:04] <carmethene> but I love each and every one of you
+[02:04] <tjone270_> now you do :D
+[02:04] <carmethene> people have been asking me about it forever
+[02:04] <carmethene> as if it was in my power to do anythign about it :P
+[02:04] <tjone270_> http://qlstats.net:8080
+[02:04] <tjone270_> seen that yet?
+[02:04] <carmethene> what is the current status btw?
+[02:04] <carmethene> oh yes, my server is feeding into it
+[02:05] <carmethene> I'm at #3 on active servers
+[02:05] <carmethene> speaking of which
+[02:05] <carmethene> PredatH0r: can I add my duel server too?
+[02:05] <tjone270_> Ah :). rulex/PredatH0r/inl would be able to tell you more about how far the project's going.
+[02:06] * tjone270_ has quit IRC (Signed off)
+[02:06] * tjone270 has joined #stats.ql
+[02:06] * Q sets mode: +o tjone270
+[02:07] <PredatH0r> ip / port / pass ?
+[02:08] <carmethene> PredatH0r: same as the one you already have
+[02:08] <carmethene> except 27962
+[02:08] <carmethene> carmethene.com:27962
+[02:09] <carmethene> 27960 is CA which you already have
+[02:09] <carmethene> 61 is Instabounce should you want that
+[02:09] <carmethene> they all share the same pass for stats
+[02:09] <carmethene> wow, I could have said all that in way fewer lines
+[02:09] <PredatH0r> done
+[02:09] <carmethene> thank you :)
+[02:13] * lonewulf has quit IRC (Ping timeout)
+[02:24] <sno> PredatH0r: any requirements for getting servers added to stats gathering on qlstats?
+[02:25] <PredatH0r> atm none
+[02:25] <sno> so doesn't matter if normal qlds or with minqlx etc?
+[02:26] <PredatH0r> atm not, but there might be something later when real data collection / filtering starts
+[02:27] <PredatH0r> right now it's all a mess in the database
+[02:27] <sno> ok, mind adding the omega public ctf servers? we have one in nl and one in de
+[02:27] <PredatH0r> sure. i need ip, port, pass (if any)
+[02:29] <sno> pm'd, ta
+[02:32] <sno> how are stats stored against player names, steamids or nicks?
+[02:32] <PredatH0r> steam-ids
+[02:32] <sno> cool
+[02:33] <sno> how are stats gathered for ctf games?
+[02:35] <sno> i mean is there a team game formula or something
+[02:49] <PredatH0r> tbh, i have no idea. i use the xonstats code from xonotic. it's probably score based
+[03:01] <sno> ah right
+[03:39] * garz has joined #stats.ql
+[03:49] <garz> hi
+[03:56] <[ByQ]Descent> hi
+[04:11] * vks has joined #stats.ql
+[04:11] <garz> i can program and i have a vision for what i would like to do for ql, if i find the time
+[04:11] <garz> what is the status with your vision?
+[04:12] <[ByQ]Descent> =)
+[04:12] <[ByQ]Descent> what the problem just to do it?
+[04:15] <garz> none
+[04:17] <garz> the title of this channel says, its about people collaborating
+[04:17] <garz> maybe i can be a part
+[04:18] <garz> is there anything that is collaboratively done?
+[04:18] <pex> it's 5 different projects all using 5 different technologies, not really worth the effort imo
+[04:21] <garz> why not?
+[04:25] <[ByQ]Descent> mm...every project developed by  author   ...
+[04:26] <garz> ?
+[04:26] <garz> so there are 5 different people doing something like qlranks
+[04:27] <garz> everybody competing with each other
+[04:39] <[ByQ]Descent> everything is in alpha status right now as far as I know .. 
+[04:39] <garz> what else do you know :D
+[04:39] <garz> just tell me everything =)
+[04:54] <[ByQ]Descent> :D
+[04:55] <[ByQ]Descent> ..
+[05:24] * garz has quit IRC (Quit: Page closed)
+[05:58] * PredatH0r is now known as PREDATH0R
+[07:56] * vks has quit IRC (Quit)
+[07:59] * vks has joined #stats.ql
+[08:10] * lonewulf has joined #stats.ql
+[08:11] * lonewulf has quit IRC (Registered)
+[08:11] * lonewulf has joined #stats.ql
+[08:11] * lonewulf has quit IRC (Signed off)
+[08:49] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[11:02] * PerpetualWa_afk is now known as PerpetualWar_
+[11:25] * Dbzruler72 has joined #stats.ql
+[12:22] * b1ngo has joined #stats.ql
+[12:34] * lolca has joined #stats.ql
+[12:36] * lolca is now known as gojira_
+[12:45] <gojira_> how do i get my server on qlstats?
+[12:50] * lonewulfn6 has quit IRC (Ping timeout)
+[13:09] <tjone270> talk to PredatH0r :)
+[13:12] * Dbzruler73 has joined #stats.ql
+[13:13] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[13:13] * Dbzruler73 is now known as Dbzruler72
+[13:14] * Dbzruler72 has quit IRC (Signed off)
+[13:48] * lonewulfn6 has joined #stats.ql
+[14:24] * vixterra has quit IRC (Signed off)
+[14:55] * PREDATH0R is now known as PredatH0r
+[15:08] * b1ngo has quit IRC (Signed off)
+[15:31] * mattiZed has joined #stats.ql
+[17:54] * zippercoat has joined #stats.ql
+[17:57] * teh1337 has quit IRC (Ping timeout)
+[17:57] * zippercoat is now known as teh1337
+[18:15] * idur has joined #stats.ql
+[18:36] * gojira_ has quit IRC (Quit: Leaving)
+[19:21] <sno> PredatH0r: mind adding 2 more servers ? :)
+[19:28] * wdx is now known as wdx2
+[19:32] <PredatH0r> ofc not. as soon as i get the PayPal confirmation :)
+[19:41] * lonewulf has joined #stats.ql
+[19:44] <sno> haha :p
+[19:45] <sno> 46.101.230.5:27961 / 46.101.230.5:27962 cheers
+[19:45] <sno> paypal is in the post ;)
+[19:53] <PredatH0r> same password as the others?
+[19:55] <PredatH0r> well, doesn't work
+[19:56] * pex has quit IRC (Signed off)
+[19:58] <sno> ye same pass
+[19:59] <sno> hmm sec
+[20:00] <sno> yea should work, same pass and ip just next 2 ports
+[20:01] <sno> can see ip connecting in for stats for first one ok
+[20:01] <[ByQ]Descent> =)
+[20:02] <[ByQ]Descent> 2sno: it wasnt actually a joke .. :D
+[20:02] <sno> oh wait, im a newb
+[20:02] <PredatH0r> i can't connect to the 2 ips.
+[20:03] <[ByQ]Descent> =)
+[20:03] <sno> sorry try now PredatH0r 
+[20:03] <sno> had wrong stats port for some reason
+[20:03] <sno> yep see it now, cheers 
+[20:03] <sno> :D
+[20:09] * melba has joined #stats.ql
+[20:09] <PredatH0r> welcome!
+[20:09] <melba> )
+[20:10] <melba> have you looked into trueskill or no time/
+[20:10] <PredatH0r> no. trueskill is patented and licenses are exclusively given out to XBox games
+[20:10] <melba> because i want to run a simulation against some match stats, see how's the rating inflation
+[20:11] <melba> pretty sure you can use it in nonprofit stuff
+[20:11] <melba> at least others are
+[20:12] <PredatH0r> i can send you my match data collection if you like. but it's all unfiltered
+[20:12] <melba> sure np
+[20:12] <PredatH0r> or you can set up your own stats grabber for your servers
+[20:17] <melba> i was going the road of trying to grab stats from pub servers, but if you already have some, even better
+[20:21] <PredatH0r> http://beham.biz/2015-11.zip
+[20:22] <[ByQ]Descent> ..got it
+[20:23] <PredatH0r> some day we should have a discussion in here to figure out the criteria for matches that are included in the ranking/elo calculations
+[20:24] <melba> cool, thanks. i'll report if i come up with some useful result 
+[20:24] <melba> at least to contribute to the tribal knowledge if nothing else )
+[20:36] * pex has joined #stats.ql
+[20:44] * idur slaps wdx2 around a bit with a large fishbot
+[21:49] * b1ngo has joined #stats.ql
+[22:24] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[22:33] * vks has quit IRC (Quit)
+[22:49] * [QLB] has joined #stats.ql
+[22:51] * [QLB] has left #stats.ql
+[22:59] <melba> PredatH0r, is it possible people are playing on many accounts or stealing each other's nicks? )
+[22:59] <melba> have you noticed anything like that
+[22:59] <[ByQ]Descent> =)
+[23:00] <PredatH0r> anyone can have any nick
+[23:00] <PredatH0r> i just played vs. a polish sya_
+[23:01] <[ByQ]Descent> yesterday  ffa server joined putin and played wavs: putins talks, USSR hymn and etc .. :D
+[23:01] <PredatH0r> yea, he does it all the time. also the screaming monkeys
+[23:02] <[ByQ]Descent> ..
+[23:02] <melba> nice
+[23:05] <melba> http://pastebin.com/SbbFMLZb
+[23:05] <melba> scroll down
+[23:05] <melba> at bottom in fact ;d
+[23:10] <melba> forgot to remove instagib
+[23:12] <[ByQ]Descent> and..
+[23:12] <melba> http://pastebin.com/uVM5699E
+[23:13] <melba> without insta
+[23:13] <PredatH0r> you should do that by steam-id, not by nickname
+[23:14] <PredatH0r> i appear multiple times with different color codes
+[23:15] <melba> it is by steamid
+[23:15] <PredatH0r> i just noticed. i see 2 different steam IDs for my nick
+[23:15] <melba> yes
+[23:15] <melba> that's why my initial question
+[23:15] <PredatH0r> and neigher one is ranked as good as it should be :)
+[23:18] <PredatH0r> actually, neither one of these 2 IDs is mine
+[23:21] <[ByQ]Descent> :D
+[23:25] <PredatH0r> they belong to "istwo" and "BlinD". according to the steam profile, they never used my nick
+[23:25] <PredatH0r> oooooooh, i guess i know
+[23:25] <PredatH0r> melba: listen up!
+[23:25] <melba> i fixed that
+[23:25] <PredatH0r> in the earlier files, i did not filter out the WARMUP stuff
+[23:26] <PredatH0r> also, by speccing someone, they BECOME that player, including the steamid
+[23:26] <[ByQ]Descent> >:-[         ]
+[23:28] * zurn has quit IRC (Signed off)
+[23:37] <PredatH0r> wtf. i found my steam id in your data. nickname "ArseMaster"
+[23:37] <melba> i fixed that already
+[23:37] <melba> )
+[23:38] <PredatH0r>  :)
+[23:38] <PredatH0r> ok. so no fundamental data problem?
+[23:46] <melba> http://pastebin.com/Ff3a2r4R
+[23:46] <melba> looks better
+[23:46] <melba> hopefully ur id is correct )
+[23:48] <melba> data should be fine
+[23:49] <PredatH0r> looks a lot better
+[23:57] <melba> the code http://pastebin.com/xLFN77PC
+Session Time: Sun Nov 22 00:00:00 2015
+[00:09] <PredatH0r> i trying to find any reliable source about the trueskill license model. but there is none
+[00:10] <PredatH0r> the guy who wrote the python implementation mentioned that it's free for non-commercial, but i can't find any confirmation for that
+[00:10] <melba> yeah it's a gray area
+[00:11] <melba> don't use it if you are worried
+[00:12] <melba> but i'm not happy with elo for the team modes, so i had to do this
+[00:15] <PredatH0r> did you take a look at the xonstat/qlstats rating code?
+[00:15] <melba> yeah it uses sqlalchemy
+[00:15] <melba> and i always think twice before learning yet another orm
+[00:15] <melba> )
+[00:16] <melba> it's gonna be a mess to change it
+[00:16] <PredatH0r> efforts are underway to completely replace qlstats
+[00:17] <PredatH0r> with something javascript / angularjs / nodejs /reactjs / mongoose / mogodb / redis / .... based
+[00:17] <melba> yeah i'm not touching that
+[00:17] <melba> )
+[00:17] <melba> i just told them to use trueskill a few times
+[00:17] <melba> but i doubt they will
+[00:22] <PredatH0r> i'd prefer if rating numbers were transparent. they should only be used for matchmaking/shuffling
+[00:23] <PredatH0r> ocd makes people do weired things
+[00:23] <melba>  yeah was just talking to stitch about it
+[00:24] <melba>  someone for lolca should make a minqlx shuffle plugin, i guess they are suffering the most
+[00:25] <PredatH0r> right. i talked to mino yesterday
+[00:25] <PredatH0r> i added an API URL to expose the rating values from qlstats.net for the time being
+[00:25] <PredatH0r> it's using the same input/output as qlranks did, so it should be straight forward to implement
+[00:26] <PredatH0r> i even ported my /elo userscript, but i won't make it public
+[00:26] <melba> )
+[00:27] <PredatH0r> the source code acutally is. but i won't bundle it with extraql
+[00:49] <melba> PLAY_TIME i assume is since connected to server
+[00:49] <melba> not since game started
+[00:53] * melba_ has joined #stats.ql
+[00:53] <melba_> final attempt http://pastebin.com/U0FupCDR
+[00:53] <melba_> works well imo
+[00:55] * melba has quit IRC (Ping timeout)
+[00:56] <PredatH0r> there is indeed something fishy with playtime
+[00:56] <PredatH0r> i've seen players with 20h playtime out of a 10min match
+[00:58] * idur has quit IRC (Quit: Page closed)
+[00:59] <PredatH0r> i like the final version. i'm in the top 40 :)
+[00:59] <melba_> no point punishing quits in ffa
+[00:59] <melba_> which changes the rating's meaning from how likely you are to win the game itself to how likely are you to score more than others
+[01:00] <PredatH0r> what do you mean? are you now extrapolating score/kill/death from playtime to matchtime?
+[01:01] <melba_> i was thinking about it, because trueskill supports it, but don't think we have that data
+[01:01] <PredatH0r> are you aggregating playtime/score if a player appears multiple times in a game (e.g. switching to spec and back)
+[01:01] <melba_> server reports the total 
+[01:02] <melba_> at least it used to
+[01:02] <PredatH0r> cool
+[01:02] <melba_> i doubt they changed it
+[01:03] <PredatH0r> time for some bg ffa
+[01:03] <melba_> )
+[01:40] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:40] * PerpetualWa_afk is now known as PerpetualWar_
+[02:09] * vixterra has joined #stats.ql
+[02:10] <inl> splurgh, data schemas coming along nicely. I'm managed to have a sort of optimized way of storing data up until match_report data event. (player_connect, player_disconnect, player_stats). Once i've completed the unit tests for match_report event I'd say the core db model/ persistance should be in place, i'll be publishing the repo once the last bit is in place and all unit tests pass.
+[02:31] * b1ngo has quit IRC (Signed off)
+[03:18] * PerpetualWar_ is now known as PerpetualWa_afk
+[04:14] * ph0en|X has joined #stats.ql
+[04:38] * ph0en|X has left #stats.ql
+[04:55] * melba_ has quit IRC (Ping timeout)
+[05:42] * PredatH0r is now known as PREDATH0R
+[06:45] * lonewulf has quit IRC (Signed off)
+[06:53] * lonewulf has joined #stats.ql
+[10:28] * PerpetualWa_afk is now known as PerpetualWar_
+[11:26] * vks has joined #stats.ql
+[12:37] * PREDATH0R is now known as PredatH0r
+[12:40] * melba has joined #stats.ql
+[13:52] * vks has quit IRC (Quit)
+[15:32] * vixterra has quit IRC (Signed off)
+[16:47] * idur has joined #stats.ql
+[18:08] * thunderboss has quit IRC (Ping timeout)
+[18:26] * Kal has joined #stats.ql
+[18:47] * vks has joined #stats.ql
+[19:00] * Disconnected
+Session Close: Sun Nov 22 19:00:29 2015
+
+Session Start: Mon Nov 23 18:49:05 2015
+Session Ident: #stats.ql
+[18:49] * Now talking in #stats.ql
+[18:49] * Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-server-monitor'
+[18:49] * Set by inl on Fri Nov 13 21:59:40
+[19:37] * mattiZed has joined #stats.ql
+[20:53] * mattiZed` has joined #stats.ql
+[20:53] * mattiZed` has quit IRC (Quit: Leaving...)
+[21:44] * cenix has quit IRC (Ping timeout)
+[22:18] * melba has quit IRC (Ping timeout)
+[22:37] * CENiX has joined #stats.ql
+[22:37] * CENiX is now known as cenix
+[22:46] * idur has joined #stats.ql
+Session Time: Tue Nov 24 00:00:00 2015
+[00:26] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[00:54] * idur has quit IRC (Quit: Page closed)
+[01:03] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:12] * cenix is now known as CENiX
+[02:37] * carmethene has quit IRC (Signed off)
+[02:38] * carmethene has joined #stats.ql
+[03:27] * lonewulf has quit IRC (Signed off)
+[03:42] * PredatH0r is now known as PREDATH0R
+[03:45] * CENiX is now known as cenix
+[03:47] * vks has joined #stats.ql
+[04:20] * lonewulf has joined #stats.ql
+[04:22] * cenix is now known as CENiX
+[06:45] * vks has quit IRC (Quit)
+[06:48] * vks has joined #stats.ql
+[06:54] * zurn has joined #stats.ql
+[07:56] * vixterra has joined #stats.ql
+[10:30] * mattiZed has joined #stats.ql
+[11:46] * PREDATH0R is now known as PredatH0r
+[12:04] * PerpetualWa_afk is now known as PerpetualWar_
+[12:27] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:20] * vks has quit IRC (Read error: EOF from client)
+[17:28] * CENiX is now known as cenix
+[18:08] * Apedog has joined #stats.ql
+[18:09] * Apedog has left #stats.ql (Leaving)
+[18:48] * lonewulf has quit IRC (Signed off)
+[18:56] * mattiZed has quit IRC (Quit: Leaving)
+[18:58] * lonewulf has joined #stats.ql
+[19:20] <PredatH0r> did anyone look further at MATCH_REPORT.GAME_LENGTH ?
+[19:23] <PredatH0r> nvm
+[19:24] * PerpetualWa_afk is now known as PerpetualWar_
+[20:26] <PredatH0r> fyi: PLAYER_STATS.PLAY_TIME can be off by days, so use Math.min(PLAYER_STATS.PLAY_TIME, MATCH_REPORT.GAME_LENGTH) to handle the worst cases
+[20:45] <rulex> yea i asked sponge about that a few months ago
+[21:34] * idur has joined #stats.ql
+[21:44] * vks has joined #stats.ql
+[23:29] * idur has quit IRC (Quit: Page closed)
+[23:33] <sno> PredatH0r: are stats updating ok?
+[23:37] <PredatH0r> dunno. are there any issues?
+[23:37] <PredatH0r> crap, no, something is wrong
+[23:38] <sno> no updates for 21hrs here, but servers been busy
+[23:38] <sno> seems 3hrs ago it stopped update for other servers?
+[23:48] <PredatH0r> fixed. also reloaded all of today's matches
+Session Time: Wed Nov 25 00:00:00 2015
+[00:08] <sno> cheers
+[00:08] <sno> what was wrong PredatH0r ?
+[00:11] <PredatH0r> typo in a bugfix :/
+[00:12] <sno> :D
+[00:12] <sno> 'lets do it life'
+[00:12] <sno> live* :p
+[00:13] <PredatH0r> i even tested it. but the error doesn't show up in the script that i "fixed"
+[00:13] <PredatH0r> it just sent bad data to the HTTP servlet, which failed to insert it in the DB. that part i didn't see
+[00:14] <sno> k thanks for sorting out
+[00:15] <PredatH0r> rofl. i idled 2 games on a server while i fixed this. now i got -33 Elo points for it :)
+[00:15] <PredatH0r> screw those damn rating sites
+[00:16] <sno> tier 1 for you
+[00:17] <PredatH0r> nah. we should just come up with some data clensing criteria
+[01:16] * PerpetualWar_ is now known as PerpetualWa_afk
+[04:33] * PredatH0r is now known as PREDATH0R
+[04:49] * cenix is now known as CENiX
+[05:14] * syncore has quit IRC (Signed off)
+[05:20] * syncore has joined #stats.ql
+[06:28] * vks has quit IRC (Read error: Connection reset by peer)
+[06:34] * vks has joined #stats.ql
+[06:55] * CENiX has quit IRC (Ping timeout)
+[06:55] * CENiX has joined #stats.ql
+[10:31] * PerpetualWa_afk is now known as PerpetualWar_
+[10:37] * PerpetualWar_ is now known as PerpetualWa_afk
+[12:29] * v1c` has joined #stats.ql
+[12:53] * b1ngo has joined #stats.ql
+[12:55] * mattiZed has joined #stats.ql
+[12:56] * CENiX has quit IRC (Ping timeout)
+[13:01] * CENiX has joined #stats.ql
+[13:08] * PREDATH0R is now known as PredatH0r
+[13:14] * tjone270 has quit IRC (Read error: Connection reset by peer)
+[13:14] * tjone270 has joined #stats.ql
+[13:15] * Q sets mode: +o tjone270
+[13:41] * b1ngo has quit IRC (Signed off)
+[13:43] * ogn1b has joined #stats.ql
+[13:46] * ogn1b has quit IRC (Signed off)
+[13:46] * vixterra has quit IRC (Signed off)
+[14:05] * tjone270 has quit IRC (Signed off)
+[14:39] * PerpetualWa_afk is now known as PerpetualWar_
+[14:45] * idur has joined #stats.ql
+[14:47] * v1c`aw has joined #stats.ql
+[14:52] * v1c` has quit IRC (Ping timeout)
+[15:55] * vks has quit IRC (Read error: EOF from client)
+[15:57] * lonewulfn6 has quit IRC (Ping timeout)
+[17:24] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[17:29] * mattiZed has joined #stats.ql
+[17:29] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:34] * mattiZed has quit IRC (Quit: Leaving...)
+[17:56] * idur has quit IRC (Ping timeout)
+[18:06] * b1ngo has joined #stats.ql
+[18:07] * PerpetualWa_afk is now known as PerpetualWar_
+[18:09] * b1ngo2 has joined #stats.ql
+[18:09] * b1ngo is now known as b1ngo|offline
+[18:10] * b1ngo2 has quit IRC (EOF from client)
+[18:11] * b1ngo|offline is now known as b1ngo
+[18:11] * b1ngo2 has joined #stats.ql
+[18:11] * b1ngo2 has quit IRC (EOF from client)
+[18:12] * b1ngo is now known as b1ngo|offline
+[18:15] * b1ngo|offline is now known as b1ngo
+[18:35] * b1ngo has quit IRC (Signed off)
+[18:39] * away has joined #stats.ql
+[18:39] * away is now known as b1ngo
+[18:50] * b1ngo has quit IRC (Signed off)
+[18:51] * away has joined #stats.ql
+[18:52] * away is now known as b1ngo
+[19:19] * b1ngo is now known as b1ngo|offline
+[20:06] * lonewulfn6 has joined #stats.ql
+[20:22] * lonewulf has quit IRC (Signed off)
+[20:59] * v1c`aw is now known as v1c`
+[21:06] * v1c` has quit IRC (Signed off)
+[21:16] * Yakumo` has joined #stats.ql
+[21:17] * Yakumo` has left #stats.ql
+[21:18] * Yakumo` has joined #stats.ql
+[21:21] * miiiax has joined #stats.ql
+[21:52] * b1ngo|offline is now known as b1ngo
+[22:01] * CENiX is now known as cenix
+[22:14] * Yakumo` has quit IRC (Signed off)
+[22:23] * miiiax has quit IRC (Read error: Connection reset by peer)
+[23:50] * lonewulf has joined #stats.ql
+[23:59] * PerpetualWar_ is now known as PerpetualWa_afk
+Session Time: Thu Nov 26 00:00:00 2015
+[01:16] * b1ngo is now known as b1ngo|offline
+[02:27] * vixterra has joined #stats.ql
+[02:37] * vks has joined #stats.ql
+[02:45] * cenix is now known as CENiX
+[02:54] * PredatH0r is now known as PREDATH0R
+[03:58] * CENiX has quit IRC (Ping timeout)
+[04:05] * CENiX has joined #stats.ql
+[05:09] * wdx2 has quit IRC (Ping timeout)
+[05:15] * wdx2 has joined #stats.ql
+[05:15] * Q sets mode: +o wdx2
+[05:29] * vixterra has quit IRC (Signed off)
+[12:37] * PREDATH0R is now known as PredatH0r
+[13:51] * vixterra has joined #stats.ql
+[14:23] * mattiZed has joined #stats.ql
+[14:35] * Vo0Do0 has joined #stats.ql
+[16:55] * vks has quit IRC (Quit)
+[17:52] * vks has joined #stats.ql
+[17:55] * mattiZed has quit IRC (Quit: Leaving)
+[17:59] * vks has quit IRC (Quit)
+[17:59] * vks has joined #stats.ql
+[18:05] * mattiZed has joined #stats.ql
+[19:17] * vks has quit IRC (Read error: Connection reset by peer)
+[19:25] * CENiX is now known as cenix
+[19:28] * b1ngo|offline is now known as b1ngo
+[19:45] * Vo0Do0 has quit IRC (Signed off)
+[19:50] * Vo0Do0 has joined #stats.ql
+[19:52] * b1ngo has quit IRC (Registered)
+[19:52] * b1ngo has joined #stats.ql
+[20:09] * PerpetualWa_afk is now known as PerpetualWar_
+[20:40] * PerpetualWar_ is now known as PerpetualWa_afk
+[20:42] * PerpetualWa_afk is now known as PerpetualWar_
+[21:43] * tjone270 has joined #stats.ql
+[21:43] * Q sets mode: +o tjone270
+[21:44] * Melodeiro has joined #stats.ql
+[21:47] <mattiZed> hey PredatH0r 
+[21:47] <mattiZed> looks like you got old ips
+[21:47] <mattiZed> i changed the ip behind the dns fra.naked-ql.de ... can you update that?
+[21:47] <PredatH0r> 1-900-ADD-SERVER
+[21:47] <mattiZed> :D
+[21:49] <PredatH0r> port 27961+2, 71+2, 81+2, 91 ?
+[21:50] <mattiZed> correct
+[21:51] <PredatH0r> done
+[22:40] * vixterra has quit IRC (Signed off)
+[22:49] <[ByQ]Descent> .. 10$/1sec
+[22:52] <[ByQ]Descent> 2PredatH0r: can you link 1-900-USE-SERVER direct to the servers stats?  #:]
+[23:11] * tjone270 has quit IRC (Signed off)
+[23:41] * tjone270 has joined #stats.ql
+[23:41] * Q sets mode: +o tjone270
+[23:52] * vixterra has joined #stats.ql
+Session Time: Fri Nov 27 00:00:01 2015
+[00:45] <[ByQ]Descent> `..
+[00:50] * b1ngo is now known as b1ngo|offline
+[01:51] * xLink has quit IRC (EOF from client)
+[02:02] * mattiZed has quit IRC (Quit: Leaving)
+[02:09] * xLink has joined #stats.ql
+[02:33] * PerpetualWar_ is now known as PerpetualWa_afk
+[03:59] * zurn has quit IRC (Ping timeout)
+[04:01] * zurn has joined #stats.ql
+[04:06] * G1N-zurn has joined #stats.ql
+[04:10] * zurn has quit IRC (Ping timeout)
+[04:10] * zurn has joined #stats.ql
+[04:14] * G1N-zurn has quit IRC (Ping timeout)
+[04:18] * zurn has quit IRC (Ping timeout)
+[04:19] * zurn has joined #stats.ql
+[04:21] * G1N-zurn has joined #stats.ql
+[04:26] * zurn has quit IRC (Ping timeout)
+[04:30] * PredatH0r is now known as PREDATH0R
+[05:34] * cenix is now known as CENiX
+[06:58] * lonewulfn6 has quit IRC (Ping timeout)
+[10:04] * mattiZed has joined #stats.ql
+[13:27] * vks has joined #stats.ql
+[13:44] * PREDATH0R is now known as PredatH0r
+[13:46] * mattiZed has quit IRC (Quit: Leaving)
+[13:50] * vixterra has quit IRC (Signed off)
+[14:19] * b1ngo|offline is now known as b1ngo
+[14:53] * b1ngo is now known as b1ngo|offline
+[16:05] * sda has joined #stats.ql
+[16:12] * xLink has quit IRC (EOF from client)
+[16:17] * xLink has joined #stats.ql
+[17:07] * G1N-zurn is now known as zurn
+[17:08] * lonewulfn6 has joined #stats.ql
+[17:11] * lonewulf has quit IRC (Signed off)
+[17:27] * sda has quit IRC (Ping timeout)
+[18:45] * PerpetualWa_afk is now known as PerpetualWar_
+[18:55] * CENiX is now known as cenix
+[19:06] * cenix is now known as CENiX
+[19:44] * lonewulf has joined #stats.ql
+[19:44] * lonewulf has quit IRC (Signed off)
+[19:50] * DefDogs has joined #stats.ql
+[20:31] * lonewulf has joined #stats.ql
+[20:32] * lonewulf has quit IRC (Signed off)
+[20:36] * lonewulf has joined #stats.ql
+[21:00] * idur has joined #stats.ql
+[21:52] * ph0en|X has joined #stats.ql
+[21:52] * lonewulf has quit IRC (Signed off)
+[21:56] * lonewulf has joined #stats.ql
+[22:04] * CENiX is now known as cenix
+[22:06] * cenix is now known as CENiX
+[22:07] * CENiX is now known as cenix
+[22:08] * cenix is now known as CENiX
+[22:20] * CENiX is now known as cenix
+[23:34] * Kingsman has joined #stats.ql
+Session Time: Sat Nov 28 00:00:00 2015
+[00:11] * DefDogs has quit IRC (Signed off)
+[01:18] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:43] * BarelyMiSSeD has joined #stats.ql
+[01:56] * ph0en|X has left #stats.ql
+[01:59] * idur has quit IRC (Quit: Page closed)
+[02:08] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[03:22] * BarelyMiSSeD has quit IRC (Quit: Page closed)
+[03:45] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[05:24] * cenix is now known as CENiX
+[05:26] * CENiX is now known as cenix
+[05:37] * PredatH0r is now known as PREDATH0R
+[06:41] * cenix is now known as CENiX
+[08:51] * carmethene has left #stats.ql
+[09:00] * lonewulf has quit IRC (Signed off)
+[09:02] * lonewulf has joined #stats.ql
+[09:32] * vixterra has joined #stats.ql
+[10:26] * vks has quit IRC (Quit)
+[10:33] * vks has joined #stats.ql
+[11:26] * vks has quit IRC (Quit)
+[11:28] * PerpetualWa_afk is now known as PerpetualWar_
+[11:33] * PerpetualWar_ is now known as PerpetualWa_afk
+[11:42] * mattiZed has joined #stats.ql
+[12:46] * CENiX has quit IRC (Ping timeout)
+[12:52] * CENiX has joined #stats.ql
+[13:06] * PerpetualWa_afk is now known as PerpetualWar_
+[14:01] * PREDATH0R is now known as PredatH0r
+[14:38] * vixterra has quit IRC (Signed off)
+[14:40] * b1ngo|offline is now known as b1ngo
+[14:46] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[15:22] * PerpetualWar_ is now known as PerpetualWa_afk
+[15:43] * PerpetualWa_afk is now known as PerpetualWar_
+[15:44] * idur has joined #stats.ql
+[15:59] * DPHOME has joined #stats.ql
+[15:59] * b1ngo is now known as b1ngo|offline
+[16:12] * Vo0Do0 is now known as Vo0Do0^afk
+[16:49] * tjone270 has quit IRC (Signed off)
+[17:37] * tjone270 has joined #stats.ql
+[17:37] * Q sets mode: +o tjone270
+[17:43] * CENiX is now known as cenix
+[18:11] * vks has joined #stats.ql
+[18:41] * Gelenkbusfahrer has joined #stats.ql
+[18:42] <[ByQ]Descent> =)
+[19:01] * DefDogs has joined #stats.ql
+[19:28] * mattiZed has joined #stats.ql
+[19:58] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[20:35] * DPHOME has quit IRC (Signed off)
+[21:09] * zippercoat has joined #stats.ql
+[21:13] * teh1337 has quit IRC (Ping timeout)
+[21:13] * zippercoat is now known as teh1337
+[22:25] * inl has quit IRC (Ping timeout)
+[22:26] * inl has joined #stats.ql
+[22:53] * lonewulf has quit IRC (Signed off)
+[23:00] * lonewulf has joined #stats.ql
+[23:03] * idur has quit IRC (Quit: Page closed)
+[23:06] * tjone270 has quit IRC (Quit: Leaving)
+[23:06] * tjone270 has joined #stats.ql
+[23:06] * Q sets mode: +o tjone270
+Session Time: Sun Nov 29 00:00:00 2015
+[00:14] * PredatH0r is now known as only
+[00:14] * only is now known as PredatH0r
+[01:34] * Kingsman has joined #stats.ql
+[01:53] * shaun has joined #stats.ql
+[02:33] * PerpetualWar_ is now known as PerpetualWa_afk
+[03:14] * cenix is now known as CENiX
+[03:28] * DefDogs has quit IRC (Ping timeout)
+[04:03] * Disconnected
+Session Close: Sun Nov 29 04:03:40 2015
+
+Session Start: Mon Nov 30 20:26:57 2015
+Session Ident: #stats.ql
+[20:26] * Now talking in #stats.ql
+[20:26] * Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-server-monitor (0.0.4) / https://github.com/swallentin/ql-stats-models (0.0.1)'
+[20:26] * Set by inl on Mon Nov 30 02:50:14
+[20:27] * DefDogs has joined #stats.ql
+[20:37] * strat0 has joined #stats.ql
+[20:38] <strat0> so, like the rest of the quake world, I too would like to run with !elo shuffles and stats on my servers.... 
+[20:40] <strat0> anyone have a link for the whole process?
+[20:42] <strat0> I am just running stock CA servers now.
+[20:43] <sno> hey strat0 , 2 parts to it, 1 is setup minqlx and use balance plugin , 2nd is ask PredatH0r very nicely if he would mind adding your server as one that gets polled by qlstats website
+[20:43] <strat0> ah well, I should take care of the first part... setup minqlx and use the balance plugin... where might I find those?
+[20:44] <sno> url is https://github.com/MinoMino/minqlx , theres also an irc channel #minqlbot on quakenet
+[20:44] <strat0> ty! Is it hard to setup?
+[20:44] <sno> 2 parts to minqlx, the main program then the plugins repo, balance.py is in the develop branch so you'd have to use minqlx devel and plugins devel to use it
+[20:44] <sno> instructions are pretty good, was easy enough though
+[20:46] <strat0> well, im kinda new to all this server setup stuff... 
+[20:46] <sno> if you got ql ca server going then shouldn't be an issue, but just ask if you are stuck in the minql chan
+[20:46] <strat0> ty!
+[20:47] <sno> np, hf
+[21:05] * CENiX is now known as cenix
+[21:07] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[21:12] * b1ngo|offline is now known as b1ngo
+[21:18] * xLink has quit IRC (Ping timeout)
+[21:30] * DefDogs has quit IRC (Ping timeout)
+[23:18] * syncore has quit IRC (Signed off)
+[23:20] * vks has quit IRC (Read error: EOF from client)
+[23:23] * syncore has joined #stats.ql
+[23:23] * vks has joined #stats.ql
+[23:31] * wdx2 has quit IRC (Signed off)
+[23:32] * wdx2 has joined #stats.ql
+[23:32] * Q sets mode: +o wdx2
+[23:47] * xLink has joined #stats.ql
+Session Time: Tue Dec 01 00:00:00 2015
+[01:01] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:05] * mattiZed has quit IRC (Quit: Leaving)
+[01:22] * b1ngo is now known as b1ngo|offline
+[01:37] * strat0 has quit IRC (Quit: Page closed)
+[02:21] * fo_tbh has joined #stats.ql
+[02:49] * vixterra has joined #stats.ql
+[04:22] * vixterra has quit IRC (Signed off)
+[04:25] * cenix is now known as CENiX
+[04:25] * CENiX is now known as cenix
+[05:26] * cenix is now known as CENiX
+[05:32] * tjone270 has joined #stats.ql
+[05:32] * Q sets mode: +o tjone270
+[05:43] * tjone270 has quit IRC (Signed off)
+[05:44] * tjone270 has joined #stats.ql
+[05:44] * Q sets mode: +o tjone270
+[05:51] * PredatH0r is now known as PREDATH0R
+[06:09] * tjone270 has quit IRC (Signed off)
+[06:16] * tjone270 has joined #stats.ql
+[06:16] * Q sets mode: +o tjone270
+[07:38] * G1N-zurn has joined #stats.ql
+[07:39] * zippercoat has joined #stats.ql
+[07:39] * teh1337 has quit IRC (Ping timeout)
+[07:39] * zippercoat is now known as teh1337
+[07:42] * ChainsawHailsto has joined #stats.ql
+[07:43] * zurn has quit IRC (Ping timeout)
+[10:17] * PerpetualWa_afk is now known as PerpetualWar_
+[10:31] * PerpetualWar_ is now known as PerpetualWa_afk
+[12:42] * b1ngo|offline is now known as b1ngo
+[13:01] * b1ngo is now known as b1ngo|offline
+[14:20] * PREDATH0R is now known as PredatH0r
+[14:28] * mattiZed has joined #stats.ql
+[14:29] * Marcus`` has joined #stats.ql
+[14:30] * Marcus`` has left #stats.ql
+[15:01] * vixterra has joined #stats.ql
+[15:34] * CENiX is now known as cenix
+[15:49] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[16:01] * mattiZed has joined #stats.ql
+[16:08] * PerpetualWa_afk is now known as PerpetualWar_
+[16:27] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:03] * DieselPower has joined #stats.ql
+[17:10] * PaasHaas has joined #stats.ql
+[17:26] * PerpetualWa_afk is now known as PerpetualWar_
+[17:31] * PerpetualWar_ is now known as PerpetualWa_afk
+[18:09] * PerpetualWa_afk is now known as PerpetualWar_
+[18:16] * G1N-zurn is now known as zurn
+[18:18] * b1ngo|offline is now known as b1ngo
+[19:34] * bertox has joined #stats.ql
+[19:38] * bertox has quit IRC (Signed off)
+[19:38] * bertox has joined #stats.ql
+[19:38] * bertox has quit IRC (Signed off)
+[19:38] * bertox has joined #stats.ql
+[20:02] * b1ngo is now known as b1ngo|offline
+[20:12] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[22:43] * Kingsman has joined #stats.ql
+[23:42] * b1ngo|offline is now known as b1ngo
+[23:45] * LesTR has joined #stats.ql
+[23:47] * LesTR has left #stats.ql
+Session Time: Wed Dec 02 00:00:00 2015
+[00:44] * b1ngo is now known as b1ngo|offline
+[01:16] * Kingsman has quit IRC (Ping timeout)
+[02:11] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:52] * vixterra has quit IRC (Signed off)
+[03:09] * vks has quit IRC (Quit)
+[03:16] <tjone270> hello
+[03:16] <DieselPower> hi
+[03:16] <DieselPower> Happy Wednesday !
+[03:16] <tjone270> sorry, used the /wallchan command
+[03:16] <tjone270> yes :D
+[03:17] <tjone270> happy wednesday indeed
+[03:17] <DieselPower> :D
+[03:17] * DieselPower :D
+[03:17] <DieselPower> :(
+[03:20] * vks has joined #stats.ql
+[03:25] * DieselPower is now known as DP^QLive
+[03:28] * DP^QLive is now known as DieselPower
+[03:39] * DieselPower is now known as DP^QLive
+[04:00] * DP^QLive is now known as DieselPower
+[04:25] * DieselPower is now known as DP^QLive
+[04:26] * DP^QLive is now known as DieselPower
+[04:27] * DieselPower is now known as DP^QLive
+[04:29] * DP^QLive is now known as DieselPower
+[04:30] * cenix is now known as CENiX
+[04:52] * PredatH0r is now known as PREDATH0R
+[05:43] * lonewulf has quit IRC (Signed off)
+[05:45] * lonewulf has joined #stats.ql
+[06:30] * DieselPower is now known as DP^QLive
+[07:03] * DP^QLive is now known as DieselPower
+[07:59] * bertox has quit IRC (Ping timeout)
+[08:35] * DieselPower is now known as DP^QLive
+[08:37] * DP^QLive is now known as DieselPower
+[09:59] * PerpetualWa_afk is now known as PerpetualWar_
+[10:20] * DieselPower is now known as DP^QLive
+[10:29] * DP^QLive is now known as DieselPower
+[11:32] * shaun has quit IRC (EOF from client)
+[11:49] * mattiZed has joined #stats.ql
+[12:12] * PREDATH0R is now known as PredatH0r
+[12:15] * CENiX has quit IRC (Ping timeout)
+[12:15] * vks has quit IRC (Quit)
+[12:20] * CENiX has joined #stats.ql
+[12:20] * vks has joined #stats.ql
+[12:24] * vks has quit IRC (Quit)
+[12:36] * vks has joined #stats.ql
+[12:40] * b1ngo|offline is now known as b1ngo
+[12:45] * tjone270 has quit IRC (Signed off)
+[12:51] * vixterra has joined #stats.ql
+[13:26] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[14:04] * tjone270 has joined #stats.ql
+[14:04] * Q sets mode: +o tjone270
+[14:14] * CENiX has quit IRC (Ping timeout)
+[14:21] * CENiX has joined #stats.ql
+[14:21] * b1ngo is now known as b1ngo|offline
+[14:34] * mattiZed has joined #stats.ql
+[16:32] * tjone270 has quit IRC (Ping timeout)
+[17:15] * CENiX has quit IRC (Ping timeout)
+[17:20] * vixterra has quit IRC (Signed off)
+[17:22] * CENiX has joined #stats.ql
+[17:30] * tjone270 has joined #stats.ql
+[17:30] * Q sets mode: +o tjone270
+[17:37] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:48] * mattiZed has quit IRC (EOF from client)
+[18:19] * CENiX is now known as cenix
+[18:42] * PerpetualWa_afk is now known as PerpetualWar_
+[19:00] * bertox has joined #stats.ql
+[19:12] * lonewulfn6 has quit IRC (Ping timeout)
+[19:32] * lonewulfn6 has joined #stats.ql
+[20:32] * b1ngo|offline is now known as b1ngo
+[21:42] * xLink has quit IRC (EOF from client)
+[21:51] * xLink has joined #stats.ql
+[21:52] * Kingsman has joined #stats.ql
+[22:03] * bertox has quit IRC (Ping timeout)
+[22:28] * fo_tbh has quit IRC (Signed off)
+[22:29] * fo_tbh has joined #stats.ql
+[23:15] * tjone270 has quit IRC (Read error: Connection reset by peer)
+[23:23] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[23:31] <PredatH0r> rulex, inl: anyone of you already filling mongodb with the json data?
+[23:59] * PerpetualWar_ is now known as PerpetualWa_afk
+Session Time: Thu Dec 03 00:00:00 2015
+[00:08] <sno> PredatH0r: qlstats just died?
+[00:09] <PredatH0r> i know, i'm rebooting
+[00:09] <PredatH0r> stats files are collected on a 2nd box atm
+[00:09] <sno> ahh k
+[00:23] <PredatH0r> back online
+[00:27] <sno> ta pred
+[00:28] <PredatH0r> pffff. done with the reboot, restarted windows update ... more updates and another pending reboot :/
+[00:28] <PredatH0r> f* that
+[00:28] <sno> \windows/
+[00:28] <sno> :)
+[00:28] <PredatH0r> right. linux uses just dont ever run updates, that's the difference
+[00:29] <PredatH0r> 50% kidding ofc.
+[00:29] <sno> ;)
+[00:30] * pex has joined #stats.ql
+[00:31] * tjone270 has joined #stats.ql
+[00:31] * Q sets mode: +o tjone270
+[00:31] * tjone270_ has joined #stats.ql
+[00:31] * Q sets mode: +o tjone270_
+[00:32] * tjone270 has quit IRC (Signed off)
+[00:32] * tjone270_ has quit IRC (Signed off)
+[00:32] * tjone270 has joined #stats.ql
+[00:32] * Q sets mode: +o tjone270
+[00:39] * PaasHaas is now known as Paas|AFK
+[00:57] * lonewulfn6 has quit IRC (Ping timeout)
+[01:04] * b1ngo is now known as b1ngo|offline
+[01:27] * b1ngo|offline is now known as b1ngo
+[01:29] * b1ngo is now known as b1ngo|offline
+[01:46] * lonewulfn6 has joined #stats.ql
+[02:22] * PredatH0r has quit IRC (Ping timeout)
+[02:22] * PredatH0r has joined #stats.ql
+[02:22] * PredatH0r has quit IRC (Registered)
+[02:22] * PredatH0r has joined #stats.ql
+[02:22] * Q sets mode: +o PredatH0r
+[02:52] * vixterra has joined #stats.ql
+[03:00] * Paas|AFK has quit IRC (Read error: Connection reset by peer)
+[03:06] * DieselPower is now known as DP^QLive
+[03:19] * DP^QLive is now known as DieselPower
+[04:23] * PredatH0r is now known as PREDATH0R
+[04:33] * bertox has joined #stats.ql
+[04:58] * vixterra has quit IRC (Signed off)
+[05:15] * vks has quit IRC (Quit)
+[06:42] * cenix is now known as CENiX
+[06:59] * CENiX is now known as cenix
+[06:59] * cenix is now known as CENiX
+[07:05] <rulex> PREDATH0R: Im not filling mongodb with anything except a few tests
+[07:06] <rulex> not sure about inl but he is at least saving from his own servers
+[08:40] * vks has joined #stats.ql
+[10:01] * PerpetualWa_afk is now known as PerpetualWar_
+[10:15] * bertox has quit IRC (Ping timeout)
+[11:00] <PerpetualWar_> join #capickup for quality Quake Live CA games
+[11:01] * PerpetualWar_ is now known as PerpetualWa_afk
+[11:54] * b1ngo|offline is now known as b1ngo
+[12:32] * PaasHaas has joined #stats.ql
+[12:41] * mattiZed has joined #stats.ql
+[13:04] * vks has quit IRC (Quit)
+[13:25] * vks has joined #stats.ql
+[13:54] * PREDATH0R is now known as PredatH0r
+[14:21] * fo_tbh has quit IRC (Signed off)
+[14:22] * fo_tbh has joined #stats.ql
+[14:34] * zurn has quit IRC (Signed off)
+[15:05] * vks has quit IRC (Quit)
+[15:05] * Vo0Do0 has quit IRC (Ping timeout)
+[15:07] * b1ngo has quit IRC (Ping timeout)
+[15:34] * b1ngo|offline has joined #stats.ql
+[15:36] * Vo0Do0 has joined #stats.ql
+[15:39] * vixterra has joined #stats.ql
+[15:45] * b1ngo|offline is now known as b1ngo
+[15:47] * b1ngo is now known as b1ngo|offline
+[15:56] * zurn has joined #stats.ql
+[16:14] * CENiX is now known as cenix
+[16:34] * bertox has joined #stats.ql
+[17:15] * vixterra has quit IRC (Signed off)
+[18:14] * PerpetualWa_afk is now known as PerpetualWar_
+[19:24] * b1ngo|offline is now known as b1ngo
+[20:42] <mattiZed> hey PredatH0r ?
+[21:17] * cenix is now known as CENiX
+[21:21] * Vo0Do0 has quit IRC (Signed off)
+[21:22] * Vo0Do0 has joined #stats.ql
+[21:27] * Vo0Do0 has quit IRC (Signed off)
+[21:28] * Vo0Do0 has joined #stats.ql
+[21:28] * xtremequakers has joined #stats.ql
+[21:38] * CENiX is now known as cenix
+[21:41] * cenix is now known as CENiX
+[21:41] * CENiX is now known as cenix
+[22:06] * vks has joined #stats.ql
+[22:15] * vixterra has joined #stats.ql
+[22:30] * xtremequakers has quit IRC (Quit: Page closed)
+[23:09] * fo_tbh has quit IRC (Signed off)
+Session Time: Fri Dec 04 00:00:00 2015
+[00:32] * PaasHaas is now known as Paas|AFK
+[01:24] * b1ngo is now known as b1ngo|offline
+[01:41] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:50] * mattiZed has quit IRC (Quit: Leaving)
+[02:08] * Vo0Do0 has quit IRC (Ping timeout)
+[02:09] * hst has quit IRC (EOF from client)
+[02:09] * hst has joined #stats.ql
+[02:09] * Vo0Do0 has joined #stats.ql
+[02:10] * cenix has quit IRC (Ping timeout)
+[02:10] * rzeka has quit IRC (Ping timeout)
+[02:10] * jaysson has quit IRC (Ping timeout)
+[02:13] * cenix has joined #stats.ql
+[02:13] * rzeka has joined #stats.ql
+[02:13] * cenix has quit IRC (Registered)
+[02:13] * cenix has joined #stats.ql
+[02:15] * jaysson has joined #stats.ql
+[02:26] * lonewulfn6 has quit IRC (Ping timeout)
+[02:41] * cenix is now known as CENiX
+[03:43] * PredatH0r is now known as PREDATH0R
+[04:32] * doc` has joined #stats.ql
+[05:31] * vks has quit IRC (Quit)
+[05:34] * vks has joined #stats.ql
+[06:46] * vixterra has quit IRC (Signed off)
+[08:19] * pex has quit IRC (Ping timeout)
+[08:19] * pex has joined #stats.ql
+[11:16] * mattiZed has joined #stats.ql
+[11:32] * Paas|AFK is now known as PaasHaas
+[12:36] * PaasHaas has quit IRC (Quit: Leaving)
+[14:26] * PaasHaas has joined #stats.ql
+[14:51] * PREDATH0R is now known as PredatH0r
+[15:52] * CENiX is now known as cenix
+[16:08] * vixterra has joined #stats.ql
+[16:22] * roast has joined #stats.ql
+[16:29] <roast> howdy again
+[16:29] <roast> my lil stats site http://allahs-snackbar.com
+[16:36] <roast> lil zmq stats script linked up to django
+[16:39] <jaysson> whats the mainly supported stats site now?
+[16:44] <roast> qlstats.net
+[16:45] <roast> my django app is called qlstats too
+[16:45] <roast> i forsee a massive legal battle!
+[16:45] <roast> ;)
+[17:25] * PerpetualWa_afk is now known as PerpetualWar_
+[17:26] * idur has joined #stats.ql
+[17:40] * vixterra has quit IRC (Signed off)
+[17:49] * tjone270_ has joined #stats.ql
+[17:49] * Q sets mode: +o tjone270_
+[17:54] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:54] * tjone270 has quit IRC (Ping timeout)
+[18:09] * cenix is now known as CENiX
+[18:09] <[ByQ]Descent> ..
+[18:16] * PerpetualWa_afk is now known as PerpetualWar_
+[18:26] <PredatH0r> fyi: upcoming ql build will have information in the stats when a (dropped) flag was picked up.
+[18:43] <rulex> oh
+[18:44] <rulex> are there events of picked up flags now?
+[18:44] <rulex> not dropped
+[18:46] <rulex> :D
+[18:46] <rulex> ok its all flag pickups
+[18:47] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[19:01] <PredatH0r> if you keep track of the pickups, you'll know who dropped it
+[20:08] * b1ngo|offline is now known as b1ngo
+[20:23] * b1ngo is now known as b1ngo|afk
+[20:42] * lonewulfn6 has joined #stats.ql
+[20:49] * lonewulftp has joined #stats.ql
+[20:50] * lonewulfn6 has quit IRC (Signed off)
+[20:50] * lonewulftp has quit IRC (Signed off)
+[20:51] * lonewulftp has joined #stats.ql
+[21:05] * b1ngo|afk is now known as b1ngo
+[21:06] * Kingsman has joined #stats.ql
+[21:19] <roast> stats appears to not ignore bots
+[21:20] <roast> Lucy is ranked #1!
+[21:27] * vixterra has joined #stats.ql
+[21:36] <rulex> perfect
+[21:40] <PredatH0r> lol. http://qlstats.net:8080/aliases/0
+[21:41] <roast> that 0 guy
+[21:41] <roast> everywhere
+[21:42] <PredatH0r> we should really discuss what stuff needs to be filtered out
+[21:43] <roast> i ignore warmup stuff, bot stats and games with bots myself
+[21:44] <PredatH0r> so far i only ignore warmup and aborted matches
+[21:44] <roast> if i find a bot in a match i set a flag and it stops recording stats for it
+[21:44] <PredatH0r> instagib should probably also be filtered out ... or considered a different game type
+[21:45] <roast> also nuke aborted and forfeited
+[21:45] <roast> well, i check for timelimit or fraglimit hit
+[21:46] <roast> otherwise nuke
+[21:46] <PredatH0r> it's ok to track stats for fun-games, but there shouldn't be an Elo-update for it
+[21:46] <roast> im curious what the ELO formula is
+[21:46] <roast> that up anywhere
+[21:47] <PredatH0r> https://github.com/PredatH0r/XonStat/blob/master/xonstat/elo.py
+[21:47] <roast> kewl thx
+[21:55] <Kingsman> Hi Predath0r, Is the qlstats.net now production or will the database be resetted in the future?
+[21:59] <Kingsman> and when qlranks database elo scores are available. Do you will merge the old stats somehow? Because the ql <-> SteamID link is difficult to make
+[21:59] <roast> sounds like a stretch
+[22:00] * PerpetualWar_ is now known as PerpetualWa_afk
+[22:01] <PredatH0r> data from qlranks.com will never be merged into qlstats.net
+[22:02] <PredatH0r> and qlstats.net may disappear when an alternative site is ready. i'm not involved in the new project, so i dunno when that happens
+[22:03] <Kingsman> Are there alternative sites in development?
+[22:03] <PredatH0r> i keep all the raw data that was fed into qlstats.net, so with the reset I can send in all the data again and just filter it differently
+[22:05] <PredatH0r> inl is working on something: https://github.com/swallentin?tab=repositories
+[22:09] <Kingsman> ah k thx
+[22:09] <Kingsman> qlstats works great now with minqlx :-)
+[22:11] <PredatH0r> i don't know if it does. i don't play any team modes
+[22:12] <PredatH0r> data is not really cleansed, but that might not be such a big issue as it might sound
+[22:25] * PerpetualWa_afk is now known as PerpetualWar_
+[22:35] * b1ngo is now known as b1ngo|offline
+[22:44] * Kingsman has quit IRC (Ping timeout)
+[23:06] * Kingsman has joined #stats.ql
+[23:29] * idur has quit IRC (Quit: Page closed)
+[23:32] * Kingsman_ has joined #stats.ql
+Session Time: Sat Dec 05 00:00:00 2015
+[00:04] * Kingsman_ has quit IRC (Ping timeout)
+[00:57] * b1ngo|offline is now known as b1ngo
+[00:58] * b1ngo is now known as b1ngo|offline
+[00:59] * b1ngo|offline is now known as b1ngo
+[01:48] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:33] * b1ngo is now known as b1ngo|offline
+[03:09] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[03:17] * pex has quit IRC (Signed off)
+[03:21] * pex has joined #stats.ql
+[04:27] * tjone270_ has quit IRC (Signed off)
+[04:27] * tjone270_ has joined #stats.ql
+[04:27] * Q sets mode: +o tjone270_
+[05:25] * tjone270_ has quit IRC (Ping timeout)
+[05:30] * PaasHaas has quit IRC (Read error: Connection reset by peer)
+[05:40] * kodisha has joined #stats.ql
+[05:56] * vks has quit IRC (Quit)
+[06:00] * vks has joined #stats.ql
+[06:19] * kodisha has quit IRC (EOF from client)
+[06:24] * vixterra has quit IRC (Signed off)
+[06:28] * PredatH0r is now known as PREDATH0R
+[07:08] * tjone270_ has joined #stats.ql
+[07:08] * Q sets mode: +o tjone270_
+[07:15] * tjone270_ has quit IRC (Ping timeout)
+[07:54] * tjone270_ has joined #stats.ql
+[08:10] * Q sets mode: +o tjone270_
+[08:52] * Q has quit IRC (*.net *.split)
+[08:55] * Q has joined #stats.ql
+[08:55] * *.quakenet.org sets mode: +o Q
+[09:39] * qdbp has joined #stats.ql
+[11:55] * PerpetualWa_afk is now known as PerpetualWar_
+[12:30] * doc` has quit IRC (Ping timeout)
+[12:31] * doc has joined #stats.ql
+[12:55] * PREDATH0R is now known as PredatH0r
+[13:18] * PaasHaas has joined #stats.ql
+[13:22] * b1ngo|offline is now known as b1ngo
+[13:36] * CENiX has quit IRC (Ping timeout)
+[13:37] * CENiX has joined #stats.ql
+[14:47] * doc has quit IRC (Ping timeout)
+[14:48] * doc has joined #stats.ql
+[14:53] * doc` has joined #stats.ql
+[14:54] * doc has quit IRC (Ping timeout)
+[16:42] * b1ngo is now known as b1ngo|off
+[17:31] * CENiX is now known as cenix
+[18:35] * bertox has quit IRC (Signed off)
+[18:48] * vixterra has joined #stats.ql
+[18:55] * lonewulf has quit IRC (Signed off)
+[18:59] * lonewulf has joined #stats.ql
+[19:00] * bertox has joined #stats.ql
+[20:00] * cenix is now known as CENiX
+[20:43] * Kingsman has joined #stats.ql
+[21:15] * b1ngo|off is now known as b1ngo
+[22:32] * bertox has quit IRC (Read error: Connection reset by peer)
+[22:58] * wmia3p5card has joined #stats.ql
+[23:01] * b1ngo is now known as b1ngo|off
+[23:39] * bertox has joined #stats.ql
+Session Time: Sun Dec 06 00:00:00 2015
+[00:08] * CENiX is now known as cenix
+[00:56] * zlr has joined #stats.ql
+[02:09] * pecka has joined #stats.ql
+[02:10] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:46] * bertox has quit IRC (Signed off)
+[03:22] * vks has quit IRC (Quit)
+[03:39] * vks has joined #stats.ql
+[05:49] * pecka is now known as PECKA
+[05:55] * pex has quit IRC (Signed off)
+[05:57] * qdbp has quit IRC (Read error: Connection reset by peer)
+[06:08] * dqpb has joined #stats.ql
+[06:16] * PredatH0r is now known as PREDATH0R
+[06:34] * lonewulf has quit IRC (Signed off)
+[06:38] * lonewulf has joined #stats.ql
+[06:42] * PaasHaas has quit IRC (Ping timeout)
+[06:53] * cenix is now known as CENiX
+[07:29] * vixterra has quit IRC (Signed off)
+[07:32] * bertox has joined #stats.ql
+[11:18] * Melodeiro has joined #stats.ql
+[11:19] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[11:24] * PerpetualWa_afk is now known as PerpetualWar_
+[11:34] * mattiZed has joined #stats.ql
+[11:41] * mattiZed has quit IRC (Ping timeout)
+[12:28] * PaasHaas has joined #stats.ql
+[13:21] * b1ngo|off is now known as b1ngo
+[14:27] * zlr has quit IRC (Signed off)
+[15:39] * vks has quit IRC (Read error: Connection reset by peer)
+[16:13] * pex has joined #stats.ql
+[16:30] * b1ngo is now known as b1ngo|off
+[17:26] * pex has quit IRC (Read error: Connection reset by peer)
+[17:27] * pex has joined #stats.ql
+[17:54] * vixterra has joined #stats.ql
+[17:58] * pex has quit IRC (Signed off)
+[18:44] * pex has joined #stats.ql
+[18:44] * PREDATH0R is now known as PredatH0r
+[18:46] * b1ngo|off is now known as b1ngo
+[18:51] * pex has quit IRC (Signed off)
+[19:30] * pex has joined #stats.ql
+[19:37] * b1ngo is now known as b1ngo|off
+[20:06] * roast has quit IRC (Ping timeout)
+[20:12] * CENiX is now known as cenix
+[20:13] * roasticle has joined #stats.ql
+[20:31] * pex has quit IRC (Read error: Connection reset by peer)
+[20:31] * pex has joined #stats.ql
+[20:39] * wmia3p5card has quit IRC (EOF from client)
+[20:45] * PECKA is now known as pecka
+[20:49] * pecka is now known as PECKA
+[20:52] * PECKA is now known as pecka
+[20:53] * hannibal has joined #stats.ql
+[21:06] * ChainsawHailsto has quit IRC (Read error: Connection reset by peer)
+[21:44] <PerpetualWar_> hey PredatH0r
+[21:44] <PerpetualWar_> u herE?
+[22:57] * bertox has quit IRC (Signed off)
+[23:23] * zlr has joined #stats.ql
+[23:25] * zlr is now known as zlr[w]
+[23:55] * b1ngo|off is now known as b1ngo
+Session Time: Mon Dec 07 00:00:00 2015
+[00:04] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[00:05] * b1ngo is now known as b1ngo|off
+[00:14] * bogdog has joined #stats.ql
+[00:14] <bogdog> I was wondering if i could get my dedicated servers added to qlstats
+[00:17] <PredatH0r> sure. i need ip (not hostname), zmq stats port and zmq stats password (if any)
+[00:17] <bogdog> ok, can i send them to you here?
+[00:17] * zlr[w] has quit IRC (EOF from client)
+[00:17] <PredatH0r> yep
+[00:33] * tjone270_ has quit IRC (Ping timeout)
+[01:05] * pedreiro has joined #stats.ql
+[01:06] <pedreiro> hello as it does to add my server in qlstats site?
+[01:07] * bogdog has quit IRC (Quit)
+[01:13] <PredatH0r> i can add servers
+[01:13] <PredatH0r> i need ip (not name), zmq port, zmq password (if any)
+[01:13] <pedreiro> ok
+[01:14] * pedreiro has quit IRC (Excess Flood)
+[01:14] <PredatH0r> and most importantly: please test it with zmq_stats_verbose.py --host tcp://207.244.97.72:27981 --password ....
+[01:14] * pedreiro has joined #stats.ql
+[01:14] <pedreiro> I sent a msg in the private
+[01:15] <PredatH0r> didn't get it. flood protection
+[01:15] <PredatH0r> did you test the zmq connections?
+[01:16] <PredatH0r> because it starts becoming a massive time drain for me to troubleshoot misconfigured servers
+[01:17] <pedreiro> He received the data? in private?
+[01:33] * pedreiro has quit IRC (Quit: I cna ytpe 300 wrods pre mniuet!!!)
+[01:35] * pedreiro has joined #stats.ql
+[01:44] * vks has joined #stats.ql
+[02:01] * pedreiro has quit IRC (Quit: Relax, its only ONES and ZEROS!)
+[02:29] * PerpetualWar_ is now known as PerpetualWa_afk
+[03:06] * pecka is now known as PECKA
+[04:47] * cenix is now known as CENiX
+[04:50] * CENiX is now known as cenix
+[04:53] * sychedelic has joined #stats.ql
+[05:02] * dqpb has quit IRC (Read error: Connection reset by peer)
+[05:31] * PredatH0r is now known as PREDATH0R
+[06:13] * DieselPower has quit IRC (Signed off)
+[07:08] * tjone270_ has joined #stats.ql
+[07:08] * Q sets mode: +o tjone270_
+[07:15] * tjone270_ has quit IRC (Ping timeout)
+[07:42] * vixterra has quit IRC (Signed off)
+[07:56] * tjone270_ has joined #stats.ql
+[07:56] * Q sets mode: +o tjone270_
+[08:04] <tjone270_> hi PredatH0r, I've downsized the number of servers I run, the ports go from 27960 to 27967 now, instead from 26960-27970
+[08:08] * cenix is now known as CENiX
+[09:48] * Melodeiro has joined #stats.ql
+[10:14] * PerpetualWa_afk is now known as PerpetualWar_
+[10:47] * lonewulftp has quit IRC (Ping timeout)
+[10:55] * lonewulftp has joined #stats.ql
+[11:00] * PaasHaas is now known as Paas|shopping
+[11:09] * Melodeiro has quit IRC (Signed off)
+[11:24] * PerpetualWar_ is now known as PerpetualWa_afk
+[11:59] * mattiZed has joined #stats.ql
+[12:10] * b1ngo|off is now known as b1ngo
+[12:44] * Paas|shopping is now known as PaasHaas
+[13:38] * PerpetualWa_afk is now known as PerpetualWar_
+[13:51] * PREDATH0R is now known as PredatH0r
+[14:00] * Vo0Do0 has quit IRC (G-lined)
+[14:00] * b1ngo has quit IRC (G-lined)
+[14:07] * PerpetualWar_ is now known as PerpetualWa_afk
+[14:31] * b1ngo|off has joined #stats.ql
+[14:32] * Vo0Do0 has joined #stats.ql
+[14:33] * b1ngo|off is now known as b1ngo
+[14:48] * b1ngo has quit IRC (G-lined)
+[14:48] * Vo0Do0 has quit IRC (G-lined)
+[15:14] * CENiX is now known as cenix
+[15:35] * PerpetualWa_afk is now known as PerpetualWar_
+[15:38] * PerpetualWar_ is now known as PerpetualWa_afk
+[16:14] * PerpetualWa_afk is now known as PerpetualWar_
+[16:33] * mattiZed has quit IRC (EOF from client)
+[17:17] * zurn has quit IRC (Signed off)
+[17:37] * PerpetualWar_ is now known as PerpetualWa_afk
+[18:09] * b1ngo|off has joined #stats.ql
+[18:10] * b1ngo|off is now known as b1ngo
+[18:24] * PerpetualWa_afk is now known as PerpetualWar_
+[18:29] * zurn has joined #stats.ql
+[19:30] * b1ngo is now known as b1ngo|off
+[19:42] * mattiZed has joined #stats.ql
+[19:48] * mattiZed has quit IRC (EOF from client)
+[20:12] * HaasPaas has joined #stats.ql
+[20:12] * zippercoat has joined #stats.ql
+[20:14] * doc` has quit IRC (Ping timeout)
+[20:14] * doc` has joined #stats.ql
+[20:16] * teh1337 has quit IRC (Ping timeout)
+[20:17] * zippercoat is now known as teh1337
+[20:17] * PaasHaas has quit IRC (Ping timeout)
+[20:48] * b1ngo|off is now known as b1ngo
+[20:54] * tjone270_ has quit IRC (Signed off)
+[20:55] * tjone270_ has joined #stats.ql
+[20:55] * Q sets mode: +o tjone270_
+[21:13] * mattiZed has joined #stats.ql
+[21:15] * tjone270_ has quit IRC (Read error: Connection reset by peer)
+[21:35] * mattiZed has quit IRC (EOF from client)
+[21:54] * pex has quit IRC (Signed off)
+[22:02] * pex has joined #stats.ql
+[23:18] * mattiZed has joined #stats.ql
+[23:39] * mattiZed has quit IRC (EOF from client)
+[23:54] * vks has quit IRC (Quit)
+[23:57] * vks has joined #stats.ql
+Session Time: Tue Dec 08 00:00:00 2015
+[01:06] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:13] * b1ngo is now known as b1ngo|off
+[01:18] * b1ngo|off is now known as b1ngo
+[01:18] * dqpb has joined #stats.ql
+[01:39] * tjone270 has joined #stats.ql
+[01:39] * Q sets mode: +o tjone270
+[01:59] * dqpb has quit IRC (Quit: O)_(O)
+[02:03] * b1ngo is now known as b1ngo|off
+[02:06] <PredatH0r> any webdevs in here?
+[02:07] <PredatH0r> i could use some help with the stats-server registration forms
+[02:08] <PredatH0r> http://qlstats.net:8081/servers.html
+[02:08] <PredatH0r> atm just showing the status of the registered servers
+[02:09] <PredatH0r> need forms to add servers and manage the existing ones.
+[02:31] * cenix is now known as CENiX
+[02:33] * vixterra has joined #stats.ql
+[02:37] <lonewulf> Hi, Do I need to install smth to get on that qlstats.net Game Server Status?
+[02:40] <xLink> PredatH0r: what do you need?
+[02:41] <PredatH0r> a simple form to add/remove servers and change password
+[02:41] <syncore> just do a bootstrap thing in 5 minutes
+[02:41] <xLink> whats the site written in?
+[02:42] <PredatH0r> i can make the backend API, but i'm not really familiar with modern web frontends
+[02:42] <xLink> yeah bootstrap will do you good
+[02:42] <xLink> mostly just copy/pasta from their docs :)
+[02:42] <xLink> getbootstrap.com
+[02:54] * galactus_ has joined #stats.ql
+[03:01] * galactus_ has quit IRC (Quit: Page closed)
+[03:34] <[ByQ]Descent> php5/bootstrap - ok?
+[03:35] <PredatH0r> i'm doing by hand now in html and javascript
+[03:35] <[ByQ]Descent> backend?
+[03:35] <PredatH0r> nodejs
+[03:35] <[ByQ]Descent> ..
+[03:35] <[ByQ]Descent> =)
+[03:36] <xLink> xD
+[03:39] * DieselPower has joined #stats.ql
+[04:34] * zurn has quit IRC (Read error: Connection reset by peer)
+[04:48] * feelblue has joined #stats.ql
+[04:50] <feelblue> PredatH0r: Hello, 
+[04:51] <feelblue> our friend DieselPower who is spoken behalf of QL korean server til today, has told me that I need to contact u for changing administrator's name
+[04:51] <feelblue> in qlstats website
+[04:52] <[ByQ]Descent> .. ~4-5 a.m. europe time..
+[04:52] <feelblue> uh oh
+[04:52] <[ByQ]Descent> =)
+[04:52] <feelblue> sorry :D
+[04:52] <feelblue> I thought he was online like 30 mins before
+[04:53] <[ByQ]Descent> .. ye, he was ... =)
+[04:53] <feelblue> k now he went to sleep
+[04:53] <[ByQ]Descent> who knows ..
+[04:53] <feelblue> yea
+[04:54] <[ByQ]Descent> ...call his wife ..
+[04:54] <[ByQ]Descent> =))
+[04:54] <feelblue> anyways, I'm new to this channel so.. do u have anything about this qlstats project?
+[04:54] <[ByQ]Descent> what do you need ? ;)
+[04:54] <feelblue> I just wanted to know that, connection between qlstats svr to endpoint
+[04:55] <feelblue> currently that's manual right?
+[04:55] <feelblue> is this will be automated on web or through app?
+[04:55] <[ByQ]Descent> zmq
+[04:55] <feelblue> is there any development on going?
+[04:55] <[ByQ]Descent> kind of it ..
+[04:55] <feelblue> aha
+[04:56] <[ByQ]Descent> =)
+[04:56] <[ByQ]Descent> qlstats.net
+[04:56] <feelblue> well I'm from korea and have absolutely no idea bout this
+[04:56] <feelblue> yea I saw github
+[04:57] <[ByQ]Descent> ql-zmq-service, qlstats.net calls it ...
+[04:57] <[ByQ]Descent> ql-server answers ..maybe ..
+[04:57] <feelblue> well I'm in charge of ql kor svrs and one of our user has contacted PredatH0r for qlstats
+[04:58] <feelblue> aha.. thanks for the info, will check about zmq
+[04:58] <feelblue> thanks [ByQ]Descent
+[04:59] <PredatH0r> guess that was dieselpower
+[04:59] <PredatH0r> servers are updated now
+[04:59] <feelblue> ah, hello
+[04:59] <[ByQ]Descent> =)
+[04:59] <feelblue> yea servers IP has to be changed today
+[04:59] <feelblue> sorry for late call
+[04:59] <PredatH0r> np. i'm working on an admin frontend for http://qlstats.net:8081/servers.html
+[05:00] <PredatH0r> when it's finished, you can updated your servers yourself (with your zmq stats password)
+[05:00] <feelblue> that's great answer
+[05:00] <feelblue> and thanks for the greater effort
+[05:01] <[ByQ]Descent> urwelcome ..
+[05:19] * feelblue has quit IRC (Signed off)
+[05:25] <PredatH0r> [ByQ]Descent: are you restarting servers?
+[05:29] * lonewulf has quit IRC (Signed off)
+[05:31] * lonewulf has joined #stats.ql
+[05:42] * sychedelic has quit IRC (Signed off)
+[06:03] <[ByQ]Descent> nope
+[06:04] <[ByQ]Descent> everything works as i see ..
+[06:45] * PredatH0r is now known as PREDATH0R
+[08:05] * pex has quit IRC (Read error: Connection reset by peer)
+[08:09] * pex has joined #stats.ql
+[08:13] * vixterra has quit IRC (Signed off)
+[10:07] * mattiZed has joined #stats.ql
+[10:10] * PerpetualWa_afk is now known as PerpetualWar_
+[10:14] * mattiZed has quit IRC (EOF from client)
+[10:43] * zlr has joined #stats.ql
+[11:02] * HaasPaas is now known as PaasHaas
+[12:20] * zlr has quit IRC (Ping timeout)
+[12:21] * zlr has joined #stats.ql
+[12:37] * PerpetualWar_ is now known as PerpetualWa_afk
+[13:33] * tjone270 has quit IRC (Signed off)
+[14:09] * b1ngo|off is now known as b1ngo
+[14:25] * zlr has quit IRC (Signed off)
+[14:36] * zurn has joined #stats.ql
+[14:46] * PREDATH0R is now known as PredatH0r
+[14:56] * mattiZed has joined #stats.ql
+[15:07] * mattiZed has quit IRC (EOF from client)
+[15:09] * mattiZed has joined #stats.ql
+[15:41] * CENiX is now known as cenix
+[16:00] * mattiZed has quit IRC (EOF from client)
+[16:54] * mattiZed has joined #stats.ql
+[17:03] * b1ngo has quit IRC (G-lined)
+[17:20] * PerpetualWa_afk is now known as PerpetualWar_
+[17:41] * zurn has quit IRC (Signed off)
+[17:41] * zurn has joined #stats.ql
+[17:58] * PerpetualWar_ is now known as PerpetualWa_afk
+[18:14] * PerpetualWa_afk is now known as PerpetualWar_
+[20:28] * b1ngo has joined #stats.ql
+[20:31] * b1ngo has quit IRC (Signed off)
+[20:47] * b1ngo has joined #stats.ql
+[20:57] * zurn has quit IRC (Signed off)
+[21:00] * b1ngo has quit IRC (Signed off)
+[21:03] * b1ngo|off has joined #stats.ql
+[21:03] * b1ngo|off has quit IRC (EOF from client)
+[21:15] <lonewulf> Hi, Can anyone tell me what I need to do, in order to get on this site: http://qlstats.net:8081/servers.html ?
+[21:15] <lonewulf> Thanks in advance.
+[21:15] <sno> lonewulf: slide £20 under the table for PredatH0r  and give him ip, port and stats password 
+[21:15] <sno> ;)
+[21:17] <PredatH0r> perfect timing
+[21:17] <PredatH0r> i need a crash test dummy for http://qlstats.net:8081/servers.html
+[21:17] <sno> ooh nice
+[21:18] <sno> gogo lonewulf ! crash it! 
+[21:18] <sno> call your nick drop database;
+[21:18] <sno> ;))
+[21:18] <PredatH0r> '; drop database; commit;
+[21:22] <lonewulf> not sure what "slide lb20 under the table" is..
+[21:23] <lonewulf> All PredatH0r needs from me is my ip(s), ports, and stat pw?
+[21:23] <sno> 20 gbp
+[21:23] <sno> :p
+[21:23] <lonewulf> sno: I dont know what 20 gbp is.
+[21:23] <lonewulf> sorry.
+[21:23] <PredatH0r> british pound sterling :)
+[21:24] <lonewulf> lol
+[21:24] <PredatH0r> some whacky island currency
+[21:24] <lonewulf> How much is that in USD?
+[21:24] <lonewulf> :D
+[21:24] <[ByQ]Descent> ... dont think that this is everything PredatH0r needs: add food, clothes and etc .. 
+[21:24] <lonewulf> ROFL
+[21:24] <[ByQ]Descent> :D
+[21:24] <lonewulf> you guys are too much
+[21:24] <[ByQ]Descent> =)))
+[21:24] <PredatH0r> lonewulf: go on that webpage again. i added a "add server" function a few minutes ago
+[21:25] <[ByQ]Descent> this is #stats.ql most used "joke" ...
+[21:25] <PredatH0r> what i really need is an intervention
+[21:26] <[ByQ]Descent> .. +google counter, +esreality post ..
+[21:26] <[ByQ]Descent> +euronews
+[21:26] <[ByQ]Descent> ..
+[21:26] <[ByQ]Descent> =)
+[21:27] <lonewulf> Thanks guys, going now to check out the newly added "add server" option.
+[21:28] <xLink> PredatH0r: make sure to test for valid connection before adding it to the db :)
+[21:29] <sno> lonewulf: make sure to stand back once you press the return key
+[21:29] <sno> :D
+[21:29] <lonewulf> So Im running a total of 5 servers on two different ips..
+[21:29] <lonewulf> ROFL
+[21:29] <lonewulf> sno
+[21:29] <lonewulf> guess I need to to the "add server" option 5 different times?
+[21:29] <PredatH0r> right. but it will keep the fields populated
+[21:29] <lonewulf> kk thanks!
+[21:31] <lonewulf> Hmm
+[21:31] <lonewulf> I filled out add server option, hit submit, and got a Red Submit button, and below that, text reading..
+[21:31] <lonewulf> Not Found
+[21:32] <PredatH0r> umpf. sec
+[21:32] <lonewulf> kk
+[21:33] <PredatH0r> press the button again
+[21:33] <lonewulf> kk
+[21:34] <lonewulf> Green Submit button now
+[21:34] <lonewulf> thanks!
+[21:34] <PredatH0r> good news: my web form works
+[21:34] <PredatH0r> bad news: your server doesnt
+[21:35] <lonewulf> ip is "greyed out" under ports column..assuming will fix it's self.
+[21:35] <lonewulf> s/ip/port
+[21:35] <PredatH0r> no. it mean's its waiting for up to 1min to connect. but that won't happen usually
+[21:35] <PredatH0r> if the server works, connection is instantaneously
+[21:35] <lonewulf> Yeah its Red now
+[21:35] <lonewulf> kk
+[21:35] <lonewulf> servers work
+[21:35] <PredatH0r> blocked TCP port usually
+[21:36] <lonewulf> hrmm
+[21:36] <lonewulf> Im going through a VPS
+[21:36] <[ByQ]Descent> [21:34] <PredatH0r> good news: my web form works
+[21:36] <[ByQ]Descent> [21:34] <PredatH0r> bad news: your server doesnt
+[21:36] <[ByQ]Descent> :D
+[21:36] <lonewulf> let me get the all the info in, then I'll reboot my servers and VPS.
+[21:37] <lonewulf> and report back.
+[21:41] * lonewulf has quit IRC (Signed off)
+[21:45] * zurn has joined #stats.ql
+[21:45] * lonewulf has joined #stats.ql
+[21:53] <lonewulf> PredatH0r: I've shutdown servers, and rebooted VPS, but still all Red for my ports.
+[21:54] <lonewulf> Servers seem to work just fine
+[21:54] <lonewulf> can connect and play
+[21:54] <lonewulf> rcon works ect.
+[21:55] <lonewulf> Servers "show/appear" in Steam server browser..
+[21:58] <lonewulf> Maybe I've found issue?
+[21:58] <lonewulf> in my server.cfg 
+[21:58] <lonewulf> set zmq_stats_ip "127.0.0.1"
+[21:59] * b1ngo|off has joined #stats.ql
+[21:59] <lonewulf> should this ^^ be my actual ip to server?
+[21:59] * b1ngo|off is now known as b1ngo
+[22:07] <roasticle> dont need it set, it will auto set
+[22:07] <lonewulf> kk
+[22:07] <lonewulf> will try 
+[22:07] <lonewulf> ""
+[22:08] <roasticle> just comment out
+[22:08] <lonewulf> Roger that
+[22:08] <lonewulf> thanks
+[22:08] <roasticle> unless you have a specific network config that needs it you shouldnt need to set
+[22:08] <lonewulf> kk
+[22:09] * b1ngo has quit IRC (G-lined)
+[22:09] <roasticle> that was actually my prob at first
+[22:09] <roasticle> having that set to 127.0.0.1
+[22:09] <roasticle> it needs to listen for 0.0.0.0 (any ip) to work with qlstats.net
+[22:10] <lonewulf> roasticle: Hey man...thanks alot.
+[22:10] <roasticle> commenting it out will set to 0.0.0.0
+[22:10] <lonewulf> kk
+[22:10] <lonewulf> roasticle: On a different note.. you dont by chance also have your zmq_rcon_ip commented out as well?
+[22:11] <lonewulf> I had to set a ip for rcon to work..iirc.
+[22:13] * b1ngo has joined #stats.ql
+[22:16] * vixterra has joined #stats.ql
+[22:25] * b1ngo has quit IRC (Registered)
+[22:25] * b1ngo has joined #stats.ql
+[22:26] * b1ngo has quit IRC (Signed off)
+[22:27] * b1ngo has joined #stats.ql
+[22:28] * b1ngo has quit IRC (EOF from client)
+[22:28] * b1ngo has joined #stats.ql
+[22:29] * b1ngo is now known as b1ngo|off
+[22:29] * b1ngo|off is now known as b1ngo
+[22:30] <lonewulf> Update: All Green now on qlstat.net!
+[22:30] <lonewulf> s*
+[22:32] <roasticle> goodnewz :)
+[22:32] <roasticle> i dont have my rcon ip set either
+[22:33] * b1ngo is now known as b1ngo|off
+[22:33] * b1ngo|off is now known as b1ngo
+[22:34] * b1ngo has quit IRC (Registered)
+[22:34] * b1ngo has joined #stats.ql
+[22:59] <lonewulftp> roasticle: I've commented out zmq_rcon_ip ""  .. and now use: python2 zmq_rcon_py --host=tcp://0.0.0.0:27960 --password=<mypassword>
+[23:00] <lonewulftp> zmq_rcon_py is working .. just wondering if thats how you do it as well?
+[23:05] <roasticle> is working or isnt?
+[23:06] <lonewulftp> roasticle: Is working
+[23:08] <roasticle> i connect to rcon on the host itself so i just use 127.0.0.1 i think
+[23:08] <lonewulftp> Ive always been able to get rcon working.. 1st I had my game ip as the --host=tcp// then about a week later I used  127.0.0.1 as my --host=tcp:// 
+[23:08] <roasticle> if you are connecting remotely you probably have it right
+[23:08] <lonewulftp> rcon has worked under all those .
+[23:09] <lonewulftp> kk thanks for confirming.
+[23:10] <lonewulftp> Im using VPS
+[23:10] <lonewulftp> Assuming you have physical access to your server(s)? 
+[23:10] <lonewulftp> kk Im done bothering you.. thanks again.
+[23:14] <roasticle> im on digiocean
+[23:26] * mattiZed` has joined #stats.ql
+[23:53] * mattiZed` has quit IRC (EOF from client)
+Session Time: Wed Dec 09 00:00:00 2015
+[00:17] * vks has quit IRC (Quit)
+[00:21] * vks has joined #stats.ql
+[00:45] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[00:46] * mattiZed has joined #stats.ql
+[00:52] * mattiZed has quit IRC (Ping timeout)
+[00:53] * PredatH0r changes topic to ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ql-server-monitor (0.0.4) / https://github.com/swallentin/ql-stats-models (0.0.1) / qlstats.net server regist'
+[00:54] * PredatH0r changes topic to ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ :: qlstats.net server registration: http://qlstats.net:8081/'
+[01:29] * b1ngo is now known as b1ngo|off
+[01:39] * mattiZed has joined #stats.ql
+[01:52] * mattiZed has quit IRC (Registered)
+[01:52] * mattiZed has joined #stats.ql
+[01:56] * mattiZed has quit IRC (EOF from client)
+[02:11] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:28] * tjone270 has joined #stats.ql
+[02:28] * Q sets mode: +o tjone270
+[03:28] * cenix is now known as CENiX
+[03:35] * TB`oFF|AsianEye has quit IRC (Signed off)
+[05:37] * PredatH0r is now known as PREDATH0R
+[06:03] * pedreiro has joined #stats.ql
+[06:03] <pedreiro> predator online?
+[06:06] <[ByQ]Descent> not sure ..
+[06:29] * pex has quit IRC (Read error: Connection reset by peer)
+[06:33] * pex has joined #stats.ql
+[06:40] * pedreiro has quit IRC (Quit: Why is the alphabet in that order? Is it because of that song?)
+[08:07] * vixterra has quit IRC (Signed off)
+[08:30] * shaun has joined #stats.ql
+[10:07] * PerpetualWa_afk is now known as PerpetualWar_
+[10:46] * zlr has joined #stats.ql
+[11:11] * DieselPower has quit IRC (Signed off)
+[11:44] * PerpetualWar_ is now known as PerpetualWa_afk
+[12:05] * roast has joined #stats.ql
+[12:06] * b1ngo|off is now known as b1ngo
+[12:07] * zlr has quit IRC (Signed off)
+[12:07] * roasticle has quit IRC (Ping timeout)
+[12:08] * shaun has quit IRC (Ping timeout)
+[12:08] * shaun has joined #stats.ql
+[12:09] * zlr has joined #stats.ql
+[12:09] * Kal_ has joined #stats.ql
+[12:10] * Kal has quit IRC (Ping timeout)
+[12:17] * vks has quit IRC (Quit)
+[12:17] * vks has joined #stats.ql
+[13:12] * PREDATH0R is now known as PredatH0r
+[13:20] * mattiZed has joined #stats.ql
+[13:51] * zlr has quit IRC (Signed off)
+[13:58] * vks has quit IRC (Quit)
+[15:04] * mattiZed has quit IRC (Ping timeout)
+[15:21] * b1ngo is now known as b1ngo|off
+[15:28] * b1ngo|off is now known as b1ngo
+[15:36] * mattiZed has joined #stats.ql
+[16:09] * b1ngo is now known as b1ngo|off
+[17:08] * PerpetualWa_afk is now known as PerpetualWar_
+[17:31] * b1ngo|off is now known as b1ngo
+[17:47] * roast has quit IRC (Signed off)
+[17:48] * roast has joined #stats.ql
+[17:52] * roasticle has joined #stats.ql
+[17:53] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:53] * doc` has quit IRC (Ping timeout)
+[17:54] * mattiZed has quit IRC (EOF from client)
+[17:54] * roast has quit IRC (Ping timeout)
+[17:55] * doc has joined #stats.ql
+[18:00] * CENiX is now known as cenix
+[18:07] * b1ngo has quit IRC (Read error: Connection reset by peer)
+[18:16] * PerpetualWa_afk is now known as PerpetualWar_
+[18:20] * b1ngo has joined #stats.ql
+[18:34] <zurn> PerpetualWar_: any idea why my Canadian server is showing up as a US one in your server browser ?
+[18:34] <zurn> ip registration is in Canada on ARIN
+[18:36] <[ByQ]Descent> ;D
+[18:37] <PerpetualWar_> its PredatH0r
+[18:37] <PerpetualWar_> not PerpetualWar_
+[18:37] <PerpetualWar_> :)
+[18:42] <zurn> doh
+[18:42] <zurn> I always get you guys mixed up
+[18:43] <[ByQ]Descent> =)
+[18:44] <zurn> PredatH0r: any idea why my Canadian server is showing up as a US one in your server browser ?
+[18:44] <zurn> :)
+[18:46] <PredatH0r> geo-ip isn't a science. many ips return wrong information
+[18:47] <PredatH0r> the ip pool probably belongs to a US company and they use their IPs as they please between different locations
+[18:47] <xLink> PredatH0r: you should add live server info to the server pages :P
+[18:48] <PredatH0r> no time for that kind of gimmicks
+[18:48] <xLink> gimmicks? :P
+[18:49] <xLink> also you know you can make the ips directly joinable - steam://connect/<ip>:<port>
+[18:49] * qdbp has joined #stats.ql
+[18:49] <[ByQ]Descent> ..
+[19:24] * doc has quit IRC (Ping timeout)
+[19:25] * bombel has joined #stats.ql
+[19:26] * b1ngo is now known as b1ngo|off
+[19:26] * bombel has left #stats.ql
+[19:30] * pedreiro has joined #stats.ql
+[19:37] * doc has joined #stats.ql
+[19:40] * pedreiro has left #stats.ql
+[20:00] * PaasHaas has quit IRC (Read error: Connection reset by peer)
+[20:30] * b1ngo|off is now known as b1ngo
+[21:07] * vixterra has joined #stats.ql
+[21:11] * qdbp has left #stats.ql (O)_(O)
+[21:28] * cenix is now known as CENiX
+[21:38] * Kingsman has joined #stats.ql
+[22:13] * vks has joined #stats.ql
+[22:29] * vixterra has quit IRC (Signed off)
+[23:07] * CENiX has quit IRC (Ping timeout)
+[23:11] * vks has quit IRC (Quit)
+[23:12] * CENiX has joined #stats.ql
+Session Time: Thu Dec 10 00:00:00 2015
+[00:14] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[01:01] * vks has joined #stats.ql
+[01:15] * zlr has joined #stats.ql
+[01:50] * b1ngo is now known as b1ngo|off
+[01:50] * Melodeiro has joined #stats.ql
+[01:51] * b1ngo|off is now known as b1ngo
+[01:59] * b1ngo is now known as b1ngo|off
+[02:19] * Melodeiro has quit IRC (Signed off)
+[02:40] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:50] * vixterra has joined #stats.ql
+[04:54] * xLink has quit IRC (Ping timeout)
+[05:19] * PredatH0r is now known as PREDATH0R
+[05:40] * CENiX has quit IRC (Ping timeout)
+[05:41] * vks has quit IRC (Read error: Connection reset by peer)
+[05:45] * CENiX has joined #stats.ql
+[05:50] * vks has joined #stats.ql
+[08:20] * vixterra has quit IRC (Signed off)
+[08:50] * xLink has joined #stats.ql
+[09:56] * tjone270 has quit IRC (Read error: Connection reset by peer)
+[10:07] * tjone270 has joined #stats.ql
+[10:07] * Q sets mode: +o tjone270
+[10:30] * tjone270 has quit IRC (Read error: Connection reset by peer)
+[10:34] * PaasHaas has joined #stats.ql
+[10:42] * PerpetualWa_afk is now known as PerpetualWar_
+[11:04] * tjone270 has joined #stats.ql
+[11:04] * Q sets mode: +o tjone270
+[11:07] * zlr has quit IRC (EOF from client)
+[11:19] * doc has quit IRC (Signed off)
+[11:32] * zlr has joined #stats.ql
+[11:37] * b1ngo|off is now known as b1ngo
+[11:59] * PerpetualWar_ is now known as PerpetualWa_afk
+[12:13] * zlr has quit IRC (EOF from client)
+[13:16] * vks has quit IRC (Quit)
+[13:32] * shaun has quit IRC (*.net *.split)
+[13:32] * smove has quit IRC (*.net *.split)
+[13:32] * rzeka has quit IRC (*.net *.split)
+[13:32] * sno has quit IRC (*.net *.split)
+[13:32] * PerpetualWa_afk has quit IRC (*.net *.split)
+[13:32] * teh1337 has quit IRC (*.net *.split)
+[13:32] * pex has quit IRC (*.net *.split)
+[13:54] * shaun has joined #stats.ql
+[13:54] * pex has joined #stats.ql
+[13:54] * teh1337 has joined #stats.ql
+[13:54] * rzeka has joined #stats.ql
+[13:54] * sno has joined #stats.ql
+[13:54] * smove has joined #stats.ql
+[13:54] * PerpetualWa_afk has joined #stats.ql
+[13:54] * *.quakenet.org sets mode: +ov PerpetualWa_afk smove
+[14:22] * zlr has joined #stats.ql
+[14:29] * gojira_ has joined #stats.ql
+[15:01] * PREDATH0R is now known as PredatH0r
+[15:07] * pex has quit IRC (Read error: Connection reset by peer)
+[15:12] * pex has joined #stats.ql
+[15:42] * PredatH0r is now known as Lysop
+[15:42] * Lysop is now known as PredatH0r
+[16:21] * b1ngo is now known as b1ngo|off
+[16:33] * ChainsawHailsto has joined #stats.ql
+[16:50] * PerpetualWa_afk is now known as PerpetualWar_
+[17:16] * CENiX is now known as cenix
+[17:52] * PerpetualWar_ is now known as PerpetualWa_afk
+[18:16] * PerpetualWa_afk is now known as PerpetualWar_
+[18:53] * vks has joined #stats.ql
+[20:04] * tjone270 has quit IRC (Ping timeout)
+[20:30] * b1ngo|off is now known as b1ngo
+[21:20] * vixterra has joined #stats.ql
+[23:21] * mps has joined #stats.ql
+[23:27] * pex has quit IRC (Ping timeout)
+[23:44] * pex has joined #stats.ql
+Session Time: Fri Dec 11 00:00:00 2015
+[00:20] * mps has left #stats.ql (Leaving)
+[01:12] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:13] * zippercoat has joined #stats.ql
+[01:14] * teh1337 has quit IRC (Ping timeout)
+[01:14] * zippercoat is now known as teh1337
+[01:20] * b1ngo is now known as b1ngo|off
+[01:43] * cenix is now known as CENiX
+[02:48] * tjone270 has joined #stats.ql
+[02:48] * Q sets mode: +o tjone270
+[03:05] * syncore has quit IRC (Signed off)
+[03:07] * syncore has joined #stats.ql
+[03:29] * pex has quit IRC (Ping timeout)
+[04:46] * PredatH0r is now known as PREDATH0R
+[06:41] * pex has joined #stats.ql
+[07:22] * zurn has quit IRC (Signed off)
+[07:25] * zurn has joined #stats.ql
+[07:30] * zurn has quit IRC (Quit)
+[07:32] * zurn has joined #stats.ql
+[07:34] * zurn has quit IRC (Signed off)
+[07:36] * zurn has joined #stats.ql
+[08:15] * hannibal has quit IRC (Read error: Connection reset by peer)
+[09:27] * xLink has quit IRC (Read error: Connection reset by peer)
+[09:50] * vixterra has quit IRC (Signed off)
+[09:57] * PerpetualWa_afk is now known as PerpetualWar_
+[10:12] * xLink has joined #stats.ql
+[10:41] * PerpetualWar_ is now known as PerpetualWa_afk
+[10:59] * gojira_ has quit IRC (Ping timeout)
+[11:01] <[ByQ]Descent> ..
+[12:02] * PerpetualWa_afk is now known as PerpetualWar_
+[12:17] * CENiX has quit IRC (Ping timeout)
+[12:23] * CENiX has joined #stats.ql
+[12:49] * mattiZed has joined #stats.ql
+[12:50] * PREDATH0R is now known as PredatH0r
+[12:54] * pex has quit IRC (Read error: Connection reset by peer)
+[12:54] * pex has joined #stats.ql
+[13:04] * pex has quit IRC (Read error: Connection reset by peer)
+[13:04] * pex has joined #stats.ql
+[13:08] * pex has quit IRC (Read error: Connection reset by peer)
+[13:08] * pex` has joined #stats.ql
+[13:15] * mattiZed has quit IRC (EOF from client)
+[13:15] * MASTER1s has joined #stats.ql
+[13:16] * MASTER1s has left #stats.ql (Respect)
+[14:00] * gojira_ has joined #stats.ql
+[14:17] * b1ngo|off is now known as b1ngo
+[14:22] * zlr has quit IRC (Signed off)
+[14:33] * b1ngo is now known as b1ngo|off
+[14:37] * b1ngo|off has quit IRC (Signed off)
+[14:43] * pex has joined #stats.ql
+[14:44] * pex` has quit IRC (Read error: Connection reset by peer)
+[14:45] * b1ngo has joined #stats.ql
+[14:50] * pex has quit IRC (Read error: Connection reset by peer)
+[14:50] * pex has joined #stats.ql
+[15:18] * PredatH0r is now known as PREDATH0R
+[15:27] * PerpetualWar_ is now known as PerpetualWa_afk
+[15:32] * gojira_ has quit IRC (Ping timeout)
+[15:42] * mattiZed has joined #stats.ql
+[15:48] * mattiZed has quit IRC (Ping timeout)
+[15:53] * Lysop has joined #stats.ql
+[16:05] * PerpetualWa_afk is now known as PerpetualWar_
+[17:11] * PaasHaas is now known as Paas|AFK
+[17:15] * b1ngo is now known as b1ngo|off
+[17:23] * pex has quit IRC (Read error: Connection reset by peer)
+[17:23] * pex has joined #stats.ql
+[17:48] * CENiX is now known as cenix
+[17:53] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:55] * pex has quit IRC (Read error: Connection reset by peer)
+[17:55] * pex has joined #stats.ql
+[17:56] * pex` has joined #stats.ql
+[17:57] * pex has quit IRC (Read error: Connection reset by peer)
+[18:00] * pex has joined #stats.ql
+[18:00] * mattiZed has joined #stats.ql
+[18:01] * pex` has quit IRC (Read error: Connection reset by peer)
+[18:11] * PerpetualWa_afk is now known as PerpetualWar_
+[18:12] * mattiZed has quit IRC (EOF from client)
+[18:36] <[ByQ]Descent> `..
+[18:40] * pex has quit IRC (Read error: Connection reset by peer)
+[18:40] * pex has joined #stats.ql
+[18:44] * cenix is now known as CENiX
+[19:33] * gojira_ has joined #stats.ql
+[19:35] * Melodeiro has joined #stats.ql
+[20:03] * b1ngo|off is now known as b1ngo
+[21:09] * b1ngo is now known as b1ngo|afk
+[21:33] * vixterra has joined #stats.ql
+[21:45] * b1ngo|afk is now known as b1ngo
+[23:13] * PECKA is now known as pecka
+Session Time: Sat Dec 12 00:00:00 2015
+[00:30] * zlr has joined #stats.ql
+[01:23] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:16] * b1ngo is now known as b1ngo|off
+[03:01] * Kingsman has joined #stats.ql
+[03:17] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[03:38] * Lysop has quit IRC (Signed off)
+[03:45] * pecka is now known as PECKA
+[04:59] * roast has joined #stats.ql
+[05:01] * roasticle has quit IRC (Ping timeout)
+[05:40] * lonewulf has quit IRC (Signed off)
+[05:58] * lonewulf has joined #stats.ql
+[07:36] * vixterra has quit IRC (Signed off)
+[10:28] * trolles has joined #stats.ql
+[11:30] * mattiZed has joined #stats.ql
+[11:46] * PerpetualWa_afk is now known as PerpetualWar_
+[11:52] * lonewulftp has quit IRC (Ping timeout)
+[11:59] * lonewulftp has joined #stats.ql
+[12:02] * zlr has quit IRC (Signed off)
+[12:26] * mattiZed has quit IRC (Quit: Leaving...)
+[12:51] * PerpetualWar_ is now known as PerpetualWa_afk
+[13:24] * Paas|AFK is now known as PaasHaas
+[14:33] * PerpetualWa_afk is now known as PerpetualWar_
+[14:41] * b1ngo|off is now known as b1ngo
+[14:49] * Marcus`` has joined #stats.ql
+[15:12] * PerpetualWar_ is now known as PerpetualWa_afk
+[15:12] * trolles has quit IRC (Read error: Connection reset by peer)
+[15:37] * b1ngo is now known as b1ngo|off
+[16:11] * PaasHaas is now known as Paas|AFK
+[16:36] * PerpetualWa_afk is now known as PerpetualWar_
+[16:50] * lonewulftp has quit IRC (Read error: Connection reset by peer)
+[18:10] * lonewulf has quit IRC (*.net *.split)
+[18:15] * lonewulfn6 has joined #stats.ql
+[18:15] * lonewulf_ has joined #stats.ql
+[18:21] * lonewulf_ has quit IRC (*.net *.split)
+[18:21] * lonewulfn6 has quit IRC (*.net *.split)
+[18:51] * lonewulf has joined #stats.ql
+[18:53] * lonewulfn6 has joined #stats.ql
+[18:53] * lonewulfn6 has quit IRC (EOF from client)
+[18:54] * lonewulfn6 has joined #stats.ql
+[19:23] * CENiX is now known as cenix
+[19:57] * lolca_ has joined #stats.ql
+[20:01] * gojira_ has quit IRC (Ping timeout)
+[20:33] * maeaeaeae has joined #stats.ql
+[20:34] * syncore_ has joined #stats.ql
+[20:34] * syncore_ has quit IRC (Excess Flood)
+[20:35] * syncore_ has joined #stats.ql
+[20:35] * maeaeaeae has quit IRC (EOF from client)
+[20:35] * Marcus`` has quit IRC (Ping timeout)
+[20:35] * syncore_ has quit IRC (Excess Flood)
+[20:36] * syncore_ has joined #stats.ql
+[20:36] * Nirtal has quit IRC (*.net *.split)
+[20:36] * syncore has quit IRC (*.net *.split)
+[20:36] * inl has quit IRC (*.net *.split)
+[20:36] * jaysson has quit IRC (*.net *.split)
+[20:37] * syncore_ is now known as syncore
+[20:39] * inl has joined #stats.ql
+[20:43] * jaysson has joined #stats.ql
+[20:48] * PREDATH0R is now known as PredatH0r
+[20:57] * Nirtal has joined #stats.ql
+[20:57] * Marcus`` has joined #stats.ql
+[20:58] * PECKA is now known as pecka
+[21:03] * vixterra has joined #stats.ql
+[21:18] * Marcus`` is now known as MARCUS^^^^^^^^^
+[21:18] * MARCUS^^^^^^^^^ is now known as Marcus``
+[21:27] * Nirtal has quit IRC (*.net *.split)
+[21:36] * Nirtal has joined #stats.ql
+[21:49] * Marcus`` has left #stats.ql
+[21:58] * Kingsman has joined #stats.ql
+[22:07] * b1ngo|off is now known as b1ngo
+[22:24] * pecka is now known as PECKA
+[22:29] * Lysop has joined #stats.ql
+[22:33] * Lysop is now known as [q50]
+[22:49] * ChainsawHailsto has quit IRC (Read error: Connection reset by peer)
+[23:01] * PECKA is now known as pecka
+[23:02] * Nirtal has quit IRC (Ping timeout)
+[23:03] * Nirtal has joined #stats.ql
+[23:14] * Nirtal has quit IRC (*.net *.split)
+[23:16] * Nirtal has joined #stats.ql
+[23:26] * Nirtal has quit IRC (*.net *.split)
+[23:26] * Nirtal has joined #stats.ql
+Session Time: Sun Dec 13 00:00:00 2015
+[00:17] * pex has quit IRC (Signed off)
+[00:28] * pex has joined #stats.ql
+[00:48] * Kingsman has quit IRC (Signed off)
+[00:57] * [q50] is now known as Lysop
+[01:15] * ChainsawHailsto has joined #stats.ql
+[01:34] * bertox has joined #stats.ql
+[01:54] * vixterra has quit IRC (EOF from client)
+[01:55] * vixterra has joined #stats.ql
+[02:00] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:15] * b1ngo is now known as b1ngo|off
+[03:01] * Lysop has quit IRC (Signed off)
+[03:16] * tjone270_ has joined #stats.ql
+[03:16] * Q sets mode: +o tjone270_
+[03:21] * tjone270 has quit IRC (Ping timeout)
+[03:50] * vixterra has quit IRC (Signed off)
+[04:03] * zlr has joined #stats.ql
+[04:21] * Melodeiro has quit IRC (Signed off)
+[04:32] * cenix is now known as CENiX
+[04:37] * PredatH0r is now known as PREDATH0R
+[05:15] * vixterra has joined #stats.ql
+[05:27] * bertox has quit IRC (Signed off)
+[05:52] * lonewulfn6 has quit IRC (Signed off)
+[06:09] * Nirtal has quit IRC (*.net *.split)
+[06:09] * zlr has quit IRC (*.net *.split)
+[06:18] * zlr has joined #stats.ql
+[06:18] * pecka is now known as PECKA
+[06:26] * Nirtal has joined #stats.ql
+[07:53] * Melodeiro has joined #stats.ql
+[08:32] * Melodeiro has quit IRC (Signed off)
+[09:22] * vixterra has quit IRC (Signed off)
+[09:23] * lonewulf has quit IRC (Signed off)
+[09:42] * vks has quit IRC (Quit)
+[09:45] * lonewulf has joined #stats.ql
+[09:49] * vks has joined #stats.ql
+[09:55] * vks has quit IRC (Ping timeout)
+[09:57] * vks has joined #stats.ql
+[10:32] * lolca_ has quit IRC (Quit: Leaving)
+[11:03] * vks has quit IRC (Quit)
+[11:52] * vks has joined #stats.ql
+[11:54] * vks has quit IRC (Quit)
+[12:01] * PerpetualWa_afk is now known as PerpetualWar_
+[12:06] * vks has joined #stats.ql
+[13:18] * vks has quit IRC (Quit)
+[13:19] * vks has joined #stats.ql
+[13:22] * vks has quit IRC (Quit)
+[13:23] * vks has joined #stats.ql
+[13:27] * xLink has quit IRC (Ping timeout)
+[13:46] * Paas|AFK is now known as PaasHaas
+[15:06] * b1ngo|off is now known as b1ngo
+[15:16] * PREDATH0R is now known as PredatH0r
+[15:22] * Melodeiro has joined #stats.ql
+[15:47] * xLink has joined #stats.ql
+[17:43] * Kingsman has joined #stats.ql
+[17:51] * b1ngo is now known as b1ngo|off
+[18:36] * Lysop has joined #stats.ql
+[19:00] * PECKA is now known as pecka
+[19:09] * trolles has joined #stats.ql
+[19:20] * PaasHaas has quit IRC (Quit: Leaving)
+[19:21] * PaasHaas has joined #stats.ql
+[19:47] * Kingsman has quit IRC (EOF from client)
+[19:47] * Kingsman has joined #stats.ql
+[19:49] * pecka is now known as PECKA
+[20:22] * PECKA is now known as pecka
+[20:27] * pecka is now known as PECKA
+[20:44] * lonewulfn6 has joined #stats.ql
+[20:44] * PaasHaas is now known as Paas|AFK
+[20:47] * tkrr has joined #stats.ql
+[21:44] * PECKA is now known as pecka
+[22:05] * lonewulf has quit IRC (Signed off)
+[22:07] * lonewulf has joined #stats.ql
+[22:21] * vixterra has joined #stats.ql
+[22:32] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[22:45] * b1ngo|off is now known as b1ngo
+[23:03] * CENiX is now known as cenix
+[23:10] * Lysop has quit IRC (Excess Flood)
+[23:11] * Lysop has joined #stats.ql
+[23:11] * Lysop has quit IRC (Excess Flood)
+[23:13] * Lysop has joined #stats.ql
+[23:29] * Melodeiro has joined #stats.ql
+[23:35] * vixterra has quit IRC (Signed off)
+Session Time: Mon Dec 14 00:00:00 2015
+[00:03] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[00:18] * b1ngo is now known as b1ngo|off
+[00:55] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:15] * b1ngo|off is now known as b1ngo
+[01:30] * pex has quit IRC (Signed off)
+[01:37] * pex has joined #stats.ql
+[01:45] * trolles has quit IRC (Ping timeout)
+[01:56] * pecka is now known as PECKA
+[02:11] * teh1337 has quit IRC (Ping timeout)
+[02:13] * teh1337 has joined #stats.ql
+[02:30] * b1ngo is now known as b1ngo|off
+[02:58] * lonewulf has quit IRC (Ping timeout)
+[02:59] * lonewulf has joined #stats.ql
+[05:09] * Lysop has quit IRC (Signed off)
+[05:10] * cenix is now known as CENiX
+[05:21] * tkrr has quit IRC (Read error: Connection reset by peer)
+[05:48] * PredatH0r is now known as PREDATH0R
+[09:28] * vixterra has joined #stats.ql
+[09:41] * trolles has joined #stats.ql
+[10:11] * tjone270 has joined #stats.ql
+[10:11] * Q sets mode: +o tjone270
+[10:12] * tjone270_ has quit IRC (Ping timeout)
+[10:15] * vixterra has quit IRC (Signed off)
+[13:34] * Disconnected
+Session Close: Mon Dec 14 23:01:10 2015
+
+Session Start: Mon Dec 14 23:01:15 2015
+Session Ident: #stats.ql
+[23:01] * Now talking in #stats.ql
+[23:01] * Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ :: qlstats.net server registration: http://qlstats.net:8081/'
+[23:01] * Set by PredatH0r on Wed Dec 09 00:53:57
+[23:16] * vks has quit IRC (Quit)
+[23:51] <PredatH0r> well, next attempt. hope this time it stays up
+[23:57] * shaun has quit IRC (*.net *.split)
+[23:57] * cenix has quit IRC (*.net *.split)
+[23:57] * rzeka has quit IRC (*.net *.split)
+[23:57] * sno has quit IRC (*.net *.split)
+[23:57] * jaysson has quit IRC (*.net *.split)
+[23:57] * ChainsawHailsto has quit IRC (*.net *.split)
+[23:57] * MasterPo has quit IRC (*.net *.split)
+[23:57] * trolles has quit IRC (*.net *.split)
+[23:57] * PerpetualWar_ has quit IRC (*.net *.split)
+[23:57] * Q has quit IRC (*.net *.split)
+[23:57] * tjone270 has quit IRC (*.net *.split)
+[23:57] * PECKA has quit IRC (*.net *.split)
+[23:57] * mattiZed` has quit IRC (*.net *.split)
+[23:57] * vermis has quit IRC (*.net *.split)
+Session Time: Tue Dec 15 00:00:00 2015
+[00:01] * mattiZed` has joined #stats.ql
+[00:01] * trolles has joined #stats.ql
+[00:01] * MasterPo has joined #stats.ql
+[00:01] * vermis has joined #stats.ql
+[00:01] * ChainsawHailsto has joined #stats.ql
+[00:01] * jaysson has joined #stats.ql
+[00:01] * cenix has joined #stats.ql
+[00:01] * sno has joined #stats.ql
+[00:01] * rzeka has joined #stats.ql
+[00:01] * shaun has joined #stats.ql
+[00:01] * PECKA has joined #stats.ql
+[00:01] * tjone270 has joined #stats.ql
+[00:01] * PerpetualWar_ has joined #stats.ql
+[00:01] * Q has joined #stats.ql
+[00:01] * *.quakenet.org sets mode: +ooo Q PerpetualWar_ tjone270
+[00:05] * mattiZed` has quit IRC (EOF from client)
+[00:28] * lonewulfn6 has quit IRC (Signed off)
+[00:30] * lonewulftp has joined #stats.ql
+[00:31] <lonewulftp> Hi, Someone mind posting /topic for me?
+[00:31] <lonewulftp> Or ql stats server admin URL?
+[00:32] <sno> 21:31 -!- Topic for #stats.ql: :: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ :: qlstats.net server registration: http://qlstats.net:8081/
+[00:32] <lonewulftp> Thank you man!
+[00:32] <sno> np
+[00:36] <PredatH0r> i hope it's working now
+[00:39] <lonewulftp> Yes working for me.
+[00:40] <PredatH0r> for now :) let's see when/if it crashes again
+[00:40] <lonewulftp> Also, one of the few times that I've seen NO Red on ports.
+[00:40] <lonewulftp> Good job guys!
+[00:41] <PredatH0r> that was probably just a lucky moment when it tries to reconnect to the bad servers
+[00:41] <lonewulftp> lol
+[00:41] <PredatH0r> it tries connecting for a minute and they show up gray
+[00:41] * PerpetualWar_ is now known as PerpetualWa_afk
+[00:41] <lonewulftp> Roger that.
+[00:41] <PredatH0r> then they are red for 5min and it starts over
+[00:44] <lonewulftp> I have a couple players boycotting my servers, because I chose to report my qlstats..
+[00:44] <lonewulftp> they hated qlranks and elo  system
+[00:45] <lonewulftp> but I dont care.. I really get a kick-out-of seeing my servers all Green on qlstats URL
+[00:45] <lonewulftp> lol
+[00:50] <lonewulftp> Now that I think about it.. maybe I'm responsible for the qlstats URL crash!
+[00:50] <lonewulftp> F5'ing too much. :o
+[00:51] <lonewulftp> jk :)
+[00:51] <PredatH0r> f***
+[00:51] <PredatH0r> crashed again
+[00:51] <lonewulftp> (
+[00:53] <PredatH0r> this makes no sense. i even monitor the number of open handles... all fine, no leaks. and at some random time, it bombs out with "too many open files"
+[00:54] <mattiZed> PredatH0r: whenever i try to add two servers, they show up first but then they are gone 
+[00:55] <PredatH0r> coz you are crashing the server all the time :)
+[00:55] <mattiZed> is it me? :D
+[00:55] <mattiZed> i first tried to add them this morning
+[00:55] <PredatH0r> dunno. i suspect it has something to do with the admin panel
+[00:55] <mattiZed> at 11:00 or smth
+[00:55] <mattiZed> now its 22:55
+[00:56] <PredatH0r> stuff works fine on my local pc where nobody uses the stats panel
+[00:56] <mattiZed> i tried every now and then today
+[00:56] <PredatH0r> mattiZed:212.224.101.189:27963 and 64 are in the config now
+[00:57] <mattiZed> right
+[00:57] <mattiZed> they dont show up on the admin panel though?
+[00:57] <PredatH0r> wtf. i dont see them in the panel
+[00:58] <sno> pred maybe kodisha's pulling causing it?
+[00:58] <sno> he mentioned earlier he was scanning all games i think
+[00:58] <pex> after you fix this big issue, you should use nginx or maybe apache and re-write the URL to remove the ugly :8081 just out of beauty/vanity purposes =)
+[00:59] <PredatH0r> sno: that can't be it
+[00:59] <PredatH0r> oh. maybe it is
+[00:59] <sno> 19:16 <@kodisha> there are 5,300 games yesterday
+[00:59] <sno> :D
+[00:59] <PredatH0r> dunno if he scrapes the HTML or the json api
+[00:59] <sno> think he said json
+[01:00] <PredatH0r> hmm, i got the crashes also locally and on another server. i doubt he scrapes all of them
+[01:00] <PredatH0r> but i'll add some log for that
+[01:02] <PredatH0r> mattiZed: can you set a zmq password on all your servers?
+[01:02] <mattiZed> yeah
+[01:02] <mattiZed> i could reboot them later/tomorrow morning
+[01:03] <mattiZed> if i switch it via rcon it is changed instantaneousy?
+[01:06] <mattiZed> i could also set the passwords on the new ones to "" 
+[01:06] <mattiZed> :p
+[01:08] <PredatH0r> don't do that. you need a pass to administer your servers in the panel
+[01:23] * tkrr has joined #stats.ql
+[01:38] * shaun has quit IRC (*.net *.split)
+[01:38] * cenix has quit IRC (*.net *.split)
+[01:38] * rzeka has quit IRC (*.net *.split)
+[01:38] * sno has quit IRC (*.net *.split)
+[01:38] * jaysson has quit IRC (*.net *.split)
+[01:38] * ChainsawHailsto has quit IRC (*.net *.split)
+[01:38] * MasterPo has quit IRC (*.net *.split)
+[01:38] * trolles has quit IRC (*.net *.split)
+[01:38] * PerpetualWa_afk has quit IRC (*.net *.split)
+[01:46] * b1ngo is now known as b1ngo|off
+[01:50] * mattiZed has quit IRC (Read error: Connection reset by peer)
+[02:00] * trolles has joined #stats.ql
+[02:00] * MasterPo has joined #stats.ql
+[02:00] * ChainsawHailsto has joined #stats.ql
+[02:00] * jaysson has joined #stats.ql
+[02:00] * cenix has joined #stats.ql
+[02:00] * shaun has joined #stats.ql
+[02:00] * rzeka has joined #stats.ql
+[02:00] * sno has joined #stats.ql
+[02:00] * PerpetualWa_afk has joined #stats.ql
+[02:00] * *.quakenet.org sets mode: +o PerpetualWa_afk
+[02:03] * zlr has joined #stats.ql
+[02:12] * cenix is now known as CENiX
+[02:12] * CENiX is now known as cenix
+[02:48] * vixterra has joined #stats.ql
+[02:49] * shaun has quit IRC (*.net *.split)
+[02:49] * cenix has quit IRC (*.net *.split)
+[02:49] * rzeka has quit IRC (*.net *.split)
+[02:49] * sno has quit IRC (*.net *.split)
+[02:49] * jaysson has quit IRC (*.net *.split)
+[02:49] * ChainsawHailsto has quit IRC (*.net *.split)
+[02:49] * MasterPo has quit IRC (*.net *.split)
+[02:49] * trolles has quit IRC (*.net *.split)
+[02:49] * PerpetualWa_afk has quit IRC (*.net *.split)
+[03:09] * vixterra has quit IRC (Signed off)
+[03:09] * trolles has joined #stats.ql
+[03:09] * MasterPo has joined #stats.ql
+[03:09] * ChainsawHailsto has joined #stats.ql
+[03:09] * jaysson has joined #stats.ql
+[03:09] * cenix has joined #stats.ql
+[03:09] * shaun has joined #stats.ql
+[03:09] * rzeka has joined #stats.ql
+[03:09] * sno has joined #stats.ql
+[03:09] * PerpetualWa_afk has joined #stats.ql
+[03:09] * *.quakenet.org sets mode: +o PerpetualWa_afk
+[03:36] <lonewulftp> My Toronto server I added a couple hours ago does not appear with others
+[03:36] <lonewulftp> It's gone now, and I'm unable to add it.
+[03:59] * tkrr has quit IRC (Read error: Connection reset by peer)
+[04:06] * cenix is now known as CENiX
+[04:08] * CENiX is now known as cenix
+[04:45] <PredatH0r> sorry about that, i finally know why the servers kept disappearing
+[04:46] <PredatH0r> the ZMQ library seems to have a hardcoded limit of connections is can handle
+[04:47] <PredatH0r> all servers that were added after that limit was reached, got lost every time
+[04:48] * shaun has quit IRC (*.net *.split)
+[04:48] * cenix has quit IRC (*.net *.split)
+[04:48] * rzeka has quit IRC (*.net *.split)
+[04:48] * sno has quit IRC (*.net *.split)
+[04:48] * jaysson has quit IRC (*.net *.split)
+[04:48] * ChainsawHailsto has quit IRC (*.net *.split)
+[04:48] * MasterPo has quit IRC (*.net *.split)
+[04:48] * trolles has quit IRC (*.net *.split)
+[04:48] * PerpetualWa_afk has quit IRC (*.net *.split)
+[04:53] <Melodeiro> PredatH0r: it seems that instagib ffa tracks as just ffa. Not sure if someone will care much about FFA ratings, but thats an unwanted behaviour, i guess xD And despite i can just remove servers from list, there are another instagib servers already on list
+[04:54] <PredatH0r> i know. at some point i will have to refill the database with all the matches
+[04:54] <PredatH0r> but even if i had 10 hands, they would all be busy with other stuff atm
+[04:56] <Melodeiro> It would be nice to have 10 hands for you, because your work is really amazing. Nvm then
+[04:56] <PredatH0r> thx :)
+[05:01] <roast> pls clone urself
+[05:04] <[ByQ]Descent> .. about 10 hands ... it calls "company-name ltd" ..
+[05:04] <[ByQ]Descent> =)
+[05:27] * zlr has quit IRC (Signed off)
+[05:39] <Melodeiro> was my fist thought xD
+[05:41] <[ByQ]Descent> =)
+[06:02] * b1ngo|off has quit IRC (EOF from client)
+[06:03] * trolles has joined #stats.ql
+[06:03] * MasterPo has joined #stats.ql
+[06:03] * ChainsawHailsto has joined #stats.ql
+[06:03] * jaysson has joined #stats.ql
+[06:03] * CENiX has joined #stats.ql
+[06:03] * shaun has joined #stats.ql
+[06:03] * rzeka has joined #stats.ql
+[06:03] * sno has joined #stats.ql
+[06:03] * PerpetualWa_afk has joined #stats.ql
+[06:03] * *.quakenet.org sets mode: +o PerpetualWa_afk
+[06:04] * b1ngo|off has joined #stats.ql
+[06:12] * PredatH0r is now known as PREDATH0R
+[06:43] * trolles2 has joined #stats.ql
+[06:46] * trolles has quit IRC (Ping timeout)
+[06:52] * b1ngo|off has quit IRC (Ping timeout)
+[07:03] * b1ngo|off has joined #stats.ql
+[07:43] * shaun_ has joined #stats.ql
+[07:43] * shaun has quit IRC (Signed off)
+[07:46] * trolles2 has quit IRC (Ping timeout)
+[08:02] * b1ngo|off has quit IRC (Ping timeout)
+[08:03] * b1ngo|off has joined #stats.ql
+[08:42] * b1ngo|off has quit IRC (Ping timeout)
+[08:44] * b1ngo|off has joined #stats.ql
+[08:53] * vixterra has joined #stats.ql
+[09:07] * trolles has joined #stats.ql
+[10:15] * PerpetualWa_afk is now known as PerpetualWar_
+[10:26] * mattiZed has joined #stats.ql
+[10:33] * PerpetualWar_ is now known as PerpetualWa_afk
+[10:39] * PerpetualWa_afk is now known as PerpetualWar_
+[10:40] * PerpetualWar_ is now known as PerpetualWa_afk
+[10:46] * vixterra has quit IRC (Signed off)
+[10:47] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[11:04] * mattiZed has quit IRC (EOF from client)
+[11:10] * mattiZed has joined #stats.ql
+[11:16] * PREDATH0R is now known as PredatH0r
+[11:21] * Paas|AFK is now known as PaasHaas
+[11:53] * mattiZed has quit IRC (EOF from client)
+[11:58] * mattiZed has joined #stats.ql
+[13:22] * b1ngo|off is now known as b1ngo
+[13:50] * b1ngo is now known as b1ngo|off
+[14:22] * mattiZed` has joined #stats.ql
+[14:33] * zurn has quit IRC (Quit: Leaving)
+[14:40] * mattiZed` has quit IRC (EOF from client)
+[14:46] * trolles has quit IRC (Ping timeout)
+[14:52] * b1ngo|off is now known as b1ngo
+[14:56] * zurn has joined #stats.ql
+[15:19] * tkrr has joined #stats.ql
+[16:09] * zurn has quit IRC (Read error: Connection reset by peer)
+[16:09] * mattiZed` has joined #stats.ql
+[16:15] * mattiZed` has quit IRC (EOF from client)
+[16:16] * zurn has joined #stats.ql
+[16:19] * zurn has quit IRC (Read error: Connection reset by peer)
+[16:28] * b1ngo is now known as b1ngo|off
+[16:29] * zurn has joined #stats.ql
+[16:31] * mattiZed` has joined #stats.ql
+[16:41] * mattiZed` has quit IRC (EOF from client)
+[16:43] * b1ngo|off is now known as b1ngo
+[16:55] * b1ngo is now known as b1ngo|off
+[16:59] * b1ngo|off is now known as b1ngo
+[17:24] * b1ngo is now known as b1ngo|off
+[17:25] * b1ngo|off is now known as b1ngo
+[17:50] * b1ngo is now known as b1ngo|off
+[18:58] * PerpetualWa_afk is now known as PerpetualWar_
+[18:59] * hannibal has joined #stats.ql
+[20:36] * lolca_ has joined #stats.ql
+[21:00] <PredatH0r> i think yesterday's stats tracking issues are fixed now
+[21:01] <PredatH0r> for anyone who cares: libzmq (linux and windows) can't handle more than 341 (=1024/3) connections per process
+[21:01] * vixterra has joined #stats.ql
+[21:02] <PerpetualWar_> PredatH0r
+[21:02] <sno> nice PredatH0r , did you recompile it?
+[21:02] * mattiZed has quit IRC (Quit: Leaving)
+[21:02] <PerpetualWar_> how did you fix that problem with feeder that it stops sending data after a while if serv idle ?
+[21:02] <PerpetualWar_> I mean qlds stops sending data
+[21:02] <PredatH0r> no. tried, but the node module just didnt work with my self-compiled version
+[21:02] * gato has joined #stats.ql
+[21:03] <sno> ah, so how did you fix?
+[21:03] <PredatH0r> my dirty solution is to run 3 instances with a subset of servers each
+[21:03] <sno> hehe :D
+[21:03] <PredatH0r> even if i manage to recompile it... would be difficult for anyone else who wants to run it
+[21:03] <sno> ye everyone would have to do the same
+[21:04] <PredatH0r> PerpetualWar_: do you want to be moved to panel 2 now that your "red" servers turned green? :)
+[21:05] <PerpetualWar_> whats better in panel 2 ?
+[21:05] <PerpetualWar_> :D
+[21:05] <PerpetualWar_> oh all green there
+[21:05] <PredatH0r> panel 1 and 2 were all green a few mins ago
+[21:05] <PredatH0r> 3 is for the bad boys with red servers
+[21:05] <PerpetualWar_> :D
+[21:06] <PredatH0r> doesn't really matter though
+[21:06] <PerpetualWar_> can you tell me how you fixed feeder
+[21:06] <PerpetualWar_> to work when servers stop sending data ?
+[21:06] <PredatH0r> i reconnect all idle connections after 15min +/- some random value
+[21:07] <PredatH0r> to prevent load spikes
+[21:07] <PerpetualWar_> I see
+[21:08] * trolles has joined #stats.ql
+[21:12] * Melodeiro has joined #stats.ql
+[21:15] * tkrr has quit IRC (Quit: Page closed)
+[21:17] * vixterra has quit IRC (Signed off)
+[21:27] * mattiZed has joined #stats.ql
+[21:51] * b1ngo|off is now known as b1ngo
+[22:07] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[22:09] * Melodeiro has joined #stats.ql
+[22:17] * CENiX is now known as cenix
+[22:48] * gato has quit IRC (Quit: Page closed)
+[22:51] * hannibal has quit IRC (*.net *.split)
+[22:51] * lonewulf has quit IRC (*.net *.split)
+[22:51] * lonewulftp has quit IRC (*.net *.split)
+[22:51] * lonewulf has joined #stats.ql
+[22:51] * hannibal has joined #stats.ql
+[22:59] * PerpetualWar_ is now known as PerpetualWa_afk
+[23:15] * mattiZed has quit IRC (EOF from client)
+[23:56] * PerpetualWa_afk is now known as PerpetualWar_
+Session Time: Wed Dec 16 00:00:00 2015
+[00:20] * mattiZed has joined #stats.ql
+[00:33] * mattiZed has quit IRC (EOF from client)
+[00:36] * mattiZed has joined #stats.ql
+[01:18] * PerpetualWar_ is now known as PerpetualWa_afk
+[01:28] * lonewulf has quit IRC (Signed off)
+[01:37] * mattiZed has quit IRC (EOF from client)
+[01:43] * vermis has quit IRC (Quit: Page closed)
+[01:45] * vixterra has joined #stats.ql
+[01:57] * Retrieving #stats.ql modes...
+[01:58] * b1ngo is away (playing Quake Live, gone @ 15/12/2015, 23:58:27)
+[01:58] * b1ngo is now known as b1ngo|QL
+[01:59] * b1ngo|QL is now known as b1ngo
+[02:29] * b1ngo is now known as b1ngo|off
+[02:38] * wdx2 has quit IRC (Ping timeout)
+[02:40] * wdx2 has joined #stats.ql
+[02:40] * Q sets mode: +o wdx2
+[02:53] * lolca_ has quit IRC (Ping timeout)
+[02:54] * lolca_ has joined #stats.ql
+[02:56] * vixterra has quit IRC (Read error: Connection reset by peer)
+[02:57] * vixterra has joined #stats.ql
+[02:58] * Melodeiro|2 has joined #stats.ql
+[02:59] * Melodeiro|2 has quit IRC (Read error: Connection reset by peer)
+[03:01] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[03:24] * Melodeiro has joined #stats.ql
+[03:43] * trolles has quit IRC (Ping timeout)
+[04:46] * syncore has quit IRC (Signed off)
+[05:20] * PredatH0r is now known as PREDATH0R
+[05:20] * cenix is now known as CENiX
+[05:49] * syncore has joined #stats.ql
+[06:14] * lonewulf has joined #stats.ql
+[06:22] * vixterra has quit IRC (Signed off)
+[07:51] * pex has quit IRC (Signed off)
+[08:00] * pex has joined #stats.ql
+[08:28] * lolca_ has quit IRC (Quit: Leaving)
+[09:00] * trolles has joined #stats.ql
+[10:14] * PerpetualWa_afk is now known as PerpetualWar_
+[11:31] * gato has joined #stats.ql
+[11:40] * gato has quit IRC (Ping timeout)
+[12:33] * PREDATH0R is now known as PredatH0r
+[12:46] * PerpetualWar_ is now known as PerpetualWa_afk
+[13:03] * PredatH0r is now known as PREDATH0R
+[13:06] * PREDATH0R is now known as PredatH0r
+[13:23] * CENiX has quit IRC (Ping timeout)
+[13:26] * PredatH0r is now known as PREDATH0R
+[13:28] * PREDATH0R is now known as PredatH0r
+[13:28] * CENiX has joined #stats.ql
+[13:54] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[14:00] * b1ngo|off is now known as b1ngo
+[14:02] * mattiZed has joined #stats.ql
+[14:24] * PerpetualWa_afk is now known as PerpetualWar_
+[14:34] * mattiZed has quit IRC (EOF from client)
+[14:52] * CENiX has quit IRC (Ping timeout)
+[14:59] * CENiX has joined #stats.ql
+[16:07] * PerpetualWar_ is now known as PerpetualWa_afk
+[16:15] * b1ngo is now known as b1ngo|off
+[16:37] * PerpetualWa_afk is now known as PerpetualWar_
+[17:45] * PerpetualWar_ is now known as PerpetualWa_afk
+[18:07] * b1ngo|off is now known as b1ngo
+[18:36] * McAfee has joined #stats.ql
+[18:55] * lonewulf has quit IRC (Signed off)
+[18:57] * McAfee has left #stats.ql
+[19:00] * lonewulf has joined #stats.ql
+[19:07] * CENiX is now known as cenix
+[20:34] * Y4gami has joined #stats.ql
+[20:34] <Y4gami> Hi
+[20:43] <trolles> hi xD
+[20:53] * PerpetualWa_afk is now known as PerpetualWar_
+[20:59] <PredatH0r> hi
+[21:00] <sno> ho
+[21:01] <PredatH0r> lots of offline servers atm. all that red on the screen makes me sad
+[21:01] <sno> yea minqlx busted with latest update
+[21:02] <PredatH0r> oh, that's what it is
+[21:02] <sno> gonna give it a while then start normally if its gonna take a while
+[21:04] * vixterra has joined #stats.ql
+[21:11] * vermis has joined #stats.ql
+[21:11] <vermis> hi
+[21:11] <vermis> se y4gami :D
+[21:14] <Y4gami> xD
+[21:14] <Y4gami> Ya avisaras
+[21:42] <sno> omegaall green again
+[21:42] <sno> woo
+[21:54] <[ByQ]Descent> ... it calls : suprissseeeeeee!!! ;D
+[23:01] <syncore> the names for only 3 of my 9 servers have been updated on qlstats
+[23:01] <syncore> i guess it updates once a game has been played or something
+[23:04] <PredatH0r> correct. everytime a match result is posted, data is updated
+[23:10] * PECKA is now known as pecka
+Session Time: Thu Dec 17 00:00:00 2015
+[01:05] * Melodeiro has joined #stats.ql
+[01:31] * lonewulftp has joined #stats.ql
+[01:54] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:04] * Y4gami has quit IRC (Ping timeout)
+[02:17] * pecka is now known as PECKA
+[02:17] * PECKA is now known as pecka
+[02:26] * b1ngo is now known as b1ngo|off
+[03:07] * PredatH0r is now known as PREDATH0R
+[03:07] * pecka is now known as PECKA
+[03:17] * vermis has quit IRC (Quit: Page closed)
+[04:15] * trolles has quit IRC (Ping timeout)
+[04:40] * cenix is now known as CENiX
+[04:55] * lonewulftp has quit IRC (Ping timeout)
+[06:02] * vixterra has quit IRC (Signed off)
+[06:40] * Melodeiro|2 has joined #stats.ql
+[06:44] * Melodeiro has quit IRC (Ping timeout)
+[06:46] * Melodeiro|2 has quit IRC (Ping timeout)
+[07:00] * Melodeiro has joined #stats.ql
+[07:00] * vks has joined #stats.ql
+[07:10] * lonewulfn6 has joined #stats.ql
+[08:39] * McAfee has joined #stats.ql
+[08:39] * McAfee has left #stats.ql
+[08:59] * trolles has joined #stats.ql
+[09:55] * lonewulftp has joined #stats.ql
+[10:17] * vks has quit IRC (Quit)
+[10:53] * tjone270 has quit IRC (Signed off)
+[10:53] * tjone270 has joined #stats.ql
+[10:53] * Q sets mode: +o tjone270
+[11:05] * vks has joined #stats.ql
+[12:00] * vks has quit IRC (Quit)
+[12:02] * b1ngo|off is now known as b1ngo
+[12:03] * vks has joined #stats.ql
+[12:16] * ChainsawHailsto has quit IRC (Ping timeout)
+[12:20] * Melodeiro|2 has joined #stats.ql
+[12:20] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:21] * Melodeiro|2 is now known as Melodeiro
+[12:22] * PaasHaas has quit IRC (Read error: Connection reset by peer)
+[12:22] * PREDATH0R is now known as PredatH0r
+[12:23] * PaasHaas has joined #stats.ql
+[12:23] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:23] * Melodeiro has joined #stats.ql
+[12:27] * b1ngo is now known as b1ngo|off
+[12:27] * b1ngo|off has quit IRC (Signed off)
+[12:27] * b1ngo has joined #stats.ql
+[12:29] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:29] * Melodeiro has joined #stats.ql
+[12:31] * vks has quit IRC (Quit)
+[12:33] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:33] * Melodeiro has joined #stats.ql
+[12:36] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:37] * Melodeiro has joined #stats.ql
+[12:38] * Melodeiro|2 has joined #stats.ql
+[12:38] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[12:54] * vks has joined #stats.ql
+[12:59] * gojira_ has joined #stats.ql
+[13:04] * b1ngo has quit IRC (Signed off)
+[13:13] * b1ngo2 has joined #stats.ql
+[13:15] * b1ngo has joined #stats.ql
+[13:16] <PredatH0r> b1ngo, your QL servers are down
+[13:16] * b1ngo has quit IRC (Registered)
+[13:16] * b1ngo has joined #stats.ql
+[13:16] <b1ngo> yes
+[13:16] <b1ngo> i know
+[13:16] <PredatH0r> k :)
+[13:16] <b1ngo> i am working on the server
+[13:16] <b1ngo> 3 are online
+[13:16] * b1ngo2 has quit IRC (Signed off)
+[13:17] <b1ngo> had to reinstall the first machine
+[13:17] <b1ngo> and the first thing i got was GLINED :)
+[13:17] <b1ngo> forgot to install my identd :)
+[13:21] * zippercoat has joined #stats.ql
+[13:22] * teh1337 has quit IRC (Ping timeout)
+[13:22] * zippercoat is now known as teh1337
+[13:39] * lonewulftp has quit IRC (EOF from client)
+[14:08] * lonewulftp has joined #stats.ql
+[14:45] * DefDogs has joined #stats.ql
+[17:05] * Disconnected
+Session Close: Fri Dec 18 00:00:00 2015
+
+Session Start: Fri Dec 18 00:32:19 2015
+Session Ident: #stats.ql
+[00:32] * Now talking in #stats.ql
+[00:32] * Topic is ':: Channel for people collaborating in efforts to create global ranking and balancing system for Quake Live :: https://github.com/swallentin/ :: qlstats.net server registration: http://qlstats.net:8081/'
+[00:32] * Set by PredatH0r on Wed Dec 09 00:53:57
+[00:52] * DefDogs|2 has joined #stats.ql
+[00:56] * qdbp has joined #stats.ql
+[00:57] * DefDogs has quit IRC (Ping timeout)
+[01:05] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[01:05] * Melodeiro has joined #stats.ql
+[01:08] * DefDogs|2 has quit IRC (Signed off)
+[01:13] * PredatH0r is now known as PREDATH0R
+[01:37] * mattiZed has quit IRC (Quit: Leaving)
+[01:54] * PerpetualWar_ is now known as PerpetualWa_afk
+[02:00] * pex has quit IRC (Signed off)
+[02:11] * pex has joined #stats.ql
+[02:11] * pex has quit IRC (Signed off)
+[02:14] * PREDATH0R is now known as PredatH0r
+[02:17] * b1ngo is now known as b1ngo|off
+[02:34] * CENiX has quit IRC (Ping timeout)
+[02:39] * CENiX has joined #stats.ql
+[02:49] * CENiX is now known as cenix
+[02:52] * cenix is now known as CENiX
+[03:43] * CENiX has quit IRC (Registered)
+[03:43] * CENiX has joined #stats.ql
+[03:45] * Q has quit IRC (*.net *.split)
+[03:46] * Q has joined #stats.ql
+[03:46] * *.quakenet.org sets mode: +o Q
+[04:16] * Q has quit IRC (*.net *.split)
+[04:18] * Q has joined #stats.ql
+[04:18] * *.quakenet.org sets mode: +o Q
+[04:56] * PredatH0r is now known as PREDATH0R
+[05:18] * trolles has quit IRC (Read error: Connection reset by peer)
+[05:26] * vks has quit IRC (Quit)
+[05:32] * vks has joined #stats.ql
+[05:41] * qdbp has quit IRC (Ping timeout)
+[06:32] * tjone270 has quit IRC (Signed off)
+[06:32] * tjone270 has joined #stats.ql
+[06:32] * Q sets mode: +o tjone270
+[06:59] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[07:52] * lonewulftp has quit IRC (Ping timeout)
+[08:07] * lonewulftp has joined #stats.ql
+[08:08] * triopted has joined #stats.ql
+[08:08] <triopted> !help
+[08:09] <triopted> how to get a server to report stats?
+[08:19] * vixterra has joined #stats.ql
+[10:13] * PerpetualWa_afk is now known as PerpetualWar_
+[10:22] * pex has joined #stats.ql
+[11:09] * vixterra has quit IRC (Signed off)
+[11:12] * PerpetualWar_ is now known as PerpetualWa_afk
+[11:14] <sno> see url in topic triopted 
+[11:19] * b1ngo|off is now known as b1ngo
+[12:32] * triopted has quit IRC (Ping timeout)
+[12:37] * CENiX has quit IRC (Ping timeout)
+[12:38] * CENiX has joined #stats.ql
+[13:04] * b1ngo is now known as b1ngo|off
+[13:44] * trolles has joined #stats.ql
+[14:23] * mattiZed has joined #stats.ql
+[15:17] * b1ngo|off is now known as b1ngo
+[15:26] * vks has quit IRC (Read error: Connection reset by peer)
+[15:38] * CENiX is now known as cenix
+[16:19] * mattiZed has quit IRC (Quit: Leaving...)
+[16:24] * b1ngo is now known as b1ngo|off
+[17:11] * PREDATH0R is now known as PredatH0r
+[17:11] * PerpetualWa_afk is now known as PerpetualWar_
+[17:11] * qdbp has joined #stats.ql
+[17:19] * lonewulftp has quit IRC (EOF from client)
+[17:26] * lonewulftp has joined #stats.ql
+[17:46] * PerpetualWar_ is now known as PerpetualWa_afk
+[18:12] * PerpetualWa_afk is now known as PerpetualWar_
+[18:22] * b1ngo|off is now known as b1ngo
+[19:45] * b1ngo is now known as b1ngo|off
+[20:36] * unNam3d has joined #stats.ql
+[21:32] * unNam3d is now known as n0iseee`mp3
+[21:44] * lonewulftp has quit IRC (EOF from client)
+[22:03] * lonewulftp has joined #stats.ql
+[22:17] * Kingsman has joined #stats.ql
+[22:24] * b1ngo|off has quit IRC (Ping timeout)
+[22:26] * b1ngo|off has joined #stats.ql
+[22:28] * shaun_ has quit IRC (Ping timeout)
+[22:34] * hst has quit IRC (Ping timeout)
+[22:35] * hst has joined #stats.ql
+[22:39] * shaun_ has joined #stats.ql
+[22:44] * tjone270_ has joined #stats.ql
+[22:44] * Q sets mode: +o tjone270_
+[22:49] * tjone270 has quit IRC (Ping timeout)
+[22:55] * b1ngo|off is now known as b1ngo
+[23:00] * RysiuWroc has joined #stats.ql
+[23:14] * tjone270_ is now known as tjone270
+[23:35] * gojira_ has quit IRC (Quit: Leaving)
+[23:37] <tjone270> Rightio then, I'm off now, back on the 4th of January. Merry Christmas all, don't break anything :D
+[23:37] * tjone270 has quit IRC (Signed off)
+[23:47] <sno> are all the naughy people on panel 3 PredatH0r ?
+Session Time: Sat Dec 19 00:00:00 2015
+[00:02] * Kingsman has quit IRC (Signed off)
+[00:20] * vixterra has joined #stats.ql
+[00:40] <PerpetualWar_> except me, mostly sno
+[00:40] <PerpetualWar_> :D
+[00:40] <sno> :D
+[00:44] * [1]ChainsawHail has joined #stats.ql
+[00:47] * n0iseee`mp3 is now known as n0iseee`off
+[00:48] * ChainsawHailsto has quit IRC (Ping timeout)
+[01:01] <PredatH0r> yep, the "panel of shame" :)
+[02:05] * lonewulftp has quit IRC (EOF from client)
+[02:34] * trolles has quit IRC (Ping timeout)
+[02:49] * b1ngo is now known as b1ngo|off
+[02:55] * vks has joined #stats.ql
+[02:56] <[1]ChainsawHail> Panel of shame appears to be down
+[02:58] * [1]ChainsawHail has left #stats.ql
+[02:58] * [1]ChainsawHail has joined #stats.ql
+[02:59] * [1]ChainsawHail is now known as ChainsawHailstr
+[03:11] * lonewulftp has joined #stats.ql
+[03:17] * lonewulftp has quit IRC (Signed off)
+[03:19] <PredatH0r> thx
+[03:19] <PredatH0r> damn, i failed to restart it after updating the script :(
+[03:44] * vixterra has quit IRC (Signed off)
+[03:56] * PerpetualWar_ is now known as PerpetualWa_afk
+[04:13] * pex has quit IRC (Read error: Connection reset by peer)
+[04:13] * pex` has joined #stats.ql
+[04:13] * pex` has quit IRC (Registered)
+[04:13] * pex` has joined #stats.ql
+[04:24] * vixterra has joined #stats.ql
+[04:51] * cenix is now known as CENiX
+[05:01] * trolles has joined #stats.ql
+[05:05] * trolles has quit IRC (Ping timeout)
+[05:50] * vixterra has quit IRC (Signed off)
+[06:02] * RysiuWroc has quit IRC (Ping timeout)
+[06:04] * PredatH0r is now known as PREDATH0R
+[06:39] * lonewulftp has joined #stats.ql
+[06:40] * lonewulf has quit IRC (Signed off)
+[06:43] * lonewulf has joined #stats.ql
+[08:13] * Q has quit IRC (*.net *.split)
+[08:17] * Q has joined #stats.ql
+[08:17] * *.quakenet.org sets mode: +o Q
+[08:26] * roast has quit IRC (Ping timeout)
+[08:50] * vks has quit IRC (Quit)
+[10:15] * n0iseee`off is now known as unNam3d
+[10:21] * trolles has joined #stats.ql
+[10:22] * vks has joined #stats.ql
+[10:36] * vixterra has joined #stats.ql
+[11:18] * vks has quit IRC (Quit)
+[11:22] * vks has joined #stats.ql
+[11:29] * vks has quit IRC (Read error: Connection reset by peer)
+[11:44] * vks has joined #stats.ql
+[12:10] * PerpetualWa_afk is now known as PerpetualWar_
+[13:14] * vixterra has quit IRC (Signed off)
+[13:26] * G1N-zurn has joined #stats.ql
+[13:30] * b1ngo|off is now known as b1ngo
+[13:31] * zurn has quit IRC (Ping timeout)
+[13:44] * CENiX has quit IRC (Ping timeout)
+[13:49] * CENiX has joined #stats.ql
+[14:21] * b1ngo is now known as b1ngo|off
+[15:04] * PREDATH0R is now known as PredatH0r
+[15:50] * unNam3d is now known as n0iseee`mp3
+[16:16] * CENiX is now known as cenix
+[16:20] * roasticle has joined #stats.ql
+[16:56] * cenix is now known as CENiX
+[17:17] * qdbp has quit IRC (Ping timeout)
+[17:21] * qdbp has joined #stats.ql
+[17:23] * iddqdbp has joined #stats.ql
+[17:27] * qdbp has quit IRC (Ping timeout)
+[17:28] * PerpetualWar_ is now known as PerpetualWa_afk
+[17:29] * iddqdbp has quit IRC (Ping timeout)
+[17:30] * iddqdbp has joined #stats.ql
+[17:31] * dqpb has joined #stats.ql
+[17:34] * PerpetualWa_afk has quit IRC (Ping timeout)
+[17:36] * iddqdbp has quit IRC (Ping timeout)
+[17:38] * dqpb has quit IRC (Ping timeout)
+[17:45] * PerpetualWa_afk has joined #stats.ql
+[18:19] * qdbp has joined #stats.ql
+[18:23] * PECKA is now known as pecka
+[18:26] * PerpetualWa_afk has quit IRC (Ping timeout)
+[18:27] * jjjuho has joined #stats.ql
+[18:28] <jjjuho> PredatH0r: you there?
+[18:28] <PredatH0r> no
+[18:28] <jjjuho> :D
+[18:28] <jjjuho> whats up with qlstats.net
+[18:29] <jjjuho> is there any plans on making ui sweeter / adding proper leaderboards and stuff
+[18:29] <PredatH0r> what do you mean?
+[18:29] <jjjuho> are you working on it by yourself or are there others involved too
+[18:29] <PredatH0r> i'd appreciate any help i can get. nobody wants to deal with the existing code base though
+[18:30] <PredatH0r> inl started a clean slate project on his own. dunno how far that is
+[18:30] <jjjuho> clean slate from which perspective
+[18:31] <jjjuho> creating everything from backend or just a new frontend
+[18:31] <PredatH0r> everything new
+[18:31] <jjjuho> is the backend terrible then?
+[18:31] <PredatH0r> imo the database is quite solid. it worked for xonotic for many years
+[18:32] <jjjuho> hmm
+[18:32] <jjjuho> is the data easily accessible?
+[18:32] <PredatH0r> my main focus atm is to get better ratings for matchmaking
+[18:34] <PredatH0r> depends what you mean with "easy". It's a postgreSQL database
+[18:34] <jjjuho> hmm
+[18:34] <PredatH0r> rather simple with nodejs or python to query it
+[18:34] <jjjuho> not familar with that
+[18:34] <jjjuho> I am used using cms systems build in functions
+[18:34] <jjjuho> ok
+[18:35] <jjjuho> i am mostly ui / ux / frontend developer type of guy
+[18:35] <jjjuho> for me the thing would be to make it visually sweet and easy to use
+[18:36] <jjjuho> qlranks had decent ui, but it could be even better
+[18:36] <PredatH0r> the whole UI part is written in python using pyramid / mako
+[18:36] <PredatH0r> i'm not familiar with it myself, that's why i cant really do much with the UI
+[18:36] <jjjuho> doesnt sound good
+[18:37] <jjjuho> i am used to .net and php
+[18:37] <PredatH0r> but aside from the implementation details, i am opposed to "global ranking", becasue people look at numbers and have no idea how to interpret them
+[18:38] <jjjuho> what do you mean
+[18:39] <PredatH0r> like when you have separated communities, like US and AU players, you cannot compare their numeric values
+[18:39] <PredatH0r> the local AU hero may have a higher rating than the US hero, but may be a lot worse
+[18:40] <jjjuho> yeah
+[18:40] <jjjuho> thats true
+[18:40] <jjjuho> rankings should be continental
+[18:41] <jjjuho> is it easy to get dev env of the system running on my comp?
+[18:42] * PerpetualWa_afk has joined #stats.ql
+[18:43] <PredatH0r> i installed it a couple times on different machines and there was always something that didn't work out of the box
+[18:44] <PredatH0r> but it's not super hard now that i now the catches
+[18:45] <jjjuho> is there some db to use for testing
+[18:45] <jjjuho> so that i dont need to make my own
+[18:46] <PredatH0r> atm there isn't any
+[18:46] <PredatH0r> i could set one up though
+[18:47] <jjjuho> hmm
+[18:47] <PredatH0r> but setting one up locally is quite easy
+[18:47] <jjjuho> yeah as long as u have some data
+[18:47] <jjjuho> just wouldnt want to start up with empty databasse
+[18:47] <PredatH0r> i have a bunch of data files which can easily be zipped and loaded in the DB
+[18:49] <PredatH0r> https://github.com/PredatH0r/XonStat
+[18:49] <PredatH0r> that's the source code. see the "install-instructions.txt" for what you need to run the whole thing
+[18:50] <jjjuho> mm
+[18:51] <PredatH0r> surprisingly it was easier to get it running under windows than under linux. but it works on both
+[18:53] <jjjuho> oh
+[18:53] <jjjuho> i was already prepping up to start up debian virtual
+[18:53] <jjjuho> but guess il be better of just using windows
+[18:54] <roasticle> you planning to remove bot data?
+[18:56] <PredatH0r> from the ratings yes. matches will still be tracked though, just without "Elo" (or whatever) change
+[18:56] * PerpetualWa_afk has quit IRC (EOF from client)
+[19:00] * vks has quit IRC (Quit)
+[19:06] <roasticle> one of the bots from my server is in most active players list heh
+[19:06] <roasticle> mecha red
+[19:06] <roasticle> obv botting.
+[19:14] * PerpetualWa_afk has joined #stats.ql
+[19:44] * b1ngo|off is now known as b1ngo
+[21:45] * jjjuho has quit IRC (Ping timeout)
+[21:52] * G1N-zurn is now known as zurn
+[23:01] * pecka is now known as PECKA
+[23:02] * vixterra has joined #stats.ql
+[23:06] * cronoxaty has joined #stats.ql
+[23:08] * cronoxaty has quit IRC (Signed off)
+[23:39] * PerpetualWa_afk is now known as PerpetualWar_
+[23:40] * Q sets mode: +o PerpetualWar_
+[23:45] * PerpetualWar_ is now known as PerpetualWa_afk
+[23:45] * PerpetualWa_afk is now known as PerpetualWar_
+Session Time: Sun Dec 20 00:00:00 2015
+[00:04] * vixterra has quit IRC (Signed off)
+[00:13] * vks has joined #stats.ql
+[00:27] * lint has joined #stats.ql
+[00:38] * PECKA is now known as pecka
+[00:48] * roastbot has joined #stats.ql
+[00:51] * roasticle has quit IRC (Ping timeout)
+[01:30] * Q has quit IRC (*.net *.split)
+[01:30] * b1ngo has quit IRC (*.net *.split)
+[01:30] * pex` has quit IRC (*.net *.split)
+[01:30] * lonewulf has quit IRC (*.net *.split)
+[01:30] * roastbot has quit IRC (*.net *.split)
+[01:30] * rzeka has quit IRC (*.net *.split)
+[01:30] * sno has quit IRC (*.net *.split)
+[01:30] * jaysson has quit IRC (*.net *.split)
+[01:30] * MasterPo has quit IRC (*.net *.split)
+[01:30] * wdx2 has quit IRC (*.net *.split)
+[01:30] * vks has quit IRC (*.net *.split)
+[01:30] * pecka has quit IRC (*.net *.split)
+[01:30] * n0iseee`mp3 has quit IRC (*.net *.split)
+[01:37] * roastbot has joined #stats.ql
+[01:37] * vks has joined #stats.ql
+[01:37] * lonewulf has joined #stats.ql
+[01:37] * pex` has joined #stats.ql
+[01:37] * b1ngo has joined #stats.ql
+[01:37] * n0iseee`mp3 has joined #stats.ql
+[01:37] * sno has joined #stats.ql
+[01:37] * rzeka has joined #stats.ql
+[01:37] * jaysson has joined #stats.ql
+[01:37] * MasterPo has joined #stats.ql
+[01:37] * pecka has joined #stats.ql
+[01:37] * Q has joined #stats.ql
+[01:37] * wdx2 has joined #stats.ql
+[01:37] * *.quakenet.org sets mode: +oo wdx2 Q
+[01:42] * pex` has quit IRC (Read error: Connection reset by peer)
+[01:43] * qdbp has quit IRC (Read error: Connection reset by peer)
+[01:44] * qdbp has joined #stats.ql
+[01:45] * pex has joined #stats.ql
+[02:10] * NeKro has joined #stats.ql
+[02:13] * lint has quit IRC (Quit: Leaving)
+[02:13] * pecka is now known as PECKA
+[02:29] <NeKro> hi
+[02:29] <NeKro> set zmq_stats_ip "84.200.38.152"
+[02:29] <NeKro> set zmq_stats_port ""
+[02:29] <NeKro> same ip and port likethe game server?
+[02:29] <NeKro> or has zmq ip and port to be diffrent?
+[02:29] <PredatH0r> normally it's the same
+[02:29] <NeKro> thx
+[02:29] <NeKro> i give it a try
+[02:30] <PredatH0r> game port is UDP, stats is TCP
+[02:30] <NeKro> thx
+[02:45] <NeKro> so easy guys
+[02:45] <NeKro> great work
+[02:45] <NeKro> I: 15-12-19 18:42:43 zauth: - ZAP reply status_code=200 status_text=OK
+[02:45] <NeKro> :)
+[03:00] <PredatH0r> huh?
+[03:05] * b1ngo is now known as b1ngo|off
+[03:42] * PerpetualWar_ is now known as PerpetualWa_afk
+[04:14] * n0iseee`mp3 is now known as n0iseee`off
+[05:45] * iddqdbp has joined #stats.ql
+[05:50] * qdbp has quit IRC (Ping timeout)
+[05:52] * iddqdbp has quit IRC (Ping timeout)
+[05:52] * NeKro is away (Bin off)
+[05:52] * NeKro is now known as NeKro`oFF
+[06:00] * vixterra has joined #stats.ql
+[06:08] * qdbp has joined #stats.ql
+[06:49] * CENiX has quit IRC (Ping timeout)
+[06:54] * CENiX has joined #stats.ql
+[07:56] * vks1 has joined #stats.ql
+[07:57] * PredatH0r is now known as PREDATH0R
+[08:03] * vks1 has quit IRC (Quit: Textual IRC Client: www.textualapp.com)

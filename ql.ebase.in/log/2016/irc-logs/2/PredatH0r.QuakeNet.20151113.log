@@ -1,0 +1,41 @@
+
+Session Start: Fri Nov 13 00:42:44 2015
+Session Ident: PredatH0r
+01[00:42] <[ByQ]Descent> hi
+[00:42] <PredatH0r> hi
+01[00:42] <[ByQ]Descent> about servers
+01[00:43] <[ByQ]Descent> instagib-1 Minsk not ranked ..
+01[00:43] <[ByQ]Descent> not in server list
+[00:43] <PredatH0r> which ip:port ?
+01[00:43] <[ByQ]Descent> 178.124.139.88:27968
+01[00:44] <[ByQ]Descent> and maybe some others
+01[00:44] <[ByQ]Descent> duel Minsk
+[00:44] <PredatH0r> it's in the config file though. it might not show up if nobody finished a game on it
+01[00:45] <[ByQ]Descent> I did it =)
+01[00:45] <[ByQ]Descent> duel and instagib for sure
+01[00:45] <[ByQ]Descent> =)
+[00:47] <PredatH0r> hmm, i didn't see any match uploads for your IPs in a while
+[00:48] <PredatH0r> i restarted the stats tracker, seems to connect fine
+01[00:49] <[ByQ]Descent> can you receive the image?
+[00:50] <PredatH0r> nope, wont go though my router
+01[00:51] <[ByQ]Descent> sec
+01[00:52] <[ByQ]Descent> http://ebase.in/games-(12-11-2015)-(20-00).jpg
+[00:53] <PredatH0r> one match just got uploaded for 178.124.139.88:27963
+[00:53] <PredatH0r> someone said that if the servers are idle for some time, they stop sending stats info until a reconnect
+[00:53] <PredatH0r> maybe that's really the case
+[00:53] <PredatH0r> because there were no error messages
+01[00:53] <[ByQ]Descent> they not in server list
+01[00:54] <[ByQ]Descent> http://qlstats.net:8080/search?fs=&server_name=Minsk
+01[00:55] <[ByQ]Descent> can it be other port?
+[00:55] <PredatH0r> i know. for some unknown reason i didn't receive any data. i reconnected, so it should be fine now
+[00:55] <PredatH0r> you won't see the server until a match was loaded into the database
+[00:56] <PredatH0r> the data for the past matches is lost. no way to get that information after the match is over
+01[00:57] <[ByQ]Descent> .. ok ..
+01[00:59] <[ByQ]Descent> thnx
+[01:01] <PredatH0r> np. let me know when no matches show up after a while. it's a bit hard to keep an eye on 150 servers in the list
+01[01:01] <[ByQ]Descent> ok.
+01[01:08] <[ByQ]Descent> yep, there were kind of "idle" time
+01[01:08] <[ByQ]Descent> http://qlstats.net:8080/server/83
+01[01:08] <[ByQ]Descent> but there were games for sure ..
+01[01:09] <[ByQ]Descent> ok
+Session Close: Sat Nov 14 00:00:00 2015

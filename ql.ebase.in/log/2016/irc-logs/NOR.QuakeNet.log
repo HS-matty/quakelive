@@ -1,0 +1,28 @@
+
+Session Start: Sat Nov 21 00:41:09 2015
+Session Ident: NOR
+[00:41] Session Ident: NOR (~NOR@177.92-221-215.customer.lyse.net)
+[00:41] <NOR> Hi
+[00:41] <NOR> Just using this:
+[00:41] <NOR> #!/bin/bash
+[00:41] <NOR> gameport=`expr $1 + 27960`
+[00:41] <NOR> rconport=`expr $1 + 28960`
+[00:41] <NOR> servernum=`expr $1 + 1`
+[00:41] <NOR> exec /home/user/steamcmd/steamapps/common/qlds/run_server_x86.sh \
+[00:41] <NOR> +set net_strict 1 \
+[00:41] <NOR> +set net_port $gameport \
+[00:41] <NOR> +set sv_hostname "My Quake Live Server #$servernum" \
+[00:41] <NOR> +set fs_homepath /home/user/.quakelive/$gameport \
+[00:41] <NOR> +set zmq_rcon_enable 1 \
+[00:41] <NOR> +set zmq_rcon_password "mypass" \
+[00:41] <NOR> +set zmq_rcon_port $rconport \
+[00:41] <NOR> +set zmq_stats_enable 1 \
+[00:41] <NOR> +set zmq_stats_password "mypass" \
+[00:41] <NOR> +set zmq_stats_port $gameport \
+[00:41] <NOR> I have ofc modifyed it suit my folder etc.
+[00:41] <NOR> folders*
+[03:28] <[ByQ]Descent> this script is for supervisor ..
+[03:28] <[ByQ]Descent> which exec it kind of script.sh 1
+[03:28] <[ByQ]Descent> script.sh 2
+[03:28] <[ByQ]Descent> set up supervisor
+Session Close: Sat Nov 21 20:20:34 2015

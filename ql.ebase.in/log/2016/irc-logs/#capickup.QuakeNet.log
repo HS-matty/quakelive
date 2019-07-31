@@ -1,0 +1,239 @@
+
+Session Start: Wed Nov 18 18:10:33 2015
+Session Ident: #capickup
+[18:10] * Now talking in #capickup
+[18:10] * Topic is '4Next Game: 06?/?/?/?/?/?/?/? 3|| RULES @ http://capickup.cf'
+[18:10] * Set by anna^ on Wed Nov 11 13:39:43
+[19:25] * PerpetualWa_off is now known as PerpetualWar
+Session Time: Thu Nov 19 00:00:00 2015
+[01:29] * PerpetualWar is now known as PerpetualWa_off
+[05:30] * rawx has quit IRC (Read error: Connection reset by peer)
+[11:47] * PerpetualWa_off is now known as PerpetualWar
+[12:20] * PerpetualWar is now known as PerpetualWa_off
+[18:07] * PerpetualWa_off is now known as PerpetualWar
+Session Time: Fri Nov 20 00:00:00 2015
+[01:10] * PerpetualWar is now known as PerpetualWa_off
+[18:16] * PerpetualWa_off is now known as PerpetualWar
+[18:41] * hombr3[OFF] has quit IRC (Registered)
+[18:41] * hombr3[OFF] has joined #capickup
+[18:41] * hombr3[OFF] is now known as hombr3
+[18:42] <hombr3> :-O
+Session Close: Fri Nov 20 18:48:00 2015
+
+Session Start: Mon Nov 23 18:49:09 2015
+Session Ident: #capickup
+[18:49] * Now talking in #capickup
+[18:49] * Topic is ' | botestetste'
+[18:49] * Set by CAPickupBot on Mon Nov 23 09:57:40
+[22:00] * CAPickupBot has quit IRC (Quit: Bot is shutting down)
+[22:00] * CAPickupBot has joined #capickup
+[22:00] * CAPickupBot has quit IRC (Registered)
+[22:00] * CAPickupBot has joined #capickup
+[22:00] * Q sets mode: +o CAPickupBot
+[22:01] <PerpetualWar> !add
+[22:01] <PerpetualWar> !iam PerpetualWar
+[22:01] <PerpetualWar> !get_profile PerpetualWar
+[22:02] * teste has joined #capickup
+[22:02] <teste> !add
+[22:02] <PerpetualWar> !pull teste
+[22:03] <PerpetualWar> !lock teste
+[22:03] <teste> !iam teste
+[22:03] <teste> !add
+[22:03] * CAPickupBot changes topic to 'ca[1/8]  | '
+[22:03] <PerpetualWar> !pull teste
+[22:06] <PerpetualWar> !extensions
+[22:08] * fx has joined #capickup
+[22:08] <fx> !w
+[22:08] <fx> !L
+[22:08] <CAPickupBot> [ca 1/8] t​este(5m)
+[22:08] <CAPickupBot> No games were played yet
+[22:08] <fx> !iam FX
+[22:08] <fx> !a
+[22:08] <fx> !w
+[22:08] * CAPickupBot changes topic to 'ca[2/8]  | '
+[22:08] <CAPickupBot> [ca 2/8] t​este(5m), F​X(0m)
+[22:08] <PerpetualWar> !lock fx
+[22:08] <PerpetualWar> !pull fx
+[22:09] <fx> !pull ca fx
+[22:09] <fx> or !pull fx ca
+[22:09] <fx> dont remember for sure
+[22:09] <PerpetualWar> !pull fx ca
+[22:09] <PerpetualWar> !pull ca fx
+[22:09] * CAPickupBot changes topic to 'ca[1/8]  | '
+[22:09] <PerpetualWar> ^^
+[22:09] <PerpetualWar> :D
+[22:09] <PerpetualWar> and lock?
+[22:09] <fx> I told esdf to write docs
+[22:09] <PerpetualWar> !lock fx
+[22:09] <fx> !a
+[22:09] <fx> !w
+[22:09] * CAPickupBot changes topic to 'ca[2/8]  | '
+[22:09] <CAPickupBot> [ca 2/8] t​este(6m), F​X(0m)
+[22:09] <fx> !r
+[22:09] * CAPickupBot changes topic to 'ca[1/8]  | '
+[22:09] <fx> try
+[22:09] <PerpetualWar> !lock fx
+[22:09] <fx> no
+[22:09] <fx> not now
+[22:09] <fx> one second
+[22:09] <fx> it has special form
+[22:10] <fx> like !lock fx ca,ctf,tdm 30d
+[22:10] <fx> or something
+[22:10] <PerpetualWar> oh
+[22:10] <fx> let me look the code
+[22:10] <PerpetualWar> !lock fx ca 1d
+[22:10] <PerpetualWar> nice
+[22:10] <PerpetualWar> !unlock fx
+[22:10] <fx> I dont remember
+[22:10] <fx> !w
+[22:10] <CAPickupBot> [ca 1/8] t​este(6m)
+[22:10] <PerpetualWar> working
+[22:10] <fx> did you just lok me?
+[22:10] <fx> retry
+[22:10] <PerpetualWar> and unlock
+[22:10] <fx> wanna see it
+[22:10] <PerpetualWar> !lock fx ca 1d
+[22:10] <fx> !a
+[22:10] * CAPickupBot changes topic to 'ca[2/8]  | '
+[22:10] <fx> no way I still remember this
+[22:10] <fx> !w
+[22:10] <CAPickupBot> [ca 2/8] t​este(7m), F​X(0m)
+[22:10] <fx> !r
+[22:10] * CAPickupBot changes topic to 'ca[1/8]  | '
+[22:10] <fx> :)))
+[22:10] <PerpetualWar> try now
+[22:10] <fx> !a
+[22:10] * CAPickupBot changes topic to 'ca[2/8]  | '
+[22:10] <fx> !r
+[22:10] * CAPickupBot changes topic to 'ca[1/8]  | '
+[22:10] <PerpetualWar> hjm not working
+[22:11] <fx> sec gonna read the code
+[22:11] <fx> but try with FX
+[22:11] <fx> not fx
+[22:11] <fx> dont know maybe will help
+[22:11] <PerpetualWar> !lock FX ca 1d
+[22:11] <fx> !a
+[22:11] * CAPickupBot changes topic to 'ca[2/8]  | '
+[22:11] <fx> !R
+[22:11] <fx> maybe
+[22:11] * CAPickupBot changes topic to 'ca[1/8]  | '
+[22:11] <fx> sec
+[22:11] <fx> code
+[22:12] <fx> PerpetualWar: try with: !lock FX 1d
+[22:13] <PerpetualWar> !lock FX 1d
+[22:13] <fx> !a
+[22:13] <PerpetualWar> wormking ?
+[22:13] <fx> 22:13 -CAPickupBot(~CAPickupB@CAPickupBot.users.quakenet.org)- Player error: Player is locked [23 hours 59 minutes 52 seconds remaining]
+[22:13] <fx> working
+[22:13] <PerpetualWar> so locking is without pikup type
+[22:13] <PerpetualWar> global
+[22:13] <PerpetualWar> !unlock
+[22:13] <fx> sec, need to check it
+[22:13] <PerpetualWar> !lock teste 1d
+[22:14] * CAPickupBot changes topic to ' | '
+[22:14] <teste> !a
+[22:14] <PerpetualWar> !unlock teste
+[22:14] <fx> PerpetualWar: maybe splitting lock by gametypes was in some 'next' branch
+[22:14] <fx> dont remember
+[22:14] <fx> but now it looks like only a global lock
+[22:14] <PerpetualWar> ok
+[22:15] <PerpetualWar> is theer !ban ?
+[22:15] <fx> PerpetualWar: https://github.com/vityafx/jaibo/tree/master/ext/games/pickupbot/src/main/java/games/pickupbot/commands/messagelisteners
+[22:15] <PerpetualWar> or not ?
+[22:15] <fx> all commands by message are there
+[22:15] <fx> sec gonna check for ban )
+[22:15] <PerpetualWar> I can ban with Q no prob
+[22:15] <PerpetualWar> just wanna know if its there
+[22:15] <fx> i dont remember
+[22:16] <PerpetualWar> ok dont bother with that
+[22:16] <PerpetualWar> listen
+[22:16] <PerpetualWar> one more thing I dont understand
+[22:16] <PerpetualWar> someone do !iam
+[22:16] <PerpetualWar> it supposedly makes profile in db
+[22:16] <fx> it may crash some time, I dont remember the origin of this problem. You should know that. Contact me if it happens
+[22:16] <fx> yesa
+[22:16] <fx> it does
+[22:17] <PerpetualWar> ok then I try to do !get_profile for that person
+[22:17] <PerpetualWar> and it says no profile is there
+[22:17] <PerpetualWar> only when I !set_profile
+[22:17] <PerpetualWar> I can get_profile
+[22:17] <fx> it is not working as simple as that
+[22:17] <PerpetualWar> I cannot get_profile when only !iam
+[22:17] <PerpetualWar> ye maybe Im missing something
+[22:17] <fx> it was very hard for me the time I was developing the bot
+[22:17] <fx> to get people irc assoc
+[22:18] <fx> so it should be explicitly given to the command
+[22:18] <fx> no the nick
+[22:18] <fx> like
+[22:18] <fx> !get_profile vitya@users.quakenet.org
+[22:18] <fx> or something
+[22:18] <fx> try
+[22:18] <fx> I( doint remember
+[22:18] <fx> :)
+[22:18] <PerpetualWar> !get_profile vitya@users.quakenet.org
+[22:18] <PerpetualWar> hm no
+[22:18] <fx> no, use my irc info
+[22:18] <fx> man
+[22:18] <fx> use /whois
+[22:19] <fx> on me
+[22:19] <fx> and get by host
+[22:19] <PerpetualWar> !get_profile ~vitya@vitya.users.quakenet.org
+[22:19] <PerpetualWar> oh right
+[22:19] <PerpetualWar> working like that
+[22:19] <fx> working?
+[22:19] <fx> and what does it say?
+[22:19] <PerpetualWar> 20:19 from CAPickupBot - Host=[~vitya@vitya.users.quakenet.org] is bound to game profile=[FX]
+[22:19] <fx> okay
+[22:19] <fx> you may also change bindings
+[22:19] <fx> but only admins can do that
+[22:19] <fx> not player
+[22:19] <fx> if a player has already a bind - it cant change it
+[22:20] <fx> he will need to ask an admin
+[22:20] <PerpetualWar> ye I saw that
+[22:20] <PerpetualWar> I do that with !change_profile
+[22:20] <PerpetualWar> correct ?
+[22:20] <fx> yes, just looks at the source of the command handlers
+[22:20] <fx> there is english
+[22:20] <fx> you may read
+[22:20] <fx> L)
+[22:20] <PerpetualWar> ok
+[22:21] <PerpetualWar> can bot take commands from some other channke |
+[22:21] <PerpetualWar> ?
+[22:21] <PerpetualWar> channel* ?
+[22:22] <fx> as far as I remember it may sit on any number of channels you want
+[22:22] <fx> and accept commands
+[22:22] <fx> but it shares same instance between all the channels
+[22:22] <fx> just like one bot taking many inputs
+[22:23] <PerpetualWar> ok thats what Im asking
+[22:23] <fx> I dont remember, try
+[22:23] <PerpetualWar> so only thing is it my crash ?
+[22:23] <fx> give me the log file
+[22:23] <PerpetualWar> happens often ?
+[22:23] <fx> no
+[22:23] <fx> it depends well
+[22:23] <fx> dont know
+[22:23] <fx> used it like 4 months ago
+[22:23] <fx> it was quite stable that time
+[22:23] <PerpetualWar> what bot is used on qlpickup.ru ?
+[22:24] <fx> dont know
+[22:24] <fx> but not jaibo
+[22:24] <PerpetualWar> whos bot admin there?
+[22:24] <fx> h8m3
+[22:24] <PerpetualWar> ok
+[22:24] <PerpetualWar> ok thanks dude
+[22:24] <PerpetualWar> I think I got it
+[22:24] <PerpetualWar> for now :D
+[22:24] <fx> enjoy
+[22:24] <PerpetualWar> cheers ;')
+[22:24] <PerpetualWar> ;)
+[23:28] <fx> !l
+[23:28] <CAPickupBot> No games were played yet
+[23:33] * fx is now known as fx_off
+[23:44] * teste has quit IRC (Quit: Page closed)
+[23:48] <PerpetualWar> !a
+[23:48] * CAPickupBot changes topic to 'ca[1/8]  | '
+[23:48] <PerpetualWar> !r
+[23:48] * CAPickupBot changes topic to ' | '
+Session Time: Tue Nov 24 00:00:00 2015
+[00:10] * CAPickupBot has quit IRC (Quit: Bot is shutting down)
+[01:03] * PerpetualWar is now known as PerpetualWa_off

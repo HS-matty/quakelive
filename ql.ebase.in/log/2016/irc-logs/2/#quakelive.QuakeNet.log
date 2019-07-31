@@ -1,0 +1,3208 @@
+
+Session Start: Thu Dec 03 01:41:59 2015
+Session Ident: #quakelive
+[01:41] * Now talking in #quakelive
+[01:41] * Topic is 'Beta update released: http://steamcommunity.com/app/282440/discussions/0/485623406962851722/'
+[01:41] * Set by sponge- on Tue Dec 01 23:10:20
+[01:42] * Patrol1985 has quit IRC (Signed off)
+[01:46] * lonewulfn6 has joined #quakelive
+[01:47] * OHURCOOL is now known as ohurcool
+[01:51] * Greth has quit IRC (Ping timeout)
+[01:52] * Insane_pl has quit IRC (Signed off)
+[01:54] * psygib has joined #quakelive
+[01:57] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[02:00] * shawn has quit IRC (Signed off)
+[02:00] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[02:00] * Rick971 has joined #quakelive
+[02:01] * PopeJo has quit IRC (Signed off)
+[02:03] * wrg667 has quit IRC (Signed off)
+[02:04] * DemonSphere has joined #quakelive
+[02:05] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[02:06] * Rick971 has joined #quakelive
+[02:07] * Dragon_ has quit IRC (Signed off)
+[02:08] * deathroll has joined #quakelive
+[02:08] * unity^ is now known as UNITY^
+[02:08] <PYROGXPILOT> http://imgur.com/gallery/5cfOUBF
+[02:13] * gmq5p has quit IRC (Read error: Connection reset by peer)
+[02:14] * gmq5p has joined #quakelive
+[02:15] * damp has joined #quakelive
+[02:15] * marrrc has joined #quakelive
+[02:17] * prestij has quit IRC (EOF from client)
+[02:17] * Tux[Qyou] has quit IRC (Read error: Connection reset by peer)
+[02:18] * nyshak has quit IRC (Signed off)
+[02:18] * vnk has quit IRC (Signed off)
+[02:22] * damp has quit IRC (Ping timeout)
+[02:22] * PredatH0r has quit IRC (Ping timeout)
+[02:22] * PredatH0r has joined #quakelive
+[02:22] * PredatH0r has quit IRC (Registered)
+[02:22] * PredatH0r has joined #quakelive
+[02:24] * Oh`Christ is now known as Oh`Christ`Off
+[02:25] * Dedolor has joined #quakelive
+[02:26] * demsix_ has joined #quakelive
+[02:28] * demsix has quit IRC (Ping timeout)
+[02:29] * LordSoth has quit IRC (Signed off)
+[02:37] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[02:37] * Rick971 has joined #quakelive
+[02:38] * son1dow has quit IRC (Read error: Connection reset by peer)
+[02:39] * hundredeighty7 has joined #quakelive
+[02:39] * NeKro is away (Bin off)
+[02:39] * NeKro is now known as NeKro`oFF
+[02:40] * haz_mat has quit IRC (Signed off)
+[02:40] * Prophy has quit IRC (Signed off)
+[02:43] * Rick971_ has joined #quakelive
+[02:44] * benje has quit IRC (Signed off)
+[02:47] * Rick971 has quit IRC (Ping timeout)
+[02:48] * NeKro`oFF is now known as NeKro
+[02:48] * dAw00d has joined #quakelive
+[02:48] * NeKro is away (Bin off)
+[02:48] * NeKro is now known as NeKro`oFF
+[02:49] * NeKro`oFF is now known as NeKro
+[02:49] * NeKro is away (Bin off)
+[02:49] * NeKro is now known as NeKro`oFF
+[02:50] * Zack has quit IRC (Read error: Connection reset by peer)
+[02:51] * nvz has joined #quakelive
+[02:52] * wanzerg has quit IRC (Signed off)
+[02:52] * vixterra has joined #quakelive
+[02:55] * PedroJuglar has quit IRC (Signed off)
+[03:02] * madre has quit IRC (Ping timeout)
+[03:06] * DieselPower is now known as DP^QLive
+[03:09] * aliasedfrog has quit IRC (Read error: Connection reset by peer)
+[03:10] * rude_ has quit IRC (Ping timeout)
+[03:11] * aliasedfrog has joined #quakelive
+[03:16] * laurancefuller_ has joined #quakelive
+[03:19] * DP^QLive is now known as DieselPower
+[03:21] * madre has joined #quakelive
+[03:22] * Tommy has quit IRC (Read error: Connection reset by peer)
+[03:23] * nvz has quit IRC (Read error: Operation timed out)
+[03:24] * Stormaren has quit IRC (Signed off)
+[03:25] * Balto has quit IRC (EOF from client)
+[03:27] * nvz has joined #quakelive
+[03:30] * RA3OR has quit IRC (Ping timeout)
+[03:31] * stitch has joined #quakelive
+[03:31] * clint_smoker has joined #quakelive
+[03:32] * clint_smoker has left #quakelive
+[03:33] * Dinius has quit IRC (Read error: Connection reset by peer)
+[03:36] * Dinius has joined #quakelive
+[03:36] * titsos has quit IRC (EOF from client)
+[03:40] * sonny has quit IRC (Read error: Connection reset by peer)
+[03:41] * sgra has quit IRC (Signed off)
+[03:42] * jones has joined #quakelive
+[03:43] * EmSixTeen has quit IRC (Ping timeout)
+[03:47] * Dinius has quit IRC (Read error: Connection reset by peer)
+[03:49] * Dinius has joined #quakelive
+[03:49] * twitch- has joined #quakelive
+[03:54] * l1nkin^ is now known as l1nkin^off
+[03:54] * h8m3 is now known as h8m3_off
+[03:56] * ByteCrunch has quit IRC (Ping timeout)
+[03:58] * nvz has quit IRC (Ping timeout)
+[03:58] * `muffin has joined #quakelive
+[03:58] * `muffin has quit IRC (Registered)
+[03:58] * `muffin has joined #quakelive
+[03:58] * The_Muffin has joined #quakelive
+[03:58] * Dinius has quit IRC (Read error: Connection reset by peer)
+[03:59] * Dinius has joined #quakelive
+[04:00] * [uM]Cyberdemon has quit IRC (Signed off)
+[04:01] * vtchill has quit IRC (Read error: Operation timed out)
+[04:01] * marrrc has quit IRC (Read error: Connection reset by peer)
+[04:01] * Dinius has quit IRC (Read error: Connection reset by peer)
+[04:02] * Dinius has joined #quakelive
+[04:05] * hundredeighty7 has quit IRC (Ping timeout)
+[04:05] * ByteCrunch has joined #quakelive
+[04:07] * Sparda has joined #quakelive
+[04:08] * nvz has joined #quakelive
+[04:11] * shivashandra is now known as shivafk
+[04:15] * rOOta has quit IRC (Read error: Connection reset by peer)
+[04:16] * eteto[ket] has quit IRC (Signed off)
+[04:17] * lukke`aweh has quit IRC (Signed off)
+[04:17] * `muffin has quit IRC (Signed off)
+[04:21] * abso is now known as ABSO
+[04:22] * fr_ has quit IRC (Signed off)
+[04:23] * PredatH0r is now known as PREDATH0R
+[04:24] * fr_ has joined #quakelive
+[04:33] * bertox has joined #quakelive
+[04:33] * SwantanamoJ has quit IRC (Ping timeout)
+[04:35] * bucks has quit IRC (Signed off)
+[04:37] * Storm` has joined #quakelive
+[04:44] * cerno|away is now known as cerno_
+[04:47] * noctis is now known as NOCTIS
+[04:47] * w1ndex`` has quit IRC (Read error: Connection reset by peer)
+[04:49] <Siouxsie> https://redd.it/3v536k
+[04:50] * oi has quit IRC (Ping timeout)
+[04:50] * gouken has quit IRC (Signed off)
+[04:51] * loveless has joined #quakelive
+[04:52] * ohurcool is now known as OHURCOOL
+[04:54] * Storm` has quit IRC (Signed off)
+[04:56] * ReelGirly has quit IRC (Read error: Connection reset by peer)
+[04:57] * Macavity has quit IRC (Signed off)
+[04:58] * vixterra has quit IRC (Signed off)
+[05:01] * ABSO is now known as abso
+[05:04] * a|wiseguy has joined #quakelive
+[05:10] <[ByQ]Descent> ..
+[05:10] <[ByQ]Descent> .
+[05:13] * trolles has quit IRC (Ping timeout)
+[05:15] <a|wiseguy> Finals for NA Clan Arena match tonight (now): http://www.twitch.tv/quakelive_battlegrounds/
+[05:18] * Trex has joined #quakelive
+[05:18] * Retrieving #quakelive modes...
+[05:18] * Trex has left #quakelive
+[05:30] * AzuGuA[R]AzuG has joined #quakelive
+[05:33] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[05:45] * okto_ has quit IRC (Read error: Connection reset by peer)
+[05:52] * DZK has joined #quakelive
+[05:53] * Dbzruler72 has joined #quakelive
+[05:58] * m1dnight_ has joined #quakelive
+[05:59] * m1dnight has quit IRC (Ping timeout)
+[05:59] * m1dnight_ is now known as m1dnight
+[06:00] * fnatic\aNtii has quit IRC (Read error: Connection reset by peer)
+[06:06] * gmq5p has quit IRC (Ping timeout)
+[06:09] * crazymonster has joined #quakelive
+[06:12] * axelmonster has quit IRC (Ping timeout)
+[06:12] * crazymonster is now known as axelmonster
+[06:13] * AzuGuA[R]AzuG has left #quakelive
+[06:20] * fr_ has quit IRC (Signed off)
+[06:22] * LopezT has joined #quakelive
+[06:23] * doja has joined #quakelive
+[06:23] * Dinius has quit IRC (Read error: Connection reset by peer)
+[06:24] * LopezT has left #quakelive
+[06:24] * Dinius has joined #quakelive
+[06:35] * Sparda_ has joined #quakelive
+[06:38] * d0gb0ne is now known as d0gb0ne|AFK
+[06:39] * Sparda has quit IRC (Ping timeout)
+[06:41] * R1EPA has quit IRC (Signed off)
+[06:42] * cenix is now known as CENiX
+[06:42] * Dinius has quit IRC (Read error: Connection reset by peer)
+[06:43] * Dinius has joined #quakelive
+[06:44] * ViktorFoedowski has quit IRC (Ping timeout)
+[06:47] * ViktorFoedowski has joined #quakelive
+[06:51] * kp has joined #quakelive
+[06:52] * kp has quit IRC (Signed off)
+[06:53] * DemonSphere has quit IRC (Signed off)
+[06:54] * deg has quit IRC (Ping timeout)
+[06:56] * DemonSphere has joined #quakelive
+[06:56] * DemonSphere1 has joined #quakelive
+[06:57] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[06:59] * CENiX is now known as cenix
+[06:59] * cenix is now known as CENiX
+[07:08] * DZK has quit IRC (Ping timeout)
+[07:20] * hundredeighty7 has joined #quakelive
+[07:25] * Dinius has quit IRC (Ping timeout)
+[07:30] * Dinius has joined #quakelive
+[07:36] * Minto`Relyx has quit IRC (Ping timeout)
+[07:42] * Rick971_ has quit IRC (Signed off)
+[07:46] * Rick971 has joined #quakelive
+[07:53] * DZK has joined #quakelive
+[07:56] * scarecrowww is now known as scarecrowww`off
+[07:56] * Rick971_ has joined #quakelive
+[07:56] * Rick971 has quit IRC (Ping timeout)
+[07:59] * Rick971 has joined #quakelive
+[08:00] * Dinius has quit IRC (Read error: Connection reset by peer)
+[08:01] * DZK has quit IRC (Signed off)
+[08:01] * Dinius has joined #quakelive
+[08:01] * Lysop has quit IRC (Ping timeout)
+[08:03] * Rick971_ has quit IRC (Ping timeout)
+[08:05] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[08:06] * Rick971 has joined #quakelive
+[08:10] * cerno_ is now known as cerno|away
+[08:17] * Shree has joined #quakelive
+[08:20] * doja has quit IRC (Signed off)
+[08:22] * DZK has joined #quakelive
+[08:25] * Rick971 has quit IRC (Signed off)
+[08:33] * TicoInJapan has joined #quakelive
+[08:34] * twitch- has quit IRC (Read error: EOF from client)
+[08:36] * Scorch has joined #quakelive
+[08:36] * Scorch has quit IRC (Registered)
+[08:36] * Scorch has joined #quakelive
+[08:53] * demsix_ has quit IRC (Signed off)
+[08:56] * Demiurge has quit IRC (Ping timeout)
+[09:17] * DemonSphere has quit IRC (Signed off)
+[09:17] * DemonSphere1 has quit IRC (Signed off)
+[09:17] * abso is now known as ABSO
+[09:26] * jones has quit IRC (Ping timeout)
+[09:30] * qwind has quit IRC (Read error: Connection reset by peer)
+[09:30] * qwind has joined #quakelive
+[09:34] * Sier has quit IRC (Read error: Connection reset by peer)
+[09:41] * astralfAzuB has joined #quakelive
+[09:45] * DZK has quit IRC (Ping timeout)
+[09:58] * trolles has joined #quakelive
+[10:01] * PerpetualWa_off is now known as PerpetualWar
+[10:03] * cerno|away is now known as cerno_
+[10:03] * NeKro`oFF is now known as NeKro
+[10:12] * BlaD3-work has joined #quakelive
+[10:15] * bertox has quit IRC (Ping timeout)
+[10:21] * nino has quit IRC (Signed off)
+[10:22] * loveless has quit IRC (Signed off)
+[10:24] * astralfAzuB has left #quakelive
+[10:25] * LtC has joined #quakelive
+[10:26] * tehsma has quit IRC (Signed off)
+[10:28] * cvantum has joined #quakelive
+[10:36] * nvz has quit IRC (Read error: Connection reset by peer)
+[10:51] * Vig1lantE has joined #quakelive
+[10:51] * LtC|afk has joined #quakelive
+[10:56] * LtC has quit IRC (Ping timeout)
+[11:01] * PerpetualWar is now known as PerpetualWa_off
+[11:03] * Anhjje_ has joined #quakelive
+[11:05] * Oh-Christ-WerK has joined #quakelive
+[11:10] * oi has joined #quakelive
+[11:13] * med1xza is now known as MED1XZA
+[11:15] * RA3OR has joined #quakelive
+[11:16] * hundredeighty7 has quit IRC (Ping timeout)
+[11:19] * McAfee has left #quakelive
+[11:23] * Siouxsie has quit IRC (Read error: Connection reset by peer)
+[11:24] * Oh-Christ-WerK has quit IRC (Read error: EOF from client)
+[11:25] * Oh-Christ-WerK has joined #quakelive
+[11:32] * EmuZombie has quit IRC (Read error: Connection reset by peer)
+[11:32] * EmuZombie has joined #quakelive
+[11:34] * DemonSphere has joined #quakelive
+[11:34] * hundredeighty7 has joined #quakelive
+[11:39] * seXp has joined #quakelive
+[11:42] * Vig1lantE has quit IRC (Ping timeout)
+[11:54] * b1ngo|offline is now known as b1ngo
+[12:00] * psygib has quit IRC (Signed off)
+[12:15] * quetz has quit IRC (Ping timeout)
+[12:20] * LtC|afk has quit IRC (Signed off)
+[12:30] * LtC has joined #quakelive
+[12:31] * crobartie has joined #quakelive
+[12:39] * d-a-v-i-s``` has quit IRC (Ping timeout)
+[12:39] * rOOta has joined #quakelive
+[12:41] * d-a-v-i-s``` has joined #quakelive
+[12:42] * Scorch has quit IRC (Signed off)
+[12:47] * BAURO has joined #quakelive
+[13:01] * RA3OR has quit IRC (Read error: Connection reset by peer)
+[13:08] * RA3OR has joined #quakelive
+[13:19] * DeaTh112 has quit IRC (Signed off)
+[13:20] * ShreeZ3A1 has joined #quakelive
+[13:23] * Shree has quit IRC (Ping timeout)
+[13:23] * ShreeZ3A1 is now known as Shree
+[13:28] * pvh has quit IRC (Signed off)
+[13:30] * LtC is now known as LtC|afk
+[13:30] * flair has quit IRC (Ping timeout)
+[13:31] * marrrc has joined #quakelive
+[13:34] * cerno_ is now known as cerno|away
+[13:46] * sgra has joined #quakelive
+[13:51] * Nappi has joined #quakelive
+[13:54] * PREDATH0R is now known as PredatH0r
+[13:58] * higgs has quit IRC (Read error: Connection reset by peer)
+[13:58] * LtC has joined #quakelive
+[13:59] * npz has joined #quakelive
+[13:59] * island55-work has joined #quakelive
+[13:59] * MSG|Maverick has joined #quakelive
+[13:59] * Sorcy has joined #quakelive
+[13:59] * s1lvam3th has joined #quakelive
+[14:00] * quetz has joined #quakelive
+[14:00] * esdf_ has joined #quakelive
+[14:00] * higgs has joined #quakelive
+[14:01] * Ycros has quit IRC (Read error: Operation timed out)
+[14:01] * ubuntu has quit IRC (Read error: Operation timed out)
+[14:01] * gloat has quit IRC (Read error: Operation timed out)
+[14:01] * Nappi has quit IRC (Ping timeout)
+[14:01] * ApocTV has quit IRC (Read error: Operation timed out)
+[14:01] * wozarib has quit IRC (Ping timeout)
+[14:01] * wmia3p5card has quit IRC (Read error: Operation timed out)
+[14:01] * cvantum has quit IRC (Read error: Operation timed out)
+[14:01] * GK-Deacon has quit IRC (Ping timeout)
+[14:01] * Maverick|MSG has quit IRC (Ping timeout)
+[14:01] * esdf has quit IRC (Ping timeout)
+[14:01] * TINA has quit IRC (Ping timeout)
+[14:01] * silvameth has quit IRC (Ping timeout)
+[14:01] * LtC|afk has quit IRC (Ping timeout)
+[14:01] * island55-work` has quit IRC (Ping timeout)
+[14:01] * cvantum has joined #quakelive
+[14:01] * gloat has joined #quakelive
+[14:01] * NOCTIS is now known as noctis
+[14:02] * wmia3p5card has joined #quakelive
+[14:03] * ApocTV has joined #quakelive
+[14:03] * ApocTV has quit IRC (Registered)
+[14:03] * ApocTV has joined #quakelive
+[14:03] * wozarib has joined #quakelive
+[14:03] * wozarib has quit IRC (Registered)
+[14:03] * wozarib has joined #quakelive
+[14:04] * pvh has joined #quakelive
+[14:06] * sothis|w0rk has joined #quakelive
+[14:06] * ubuntu has joined #quakelive
+[14:07] * sothis|work has quit IRC (Ping timeout)
+[14:09] * GK-Deacon has joined #quakelive
+[14:11] * OWelderkey has joined #quakelive
+[14:15] * DZK has joined #quakelive
+[14:16] * TedFranco has quit IRC (Read error: Connection reset by peer)
+[14:16] * ApocTV has quit IRC (Read error: Operation timed out)
+[14:16] * TedFranco has joined #quakelive
+[14:16] * WishfulThinking has joined #quakelive
+[14:16] * CMDR_Highbyte has joined #quakelive
+[14:20] * xero has quit IRC (Read error: Connection reset by peer)
+[14:20] * crobartie has quit IRC (Read error: Connection reset by peer)
+[14:21] * xero has joined #quakelive
+[14:22] * Tommy has joined #quakelive
+[14:23] * Stormaren has joined #quakelive
+[14:23] * cvantum has quit IRC (Read error: Operation timed out)
+[14:23] * GK-Deacon has quit IRC (Ping timeout)
+[14:23] * cvantum has joined #quakelive
+[14:23] * w1ndex`` has joined #quakelive
+[14:30] * GK-Deacon has joined #quakelive
+[14:32] * titsos has joined #quakelive
+[14:34] * fnatic\aNtii has joined #quakelive
+[14:34] * zurn has quit IRC (Signed off)
+[14:36] * scarface86 has joined #quakelive
+[14:40] * ApocTV has joined #quakelive
+[14:40] * ApocTV has quit IRC (Registered)
+[14:40] * ApocTV has joined #quakelive
+[14:41] * NeKro is away (Bin off)
+[14:41] * NeKro is now known as NeKro`oFF
+[14:41] * NeKro`oFF is now known as NeKro
+[14:45] * scarecrowww`off is now known as scarecrowww
+[14:46] * scarface86 has left #quakelive
+[14:47] * d`a`v`i`s``` has joined #quakelive
+[14:48] * d-a-v-i-s``` has quit IRC (Ping timeout)
+[14:51] * The_Muffin has quit IRC (Signed off)
+[14:54] * scarecrowww is now known as scarecrowww`off
+[14:54] * OWelderkey has left #quakelive
+[15:00] * sparkie` has joined #quakelive
+[15:05] * Vo0Do0 has quit IRC (Ping timeout)
+[15:07] * b1ngo has quit IRC (Ping timeout)
+[15:08] * Anhjje_ has quit IRC (Signed off)
+[15:14] * scarface86 has joined #quakelive
+[15:14] * scarface86 has left #quakelive
+[15:16] * Minto`Relyx has joined #quakelive
+[15:18] * shawn has joined #quakelive
+[15:19] * PerpetualWa_off is now known as PerpetualWar
+[15:26] * cvantum has quit IRC (Signed off)
+[15:31] * shivafk is now known as shivashandra
+[15:34] * b1ngo|offline has joined #quakelive
+[15:36] * Vo0Do0 has joined #quakelive
+[15:38] * Minto`Relyx has quit IRC (Ping timeout)
+[15:39] * scarecrowww`off is now known as scarecrowww
+[15:39] * vixterra has joined #quakelive
+[15:45] * b1ngo|offline is now known as b1ngo
+[15:47] * b1ngo is now known as b1ngo|offline
+[15:50] * hundredeighty7 has quit IRC (Ping timeout)
+[15:53] * WishfulThinking has quit IRC (Signed off)
+[15:54] * RA3OR has quit IRC (Ping timeout)
+[15:56] * zurn has joined #quakelive
+[15:57] * aliasedfrog has quit IRC (Signed off)
+[15:57] * aliasedfrog has joined #quakelive
+[16:02] * CMDR_Highbyte has quit IRC (Ping timeout)
+[16:03] * Rick971 has joined #quakelive
+[16:04] * [1]DocP has joined #quakelive
+[16:05] * DocP has quit IRC (Ping timeout)
+[16:05] * [1]DocP is now known as DocP
+[16:06] * titsos_ has joined #quakelive
+[16:06] * McAfee has joined #quakelive
+[16:06] * titsos has quit IRC (Ping timeout)
+[16:06] * titsos_ is now known as titsos
+[16:13] * PerpetualWar is now known as PerpetualWa_off
+[16:14] * CENiX is now known as cenix
+[16:17] * Macavity has joined #quakelive
+[16:22] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[16:22] * DZK has quit IRC (Signed off)
+[16:22] * Rick971 has joined #quakelive
+[16:23] * PerpetualWa_off is now known as PerpetualWar
+[16:23] * PerpetualWar is now known as PerpetualWa_off
+[16:23] * qwind has quit IRC (Signed off)
+[16:26] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[16:27] * Rick971 has joined #quakelive
+[16:29] * island55 has quit IRC (Read error: Connection reset by peer)
+[16:31] * island55 has joined #quakelive
+[16:32] * ByteCrunch has quit IRC (Ping timeout)
+[16:34] * NeKro is away (Bin off)
+[16:34] * NeKro is now known as NeKro`oFF
+[16:34] * NeKro`oFF is now known as NeKro
+[16:34] * bertox has joined #quakelive
+[16:37] * Rick971_ has joined #quakelive
+[16:40] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[16:41] * Rick971_ has joined #quakelive
+[16:41] * Rick971 has quit IRC (Ping timeout)
+[16:41] * ByteCrunch has joined #quakelive
+[16:45] * NeKro is away (Bin off)
+[16:45] * NeKro is now known as NeKro`oFF
+[16:45] * NeKro`oFF is now known as NeKro
+[16:45] * TINA has joined #quakelive
+[16:46] * NeKro is away (Bin off)
+[16:46] * NeKro is now known as NeKro`oFF
+[16:46] <McAfee> oh, i think i found a bug, in the beta.... :o
+[16:47] <McAfee> brb
+[16:47] * Sqetchie has joined #quakelive
+[16:47] * NeKro`oFF is away (Bin off)
+[16:47] * NeKro`oFF is now known as NeKro
+[16:47] * NeKro is now known as NeKro`oFF
+[16:48] <McAfee> getting closer, i blame sponge- :P
+[16:49] <McAfee> yep bug found, you broke it xD
+[16:49] * oi has quit IRC (EOF from client)
+[16:50] <McAfee> sponge-, can't run the tutorials twice (Acelerate/Elevate) it goes into an endless map loading loop
+[16:50] <McAfee> i reverted back to normal build and beta build to confirm
+[16:51] * Jukeboksi has quit IRC (Ping timeout)
+[16:53] <McAfee> can anyone else check it?
+[16:55] * Rick971 has joined #quakelive
+[16:58] * Killo has joined #quakelive
+[16:58] * [Scavenger] has joined #quakelive
+[16:59] <[Scavenger]> hello world !!! 
+[16:59] <[Scavenger]> https://www.youtube.com/watch?v=h6t2n_Tbu3E
+[16:59] <YouTube> Title: Michael Jackson- Don't Stop Till You Get Enough (HD 1080P) :: Duration: 4m 21s :: Comments: 490 :: Views: 1,248,935 :: Rating: 98%
+[16:59] * Rick971_ has quit IRC (Ping timeout)
+[17:01] * michio is now known as MICHIO
+[17:07] * P5E has quit IRC (Read error: Connection reset by peer)
+[17:08] * lukke`aweh has joined #quakelive
+[17:09] * Tux[Qyou] has joined #quakelive
+[17:10] * sonny has joined #quakelive
+[17:11] * P5E has joined #quakelive
+[17:11] * m1dnight has quit IRC (Signed off)
+[17:14] * m1dnight has joined #quakelive
+[17:15] * vixterra has quit IRC (Signed off)
+[17:17] * Jukeboksi has joined #quakelive
+[17:18] * Rick971_ has joined #quakelive
+[17:19] * corls has joined #quakelive
+[17:22] * Rick971 has quit IRC (Ping timeout)
+[17:23] * Sqetchie has quit IRC (Ping timeout)
+[17:24] * EmuZombie has quit IRC (Signed off)
+[17:24] * EmuZombie has joined #quakelive
+[17:27] * NeKro`oFF is now known as NeKro
+[17:29] * jones-- has joined #quakelive
+[17:31] * bagurk has joined #quakelive
+[17:32] * jben_hun has joined #quakelive
+[17:33] * rehepapp has joined #quakelive
+[17:33] <rehepapp> anyone here knows why callvoting map + factory name doesn't override the changes i've mad eduring the gameplay as rcon admin
+[17:33] <rehepapp> meaning when im in a duel mode and change speed to 500 then after cv campground duel it doens't change it back to 320
+[17:34] * jben_hun has quit IRC (Signed off)
+[17:34] * fragtion has quit IRC (Signed off)
+[17:37] * son1dow has joined #quakelive
+[17:39] * PopeJo has joined #quakelive
+[17:39] * NeKro is away (Bin off)
+[17:39] * NeKro is now known as NeKro`oFF
+[17:44] * crobartie has joined #quakelive
+[17:47] * Tensor has joined #quakelive
+[17:49] * prestij has joined #quakelive
+[17:50] * damp has joined #quakelive
+[17:51] * fragtion has joined #quakelive
+[17:52] * TicoInJapan has quit IRC (Ping timeout)
+[17:55] * Rick971 has joined #quakelive
+[17:56] * deg has joined #quakelive
+[17:59] * okto_ has joined #quakelive
+[17:59] * Rick971_ has quit IRC (Ping timeout)
+[18:07] * Warchild_BtF has joined #quakelive
+[18:08] * esdf_ is now known as esdf
+[18:12] * vtchill has joined #quakelive
+[18:14] * PerpetualWa_off is now known as PerpetualWar
+[18:18] * Rick971 has quit IRC (Ping timeout)
+[18:19] * Rick971 has joined #quakelive
+[18:23] * DZK has joined #quakelive
+[18:27] * lep_ has joined #quakelive
+[18:30] * BaMoFu has quit IRC (Signed off)
+[18:30] * lep has quit IRC (Ping timeout)
+[18:30] * lep_ is now known as lep
+[18:31] * BlaD3-work has quit IRC (Read error: Connection reset by peer)
+[18:32] * Prophy has joined #quakelive
+[18:35] * tsaHimdTX- has joined #quakelive
+[18:38] * crobartie is now known as crobartie|AFK
+[18:42] * heartlesss has joined #quakelive
+[18:48] * Sady has joined #quakelive
+[18:49] <McAfee> rehepapp, if the variable is not in the factory, it has no reason to change it
+[18:50] <McAfee> that also allows to get away with doing some stuff with server.cfg and not factories
+[18:54] * PopeJo has quit IRC (EOF from client)
+[18:55] * PopeJo has joined #quakelive
+[19:00] * [Cadaver] has joined #quakelive
+[19:00] <rehepapp> is there a duel factory somewhere that has all the settings set to duel default? 
+[19:01] * Dbzruler72 has joined #quakelive
+[19:03] * DocP has quit IRC (Signed off)
+[19:03] * wrg667 has joined #quakelive
+[19:03] * TicoInJapan has joined #quakelive
+[19:04] * vtchill_ has joined #quakelive
+[19:05] * vtchill has quit IRC (Ping timeout)
+[19:05] * vtchill_ is now known as vtchill
+[19:06] * Insane_pl has joined #quakelive
+[19:06] * Nappi has joined #quakelive
+[19:08] * npz has quit IRC (Ping timeout)
+[19:10] * EmSixTeen has joined #quakelive
+[19:11] * Linkyyy^off is now known as Linkyyy
+[19:13] * jones-- has quit IRC (Ping timeout)
+[19:14] * g0rilla has joined #quakelive
+[19:14] * Durklas has joined #quakelive
+[19:15] * Sqetchie has joined #quakelive
+[19:15] * LtC has quit IRC (Ping timeout)
+[19:16] * Sparda has joined #quakelive
+[19:19] * tsaHimdTX- has left #quakelive
+[19:19] * Jukeboksi has quit IRC (Ping timeout)
+[19:20] * Sparda_ has quit IRC (Ping timeout)
+[19:24] * b1ngo|offline is now known as b1ngo
+[19:32] <lonewulf> rehepapp: The factory you want is called 
+[19:32] <lonewulf> duel
+[19:32] <lonewulf> maybe check out 
+[19:32] <lonewulf> qcon_duel factory as well.
+[19:33] * eteto[ket] has joined #quakelive
+[19:33] <rehepapp> lonewulf, 
+[19:33] <rehepapp> <rehepapp> anyone here knows why callvoting map + factory name doesn't override the changes i've mad eduring the gameplay as rcon admin
+[19:33] <rehepapp> <rehepapp> meaning when im in a duel mode and change speed to 500 then after cv campground duel it doens't change it back to 320
+[19:34] <McAfee> the factory you are suing does not include a speed variable, so it won't change it
+[19:35] <McAfee> using*
+[19:35] <rehepapp> ye, makes sense
+[19:35] * Semt-x has joined #quakelive
+[19:36] <McAfee> i read before that it does do some backups of variables before the factory started, but probably only a backup of variables the factory itself will change
+[19:36] <McAfee> so it never backed up speed, because the factory itself is not resoponsible for changing it
+[19:36] * Storm` has joined #quakelive
+[19:36] <rehepapp> i see, thanks <3
+[19:37] * ClaRa18 has joined #quakelive
+[19:37] * Vampcinda has joined #quakelive
+[19:38] <McAfee> did anyone test my bug earlier?
+[19:39] * deathroll has quit IRC (Ping timeout)
+[19:42] * noctis is now known as NOCTIS
+[19:42] * vtchill has quit IRC (Ping timeout)
+[19:44] * dAw00d has quit IRC (Signed off)
+[19:46] * ABSO is now known as abso
+[19:47] * [Cadaver] has quit IRC (Signed off)
+[19:49] * vtchill has joined #quakelive
+[19:49] * d0gb0ne|AFK is now known as d0gb0ne
+[19:51] * stripy`` has joined #quakelive
+[19:54] * stitch has quit IRC (Read error: Connection reset by peer)
+[19:54] * vtchill_ has joined #quakelive
+[19:55] * stripy` has quit IRC (Ping timeout)
+[19:55] * vtchill has quit IRC (Ping timeout)
+[19:55] * DZK has quit IRC (Ping timeout)
+[19:55] * DZK has joined #quakelive
+[19:56] * stripy` has joined #quakelive
+[19:56] * stripy`` has quit IRC (Ping timeout)
+[19:56] * raptus has joined #quakelive
+[19:57] * Greth has joined #quakelive
+[19:59] * vtchill has joined #quakelive
+[20:00] * vtchill_ has quit IRC (Ping timeout)
+[20:01] * jones-- has joined #quakelive
+[20:02] * dAw00d- has joined #quakelive
+[20:03] * M1zzu has joined #quakelive
+[20:03] * Linkyyy is now known as Linkyyy^off
+[20:04] * DZK has quit IRC (Ping timeout)
+[20:13] * ClaRa18 has quit IRC (Read error: Connection reset by peer)
+[20:14] * peja_ has quit IRC (Signed off)
+[20:15] * NOCTIS is now known as noctis
+[20:18] * [Scavenger] has quit IRC (Signed off)
+[20:19] * BAURO has quit IRC (Signed off)
+[20:19] * en2ie has joined #quakelive
+[20:20] * Durklas has quit IRC (Ping timeout)
+[20:24] * peja_ has joined #quakelive
+[20:25] * Dragon_ has joined #quakelive
+[20:27] * nyshak has joined #quakelive
+[20:27] * pezza_ has joined #quakelive
+[20:29] * BaMoFu has joined #quakelive
+[20:30] * bucks has joined #quakelive
+[20:30] * vtchill has quit IRC (Ping timeout)
+[20:39] * jonatz has joined #quakelive
+[20:47] * axelmonster has quit IRC (Ping timeout)
+[20:49] * axelmonster has joined #quakelive
+[20:54] * UNITY^ is now known as unity^
+[20:55] * wi5py has joined #quakelive
+[20:59] * Warchild_BtF has quit IRC (Signed off)
+[21:01] * Sparda has quit IRC (Read error: Connection reset by peer)
+[21:03] * giuseppe has joined #quakelive
+[21:03] <giuseppe> ciao
+[21:03] <giuseppe> !lista
+[21:03] * Storm` has quit IRC (Ping timeout)
+[21:03] * sgra has quit IRC (Read error: Connection reset by peer)
+[21:04] * giuseppe has left #quakelive
+[21:04] * Sparda has joined #quakelive
+[21:04] * seXp has quit IRC (Signed off)
+[21:04] * RA3OR has joined #quakelive
+[21:06] * Storm` has joined #quakelive
+[21:07] * sgra has joined #quakelive
+[21:08] * Warchild_BtF has joined #quakelive
+[21:17] * cenix is now known as CENiX
+[21:19] * marrrc has quit IRC (Signed off)
+[21:21] * Vo0Do0 has quit IRC (Signed off)
+[21:22] * Vo0Do0 has joined #quakelive
+[21:22] * npz has joined #quakelive
+[21:25] * wanzerg has joined #quakelive
+[21:25] * Nappi has quit IRC (Ping timeout)
+[21:27] * Vo0Do0 has quit IRC (Signed off)
+[21:28] * Vo0Do0 has joined #quakelive
+[21:30] * marrrc has joined #quakelive
+[21:34] * marrrc has quit IRC (Signed off)
+[21:38] * CENiX is now known as cenix
+[21:39] * byTe has joined #quakelive
+[21:41] * Sady has quit IRC (Signed off)
+[21:41] * cenix is now known as CENiX
+[21:41] * CENiX is now known as cenix
+[21:42] * sucks has joined #quakelive
+[21:43] * XaS has joined #quakelive
+[21:45] * pezza_ has quit IRC (Signed off)
+[21:47] * pezza_ has joined #quakelive
+[21:49] * prestij has quit IRC (EOF from client)
+[21:55] * kekoqo has joined #quakelive
+[21:56] * LtC has joined #quakelive
+[21:57] * IKA is now known as ika
+[21:57] * Balto has joined #quakelive
+[21:58] * sucks has quit IRC (Ping timeout)
+[22:01] * M1zzu has quit IRC (Ping timeout)
+[22:02] * BruceLeet has joined #quakelive
+[22:02] <BruceLeet> hmm I'm kinda surprised. Having just reinstalled my new computer, I found quakelive missing from steam.... I was an old Pro member, which had an ongoing membership a months more... now in my steam library I cant even find quakelive
+[22:03] <BruceLeet> do you seriously mean, I have to pay for quakelive again, although my pro membership should still be valid??
+[22:04] <BruceLeet> I thought the new pricing rules did only apply to new members, not members who had already added quakelive to steam... and especially not if you are a pro member .. ?
+[22:04] * EmZee_ has quit IRC (Signed off)
+[22:05] <Sqetchie> check your QuakeLive privilege
+[22:05] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[22:06] * Rick971 has joined #quakelive
+[22:06] <BruceLeet> how?
+[22:06] * Linkyyy^off is now known as Linkyyy
+[22:06] <Sqetchie> im just joking, actually contact support at quakelive dot com
+[22:06] <Sqetchie> and you should receive a code
+[22:07] * damp has quit IRC (Signed off)
+[22:08] * feeder has joined #quakelive
+[22:08] <BruceLeet> Nevermind. I although it wasn't anywhere to find in my library, it actually said from the store page that I did indeed have it added to my library already. A little weird, but nevermind. It's downloading right now.. :)
+[22:08] * BruceLeet has quit IRC (Signed off)
+[22:10] * damp has joined #quakelive
+[22:12] * kekoqo has quit IRC (Ping timeout)
+[22:14] <Sqetchie> there you go m8
+[22:15] * vixterra has joined #quakelive
+[22:15] * vesdko has joined #quakelive
+[22:15] * cerno|away is now known as cerno_
+[22:17] * Martinh has joined #quakelive
+[22:17] * stripy`` has joined #quakelive
+[22:18] * pezza_ has quit IRC (Signed off)
+[22:21] * stripy` has quit IRC (Ping timeout)
+[22:22] * sucks has joined #quakelive
+[22:24] * luke-ywn has joined #quakelive
+[22:24] * xiphos has joined #quakelive
+[22:25] * Lostmysword has joined #quakelive
+[22:25] * Lostmysword has quit IRC (Registered)
+[22:25] * Lostmysword has joined #quakelive
+[22:26] * Shree has quit IRC (Ping timeout)
+[22:31] * tjone270-phone has joined #quakelive
+[22:34] * dAw00d- has quit IRC (Signed off)
+[22:37] * Rick971_ has joined #quakelive
+[22:41] * spinalfluid` has joined #quakelive
+[22:42] * Rick971 has quit IRC (Ping timeout)
+[22:44] * Mogrot has joined #quakelive
+[22:44] * spinalfluid` has quit IRC (Ping timeout)
+[22:44] * spinalfluid has quit IRC (Ping timeout)
+[22:45] * tjone270-phone has quit IRC (Signed off)
+[22:46] * Siouxsie has joined #quakelive
+[22:47] * stripy`` has quit IRC (Signed off)
+[22:47] * PopeJo has quit IRC (Signed off)
+[22:50] * Bly has joined #quakelive
+[22:51] * hundredeighty7 has joined #quakelive
+[22:51] * PopeJo has joined #quakelive
+[22:52] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[22:52] * jonatz has quit IRC (Ping timeout)
+[22:52] * DocP has joined #quakelive
+[22:52] * Rick971_ has joined #quakelive
+[22:55] * spinalfluid has joined #quakelive
+[22:55] * stripy` has joined #quakelive
+[22:56] * MED1XZA is now known as med1xza
+[22:57] * jonatz has joined #quakelive
+[22:57] * Rick971 has joined #quakelive
+[22:58] * Storm` has quit IRC (Signed off)
+[23:01] * Lysop has joined #quakelive
+[23:01] * Rick971_ has quit IRC (Ping timeout)
+[23:02] * __y has joined #quakelive
+[23:02] <__y> is cityy alive
+[23:03] <McAfee> dead
+[23:03] <__y> no lies
+[23:05] * hundredeighty7 has quit IRC (Ping timeout)
+[23:08] * loveless has joined #quakelive
+[23:10] <McAfee> tell me lies, tell me sweet little lies
+[23:11] <__y> :F
+[23:11] <QBall> I miss cityy :(
+[23:11] * dAw00d- has joined #quakelive
+[23:11] * way2cool has joined #quakelive
+[23:14] <__y> !seen cityy
+[23:14] <Prophy> nice one
+[23:17] * spinalfluid has quit IRC (Ping timeout)
+[23:21] * oi has joined #quakelive
+[23:21] * spinalfluid has joined #quakelive
+[23:22] * Sier has joined #quakelive
+[23:25] * nvypsil0voef has joined #quakelive
+[23:26] * damp has quit IRC (Ping timeout)
+[23:27] * pezza_ has joined #quakelive
+[23:30] * tjone270-phone has joined #quakelive
+[23:32] * xiphos has quit IRC (Signed off)
+[23:33] * R1EPA has joined #quakelive
+[23:33] * tjone270-phone has quit IRC (Signed off)
+[23:35] * OHURCOOL is now known as ohurcool
+[23:36] * jonatz has quit IRC (Signed off)
+[23:37] * Rick971_ has joined #quakelive
+[23:38] * Rick971 has quit IRC (Read error: Operation timed out)
+[23:40] * Mirio has joined #quakelive
+[23:41] * shawn has quit IRC (Signed off)
+[23:43] * byTe has quit IRC (Ping timeout)
+[23:44] * byTe has joined #quakelive
+[23:44] * z0id0uf has joined #quakelive
+[23:45] * son1dow has quit IRC (Read error: Connection reset by peer)
+[23:47] * Anhjje_ has joined #quakelive
+[23:49] * son1dow has joined #quakelive
+[23:49] * P5E has quit IRC (Signed off)
+[23:50] * P5E has joined #quakelive
+[23:50] * benje has joined #quakelive
+[23:51] * AIMER7 has joined #quakelive
+[23:51] * LtC has quit IRC (Signed off)
+[23:51] * ohurcool is now known as OHURCOOL
+[23:52] <AIMER7> can't we play quakelive for free again ?
+[23:53] <ulrich> you can't afford $10?
+[23:53] <AIMER7> thats not my question
+[23:53] <ulrich> that's my question
+[23:53] <AIMER7> sure i can afford $10
+[23:53] <AIMER7> i'm not poor
+[23:53] <ulrich> you probably already spent $7 on a shitty app for your smart phone
+[23:53] <AIMER7> but i don't necessarily want to pay $10 for quakelive
+[23:53] <ulrich> why not $10 for a game
+[23:53] <AIMER7> never did
+[23:54] * Sucks_ has joined #quakelive
+[23:54] <roast> AIMER7: can i borrow $10
+[23:54] <ulrich> good for you
+[23:54] * __y has quit IRC (Signed off)
+[23:54] <ulrich> $10 for quake live and you got countless of hours of entertainment for the rest of your life 
+[23:54] <AIMER7> well, quakelive is not so good 
+[23:55] <ulrich> but yet you want to play it (for free)
+[23:55] <AIMER7> so my question is: can we still play ql for free ?
+[23:55] <PYROGXPILOT> no
+[23:55] <AIMER7> yes, 10 hours per 2 years is the amount of time i play ql
+[23:56] * sucks has quit IRC (Ping timeout)
+[23:57] * ika is now known as IKA
+[23:57] * Rick971 has joined #quakelive
+[23:58] * mmaluco has joined #quakelive
+Session Time: Fri Dec 04 00:00:00 2015
+[00:01] * Rick971_ has quit IRC (Ping timeout)
+[00:03] <AIMER7> and if you pay for quakelive, can you create server, play all maps, or do you still have to pay more for that ?
+[00:03] <Anhjje_> No, you don't.
+[00:03] <Anhjje_> There is no subscription
+[00:03] <Anhjje_> It's a one off payment
+[00:04] <AIMER7> alright
+[00:06] * DeaTh112 has joined #quakelive
+[00:06] * DeaTh112 has quit IRC (Registered)
+[00:06] * DeaTh112 has joined #quakelive
+[00:07] * vesdko has quit IRC (Read error: Connection reset by peer)
+[00:08] * nvypsil0voef has left #quakelive
+[00:08] * npz has quit IRC (Read error: Connection reset by peer)
+[00:10] * crobartie has joined #quakelive
+[00:12] * crobartie|AFK has quit IRC (Ping timeout)
+[00:14] * unity^ is now known as UNITY^
+[00:14] * DocP has quit IRC (Signed off)
+[00:15] * Oh-Christ-WerK has quit IRC (Read error: EOF from client)
+[00:17] * luke-ywn has quit IRC (Signed off)
+[00:17] * Rick971_ has joined #quakelive
+[00:18] * scarecrowww is now known as scarecrowww`off
+[00:19] * xiphos has joined #quakelive
+[00:19] * rehepapp has quit IRC (Signed off)
+[00:21] * Rick971 has quit IRC (Ping timeout)
+[00:22] * psygib has joined #quakelive
+[00:24] * Minto`Relyx has joined #quakelive
+[00:25] * esdf has left #quakelive
+[00:29] <[ByQ]Descent> :D
+[00:29] * TicoInJapan has quit IRC (Ping timeout)
+[00:30] * BeatyHeartQueas has joined #quakelive
+[00:31] * [Cadaver] has joined #quakelive
+[00:32] * heartlesss has quit IRC (Signed off)
+[00:32] * tehsma has joined #quakelive
+[00:32] * SinteL has quit IRC (Ping timeout)
+[00:32] * xero has quit IRC (Ping timeout)
+[00:32] * SinteL has joined #quakelive
+[00:35] * Anhjje_ has quit IRC (Signed off)
+[00:36] * xiphos has quit IRC (Signed off)
+[00:39] * dAw00d has joined #quakelive
+[00:39] * sparkie` has quit IRC (Signed off)
+[00:40] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[00:40] * Rick971_ has joined #quakelive
+[00:42] * pezza_ has quit IRC (Read error: Broken pipe)
+[00:43] * Linkyyy is now known as Linkyyy^off
+[00:44] * l1nkin^off is now known as l1nkin^
+[00:46] * way2cool has quit IRC (Signed off)
+[00:47] * Tensor has quit IRC (Signed off)
+[00:50] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[00:51] * Rick971_ has joined #quakelive
+[00:55] * OHURCOOL is now known as ohurcool
+[00:55] * flair has joined #quakelive
+[00:58] * Rick971 has joined #quakelive
+[01:00] * TedFranco has quit IRC (Read error: Operation timed out)
+[01:01] * TedFranco has joined #quakelive
+[01:02] * Rick971_ has quit IRC (Ping timeout)
+[01:02] * jackerl has joined #quakelive
+[01:02] * Lysop^ has joined #quakelive
+[01:07] * Lysop has quit IRC (Ping timeout)
+[01:07] <PerpetualWar> #capickup for quality ca ql games
+[01:09] * en2ie has quit IRC (Signed off)
+[01:11] * vtchill has joined #quakelive
+[01:13] <Steve|Jobs> really
+[01:14] <Steve|Jobs> instagib duel is extremely cool
+[01:14] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[01:16] <McAfee> aynone using the beta client want to hunt for a bug?
+[01:16] * Tux[Qyou] has quit IRC (Read error: Connection reset by peer)
+[01:16] * Blyoff has joined #quakelive
+[01:17] * XPEHOPE3 has joined #quakelive
+[01:17] * Rick971_ has joined #quakelive
+[01:18] * Rick971 has quit IRC (Read error: Operation timed out)
+[01:20] * Bly has quit IRC (Ping timeout)
+[01:21] * Semt-x has quit IRC (Read error: Connection reset by peer)
+[01:21] * hundredeighty7 has joined #quakelive
+[01:23] * Killo has quit IRC (Ping timeout)
+[01:24] * b1ngo is now known as b1ngo|offline
+[01:25] * ohurcool is now known as OHURCOOL
+[01:27] * fr_ has joined #quakelive
+[01:29] * stitch has joined #quakelive
+[01:30] * nino has joined #quakelive
+[01:31] * [Cadaver] has quit IRC (Signed off)
+[01:34] * Lysop^ is now known as Lysop
+[01:34] * [uM]Cyberdemon has joined #quakelive
+[01:37] * Rick971 has joined #quakelive
+[01:38] * byTe has quit IRC (Read error: Connection reset by peer)
+[01:41] * PerpetualWar is now known as PerpetualWa_off
+[01:41] * Rick971_ has quit IRC (Ping timeout)
+[01:45] * titsos has quit IRC (Ping timeout)
+[01:47] * jones-- has quit IRC (Ping timeout)
+[01:50] * mmaluco has quit IRC (Signed off)
+[01:56] * marrrc has joined #quakelive
+[01:57] * Rick971_ has joined #quakelive
+[02:00] * bucks has quit IRC (Signed off)
+[02:01] * Rick971 has quit IRC (Ping timeout)
+[02:04] * bucks has joined #quakelive
+[02:04] * bucks has quit IRC (Registered)
+[02:04] * bucks has joined #quakelive
+[02:04] * alblunty has quit IRC (Read error: Connection reset by peer)
+[02:05] * Insane_pl has quit IRC (Ping timeout)
+[02:05] * corls has quit IRC (Read error: Connection reset by peer)
+[02:05] * alblunty has joined #quakelive
+[02:05] * Mogrot has quit IRC (Signed off)
+[02:06] * Vampyre has joined #quakelive
+[02:06] * sparks has quit IRC (Read error: Connection reset by peer)
+[02:06] * kodisha__ has joined #quakelive
+[02:06] * sparks has joined #quakelive
+[02:07] * lysander has quit IRC (Read error: Connection reset by peer)
+[02:07] * InFerNo_ has quit IRC (Ping timeout)
+[02:07] * Vampcinda has quit IRC (Ping timeout)
+[02:07] * lysander has joined #quakelive
+[02:07] * ProN00b has quit IRC (EOF from client)
+[02:07] * ProN00b has joined #quakelive
+[02:07] * ProN00b has quit IRC (Registered)
+[02:07] * ProN00b has joined #quakelive
+[02:07] * MICHIO has quit IRC (Ping timeout)
+[02:07] * kodisha has quit IRC (Ping timeout)
+[02:08] * aeon has quit IRC (Ping timeout)
+[02:08] * Vo0Do0 has quit IRC (Ping timeout)
+[02:08] * _Ian has quit IRC (EOF from client)
+[02:08] * YouTube has quit IRC (Ping timeout)
+[02:08] * Janusz has quit IRC (Ping timeout)
+[02:08] * d1z has quit IRC (Ping timeout)
+[02:08] * _Ian has joined #quakelive
+[02:09] * hst has quit IRC (EOF from client)
+[02:09] * corls has joined #quakelive
+[02:09] * UNITY^ has quit IRC (Ping timeout)
+[02:09] * Prophy has quit IRC (Ping timeout)
+[02:09] * hst has joined #quakelive
+[02:09] * Vo0Do0 has joined #quakelive
+[02:10] * cenix has quit IRC (Ping timeout)
+[02:10] * Pulec has quit IRC (Ping timeout)
+[02:10] * rzeka has quit IRC (Ping timeout)
+[02:10] * Mino has quit IRC (Ping timeout)
+[02:10] * alligator has quit IRC (Ping timeout)
+[02:10] * trillex has quit IRC (Ping timeout)
+[02:10] * VRED has quit IRC (Ping timeout)
+[02:11] * _Ian is now known as Ian
+[02:11] * Greth has quit IRC (Ping timeout)
+[02:11] * Lashknife_ has quit IRC (EOF from client)
+[02:11] * peja_ has quit IRC (Ping timeout)
+[02:11] * Nimra has quit IRC (EOF from client)
+[02:11] * XPEHOPE3 has quit IRC (Signed off)
+[02:12] * MICHIO has joined #quakelive
+[02:12] * dsol has quit IRC (Ping timeout)
+[02:12] * kahko has quit IRC (Ping timeout)
+[02:12] * Xinator has quit IRC (EOF from client)
+[02:12] * Pulec has joined #quakelive
+[02:12] * vino has quit IRC (Ping timeout)
+[02:12] * Xinator has joined #quakelive
+[02:12] * houzohase has quit IRC (EOF from client)
+[02:12] * malk__ has joined #quakelive
+[02:12] * burnhard has quit IRC (EOF from client)
+[02:13] * houzohase has joined #quakelive
+[02:13] * cenix has joined #quakelive
+[02:13] * rzeka has joined #quakelive
+[02:13] * malk__ has quit IRC (Registered)
+[02:13] * malk__ has joined #quakelive
+[02:13] * Mino has joined #quakelive
+[02:13] * Nimra has joined #quakelive
+[02:13] * cenix has quit IRC (Registered)
+[02:13] * cenix has joined #quakelive
+[02:13] * BeatyHeartQueas is now known as xero
+[02:14] * malk_ has quit IRC (Ping timeout)
+[02:14] * malk__ is now known as malk_
+[02:14] * LASHKNIFE has joined #quakelive
+[02:14] * Janusz has joined #quakelive
+[02:14] * alligator has joined #quakelive
+[02:14] * InFerNo_ has joined #quakelive
+[02:14] * peja_ has joined #quakelive
+[02:15] * Martinh has quit IRC (Signed off)
+[02:15] * UNITY^ has joined #quakelive
+[02:15] * burnhard has joined #quakelive
+[02:16] * dsol has joined #quakelive
+[02:16] * trillex has joined #quakelive
+[02:16] * jackerl has quit IRC (Signed off)
+[02:18] * kahko has joined #quakelive
+[02:18] * oi has quit IRC (Ping timeout)
+[02:19] * PopeJo has quit IRC (EOF from client)
+[02:19] * xero has quit IRC (Ping timeout)
+[02:20] * AIMER7 has quit IRC (Signed off)
+[02:21] * rOOta has quit IRC (Read error: Connection reset by peer)
+[02:23] * Rick971 has joined #quakelive
+[02:23] * stevoo has joined #quakelive
+[02:24] * nyshak has quit IRC (Signed off)
+[02:25] * kahko has quit IRC (Registered)
+[02:25] * kahko has joined #quakelive
+[02:26] * lonewulfn6 has quit IRC (Ping timeout)
+[02:26] * Prophy has joined #quakelive
+[02:27] * Rick971_ has quit IRC (Ping timeout)
+[02:27] * crobartie has quit IRC (Signed off)
+[02:28] * Balto has quit IRC (Read error: Connection reset by peer)
+[02:28] * Balto has joined #quakelive
+[02:28] * Balto has quit IRC (Registered)
+[02:28] * Balto has joined #quakelive
+[02:28] * Prophy has quit IRC (Signed off)
+[02:30] * wanzerg has quit IRC (Signed off)
+[02:30] * vino has joined #quakelive
+[02:31] * stevoo has quit IRC (Signed off)
+[02:31] * ReelGirly has joined #quakelive
+[02:32] * rOOta has joined #quakelive
+[02:35] * peja_ has quit IRC (Signed off)
+[02:35] * wrg667 has quit IRC (Signed off)
+[02:37] * peja_ has joined #quakelive
+[02:37] * okto_ has quit IRC (Ping timeout)
+[02:37] * Dragon_ has quit IRC (Signed off)
+[02:38] * [uM]Cyberdemon has quit IRC (Read error: Connection reset by peer)
+[02:39] * son1dow has quit IRC (Read error: Connection reset by peer)
+[02:41] * cenix is now known as CENiX
+[02:43] * Vampyre has quit IRC (Signed off)
+[02:43] * fragtion has quit IRC (Signed off)
+[02:45] * fragtion has joined #quakelive
+[02:45] * McAfee has quit IRC (Read error: Connection reset by peer)
+[02:46] * rude_ has joined #quakelive
+[02:48] * madre has quit IRC (Signed off)
+[02:48] * marrrc_ has joined #quakelive
+[02:49] * z0id0uf has quit IRC (Read error: Connection reset by peer)
+[02:50] * corls has quit IRC (Read error: Connection reset by peer)
+[02:51] * aeon has joined #quakelive
+[02:53] * marrrc has quit IRC (Ping timeout)
+[02:55] * feeder has quit IRC (Ping timeout)
+[02:59] * combly7 has joined #quakelive
+[02:59] * madre has joined #quakelive
+[03:01] * rOOta has quit IRC (Read error: Connection reset by peer)
+[03:02] * McAfee has joined #quakelive
+[03:04] * l1nkin^ is now known as l1nkin^off
+[03:04] * Blyoff has quit IRC (Ping timeout)
+[03:08] * sd-LocKtar has quit IRC (Signed off)
+[03:08] * phy1um has joined #quakelive
+[03:09] * wi5py has quit IRC (Read error: Connection reset by peer)
+[03:11] * Killo has joined #quakelive
+[03:13] * Balto has quit IRC (Read error: Connection reset by peer)
+[03:13] * Balto has joined #quakelive
+[03:15] * xero has joined #quakelive
+[03:17] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[03:17] * Rick971 has joined #quakelive
+[03:19] * Spectre1801 has joined #quakelive
+[03:21] * Spectre1801 has left #quakelive
+[03:23] * marrrc_ has quit IRC (Read error: Connection reset by peer)
+[03:25] * ReelGirly is now known as reelgirly
+[03:26] * `muffin has joined #quakelive
+[03:26] * `muffin has quit IRC (Registered)
+[03:26] * `muffin has joined #quakelive
+[03:27] * jones has joined #quakelive
+[03:27] * reelgirly is now known as ReelGirly
+[03:29] * Balto has quit IRC (EOF from client)
+[03:30] * hundredeighty7 has quit IRC (Ping timeout)
+[03:31] * fr_ has quit IRC (Signed off)
+[03:34] * BeatyHeartQueas has joined #quakelive
+[03:35] * sgra has quit IRC (Read error: Connection reset by peer)
+[03:36] * XaS has quit IRC (Read error: Connection reset by peer)
+[03:37] * xero has quit IRC (Ping timeout)
+[03:43] * PredatH0r is now known as PREDATH0R
+[03:44] * Sucks_ has quit IRC (Read error: Connection reset by peer)
+[03:45] * Sucks has joined #quakelive
+[03:48] * aeon has quit IRC (Read error: Connection reset by peer)
+[03:49] * aeon has joined #quakelive
+[03:50] * aeon has quit IRC (Read error: Connection reset by peer)
+[03:52] * aeon has joined #quakelive
+[03:52] * bucks has quit IRC (Signed off)
+[03:53] * Stormaren has quit IRC (Read error: Connection reset by peer)
+[03:53] * `muffin has quit IRC (Signed off)
+[03:53] * RA3OR has quit IRC (Ping timeout)
+[03:54] * `muffin has joined #quakelive
+[03:54] * `muffin has quit IRC (Registered)
+[03:54] * `muffin has joined #quakelive
+[03:59] * phylum` has joined #quakelive
+[03:59] * tjone270-phone has joined #quakelive
+[04:01] * aliasedfrog has quit IRC (Signed off)
+[04:01] * aliasedfrog has joined #quakelive
+[04:03] * YouTube has joined #quakelive
+[04:03] * tjone270-phone has quit IRC (Signed off)
+[04:04] * phy1um has quit IRC (Ping timeout)
+[04:04] * d1z has joined #quakelive
+[04:05] * Lysop has quit IRC (Ping timeout)
+[04:06] * Lysop has joined #quakelive
+[04:07] * vtchill has quit IRC (Signed off)
+[04:08] * DZK has joined #quakelive
+[04:10] * phy1umm has joined #quakelive
+[04:10] * lskdlsdk has joined #quakelive
+[04:13] * lukke`aweh has quit IRC (Ping timeout)
+[04:14] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[04:14] * sonny has quit IRC (Signed off)
+[04:14] * Rick971 has joined #quakelive
+[04:15] * hundredeighty7 has joined #quakelive
+[04:15] * phylum` has quit IRC (Ping timeout)
+[04:16] * tjone270-phone has joined #quakelive
+[04:17] * med1xza is now known as MED1XZA
+[04:17] * damp has joined #quakelive
+[04:18] * TrustInAllah has joined #quakelive
+[04:18] <TrustInAllah> In the name of Allah : By time, -
+[04:18] * TrustInAllah has quit IRC (Excess Flood)
+[04:18] * TrustInAllah has joined #quakelive
+[04:18] * TrustInAllah has left #quakelive
+[04:20] * stownr has quit IRC (Signed off)
+[04:22] * tjone270-phone has quit IRC (Signed off)
+[04:24] * damp has quit IRC (Ping timeout)
+[04:25] * d0gb0ne is now known as d0gb0ne|AFK
+[04:32] * Rick971 has quit IRC (Signed off)
+[04:35] * DZK has quit IRC (Ping timeout)
+[04:37] * DZK has joined #quakelive
+[04:44] * okto_ has joined #quakelive
+[04:49] * AxtonARWGoa has joined #quakelive
+[04:50] <Killo> whats the new maps with the tall ceilings and teleports as phone booths?
+[04:52] * lskdlsdk has quit IRC (Signed off)
+[04:56] * Dinius has quit IRC (Read error: Connection reset by peer)
+[04:57] * Dinius has joined #quakelive
+[05:01] <DZK> D:
+[05:01] <DZK> hi Killo when you find out let me know
+[05:04] * Dinius has quit IRC (Read error: Connection reset by peer)
+[05:04] * benje has quit IRC (Signed off)
+[05:04] * dAw00d- has quit IRC (Signed off)
+[05:05] * Dinius has joined #quakelive
+[05:09] * StormShadow has joined #quakelive
+[05:10] * eteto[ket] has quit IRC (Signed off)
+[05:12] * noctis is now known as NOCTIS
+[05:16] * Sparda_ has joined #quakelive
+[05:16] * DZK has quit IRC (Ping timeout)
+[05:17] * deathroll has joined #quakelive
+[05:19] * Sparda has quit IRC (Ping timeout)
+[05:19] * DZK has joined #quakelive
+[05:20] * Tommy has quit IRC (Read error: Connection reset by peer)
+[05:23] * pvh has quit IRC (Signed off)
+[05:25] * madre has quit IRC (Signed off)
+[05:26] * DZK has quit IRC (Ping timeout)
+[05:27] * DZK has joined #quakelive
+[05:28] * madre has joined #quakelive
+[05:32] * BeatyHeartQueas is now known as xero
+[05:32] * AxtonARWGoa has left #quakelive
+[05:33] * Dinius has quit IRC (Read error: Connection reset by peer)
+[05:34] * Dinius has joined #quakelive
+[05:40] * Sucks has quit IRC (Read error: Connection reset by peer)
+[05:41] * DZK has quit IRC (Signed off)
+[05:42] * DZK has joined #quakelive
+[05:42] * Sucks has joined #quakelive
+[05:46] * pvh has joined #quakelive
+[06:02] * Durklas has joined #quakelive
+[06:15] * Macavity has quit IRC (Signed off)
+[06:22] * deathroll has quit IRC (Ping timeout)
+[06:30] * otcai has joined #quakelive
+[06:32] * Warchild_BtF has quit IRC (Signed off)
+[06:34] * phylum` has joined #quakelive
+[06:39] * phy1umm has quit IRC (Ping timeout)
+[06:44] * ViktorFoedowski has quit IRC (Ping timeout)
+[06:46] * vixterra has quit IRC (Signed off)
+[06:47] * DZK has quit IRC (Signed off)
+[06:47] * ViktorFoedowski has joined #quakelive
+[06:49] * cerno_ is now known as cerno|away
+[06:54] * abso is now known as ABSO
+[06:55] * notas_ has quit IRC (Read error: Connection reset by peer)
+[07:01] * sucks_ has joined #quakelive
+[07:01] * hundredeighty7 has quit IRC (Ping timeout)
+[07:03] * psygib has quit IRC (Signed off)
+[07:11] * illicit has joined #quakelive
+[07:13] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[07:13] * deg has quit IRC (Ping timeout)
+[07:16] * nvz has joined #quakelive
+[07:27] * RA3OR has joined #quakelive
+[07:39] * twitch- has joined #quakelive
+[07:43] * deathroll has joined #quakelive
+[07:52] * Durklas has quit IRC (Ping timeout)
+[07:53] * stripy`` has joined #quakelive
+[07:54] * Minto`Relyx has quit IRC (Ping timeout)
+[07:57] * stripy` has quit IRC (Ping timeout)
+[08:00] * RA3OR has quit IRC (Ping timeout)
+[08:01] * MICHIO is now known as michio
+[08:01] * Shree has joined #quakelive
+[08:03] * Scorch has joined #quakelive
+[08:05] * okto_ has quit IRC (Read error: Connection reset by peer)
+[08:05] * Killo has quit IRC (Read error: Connection reset by peer)
+[08:07] * Killo has joined #quakelive
+[08:16] * EmZee_ has joined #quakelive
+[08:19] * pex has quit IRC (Ping timeout)
+[08:19] * pex has joined #quakelive
+[08:19] * deathroll has quit IRC (Ping timeout)
+[08:23] * Shree has quit IRC (Read error: Connection reset by peer)
+[08:23] * Shree has joined #quakelive
+[08:27] * crazymonster has joined #quakelive
+[08:28] * R1EPA has quit IRC (Signed off)
+[08:29] * twitch- has quit IRC (Read error: EOF from client)
+[08:31] * axelmonster has quit IRC (Ping timeout)
+[08:31] * crazymonster is now known as axelmonster
+[08:31] * trolles has quit IRC (Ping timeout)
+[08:31] * DemonSphere has quit IRC (Signed off)
+[08:33] * dem0n has joined #quakelive
+[08:35] * TicoInJapan has joined #quakelive
+[08:36] * flairtv has joined #quakelive
+[08:36] * jones has quit IRC (Ping timeout)
+[08:37] * arbitraryname has joined #quakelive
+[08:38] * flair has quit IRC (Ping timeout)
+[08:38] * flairtv is now known as flair
+[08:40] * otcai has quit IRC (Signed off)
+[08:42] * rude_ has quit IRC (Signed off)
+[08:45] * Sier has quit IRC (Read error: Connection reset by peer)
+[08:47] * Sucks has quit IRC (Read error: Connection reset by peer)
+[08:50] * nvz has quit IRC (Ping timeout)
+[08:52] * Blyoff has joined #quakelive
+[08:57] * combly7 has quit IRC (Ping timeout)
+[09:00] * arbitraryname has left #quakelive
+[09:07] * illicit has quit IRC (Signed off)
+[09:11] * CMDR_Highbyte has joined #quakelive
+[09:24] * sucks_ has quit IRC (Ping timeout)
+[09:25] * DemonSphere has joined #quakelive
+[09:31] * TheRoBrunos has joined #quakelive
+[09:34] * Mirio has quit IRC (Signed off)
+[09:36] * damp has joined #quakelive
+[09:41] * tehsma has quit IRC (Signed off)
+[09:42] * Anhjje_ has joined #quakelive
+[09:43] * atomekk has joined #quakelive
+[09:45] * Dinius has quit IRC (Read error: Connection reset by peer)
+[09:47] * Dinius has joined #quakelive
+[09:56] * dem0n has quit IRC (Signed off)
+[10:07] * BlaD3-work has joined #quakelive
+[10:11] * TicoInJapan has quit IRC (Signed off)
+[10:14] * TheRoBrunos has left #quakelive
+[10:16] * TicoInJapan has joined #quakelive
+[10:17] * demsix has joined #quakelive
+[10:20] * LtC has joined #quakelive
+[10:20] * deathroll has joined #quakelive
+[10:26] * seXp has joined #quakelive
+[10:46] * tankets has joined #quakelive
+[10:52] * hundredeighty7 has joined #quakelive
+[10:52] * tankets has quit IRC (Ping timeout)
+[10:52] * guardianL has joined #quakelive
+[10:53] * guardianL has quit IRC (Read error: Connection reset by peer)
+[11:00] * CMDR_Highbyte has quit IRC (Ping timeout)
+[11:02] * ApocTV has quit IRC (Ping timeout)
+[11:02] * Oh-Christ-WerK has joined #quakelive
+[11:06] * way2cool has joined #quakelive
+[11:09] * ApocTV has joined #quakelive
+[11:09] * ApocTV has quit IRC (Registered)
+[11:09] * ApocTV has joined #quakelive
+[11:17] * Esteem has quit IRC (Ping timeout)
+[11:17] * McAfee has left #quakelive
+[11:19] * ABSO has quit IRC (Ping timeout)
+[11:19] * LtC is now known as LtC|afk
+[11:25] * DocP has joined #quakelive
+[11:29] * fnatic\aNtii has quit IRC (Ping timeout)
+[11:30] * ABSO has joined #quakelive
+[11:37] * Dbzruler72 has joined #quakelive
+[11:45] * cerno|away is now known as cerno_
+[11:50] * TypKuw has joined #quakelive
+[11:53] * TypKuw has quit IRC (Signed off)
+[11:53] * rOOta has joined #quakelive
+[12:00] * Dinius has quit IRC (Read error: Connection reset by peer)
+[12:01] * Dinius has joined #quakelive
+[12:16] * flairtv has joined #quakelive
+[12:18] * flair has quit IRC (Ping timeout)
+[12:18] * NeKro`oFF is now known as NeKro
+[12:18] * oi has joined #quakelive
+[12:18] * NeKro is away (Bin off)
+[12:18] * NeKro is now known as NeKro`oFF
+[12:19] * a|wiseguy has quit IRC (Ping timeout)
+[12:19] * nino has quit IRC (Signed off)
+[12:20] * DemonSphere has quit IRC (Read error: Connection reset by peer)
+[12:23] * grim_ has joined #quakelive
+[12:26] * Stormaren has joined #quakelive
+[12:26] * flairtv is now known as flair
+[12:29] * grim_ has quit IRC (Signed off)
+[12:30] * Dinius has quit IRC (Read error: Connection reset by peer)
+[12:30] * quetz has quit IRC (Ping timeout)
+[12:30] * loveless has quit IRC (Signed off)
+[12:31] * Dinius has joined #quakelive
+[12:32] * fnatic\aNtii has joined #quakelive
+[12:41] * P5E has quit IRC (Read error: Connection reset by peer)
+[12:41] * P5E has joined #quakelive
+[12:48] * cerno_ is now known as cerno|away
+[12:49] * kayjay has joined #quakelive
+[12:54] * Warchild_BtF has joined #quakelive
+[12:54] * Zack has joined #quakelive
+[12:56] * P5EE has joined #quakelive
+[12:56] * P5E has quit IRC (Read error: Connection reset by peer)
+[12:56] * P5EE is now known as P5E
+[12:57] * trolles has joined #quakelive
+[12:58] * SinteL has quit IRC (Ping timeout)
+[13:03] * Killo has quit IRC (Read error: Connection reset by peer)
+[13:03] * SinteL has joined #quakelive
+[13:04] * Killo has joined #quakelive
+[13:09] * RA3OR has joined #quakelive
+[13:14] * damp has quit IRC (Signed off)
+[13:18] * Dinius has quit IRC (Read error: Connection reset by peer)
+[13:19] * bagurk has quit IRC (Ping timeout)
+[13:19] * Dinius has joined #quakelive
+[13:19] * BAURO has joined #quakelive
+[13:19] * shawn has joined #quakelive
+[13:26] * bagurk has joined #quakelive
+[13:32] * humsyr0mob has joined #quakelive
+[13:34] * optimizer7 has joined #quakelive
+[13:36] * optimizer has quit IRC (Ping timeout)
+[13:42] * sd-LocKtar has joined #quakelive
+[13:42] * NOCTIS is now known as noctis
+[13:43] * DeaTh112 has quit IRC (Signed off)
+[13:43] * deathroll has quit IRC (Ping timeout)
+[13:46] * phy1umm has joined #quakelive
+[13:51] * Scorch has quit IRC (Signed off)
+[13:51] * phylum` has quit IRC (Ping timeout)
+[13:55] * kodisha__ is now known as kodisha
+[13:57] * SinteL has quit IRC (Ping timeout)
+[14:00] * SinteL has joined #quakelive
+[14:00] * quetz has joined #quakelive
+[14:04] * pupp3t has joined #quakelive
+[14:06] * sonny has joined #quakelive
+[14:08] * bagurk has quit IRC (Ping timeout)
+[14:08] * hundredeighty7 has quit IRC (Ping timeout)
+[14:14] * deathroll has joined #quakelive
+[14:15] * humsyr0mob has left #quakelive
+[14:26] * sparkie` has joined #quakelive
+[14:27] * LtC|afk has quit IRC (Ping timeout)
+[14:29] * LtC has joined #quakelive
+[14:30] * PerpetualWa_off is now known as PerpetualWar
+[14:31] * madrid has joined #quakelive
+[14:31] <madrid> hola
+[14:31] <madrid> alguien en español?
+[14:33] * PerpetualWar is now known as PerpetualWa_off
+[14:34] * madrid has left #quakelive
+[14:37] * d0gb0ne|AFK is now known as d0gb0ne
+[14:38] * feeder has joined #quakelive
+[14:41] * CMDR_Highbyte has joined #quakelive
+[14:41] * feeder has quit IRC (Signed off)
+[14:42] * Durklas has joined #quakelive
+[14:43] * ReelGirly is now known as reelgirly
+[14:51] * PREDATH0R is now known as PredatH0r
+[14:56] * AIMER7 has joined #quakelive
+[14:58] * LtC|afk has joined #quakelive
+[14:59] * Linkyyy^off is now known as Linkyyy
+[15:00] * Tensor has joined #quakelive
+[15:01] * LtC has quit IRC (Ping timeout)
+[15:05] * EmZee_ has quit IRC (Ping timeout)
+[15:09] * son1dow has joined #quakelive
+[15:10] * Minto`Relyx has joined #quakelive
+[15:15] * RA3OR has quit IRC (Ping timeout)
+[15:24] * RA3OR has joined #quakelive
+[15:40] * michio is now known as MICHIO
+[15:41] * Minto`Relyx has quit IRC (Ping timeout)
+[15:52] * CENiX is now known as cenix
+[15:57] * Balto has joined #quakelive
+[16:08] * vixterra has joined #quakelive
+[16:08] * way2cool has quit IRC (Signed off)
+[16:15] * Tommy has joined #quakelive
+[16:15] * jani`_ has quit IRC (Signed off)
+[16:16] * EmZee_ has joined #quakelive
+[16:16] * dAw00d has quit IRC (Ping timeout)
+[16:21] * hellrazor has joined #quakelive
+[16:22] * Rick971 has joined #quakelive
+[16:25] * BlaD3-work has quit IRC (Read error: Connection reset by peer)
+[16:28] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[16:29] * Rick971 has joined #quakelive
+[16:29] * `muffin has quit IRC (Signed off)
+[16:30] * `muffin has joined #quakelive
+[16:30] * `muffin has quit IRC (Registered)
+[16:30] * `muffin has joined #quakelive
+[16:30] * `muffin has quit IRC (EOF from client)
+[16:30] * GK-Deacon has quit IRC (Ping timeout)
+[16:32] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[16:32] * Rick971 has joined #quakelive
+[16:34] * GK-Deacon has joined #quakelive
+[16:38] * Rick971_ has joined #quakelive
+[16:39] * Rick971 has quit IRC (Read error: Operation timed out)
+[16:40] * SinteL has quit IRC (Signed off)
+[16:42] * sgra has joined #quakelive
+[16:46] * BompinG has joined #quakelive
+[16:47] <BompinG> sponge-, any way to fix missing textures on Silentnight ?
+[16:49] * titsos has joined #quakelive
+[16:52] * `muffin has joined #quakelive
+[16:52] * `muffin has quit IRC (Registered)
+[16:52] * `muffin has joined #quakelive
+[16:56] * PopeJo has joined #quakelive
+[16:57] * lukke`aweh has joined #quakelive
+[16:58] * xero has quit IRC (Signed off)
+[17:00] * dAw00d- has joined #quakelive
+[17:00] * Nappi has joined #quakelive
+[17:01] * Sady has joined #quakelive
+[17:03] * bogus- has joined #quakelive
+[17:03] * Storm` has joined #quakelive
+[17:08] * `muffin has quit IRC (Signed off)
+[17:09] * Rick971 has joined #quakelive
+[17:09] * deg has joined #quakelive
+[17:13] * Rick971_ has quit IRC (Ping timeout)
+[17:14] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[17:14] * Rick971 has joined #quakelive
+[17:15] * LtC|afk is now known as LtC
+[17:18] * jani`_ has joined #quakelive
+[17:18] * P5E has quit IRC (Ping timeout)
+[17:20] * [Cadaver] has joined #quakelive
+[17:21] * Prophy has joined #quakelive
+[17:21] * Linkyyy is now known as Linkyyy^off
+[17:21] * jones has joined #quakelive
+[17:21] * Anhjje_ has quit IRC (Signed off)
+[17:24] * g0rilla has joined #quakelive
+[17:25] * PerpetualWa_off is now known as PerpetualWar
+[17:27] * NeKro`oFF is now known as NeKro
+[17:28] * stitch has quit IRC (Read error: Connection reset by peer)
+[17:28] * MitchConnor has joined #quakelive
+[17:31] * Warchild_BtF has quit IRC (Ping timeout)
+[17:32] * P5E has joined #quakelive
+[17:32] * sonny has quit IRC (Signed off)
+[17:35] * DZK has joined #quakelive
+[17:36] * NeKro is away (Bin off)
+[17:36] * NeKro is now known as NeKro`oFF
+[17:36] * NeKro`oFF is now known as NeKro
+[17:38] * phy1umm has quit IRC (Signed off)
+[17:40] * vixterra has quit IRC (Signed off)
+[17:42] * crobartie has joined #quakelive
+[17:42] * paper has joined #quakelive
+[17:43] <kanzo> BompinG: get both extra pack and holiday pack on workshop
+[17:43] * McAfee has joined #quakelive
+[17:44] <kanzo> not sure if extras pack is needed, but no missing textures when I have both
+[17:44] * NeKro is away (Bin off)
+[17:44] * NeKro is now known as NeKro`oFF
+[17:44] * NeKro`oFF is now known as NeKro
+[17:45] * NeKro is away (Bin off)
+[17:45] * NeKro is now known as NeKro`oFF
+[17:45] * tupsuBob has joined #quakelive
+[17:45] <kanzo> BompinG: http://steamcommunity.com/sharedfiles/filedetails/?id=539421606 and http://steamcommunity.com/sharedfiles/filedetails/?id=539421982
+[17:46] * NeKro`oFF is away (Bin off)
+[17:46] <DZK> Killo did you ever find the map name?
+[17:46] * NeKro`oFF is now known as NeKro
+[17:47] <BompinG> gr8, thanx
+[17:47] * NeKro is away (Bin off)
+[17:47] * NeKro has quit IRC (Killed (*.quakenet.org (You are violating network rules, ID: 57069356)))
+[17:47] * Durklas has quit IRC (Ping timeout)
+[17:47] * NeKro`oFF has joined #quakelive
+[17:49] * netban is now known as Jini`
+[17:49] * Linkyyy^off is now known as Linkyyy
+[17:49] * tjone270_ has joined #quakelive
+[17:54] * PerpetualWar is now known as PerpetualWa_off
+[17:54] * mikul|afk has quit IRC (EOF from client)
+[17:54] * tjone270 has quit IRC (Ping timeout)
+[17:55] * mikul has joined #quakelive
+[17:57] * en2ie has joined #quakelive
+[17:58] * vtchill has joined #quakelive
+[17:59] * vtchill has quit IRC (Signed off)
+[18:02] * Macavity has joined #quakelive
+[18:02] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[18:02] * wrg667 has joined #quakelive
+[18:03] * Rick971 has joined #quakelive
+[18:05] * TicoInJapan has quit IRC (Ping timeout)
+[18:06] * haz_mat has joined #quakelive
+[18:09] * cenix is now known as CENiX
+[18:09] * oi has quit IRC (EOF from client)
+[18:09] * oi has joined #quakelive
+[18:10] * Caddy has joined #quakelive
+[18:10] * MitchConnor has quit IRC (Signed off)
+[18:10] * BAURO has quit IRC (Signed off)
+[18:11] * corls has joined #quakelive
+[18:11] * [Cadaver] has quit IRC (Ping timeout)
+[18:16] * PerpetualWa_off is now known as PerpetualWar
+[18:21] * okto_ has joined #quakelive
+[18:26] * LtC is now known as LtC|afk
+[18:26] * Warchild_BtF has joined #quakelive
+[18:27] * lep_ has joined #quakelive
+[18:28] * llorhtaed has joined #quakelive
+[18:28] * tupsuBob has left #quakelive
+[18:29] * P5E has quit IRC (Read error: Connection reset by peer)
+[18:29] * P5E has joined #quakelive
+[18:30] * Shree has quit IRC (Ping timeout)
+[18:31] * lep has quit IRC (Ping timeout)
+[18:31] * lep_ is now known as lep
+[18:33] * deathroll has quit IRC (Ping timeout)
+[18:33] * RA3OR has quit IRC (Ping timeout)
+[18:35] * ced117 has joined #quakelive
+[18:37] * eteto[ket] has joined #quakelive
+[18:38] * seXp has quit IRC (Signed off)
+[18:44] * Sucks has joined #quakelive
+[18:45] <P5E> !rating
+[18:45] * ApocTV has quit IRC (Signed off)
+[18:46] * skipek has joined #quakelive
+[18:47] * Cleaner has joined #quakelive
+[18:48] * NeKro`oFF is now known as NeKro
+[18:49] * NeKro is away (Bin off)
+[18:49] * NeKro is now known as NeKro`oFF
+[18:51] * anvi_ has quit IRC (Signed off)
+[18:51] * anvi_ has joined #quakelive
+[18:51] * vtchill has joined #quakelive
+[18:56] * l1nkin^off is now known as l1nkin^
+[18:59] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[19:00] * Rick971 has joined #quakelive
+[19:03] * h8m3_off is now known as h8m3
+[19:05] * RA3OR has joined #quakelive
+[19:12] * Swappage has quit IRC (Ping timeout)
+[19:12] * liquidblasted has joined #quakelive
+[19:12] * Swappage has joined #quakelive
+[19:12] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[19:12] * Rick971 has joined #quakelive
+[19:15] * feeder has joined #quakelive
+[19:15] * eteto[ket] has quit IRC (Signed off)
+[19:20] * Lostmysword has quit IRC (Signed off)
+[19:21] * LtC|afk has quit IRC (Ping timeout)
+[19:22] * noctis is now known as NOCTIS
+[19:32] * Linkyyy is now known as Linkyyy^off
+[19:35] * mindlesstux has quit IRC (Signed off)
+[19:37] * Semt-x has joined #quakelive
+[19:40] * way2cool has joined #quakelive
+[19:41] * Shree has joined #quakelive
+[19:42] * NeKro`oFF is now known as NeKro
+[19:43] * Greth has joined #quakelive
+[19:44] * vtchill_ has joined #quakelive
+[19:45] * vtchill has quit IRC (Ping timeout)
+[19:45] * vtchill_ is now known as vtchill
+[19:47] * heartlesss has joined #quakelive
+[19:48] * wrg667 has quit IRC (Signed off)
+[19:50] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[19:51] * Rick971 has joined #quakelive
+[19:52] * Lysop^ has joined #quakelive
+[19:53] * vtchill has quit IRC (Ping timeout)
+[19:54] * Lysop has quit IRC (Ping timeout)
+[19:55] * vtchill has joined #quakelive
+[19:58] * NOCTIS is now known as noctis
+[19:58] * vtchill has quit IRC (Ping timeout)
+[19:59] * vtchill has joined #quakelive
+[20:01] * Oh-Christ-WerK has quit IRC (Read error: EOF from client)
+[20:02] * Tux[Qyou] has joined #quakelive
+[20:03] <trolles> sponge-: is there anywhere to check flags and country codes?
+[20:03] * mindlesstux has joined #quakelive
+[20:04] <sponge-> not really, open up pak00.pk3, ui folder, country.txt (won't open right in notepad.exe)
+[20:04] <sponge-> or i guess ui/assets/flags folder
+[20:05] <roast> sponge-: where is the harmonica sound from? its hilarious heh
+[20:05] <sponge-> yousuck.ogg? no clue its been in there forever
+[20:05] <roast> i made it my motdsound luls
+[20:06] <roast> no its ​
+[20:06] <roast> sound/ct_ct3t3/unclesigmund_harmonica.ogg
+[20:06] <sponge-> oh that's from cityy's map i guess
+[20:06] <sponge-> judging by the name
+[20:08] * bucks has joined #quakelive
+[20:08] * P5EE has joined #quakelive
+[20:08] * P5E has quit IRC (Read error: Connection reset by peer)
+[20:08] * b1ngo|offline is now known as b1ngo
+[20:09] * P5EE is now known as P5E
+[20:09] <trolles> thanks sponge-, ill have a look
+[20:11] * vtchill has quit IRC (Ping timeout)
+[20:16] * stickan has joined #quakelive
+[20:20] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[20:20] <DZK> spongebob
+[20:20] * Rick971 has joined #quakelive
+[20:22] * sucks_ has joined #quakelive
+[20:23] * b1ngo is now known as b1ngo|afk
+[20:23] * Patrol1985 has joined #quakelive
+[20:24] * ABSO is now known as abso
+[20:24] * abso has quit IRC (Registered)
+[20:24] * abso has joined #quakelive
+[20:26] * Sucks has quit IRC (Ping timeout)
+[20:31] * lukke`aweh is now known as lukke`zlycasy
+[20:39] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[20:40] * Oh`Christ`Off is now known as Oh`Christ
+[20:42] * lonewulfn6 has joined #quakelive
+[20:46] * Cleaner_ has joined #quakelive
+[20:46] * flair has quit IRC (Signed off)
+[20:46] * Cleaner has quit IRC (Ping timeout)
+[20:47] * pony has joined #quakelive
+[20:47] * l1nkin^ is now known as l1nkin^off
+[20:49] * lonewulftp has joined #quakelive
+[20:50] * llorhtaed has quit IRC (Ping timeout)
+[20:50] * lonewulfn6 has quit IRC (Signed off)
+[20:50] * lonewulftp has quit IRC (Signed off)
+[20:51] * lonewulftp has joined #quakelive
+[20:52] * wanzerg has joined #quakelive
+[20:53] * Cleaner_ is now known as Cleaner
+[20:57] <McAfee> anyone wanna triage a bug (in the beta)
+[20:59] * tehsma has joined #quakelive
+[21:00] * pupp3t has quit IRC (Ping timeout)
+[21:01] * bagurk has joined #quakelive
+[21:03] * M1zzu has joined #quakelive
+[21:05] * b1ngo|afk is now known as b1ngo
+[21:06] * Kingsman has joined #quakelive
+[21:07] * optimizer7 is now known as optimizer
+[21:08] * Challenger has joined #quakelive
+[21:12] * Swappage has quit IRC (Ping timeout)
+[21:12] * DooMiNo has joined #quakelive
+[21:12] * Swappage has joined #quakelive
+[21:15] * Linkyyy^off is now known as Linkyyy
+[21:17] * nyshak has joined #quakelive
+[21:26] * Caddy has quit IRC (Signed off)
+[21:27] * Sparda_ has quit IRC (Read error: Connection reset by peer)
+[21:27] * titsos has quit IRC (EOF from client)
+[21:27] * vixterra has joined #quakelive
+[21:28] * Shree has quit IRC (Ping timeout)
+[21:30] * batshit has quit IRC (Signed off)
+[21:31] * Sparda has joined #quakelive
+[21:41] * rOOta has quit IRC (Ping timeout)
+[21:42] * titsos has joined #quakelive
+[21:45] * RA3OR has quit IRC (Ping timeout)
+[21:46] * dAw00d has joined #quakelive
+[21:47] * Cleaner has quit IRC (Ping timeout)
+[21:48] * vnk has joined #quakelive
+[21:53] * loveless has joined #quakelive
+[21:55] * Cleaner has joined #quakelive
+[21:56] * ACiDC0re has joined #quakelive
+[21:56] * kodisha is now known as kodisha_afk
+[21:57] * DZK has quit IRC (Signed off)
+[21:59] <Cleaner> sponge- are you there ? 
+[22:00] * PerpetualWar is now known as PerpetualWa_off
+[22:00] * l1nkin^off is now known as l1nkin^
+[22:01] * Sier has joined #quakelive
+[22:07] * Patrol1985 has quit IRC (Ping timeout)
+[22:08] * Sady has quit IRC (Signed off)
+[22:11] * shivashandra is now known as shivafk
+[22:18] * un4x has joined #quakelive
+[22:18] * Storm` has quit IRC (Signed off)
+[22:21] * polonewunvyp has joined #quakelive
+[22:23] * PopeJo has quit IRC (EOF from client)
+[22:25] * PerpetualWa_off is now known as PerpetualWar
+[22:25] * Jukeboksi has joined #quakelive
+[22:25] * Warchild_BtF has quit IRC (Signed off)
+[22:27] * PopeJo has joined #quakelive
+[22:28] * XaS has joined #quakelive
+[22:28] * shawn has quit IRC (Signed off)
+[22:29] * Sqetchie has quit IRC (Ping timeout)
+[22:30] * Warchild_BtF has joined #quakelive
+[22:32] * shawn has joined #quakelive
+[22:32] * TicoInJapan has joined #quakelive
+[22:33] * NeKro is away (Bin off)
+[22:33] * NeKro is now known as NeKro`oFF
+[22:35] * b1ngo is now known as b1ngo|offline
+[22:38] * kodisha_afk has quit IRC (Ping timeout)
+[22:40] * Blyoff has quit IRC (Signed off)
+[22:40] * Bly has joined #quakelive
+[22:42] * shawn has quit IRC (Ping timeout)
+[22:43] * crazymonster has joined #quakelive
+[22:44] * Kingsman has quit IRC (Ping timeout)
+[22:47] * axelmonster has quit IRC (Ping timeout)
+[22:47] * crazymonster is now known as axelmonster
+[22:51] * X751L has joined #quakelive
+[22:53] * ced117 has quit IRC (Ping timeout)
+[22:54] * X751L has quit IRC (Signed off)
+[22:54] * crobartie has quit IRC (Ping timeout)
+[22:56] * Cleaner has quit IRC (Ping timeout)
+[22:56] * Cleaner has joined #quakelive
+[22:59] * Rick971_ has joined #quakelive
+[23:00] * psygib has joined #quakelive
+[23:00] * l1nkin^ is now known as l1nkin^off
+[23:00] * l1nkin^off is now known as l1nkin^
+[23:01] * Mirio has joined #quakelive
+[23:02] * jonatz has joined #quakelive
+[23:02] * ced117 has joined #quakelive
+[23:02] * EmuZombie has quit IRC (Read error: Connection reset by peer)
+[23:02] * EmuZombie has joined #quakelive
+[23:03] * Rick971 has quit IRC (Ping timeout)
+[23:03] * Warchild_BtF has quit IRC (Signed off)
+[23:05] * polonewunvyp has left #quakelive
+[23:06] * Kingsman has joined #quakelive
+[23:07] * Warchild_BtF has joined #quakelive
+[23:08] * hundredeighty7 has joined #quakelive
+[23:11] * Rick971_ has quit IRC (Read error: Connection reset by peer)
+[23:11] * Rick971_ has joined #quakelive
+[23:13] * Cleaner has quit IRC (Ping timeout)
+[23:15] * `muffin has joined #quakelive
+[23:15] * `muffin has quit IRC (Registered)
+[23:15] * `muffin has joined #quakelive
+[23:16] * EmuZ0mbie has joined #quakelive
+[23:18] * vtchill has joined #quakelive
+[23:20] * wrg667 has joined #quakelive
+[23:21] * EmuZombie has quit IRC (Ping timeout)
+[23:24] * Siouxsie has quit IRC (Signed off)
+[23:28] * reelgirly is now known as ReelGirly
+[23:32] * hundredeighty7 has quit IRC (Ping timeout)
+[23:32] * Kingsman_ has joined #quakelive
+[23:42] * Rick971_ has quit IRC (Signed off)
+[23:43] * Jini` is now known as netban
+[23:43] * aLpenbog has joined #quakelive
+[23:44] * Tux[Qyou] has quit IRC (Read error: Connection reset by peer)
+[23:47] * shawn has joined #quakelive
+[23:53] * benje has joined #quakelive
+[23:57] * aLpenbog_ has joined #quakelive
+[23:57] * Dbzruler72 has joined #quakelive
+Session Time: Sat Dec 05 00:00:00 2015
+[00:00] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[00:01] * aLpenbog has quit IRC (Ping timeout)
+[00:03] * Warchild_BtF has quit IRC (Signed off)
+[00:04] * Kingsman_ has quit IRC (Ping timeout)
+[00:05] * aLpenbog_ has quit IRC (Ping timeout)
+[00:07] * DeaTh112 has joined #quakelive
+[00:07] * P5E has quit IRC (Signed off)
+[00:07] * DeaTh112 has quit IRC (Registered)
+[00:07] * DeaTh112 has joined #quakelive
+[00:07] * liquidblasted has quit IRC (Read error: Connection reset by peer)
+[00:08] * npz has joined #quakelive
+[00:08] * sparkie` has quit IRC (Read error: Connection reset by peer)
+[00:08] * Nappi has quit IRC (Ping timeout)
+[00:09] * MED1XZA is now known as med1xza
+[00:10] * Warchild_BtF has joined #quakelive
+[00:11] * RaZZa has joined #quakelive
+[00:11] * RaZZa has left #quakelive
+[00:14] * dAw00d- has quit IRC (Signed off)
+[00:14] * DocP has quit IRC (Signed off)
+[00:15] * paper has quit IRC (Signed off)
+[00:17] * Sucks has joined #quakelive
+[00:18] * ACiDC0re has quit IRC (Signed off)
+[00:19] * QLPrism-User has joined #quakelive
+[00:20] * sucks_ has quit IRC (Ping timeout)
+[00:22] * QLPrism-User has quit IRC (Signed off)
+[00:24] * cosmos^ has joined #quakelive
+[00:24] * Dbzruler72 has joined #quakelive
+[00:26] * NeKro`oFF is now known as NeKro
+[00:27] * Cleaner has joined #quakelive
+[00:28] * cosmos has quit IRC (Ping timeout)
+[00:28] * cosmos^ is now known as cosmos
+[00:28] * NeKro is away (Bin off)
+[00:28] * NeKro is now known as NeKro`oFF
+[00:30] * EmuZ0mbie has quit IRC (Read error: Connection reset by peer)
+[00:30] * dem0n has joined #quakelive
+[00:39] * draxik has joined #quakelive
+[00:41] * crobartie has joined #quakelive
+[00:46] * Lysop has joined #quakelive
+[00:48] * shawn has quit IRC (Signed off)
+[00:48] * Oh`Christ is now known as Oh`Christ`Off
+[00:48] * Lysop^ has quit IRC (Ping timeout)
+[00:51] * DooMiNo has quit IRC (Signed off)
+[00:55] * ACiDC0re has joined #quakelive
+[00:56] * BompinG has quit IRC (Signed off)
+[00:57] * McAfee has left #quakelive
+[00:57] * Ru5tK1ng has joined #quakelive
+[00:57] * b1ngo|offline is now known as b1ngo
+[00:58] * RA3OR has joined #quakelive
+[00:58] * b1ngo is now known as b1ngo|offline
+[00:59] * EmuZombie has joined #quakelive
+[00:59] * b1ngo|offline is now known as b1ngo
+[01:00] * Sucks has quit IRC (Ping timeout)
+[01:04] * haz_mat has quit IRC (Signed off)
+[01:04] * Challenger has quit IRC (Signed off)
+[01:05] * aLpenbog has joined #quakelive
+[01:09] * Sucks has joined #quakelive
+[01:10] * Sorcy is now known as Ycros
+[01:10] * Challenger has joined #quakelive
+[01:10] * un4x has quit IRC (Signed off)
+[01:11] * P5E has joined #quakelive
+[01:13] * jonatz has quit IRC (Signed off)
+[01:15] * CMDR_Highbyte has quit IRC (Ping timeout)
+[01:22] * Dragon_ has joined #quakelive
+[01:25] * Semt-x has quit IRC (Read error: Connection reset by peer)
+[01:27] * skipek has quit IRC (Signed off)
+[01:32] * stitch has joined #quakelive
+[01:33] * npz has quit IRC (Read error: Connection reset by peer)
+[01:34] * freak2fast4u has joined #quakelive
+[01:35] * byTe has joined #quakelive
+[01:36] * Dragon_ has quit IRC (Signed off)
+[01:38] * way2cool has quit IRC (Signed off)
+[01:38] * bigfish has quit IRC (Ping timeout)
+[01:39] * feeder has quit IRC (Ping timeout)
+[01:39] * XaS has quit IRC (Ping timeout)
+[01:43] * InJaKi has joined #quakelive
+[01:46] * sk8style has joined #quakelive
+[01:46] * Tico has joined #quakelive
+[01:46] * [uM]Cyberdemon has joined #quakelive
+[01:48] * shivafk is now known as shivashandra
+[01:48] * PerpetualWar is now known as PerpetualWa_off
+[01:49] * TicoInJapan has quit IRC (Ping timeout)
+[01:52] * Alice3 has joined #quakelive
+[01:53] * zLatan has joined #quakelive
+[01:56] * Sssss has joined #quakelive
+[01:56] * Sssss has left #quakelive
+[01:58] * Cleaner has quit IRC (Ping timeout)
+[02:01] * atm0 has joined #quakelive
+[02:04] * dem0n has quit IRC (Signed off)
+[02:04] * RC13 has quit IRC (Signed off)
+[02:04] * loveless has quit IRC (Signed off)
+[02:05] * PopeJo has quit IRC (Signed off)
+[02:13] * sk8style has quit IRC (Ping timeout)
+[02:14] * nyshak has quit IRC (Signed off)
+[02:15] * corls has quit IRC (Signed off)
+[02:15] * zLatan has quit IRC (Signed off)
+[02:17] * freak2fast4u has quit IRC (Read error: Connection reset by peer)
+[02:18] * Challenger has quit IRC (Signed off)
+[02:23] * scarecrowww`off is now known as scarecrowww
+[02:23] * AIMER7 has quit IRC (Signed off)
+[02:24] * Warchild_BtF has quit IRC (Read error: Connection reset by peer)
+[02:26] * fnatic\aNtii has quit IRC (Signed off)
+[02:31] * InJaKi has quit IRC (Signed off)
+[02:31] * aLpenbog has quit IRC (Read error: Connection reset by peer)
+[02:32] * kodisha_afk has joined #quakelive
+[02:33] * b1ngo is now known as b1ngo|offline
+[02:34] * Greth has quit IRC (Ping timeout)
+[02:35] * rOOta has joined #quakelive
+[02:35] * XPEHOPE3 has joined #quakelive
+[02:37] * Warchild_BtF has joined #quakelive
+[02:40] * Rick971 has joined #quakelive
+[02:41] * crobartie has quit IRC (Signed off)
+[02:41] * shortie has joined #quakelive
+[02:41] * shortie has quit IRC (Registered)
+[02:41] * shortie has joined #quakelive
+[02:43] * stickan has quit IRC (Signed off)
+[02:46] * Warchild_BtF has quit IRC (Read error: Connection reset by peer)
+[02:47] * Sier has quit IRC (Ping timeout)
+[02:50] * Sier has joined #quakelive
+[02:51] * vnk has quit IRC (Signed off)
+[02:52] * ACiDC0re has quit IRC (Signed off)
+[02:52] * Warchild_BtF has joined #quakelive
+[02:59] * Warchild_BtF has quit IRC (Signed off)
+[03:00] * madre has quit IRC (Ping timeout)
+[03:00] * [uM]Cyberdemon has quit IRC (Signed off)
+[03:01] * hundredeighty7 has joined #quakelive
+[03:01] * shortie has quit IRC (Read error: Connection reset by peer)
+[03:01] * deathroll has joined #quakelive
+[03:02] * DZK has joined #quakelive
+[03:03] * rOOta has quit IRC (Signed off)
+[03:03] * madre has joined #quakelive
+[03:04] * kodisha_afk has quit IRC (Ping timeout)
+[03:05] * titsos has quit IRC (EOF from client)
+[03:05] * son1dow has quit IRC (Signed off)
+[03:05] * wanzerg has quit IRC (Signed off)
+[03:05] * mindlesstux has quit IRC (Ping timeout)
+[03:06] * XPEHOPE3 has quit IRC (Signed off)
+[03:06] * M1zzu has quit IRC (Ping timeout)
+[03:07] * en2ie has quit IRC (Signed off)
+[03:09] * mindlesstux has joined #quakelive
+[03:09] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[03:09] * Tico has quit IRC (Ping timeout)
+[03:11] * Linkyyy is now known as Linkyyy^off
+[03:11] * Warchild_BtF has joined #quakelive
+[03:14] * titsos has joined #quakelive
+[03:15] * Warchild_BtF has quit IRC (Signed off)
+[03:16] * BcjosepHJ has joined #quakelive
+[03:17] * pex has quit IRC (Signed off)
+[03:17] * Kingsman has joined #quakelive
+[03:18] * Kingsman has quit IRC (EOF from client)
+[03:19] * Warchild_BtF has joined #quakelive
+[03:21] * pex has joined #quakelive
+[03:29] * sonny has joined #quakelive
+[03:33] * D1G1TALD3ATH|NN has joined #quakelive
+[03:36] * D1G1TALD3ATH|NN has quit IRC (Signed off)
+[03:37] * D1G1TALD3ATH|NN has joined #quakelive
+[03:40] * deathroll has quit IRC (Read error: Connection reset by peer)
+[03:41] * llorhtaed has joined #quakelive
+[03:48] * scarecrowww is now known as scarecrowww`off
+[03:48] * fr_ has joined #quakelive
+[03:49] * Alice3 has quit IRC (Signed off)
+[03:52] * Tensor has quit IRC (Signed off)
+[03:57] * D1G1TALD3ATH|NN has quit IRC (Read error: EOF from client)
+[03:58] * Stormaren has quit IRC (Read error: Connection reset by peer)
+[03:59] * BcjosepHJ has left #quakelive
+[04:04] * l1nkin^ is now known as l1nkin^off
+[04:07] * titsos has quit IRC (EOF from client)
+[04:07] * oi has quit IRC (EOF from client)
+[04:07] * loveless has joined #quakelive
+[04:08] * Sparda_ has joined #quakelive
+[04:10] * Sparda has quit IRC (Ping timeout)
+[04:13] * vtchill has quit IRC (Signed off)
+[04:26] * Prophy has quit IRC (Signed off)
+[04:27] * tjone270_ has quit IRC (Signed off)
+[04:27] * tjone270_ has joined #quakelive
+[04:30] * fr_ has quit IRC (Signed off)
+[04:35] * wrg667 has quit IRC (Signed off)
+[04:37] * pony has quit IRC (Signed off)
+[04:38] * _VRED has joined #quakelive
+[04:39] * sgra has quit IRC (Signed off)
+[04:40] * sssssssssss has joined #quakelive
+[04:40] * sssssssssss has left #quakelive
+[04:41] * heartlesss has quit IRC (Signed off)
+[04:42] * DZK has quit IRC (Ping timeout)
+[04:47] * hundredeighty7 has quit IRC (Ping timeout)
+[04:47] * Mirio has quit IRC (Read error: Connection reset by peer)
+[04:49] * Minto`Relyx has joined #quakelive
+[04:50] * DZK has joined #quakelive
+[04:51] * nvz has joined #quakelive
+[04:56] * bucks has quit IRC (Signed off)
+[04:58] * Warchild_BtF has quit IRC (Signed off)
+[05:02] * med1xza is now known as MED1XZA
+[05:04] * hundredeighty7 has joined #quakelive
+[05:08] * h8m3 is now known as h8m3_off
+[05:09] * Farad has joined #quakelive
+[05:09] * Macavity has quit IRC (Signed off)
+[05:13] * deg has quit IRC (Signed off)
+[05:20] * d0gb0ne is now known as d0gb0ne|AFK
+[05:20] * Tommy has quit IRC (Read error: Connection reset by peer)
+[05:21] * noctis is now known as NOCTIS
+[05:22] * shivashandra is now known as Shivafk
+[05:22] * RA3OR has quit IRC (Ping timeout)
+[05:23] * longview has joined #quakelive
+[05:23] * death_roll has joined #quakelive
+[05:23] * llorhtaed has quit IRC (Read error: Connection reset by peer)
+[05:25] * tjone270_ has quit IRC (Ping timeout)
+[05:32] * nvz has quit IRC (Ping timeout)
+[05:43] * Balto has quit IRC (EOF from client)
+[05:44] * tehsma has quit IRC (Signed off)
+[05:45] * DemonSphere has joined #quakelive
+[05:46] * sonny has quit IRC (Signed off)
+[05:47] * nvz has joined #quakelive
+[05:48] * trolles has quit IRC (Ping timeout)
+[05:52] * tjone270-phone has joined #quakelive
+[05:57] * tjone270-phone has quit IRC (Signed off)
+[05:59] * Python has quit IRC (Signed off)
+[06:08] * benje has quit IRC (Signed off)
+[06:10] * DZK has quit IRC (Signed off)
+[06:11] * DZK has joined #quakelive
+[06:17] * byTe has quit IRC (Signed off)
+[06:21] * Farad has quit IRC (Ping timeout)
+[06:24] * vixterra has quit IRC (Signed off)
+[06:28] * PredatH0r is now known as PREDATH0R
+[06:44] * ViktorFoedowski has quit IRC (Ping timeout)
+[06:47] * Python has joined #quakelive
+[06:48] * ViktorFoedowski has joined #quakelive
+[07:08] * tjone270_ has joined #quakelive
+[07:13] * abso is now known as ABSO
+[07:15] * tjone270_ has quit IRC (Ping timeout)
+[07:17] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[07:32] * Bly has quit IRC (Ping timeout)
+[07:43] * hellrazor_ has joined #quakelive
+[07:44] * thecode has joined #quakelive
+[07:44] <thecode> hi
+[07:46] <stitch> .
+[07:46] * hellrazor has quit IRC (Ping timeout)
+[07:46] * twitch- has joined #quakelive
+[07:47] * flair has joined #quakelive
+[07:52] * doja has joined #quakelive
+[07:53] * kodisha_afk has joined #quakelive
+[07:54] * tjone270_ has joined #quakelive
+[07:55] <thecode> hey stitch  are you a coder? 
+[07:57] * doja has left #quakelive
+[07:58] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[08:00] * doja has joined #quakelive
+[08:05] * Scorch has joined #quakelive
+[08:09] * p-Remzi has joined #quakelive
+[08:14] * McAfee has joined #quakelive
+[08:15] * Bly has joined #quakelive
+[08:15] * w1ndex`` has quit IRC (Read error: Connection reset by peer)
+[08:16] * Bly has quit IRC (Signed off)
+[08:18] * Scorch has quit IRC (Registered)
+[08:18] * Scorch has joined #quakelive
+[08:18] * cerno|away is now known as cerno_
+[08:23] * p-Remzi has quit IRC (Registered)
+[08:23] * p-Remzi has joined #quakelive
+[08:24] * kodisha_afk has quit IRC (Ping timeout)
+[08:27] * McAfee has quit IRC (Registered)
+[08:27] * McAfee has joined #quakelive
+[08:32] * doja has quit IRC (Signed off)
+[08:33] * doja has joined #quakelive
+[08:39] * Minto`Relyx has quit IRC (Ping timeout)
+[08:40] * Sucks has quit IRC (Read error: Connection reset by peer)
+[08:44] * shaka has joined #quakelive
+[08:47] * twitch- has quit IRC (Signed off)
+[08:52] * Pth|BazrLonSepp has joined #quakelive
+[08:52] * Q has quit IRC (*.net *.split)
+[08:53] * Shree has joined #quakelive
+[08:53] * cerno_ is now known as cerno|away
+[08:55] * Q has joined #quakelive
+[08:55] * *.quakenet.org sets mode: +o Q
+[08:55] * EduCatOR has joined #quakelive
+[08:55] * okto_ has quit IRC (Read error: Connection reset by peer)
+[08:56] * Shree has quit IRC (Signed off)
+[08:56] * Shree has joined #quakelive
+[08:56] <EduCatOR> are there crash logs for the server?
+[09:04] * Rick971 has quit IRC (Signed off)
+[09:11] * lukke`zlycasy has quit IRC (Signed off)
+[09:23] * atm0 has quit IRC (Ping timeout)
+[09:24] * shaka has quit IRC (Signed off)
+[09:25] * DZK has quit IRC (Ping timeout)
+[09:29] * KittenIgnition has quit IRC (Ping timeout)
+[09:29] * Siouxsie has joined #quakelive
+[09:30] * trolles has joined #quakelive
+[09:31] * KittenIgnition has joined #quakelive
+[09:33] * Tux[Qyou] has joined #quakelive
+[09:34] * cerno|away is now known as cerno_
+[09:35] * Pth|BazrLonSepp has left #quakelive
+[09:37] * qdbp has joined #quakelive
+[09:37] * PopeJo has joined #quakelive
+[09:43] * jones has quit IRC (Ping timeout)
+[09:46] * Dinius has quit IRC (Read error: Connection reset by peer)
+[09:47] * Dinius has joined #quakelive
+[09:48] * Sier has quit IRC (Read error: Connection reset by peer)
+[09:55] * TicoInJapan has joined #quakelive
+[09:58] * trolles has quit IRC (Read error: Connection reset by peer)
+[10:04] * nvz has quit IRC (Read error: Connection reset by peer)
+[10:11] * Anhjje_ has joined #quakelive
+[10:22] * aLpenbog has joined #quakelive
+[10:28] * way2cool has joined #quakelive
+[10:29] * CMDR_Highbyte has joined #quakelive
+[10:35] * driver8 has joined #quakelive
+[10:47] <Anhjje_> Ye
+[10:47] <Anhjje_> http://i.imgur.com/kVgPQkD.jpg
+[10:49] * rOOta has joined #quakelive
+[11:05] * hundredeighty7 has quit IRC (Read error: Connection reset by peer)
+[11:06] * Tuxedo[Qyou] has joined #quakelive
+[11:06] * hundredeighty7 has joined #quakelive
+[11:08] * Patrol1985 has joined #quakelive
+[11:09] * Tux[Qyou] has quit IRC (Read error: Connection reset by peer)
+[11:11] * Dragon_ has joined #quakelive
+[11:13] * Ru5tK1ng has quit IRC (Read error: EOF from client)
+[11:22] * w1ndex`` has joined #quakelive
+[11:27] * Semt-x has joined #quakelive
+[11:38] * p-Remzi has quit IRC (Read error: Connection reset by peer)
+[11:46] * RA3OR has joined #quakelive
+[11:55] * PerpetualWa_off is now known as PerpetualWar
+[11:57] * loveless has quit IRC (Signed off)
+[12:00] * quetz has quit IRC (Ping timeout)
+[12:04] * feeder has joined #quakelive
+[12:06] * McAfee has left #quakelive
+[12:07] * aLpenbog has quit IRC (Signed off)
+[12:08] * raakon has joined #quakelive
+[12:09] * atomekk has quit IRC (Signed off)
+[12:14] * skipek has joined #quakelive
+[12:15] * raakon has quit IRC (Ping timeout)
+[12:17] * BompinG has joined #quakelive
+[12:19] * w2c`afk has joined #quakelive
+[12:19] * TuOrItAl has joined #quakelive
+[12:19] * w2c`afk has quit IRC (Registered)
+[12:19] * w2c`afk has joined #quakelive
+[12:22] * way2cool has quit IRC (Ping timeout)
+[12:22] * w2c`afk is now known as way2cool
+[12:22] * BompinG has quit IRC (Signed off)
+[12:26] * EduCatOR has quit IRC (Ping timeout)
+[12:30] * doc` has quit IRC (Ping timeout)
+[12:31] * doc has joined #quakelive
+[12:31] * Brown^ has joined #quakelive
+[12:32] * ACiDC0re has joined #quakelive
+[12:34] * Brown has quit IRC (Ping timeout)
+[12:36] * psygib has quit IRC (Signed off)
+[12:39] * hundredeighty7 has quit IRC (Ping timeout)
+[12:44] * Scorch has quit IRC (Signed off)
+[12:51] * feeder has quit IRC (Ping timeout)
+[12:55] * PREDATH0R is now known as PredatH0r
+[12:57] * crazymonster has joined #quakelive
+[12:58] * RA3OR has quit IRC (Ping timeout)
+[12:58] * axelmonster has quit IRC (Ping timeout)
+[12:58] * crazymonster is now known as axelmonster
+[12:58] * NeKro`oFF is now known as NeKro
+[13:01] * Nappi has joined #quakelive
+[13:03] * Anarchic has quit IRC (Signed off)
+[13:03] * Anarchic has joined #quakelive
+[13:04] * hundredeighty7 has joined #quakelive
+[13:08] * Semt-x has quit IRC (Read error: Connection reset by peer)
+[13:08] * vnk has joined #quakelive
+[13:12] * Warchild_BtF has joined #quakelive
+[13:14] * AzuGuest6ChoAzu has joined #quakelive
+[13:15] * pupp3t has joined #quakelive
+[13:19] * bagurk has quit IRC (Ping timeout)
+[13:22] * b1ngo|offline is now known as b1ngo
+[13:23] * byTe has joined #quakelive
+[13:32] * sgra has joined #quakelive
+[13:36] * CENiX has quit IRC (Ping timeout)
+[13:37] * CENiX has joined #quakelive
+[13:37] * cerno_ is now known as cerno|away
+[13:39] * aLpenbog has joined #quakelive
+[13:45] * XaS has joined #quakelive
+[13:45] * oi has joined #quakelive
+[13:47] * Brown^ is now known as Brown
+[13:51] * wanzerg has joined #quakelive
+[13:55] * lukke`aweh has joined #quakelive
+[13:57] * AzuGuest6ChoAzu has left #quakelive
+[13:59] * Cleaner has joined #quakelive
+[14:00] * quetz has joined #quakelive
+[14:03] * Stormaren has joined #quakelive
+[14:06] * hundredeighty7 has quit IRC (Ping timeout)
+[14:07] * crobartie has joined #quakelive
+[14:11] * aLpenbog has quit IRC (Read error: Connection reset by peer)
+[14:11] * Tommy has joined #quakelive
+[14:19] * en2ie has joined #quakelive
+[14:22] * crobartie has quit IRC (Signed off)
+[14:23] * crobartie has joined #quakelive
+[14:25] * crobartie has quit IRC (Signed off)
+[14:26] * crobartie has joined #quakelive
+[14:26] * crobartie has quit IRC (Signed off)
+[14:27] * qwind has joined #quakelive
+[14:38] * titsos has joined #quakelive
+[14:43] * kodisha_afk has joined #quakelive
+[14:47] * doc has quit IRC (Ping timeout)
+[14:48] * vnk has quit IRC (Ping timeout)
+[14:48] * doc has joined #quakelive
+[14:49] * AIMER7 has joined #quakelive
+[14:52] * McAfee has joined #quakelive
+[14:53] * doc` has joined #quakelive
+[14:54] * Dbzruler72 has joined #quakelive
+[14:54] * doc has quit IRC (Ping timeout)
+[14:56] * byTe has quit IRC (Signed off)
+[14:57] * NOCTIS is now known as noctis
+[15:02] * fx is now known as fx_off
+[15:07] * CMDR_Highbyte has quit IRC (Read error: Connection reset by peer)
+[15:13] * Storm` has joined #quakelive
+[15:19] * aLpenbog has joined #quakelive
+[15:19] * kodisha_afk has quit IRC (Ping timeout)
+[15:20] * M1zzu has joined #quakelive
+[15:21] * Challenger has joined #quakelive
+[15:22] * Prophy has joined #quakelive
+[15:22] * Dragon_ has quit IRC (Signed off)
+[15:23] * Tensor has joined #quakelive
+[15:26] * sonny has joined #quakelive
+[15:26] * DeaTh112 has quit IRC (Signed off)
+[15:28] * TicoInJapan has quit IRC (Ping timeout)
+[15:28] * UNITY^ is now known as unity^
+[15:28] * Martinh has joined #quakelive
+[15:29] * CMDR_Highbyte has joined #quakelive
+[15:29] * Minto`Relyx has joined #quakelive
+[15:30] * Cleaner has quit IRC (Ping timeout)
+[15:31] * NeKro is away (Bin off)
+[15:31] * NeKro is now known as NeKro`oFF
+[15:35] * flair has quit IRC (Ping timeout)
+[15:37] * Nappi has quit IRC (Read error: Connection reset by peer)
+[15:37] * overflow has quit IRC (Signed off)
+[15:40] * dem0n has joined #quakelive
+[15:41] * overflow has joined #quakelive
+[15:44] * Nappi has joined #quakelive
+[15:44] * l1nkin^off is now known as l1nkin^
+[15:45] * flair has joined #quakelive
+[15:45] * kodisha_afk has joined #quakelive
+[15:54] * RA3OR has joined #quakelive
+[16:03] * LtC has joined #quakelive
+[16:05] * ReelGirly is now known as reelgirly
+[16:10] * sgra has quit IRC (Read error: Connection reset by peer)
+[16:15] * en2ie has quit IRC (Signed off)
+[16:15] * byTe has joined #quakelive
+[16:16] * sonny has quit IRC (Signed off)
+[16:16] * sonny has joined #quakelive
+[16:16] * LtC has quit IRC (Ping timeout)
+[16:17] * kodisha_afk has quit IRC (Ping timeout)
+[16:18] * sgra has joined #quakelive
+[16:21] * jimmo has joined #quakelive
+[16:22] * aLpenbog has quit IRC (Signed off)
+[16:22] * seXp has joined #quakelive
+[16:24] * en2ie has joined #quakelive
+[16:25] * en2ie has quit IRC (Signed off)
+[16:29] * TicoInJapan has joined #quakelive
+[16:33] * Lysop has quit IRC (Ping timeout)
+[16:33] * LtC has joined #quakelive
+[16:34] * Patrol1985_ has joined #quakelive
+[16:34] * Lysop has joined #quakelive
+[16:36] * Balto has joined #quakelive
+[16:36] * vnk has joined #quakelive
+[16:37] * Patrol1985 has quit IRC (Ping timeout)
+[16:38] * wrg667 has joined #quakelive
+[16:39] <McAfee> anyone want to triage a bug in the beta?
+[16:40] * jimmo has quit IRC (Read error: Connection reset by peer)
+[16:41] * `muffin has quit IRC (Signed off)
+[16:42] * Linkyyy^off is now known as Linkyyy
+[16:42] * b1ngo is now known as b1ngo|off
+[16:42] * M1zzu has quit IRC (Signed off)
+[16:44] * feeder has joined #quakelive
+[16:44] * CMDR_Highbyte has quit IRC (Ping timeout)
+[16:45] * Lo has joined #quakelive
+[16:50] * crobartie has joined #quakelive
+[16:52] * Shivafk is now known as shivashandra
+[17:02] <Patrol1985_> McAfee, what bug?
+[17:06] <McAfee> Patrol1985_: on the beta, run a tutorial with elevate or accelerate, leave it, and then run it again, it goes into an endless loop
+[17:06] <Patrol1985_> w8 I'll check
+[17:09] <Patrol1985_> McAfee, I confirm the bug
+[17:09] <Patrol1985_> I didn't even have to "run it again"
+[17:09] <Patrol1985_> I couldn't access either even the first time, both went into a loading loop
+[17:09] <Patrol1985_> sponge-, highlighting you just so you can read the above info
+[17:11] * DZK has joined #quakelive
+[17:13] <McAfee> mine works once, not a 2nd time, on a fresh launch of the game
+[17:13] * crobartie is now known as crobartie|AFK
+[17:15] * _VRED is now known as VRED
+[17:18] * reelgirly is now known as ReelGirly
+[17:19] * BlShitunHan has joined #quakelive
+[17:24] * M1zzu has joined #quakelive
+[17:24] * son1dow has joined #quakelive
+[17:25] * aLpenbog has joined #quakelive
+[17:25] * g0rilla has joined #quakelive
+[17:27] * Linkyyy is now known as Linkyyy^off
+[17:28] * l1nkin^ is now known as l1nkin^off
+[17:31] * CENiX is now known as cenix
+[17:33] * LtC is now known as LtC|afk
+[17:35] * fr_ has joined #quakelive
+[17:36] * sk8style has joined #quakelive
+[17:40] * DooMiNo has joined #quakelive
+[17:41] * byTe has quit IRC (Signed off)
+[17:42] * benje has joined #quakelive
+[17:48] * deg has joined #quakelive
+[17:49] * seXp has quit IRC (Ping timeout)
+[17:52] * sk8style has quit IRC (Ping timeout)
+[17:52] * seXp has joined #quakelive
+[17:58] * PECKA is now known as pecka
+[18:02] * BlShitunHan has left #quakelive
+[18:07] * Rick971 has joined #quakelive
+[18:07] * scarecrowww`off is now known as scarecrowww
+[18:10] * jani`_ has quit IRC (Signed off)
+[18:11] * LtC|afk is now known as LtC
+[18:12] * LtC has quit IRC (Read error: Connection reset by peer)
+[18:16] * DooMiNo has quit IRC (Signed off)
+[18:18] * VRED has quit IRC (Ping timeout)
+[18:19] * aLpenbog_ has joined #quakelive
+[18:19] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[18:19] * jones-- has joined #quakelive
+[18:19] * Rick971 has joined #quakelive
+[18:20] * qdbp has left #quakelive
+[18:21] * RC13 has joined #quakelive
+[18:22] * aLpenbog_ has quit IRC (Read error: Connection reset by peer)
+[18:23] * aLpenbog_ has joined #quakelive
+[18:23] * aLpenbog has quit IRC (Ping timeout)
+[18:27] * Macavity has joined #quakelive
+[18:28] * Nappi has quit IRC (Ping timeout)
+[18:30] * lep_ has joined #quakelive
+[18:31] * lep has quit IRC (Ping timeout)
+[18:31] * lep_ is now known as lep
+[18:35] * jani`_ has joined #quakelive
+[18:35] * bertox has quit IRC (Signed off)
+[18:38] * scarecrowww is now known as scarecrowww`off
+[18:38] * haz_mat has joined #quakelive
+[18:39] * Oh`Christ`Off is now known as Oh`Christ
+[18:48] * vixterra has joined #quakelive
+[18:49] * TicoInJapan has quit IRC (Ping timeout)
+[18:53] * Anhjje_ has quit IRC (Signed off)
+[18:54] * drkje has joined #quakelive
+[18:55] * lonewulf has quit IRC (Signed off)
+[18:55] * bagurk has joined #quakelive
+[18:57] * pupp3t has quit IRC (Ping timeout)
+[18:59] * lonewulf has joined #quakelive
+[19:00] * bertox has joined #quakelive
+[19:03] * prestij has joined #quakelive
+[19:05] * Tommy_ has joined #quakelive
+[19:05] * DZK has quit IRC (Ping timeout)
+[19:09] * Tommy has quit IRC (Ping timeout)
+[19:16] * KittenIgnition has quit IRC (Read error: Connection reset by peer)
+[19:16] * KittenIgnition has joined #quakelive
+[19:19] * nyshak has joined #quakelive
+[19:20] * Sucks has joined #quakelive
+[19:22] * Patrol1985 has joined #quakelive
+[19:23] * Prophy has quit IRC (EOF from client)
+[19:24] * Patrol1985_ has quit IRC (Ping timeout)
+[19:25] * Prophy has joined #quakelive
+[19:25] * TicoInJapan has joined #quakelive
+[19:28] * MaJ_ has quit IRC (Read error: Connection reset by peer)
+[19:29] * lobuz has joined #quakelive
+[19:29] * EmuZombie has quit IRC (Signed off)
+[19:29] * EmuZombie has joined #quakelive
+[19:31] <lobuz> hi, my HUD kind of break u after update, bottom part of hud is cutted. How do I fix that ?
+[19:32] * bucks has joined #quakelive
+[19:33] <pecka> lobuz try google
+[19:34] <lobuz> thanks pecka, its there
+[19:39] * ABSO is now known as abso
+[19:40] * hellrazor_ has quit IRC (Ping timeout)
+[19:43] * Sparda has joined #quakelive
+[19:46] * Sparda_ has quit IRC (Ping timeout)
+[19:49] * pecka is now known as PECKA
+[19:52] * MED1XZA is now known as med1xza
+[19:58] * tehsma has joined #quakelive
+[20:00] * cenix is now known as CENiX
+[20:02] * eteto[ket] has joined #quakelive
+[20:05] * DooMiNo has joined #quakelive
+[20:08] * l1nkin^off is now known as l1nkin^
+[20:09] * DZK has joined #quakelive
+[20:09] * DZK has quit IRC (Read error: Connection reset by peer)
+[20:09] * fr_ has quit IRC (Signed off)
+[20:10] * DZK has joined #quakelive
+[20:13] * hellrazor has joined #quakelive
+[20:14] * M1zzu has quit IRC (Ping timeout)
+[20:17] * lobuz_ has joined #quakelive
+[20:18] * diski has joined #quakelive
+[20:19] * lobuz has quit IRC (Read error: Operation timed out)
+[20:20] * [Cadaver] has joined #quakelive
+[20:21] * PECKA is now known as pecka
+[20:21] * seXp has quit IRC (Signed off)
+[20:23] * pecka is now known as PECKA
+[20:27] * DooMiNo has quit IRC (Signed off)
+[20:28] * vtchill has joined #quakelive
+[20:35] * PECKA is now known as pecka
+[20:39] * Ru5tK1ng has joined #quakelive
+[20:43] * Kingsman has joined #quakelive
+[20:45] * Shree has quit IRC (Read error: Connection reset by peer)
+[20:45] * bagurk has quit IRC (Read error: Connection reset by peer)
+[20:45] * dec has quit IRC (Ping timeout)
+[20:45] * Shree has joined #quakelive
+[20:45] * bagurk has joined #quakelive
+[20:50] * Jukeboksi has quit IRC (Ping timeout)
+[20:51] * dec has joined #quakelive
+[20:55] * atomekk has joined #quakelive
+[20:58] * Jukeboksi has joined #quakelive
+[21:00] * wmia3p5card has quit IRC (Read error: Connection reset by peer)
+[21:00] * wmia3p5card has joined #quakelive
+[21:02] * hundredeighty7 has joined #quakelive
+[21:03] * SB|QuakerOates has joined #quakelive
+[21:04] * en2ie has joined #quakelive
+[21:06] * death_roll has quit IRC (Read error: Connection reset by peer)
+[21:06] * death_roll has joined #quakelive
+[21:07] * okto_ has joined #quakelive
+[21:08] * freak2fast4u has joined #quakelive
+[21:09] * Gov has quit IRC (Ping timeout)
+[21:11] * Shaey has joined #quakelive
+[21:11] * Shaey has quit IRC (Signed off)
+[21:12] * XPEHOPE3 has joined #quakelive
+[21:12] * XaS has quit IRC (Ping timeout)
+[21:15] * b1ngo|off is now known as b1ngo
+[21:15] * dndr has joined #quakelive
+[21:15] * dndr is now known as JUL|dndr
+[21:21] * scarecrowww`off is now known as scarecrowww
+[21:22] * sgra has quit IRC (Read error: EOF from client)
+[21:25] * Jukeboksi has quit IRC (Ping timeout)
+[21:26] * lukke`aweh has quit IRC (Signed off)
+[21:26] * Jukeboksi has joined #quakelive
+[21:29] * demsix has quit IRC (Signed off)
+[21:29] * sgra has joined #quakelive
+[21:31] * titsos has quit IRC (Read error: EOF from client)
+[21:35] * titsos has joined #quakelive
+[21:35] * aLpenbog_ has quit IRC (Signed off)
+[21:39] * death_roll has quit IRC (Ping timeout)
+[21:40] * Shree has quit IRC (Ping timeout)
+[21:43] * whisl has joined #quakelive
+[21:49] <AIMER7> i'm wondering if there are net settings (mainly related to interpolation) that can be changed
+[21:49] <AIMER7> when i play against a dodger, the player is "teleporting" as if my interpolation was too high
+[21:56] * MBgsMattrv-b has joined #quakelive
+[21:58] * eteto[ket] has quit IRC (Signed off)
+[22:03] * Siouxsie has quit IRC (Signed off)
+[22:05] * p-Remzi has joined #quakelive
+[22:05] * p-Remzi has quit IRC (Registered)
+[22:05] * p-Remzi has joined #quakelive
+[22:05] * G_Uru|2 has joined #quakelive
+[22:06] * Nappi has joined #quakelive
+[22:09] * G_Uru has quit IRC (Ping timeout)
+[22:09] * Shree has joined #quakelive
+[22:11] * diski has quit IRC (Signed off)
+[22:12] <PredatH0r> cl_autoTimenudge 0
+[22:13] * drakis has joined #quakelive
+[22:15] * wrg667 has quit IRC (Signed off)
+[22:15] * diji has joined #quakelive
+[22:16] <McAfee> wouldn't audotimenudge work by comparing your own connection only? it would be indiferent to the issues of one specific other player
+[22:17] <McAfee> on a side note, i thought a lot of these connection/fps settings were going to be latched, to avoid people exploiting them by rapidly changing them on the fly.
+[22:17] * l1nkin^ is now known as l1nkin^off
+[22:20] * un4x has joined #quakelive
+[22:21] * dem0n_ has joined #quakelive
+[22:21] * dem0n has quit IRC (Read error: Connection reset by peer)
+[22:22] * G_Uru has joined #quakelive
+[22:24] * stitch has quit IRC (Read error: Connection reset by peer)
+[22:26] * G_Uru|2 has quit IRC (Ping timeout)
+[22:26] * [Cadaver] has quit IRC (Signed off)
+[22:27] <PredatH0r> negative timenudge reduces the "timeshift" your QL client uses to play back animation between the last 2 snapshots
+[22:27] <PredatH0r> and it starts extrapolating for that amount of time when it reached the end of the last snapshot
+[22:28] <PredatH0r> there are prediction errors involved, and when the next snapshot arrives, the players location will be corrected
+[22:28] <PredatH0r> that's my understanding, but no guarantees
+[22:30] * scarecrowww is now known as scarecrowww`off
+[22:31] * Gangland has joined #quakelive
+[22:32] * bertox has quit IRC (Read error: Connection reset by peer)
+[22:33] * R1EPA has joined #quakelive
+[22:36] * MaJ has joined #quakelive
+[22:37] <whisl> s
+[22:38] * abso has quit IRC (Signed off)
+[22:39] * Storm` has quit IRC (Signed off)
+[22:40] * MBgsMattrv-b has left #quakelive
+[22:42] * wrg667 has joined #quakelive
+[22:44] * fr_ has joined #quakelive
+[22:47] * Ru5tK1ng has quit IRC (Read error: Connection reset by peer)
+[22:48] * Ru5tK1ng has joined #quakelive
+[22:53] * SK-rapha has joined #quakelive
+[22:54] * Beasway has joined #quakelive
+[22:55] <whisl> fckin steam error
+[22:56] * SK-rapha has quit IRC (Ping timeout)
+[22:57] * vtchill has quit IRC (Signed off)
+[22:58] * DZK has quit IRC (Ping timeout)
+[23:01] * b1ngo is now known as b1ngo|off
+[23:06] * Ru5tK1ng has quit IRC (Read error: Connection reset by peer)
+[23:07] * Ru5tK1ng has joined #quakelive
+[23:08] * ReelGirly is now known as reelgirly
+[23:09] * Shree has quit IRC (Signed off)
+[23:13] * Ru5tK1ng has quit IRC (Read error: Connection reset by peer)
+[23:15] * Ru5tK1ng has joined #quakelive
+[23:15] * psygib has joined #quakelive
+[23:18] * DZK has joined #quakelive
+[23:18] * prestij has quit IRC (Signed off)
+[23:18] * prestij has joined #quakelive
+[23:24] * jones-- has quit IRC (Ping timeout)
+[23:24] * crazymonster has joined #quakelive
+[23:25] * heartlesss has joined #quakelive
+[23:28] * axelmonster has quit IRC (Ping timeout)
+[23:28] * crazymonster is now known as axelmonster
+[23:28] * w1ndex`` has quit IRC (Ping timeout)
+[23:29] * fr_ has quit IRC (Read error: EOF from client)
+[23:30] * cerno|away is now known as cerno_
+[23:36] * diji has quit IRC (Signed off)
+[23:37] * kodisha_afk has joined #quakelive
+[23:37] * Sier has joined #quakelive
+[23:38] * nyshak has quit IRC (Signed off)
+[23:39] * hundredeighty7 has quit IRC (Ping timeout)
+[23:39] * bertox has joined #quakelive
+[23:42] * Sucks has quit IRC (Read error: Connection reset by peer)
+[23:44] * lrd_ has joined #quakelive
+[23:45] * LtC has joined #quakelive
+[23:49] * guest4354^ has joined #quakelive
+[23:49] * Skipper has joined #quakelive
+[23:51] * aLpenbog has joined #quakelive
+[23:51] * dgtl has joined #quakelive
+[23:53] * `muffin has joined #quakelive
+[23:53] * `muffin has quit IRC (Registered)
+[23:53] * `muffin has joined #quakelive
+[23:53] * guest4354^ has quit IRC (Read error: Connection reset by peer)
+[23:55] * Ru5tK1ng has quit IRC (Read error: Connection reset by peer)
+[23:56] * Ru5tK1ng has joined #quakelive
+[23:57] * loveless has joined #quakelive
+[23:58] <Skipper> I know the answer is probably no - but is there a way to avoid servers, where the "player slots" are full, but where there's "followcam" slots open?
+[23:58] <Skipper> Pretty tired of joining servers, where you won't get to play..
+[23:59] * `oi has joined #quakelive
+Session Time: Sun Dec 06 00:00:00 2015
+[00:01] * oi has quit IRC (Ping timeout)
+[00:02] <Skipper> *cricket* *cricket* *cricket*
+[00:04] <McAfee> Skipper, use a better browser
+[00:06] <Skipper> I'm using the Steam one...
+[00:08] * `oi is now known as oi
+[00:08] * CENiX is now known as cenix
+[00:08] * spinalfluid` has joined #quakelive
+[00:08] * spinalfluid has quit IRC (Ping timeout)
+[00:08] <McAfee> use PredatH0r's
+[00:09] <PredatH0r> smart choice
+[00:10] <McAfee> PredatH0r, you use PredatH0r's too? xD
+[00:11] <PredatH0r> nope. i don't trust it
+[00:11] <McAfee> :P
+[00:11] <McAfee> you should, it's open source, so you could check if it's doing anything funky, or just compile it yourself
+[00:12] * cerno_ is now known as cerno|away
+[00:12] * kodisha_afk has quit IRC (Ping timeout)
+[00:12] * Skipper has left #quakelive
+[00:13] * Vapour has quit IRC (Ping timeout)
+[00:13] <PredatH0r> actually, i do compile it fresh every day before i start it
+[00:14] <McAfee> hmm
+[00:15] <McAfee> what would that do?
+[00:15] <McAfee> you make changes everyday?
+[00:15] <pex> no, it's a joke. people on IRC are not literal 24/7 of the time
+[00:15] <pex> it's not that serious
+[00:15] <McAfee> well, then he beat my joke with a bigger joke xD
+[00:16] <pex> i like pie
+[00:16] <McAfee> in spanish, that's a foot
+[00:19] * CMDR_Highbyte has joined #quakelive
+[00:20] <PredatH0r> i to make occational changes, but atm, i'm running the same version that's also on steam workshop
+[00:20] * DeaTh112 has joined #quakelive
+[00:21] * DeaTh112 has quit IRC (Registered)
+[00:21] * DeaTh112 has joined #quakelive
+[00:23] * SB|QuakerOates has quit IRC (Signed off)
+[00:23] * deg has quit IRC (Signed off)
+[00:24] * Vapour has joined #quakelive
+[00:25] * deg has joined #quakelive
+[00:25] * EduCatOR has joined #quakelive
+[00:27] * Gangland has quit IRC (Read error: EOF from client)
+[00:31] * dgtl has quit IRC (Signed off)
+[00:33] <McAfee> bertox you could show them most stuff in qzpractice1 and 2
+[00:33] <McAfee> which are included
+[00:36] * zlr has joined #quakelive
+[00:39] * zlr has quit IRC (Registered)
+[00:39] * zlr has joined #quakelive
+[00:40] <McAfee> wrong window
+[00:40] <McAfee> but he's here too
+[00:43] * [uM]Cyberdemon has joined #quakelive
+[00:44] * reelgirly is now known as ReelGirly
+[00:46] * Gangland has joined #quakelive
+[00:46] * drkje has quit IRC (Signed off)
+[00:47] * drkje has joined #quakelive
+[00:47] <drkje> 3o3 very low off
+[00:59] * Vapour has quit IRC (Ping timeout)
+[01:02] * PopeJo has quit IRC (Read error: EOF from client)
+[01:05] * lrd_ has quit IRC (Signed off)
+[01:09] * abso has joined #quakelive
+[01:09] * DZK has quit IRC (Ping timeout)
+[01:10] * Vapour has joined #quakelive
+[01:11] * Gangland has quit IRC (EOF from client)
+[01:11] * drkje has quit IRC (Signed off)
+[01:12] * drkje has joined #quakelive
+[01:19] * cerno|away is now known as cerno_
+[01:19] * drkje has quit IRC (Read error: Connection reset by peer)
+[01:21] * spinalfluid has joined #quakelive
+[01:22] * Tuxedo[Qyou] has quit IRC (Read error: Connection reset by peer)
+[01:24] * spinalfluid` has quit IRC (Ping timeout)
+[01:24] * Tux[Qyou] has joined #quakelive
+[01:26] * spinalfluid` has joined #quakelive
+[01:26] * Tuxedo[Qyou] has joined #quakelive
+[01:27] * Tux[Qyou] has quit IRC (Read error: Connection reset by peer)
+[01:28] * spinalfluid has quit IRC (Ping timeout)
+[01:33] * Gangland has joined #quakelive
+[01:36] * skipek has quit IRC (Signed off)
+[01:41] * pupp3t has joined #quakelive
+[01:41] * JUL|dndr is now known as dndr
+[01:41] * dndr has quit IRC (Signed off)
+[01:42] * SinteL has joined #quakelive
+[01:42] * PerpetualWar is now known as Perpet
+[01:42] * Perpet is now known as Perp
+[01:43] * Perp is now known as PerpetualWar
+[01:43] * TicoInJapan has quit IRC (Ping timeout)
+[01:44] * bagurk has quit IRC (Ping timeout)
+[01:44] * PerpetualWar is now known as perpeerererere
+[01:45] * perpeerererere is now known as PerpetualWar
+[01:52] * bagurk has joined #quakelive
+[01:52] * AIMER7 has quit IRC (Signed off)
+[01:55] * pupp3t has quit IRC (Ping timeout)
+[01:57] * OHURCOOL is now known as ohurcool
+[01:57] * ACiDC0re has quit IRC (Signed off)
+[01:59] * M1zzu has joined #quakelive
+[01:59] * dAw00d has quit IRC (Killed (*.quakenet.org (You are violating network rules, ID: 57070847)))
+[02:00] * dAw00d has joined #quakelive
+[02:00] * LtC has quit IRC (Signed off)
+[02:03] * jones has joined #quakelive
+[02:05] * freak2fast4u has quit IRC (Read error: Connection reset by peer)
+[02:06] * un4x has quit IRC (Ping timeout)
+[02:09] * Challenger has quit IRC (Signed off)
+[02:10] * PerpetualWar is now known as PerpetualWa_off
+[02:11] * _abso has joined #quakelive
+[02:15] * abso has quit IRC (Ping timeout)
+[02:19] * eteto[ket] has joined #quakelive
+[02:22] * DemonSphere has quit IRC (Signed off)
+[02:23] * crobartie|AFK has quit IRC (Signed off)
+[02:25] * McNozes has joined #quakelive
+[02:27] * son1dow has quit IRC (Signed off)
+[02:32] * CMDR_Highbyte has quit IRC (Read error: Connection reset by peer)
+[02:36] * jones has quit IRC (Ping timeout)
+[02:38] * M1zzu has quit IRC (Ping timeout)
+[02:39] * Warchild_BtF has quit IRC (Signed off)
+[02:42] * hundredeighty7 has joined #quakelive
+[02:45] * SinteL has quit IRC (Ping timeout)
+[02:46] * bertox has quit IRC (Signed off)
+[02:46] * ABSO has joined #quakelive
+[02:47] * feeder has quit IRC (Signed off)
+[02:47] * DemonSphere has joined #quakelive
+[02:47] * SinteL has joined #quakelive
+[02:49] * wanzerg has quit IRC (Signed off)
+[02:52] * azuk has joined #quakelive
+[02:55] * aLpenbog has quit IRC (Signed off)
+[02:56] * haz_mat has quit IRC (Signed off)
+[02:57] * qoreragaAz has joined #quakelive
+[02:59] * wrg667 has quit IRC (Signed off)
+[02:59] * bobwinters has joined #quakelive
+[03:00] * madre has quit IRC (Ping timeout)
+[03:01] * whisl has quit IRC (Signed off)
+[03:07] * Gangland has quit IRC (EOF from client)
+[03:11] * bobwinters has quit IRC (Ping timeout)
+[03:15] * madre has joined #quakelive
+[03:26] * Nappi has quit IRC (Read error: Connection reset by peer)
+[03:27] * titsos has quit IRC (EOF from client)
+[03:33] * shivashandra is now known as shivafk
+[03:34] * shivafk is now known as Shivafk
+[03:34] * d0gb0ne|AFK is now known as d0gb0ne
+[03:35] * azuk has quit IRC (Signed off)
+[03:37] * titsos has joined #quakelive
+[03:37] * way2cool has quit IRC (Signed off)
+[03:40] * qoreragaAz has left #quakelive
+[03:43] * drakis has quit IRC (Signed off)
+[03:44] * Killo has quit IRC (Read error: Connection reset by peer)
+[03:50] * Killo has joined #quakelive
+[03:53] * stitch has joined #quakelive
+[04:00] * lobuz_ has quit IRC (Signed off)
+[04:06] * XPEHOPE3 has quit IRC (Signed off)
+[04:08] * Prophy has quit IRC (Signed off)
+[04:09] * rOOta has quit IRC (Read error: Connection reset by peer)
+[04:10] * Patrol1985 has quit IRC (Signed off)
+[04:12] * Martinh has quit IRC (Read error: Connection reset by peer)
+[04:13] * med1xza is now known as MED1XZA
+[04:15] * fr_ has joined #quakelive
+[04:20] * sgra has quit IRC (Read error: Connection reset by peer)
+[04:25] * Tensor has quit IRC (Signed off)
+[04:29] * Tuxedo[Qyou] has quit IRC (Read error: Connection reset by peer)
+[04:29] * vnk has quit IRC (Signed off)
+[04:33] * byTe has joined #quakelive
+[04:34] * P5E has quit IRC (Signed off)
+[04:37] * The_Muffin has joined #quakelive
+[04:37] * un4x has joined #quakelive
+[04:39] * un4x has quit IRC (Signed off)
+[04:39] * `muffin has quit IRC (Ping timeout)
+[04:44] * benj_ has joined #quakelive
+[04:48] * benje has quit IRC (Ping timeout)
+[04:52] * twitch- has joined #quakelive
+[04:53] * unity^ is now known as UNITY^
+[04:55] * bucks has quit IRC (Signed off)
+[05:00] * d0gb0ne is now known as d0gb0ne|AFK
+[05:02] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[05:03] * Rick971 has joined #quakelive
+[05:07] * Oh`Christ is now known as Oh`Christ`Off
+[05:08] * Siouxsie has joined #quakelive
+[05:12] * titsos has quit IRC (Read error: EOF from client)
+[05:12] * ohurcool is now known as OHURCOOL
+[05:23] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[05:23] * Rick971 has joined #quakelive
+[05:25] * Rick971 has quit IRC (Signed off)
+[05:30] * pvh is now known as povohat
+[05:30] * noctis is now known as NOCTIS
+[05:36] * [uM]Cyberdemon has quit IRC (Signed off)
+[05:39] * benj_ has quit IRC (Signed off)
+[05:42] * heartlesss has quit IRC (Signed off)
+[05:46] * tehsma has quit IRC (Signed off)
+[05:49] * pecka is now known as PECKA
+[05:51] * Tommy_ has quit IRC (Signed off)
+[05:54] * RA3OR has quit IRC (Ping timeout)
+[05:55] * pex has quit IRC (Signed off)
+[05:59] * sonny has quit IRC (Signed off)
+[06:05] * deg has quit IRC (Signed off)
+[06:08] * twitch- has quit IRC (Signed off)
+[06:09] * Macavity has quit IRC (Signed off)
+[06:12] * s1lvam3th has quit IRC (Ping timeout)
+[06:12] * jones has joined #quakelive
+[06:13] * byTe has quit IRC (Signed off)
+[06:13] * silvameth has joined #quakelive
+[06:16] * PredatH0r is now known as PREDATH0R
+[06:18] * R1EPA has quit IRC (Signed off)
+[06:27] * Stormaren has quit IRC (Read error: Connection reset by peer)
+[06:28] * en2ie has quit IRC (Signed off)
+[06:29] * death_roll has joined #quakelive
+[06:34] * lonewulf has quit IRC (Signed off)
+[06:38] * d0ja has joined #quakelive
+[06:38] * lonewulf has joined #quakelive
+[06:41] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[06:43] * jones has quit IRC (Ping timeout)
+[06:45] * ViktorFoedowski has quit IRC (Ping timeout)
+[06:48] * ViktorFoedowski has joined #quakelive
+[06:51] * Lysop has quit IRC (Read error: EOF from client)
+[06:53] * cenix is now known as CENiX
+[06:55] * pupp3t has joined #quakelive
+[07:00] * bagurk has quit IRC (Ping timeout)
+[07:00] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[07:01] * twitch- has joined #quakelive
+[07:07] * fr_ has quit IRC (Signed off)
+[07:10] * p-Remzi has quit IRC (Read error: EOF from client)
+[07:11] * doja has quit IRC (Registered)
+[07:11] * doja has joined #quakelive
+[07:15] * Beasway has quit IRC (Signed off)
+[07:15] * vtchill has joined #quakelive
+[07:20] * _abso has quit IRC (Signed off)
+[07:22] * jones has joined #quakelive
+[07:22] * jones has quit IRC (Registered)
+[07:22] * jones has joined #quakelive
+[07:22] * doja has quit IRC (Signed off)
+[07:23] * doja has joined #quakelive
+[07:25] * d0ja has left #quakelive
+[07:29] * vixterra has quit IRC (Signed off)
+[07:32] * bertox has joined #quakelive
+[07:34] * Sparda has quit IRC (Read error: Connection reset by peer)
+[07:36] * Sparda has joined #quakelive
+[07:39] * Sparda has quit IRC (Registered)
+[07:39] * Sparda has joined #quakelive
+[07:39] * hundredeighty7 has quit IRC (Ping timeout)
+[07:41] * pisshead has joined #quakelive
+[07:44] * twitch- has quit IRC (Signed off)
+[07:45] * hundredeighty7 has joined #quakelive
+[07:52] <pisshead> anyone want to duel eu?
+[07:54] * stripy` has joined #quakelive
+[07:54] * oi has quit IRC (Ping timeout)
+[07:55] * stripy`` has quit IRC (Ping timeout)
+[07:57] * EmZee_ has quit IRC (Read error: Connection reset by peer)
+[08:03] * shaka has joined #quakelive
+[08:11] * luis23AzuGu has joined #quakelive
+[08:13] * Jelpakka has quit IRC (Ping timeout)
+[08:14] * Jelpakka has joined #quakelive
+[08:15] * Balto has quit IRC (EOF from client)
+[08:22] * eteto[ket] has quit IRC (Signed off)
+[08:26] * Scorch has joined #quakelive
+[08:26] * Scorch has quit IRC (Registered)
+[08:26] * Scorch has joined #quakelive
+[08:37] * vtchill has quit IRC (Signed off)
+[08:42] * DZK has joined #quakelive
+[08:48] * KittenIgnition has quit IRC (Read error: Connection reset by peer)
+[08:49] * KittenIgnition has joined #quakelive
+[08:54] * luis23AzuGu has left #quakelive
+[09:09] * p-Remzi has joined #quakelive
+[09:09] * p-Remzi has quit IRC (Registered)
+[09:09] * p-Remzi has joined #quakelive
+[09:14] * DZK has quit IRC (Read error: Connection reset by peer)
+[09:16] * TicoInJapan has joined #quakelive
+[09:18] * p-Remzi has quit IRC (Read error: EOF from client)
+[09:20] * DZK has joined #quakelive
+[09:21] * Anhjje_ has joined #quakelive
+[09:25] * Mirio has joined #quakelive
+[09:28] * McNozes has quit IRC (Signed off)
+[09:29] * Minto`Relyx has quit IRC (Ping timeout)
+[09:38] * Sier has quit IRC (Read error: Connection reset by peer)
+[09:42] * okto_ has quit IRC (Read error: Connection reset by peer)
+[09:43] * Ru5tK1ng has quit IRC (Read error: EOF from client)
+[09:45] * Battery has joined #quakelive
+[09:45] <Battery> Hello
+[09:48] * Battery has quit IRC (Signed off)
+[09:51] * PopeJo has joined #quakelive
+[09:52] * jones has quit IRC (Ping timeout)
+[09:54] <pisshead> is it me you're looking for?
+[09:55] * thecode has quit IRC (Signed off)
+[09:57] <McAfee> ...from the other side
+[10:01] * death_roll has quit IRC (Read error: Connection reset by peer)
+[10:05] * Dinius has quit IRC (Read error: Connection reset by peer)
+[10:06] * deathroll has joined #quakelive
+[10:07] * Dinius has joined #quakelive
+[10:08] * rasta|chill has joined #quakelive
+[10:23] <pisshead> shut up
+[10:26] * Vig1lantE has joined #quakelive
+[10:29] * rasta|chill has quit IRC (Signed off)
+[10:31] * shaka has quit IRC (Signed off)
+[10:31] * Swappage has quit IRC (Ping timeout)
+[10:32] * Swappage has joined #quakelive
+[10:42] * DZK has quit IRC (Ping timeout)
+[10:43] * Swappage has quit IRC (Ping timeout)
+[10:43] * Swappage has joined #quakelive
+[10:48] * rasta|chill has joined #quakelive
+[11:11] * Semt-x has joined #quakelive
+[11:13] * Shree has joined #quakelive
+[11:15] * Warchild_BtF has joined #quakelive
+[11:15] * Jboman has quit IRC (Ping timeout)
+[11:15] * Jboman has joined #quakelive
+[11:15] * AIMER7 has joined #quakelive
+[11:18] * Melodeiro has joined #quakelive
+[11:18] * Anhjje_ has quit IRC (Signed off)
+[11:18] * [Cadaver] has joined #quakelive
+[11:19] * Melodeiro has quit IRC (Read error: Connection reset by peer)
+[11:24] * PerpetualWa_off is now known as PerpetualWar
+[11:44] * Vig1lantE has quit IRC (Signed off)
+[11:46] * EduCatOR has quit IRC (Ping timeout)
+[11:48] * diji has joined #quakelive
+[11:49] <diji> how do i set my country aka flag in stats?
+[11:50] * Dragon_ has joined #quakelive
+[11:50] * Dragon_ has quit IRC (Signed off)
+[11:51] <diji> solved problem, /country
+[11:53] * rOOta has joined #quakelive
+[11:53] * Nze[on]Protjo has joined #quakelive
+[11:59] * corls has joined #quakelive
+[12:00] * Gov has joined #quakelive
+[12:01] * Grottis^ has joined #quakelive
+[12:01] * jani`_ has quit IRC (Signed off)
+[12:02] * Grottis has quit IRC (Ping timeout)
+[12:08] * ACiDC0re has joined #quakelive
+[12:09] * McAfee has left #quakelive
+[12:13] * aLpenbog has joined #quakelive
+[12:14] * corls has quit IRC (Signed off)
+[12:15] * skipek has joined #quakelive
+[12:24] * rasta|chill has quit IRC (Signed off)
+[12:29] * quetz has quit IRC (Ping timeout)
+[12:30] * stripy` has quit IRC (Ping timeout)
+[12:31] * stitch has quit IRC (Read error: Connection reset by peer)
+[12:31] * Martinh has joined #quakelive
+[12:33] * pisshead has quit IRC (Signed off)
+[12:33] * loveless has quit IRC (Signed off)
+[12:34] * jani`_ has joined #quakelive
+[12:35] * stripy` has joined #quakelive
+[12:36] * Nze[on]Protjo has left #quakelive
+[12:38] * corls has joined #quakelive
+[12:47] * sparkie` has joined #quakelive
+[12:47] * un4x has joined #quakelive
+[12:50] * jackerl has joined #quakelive
+[12:52] * RA3OR has joined #quakelive
+[13:01] * RA3OR has quit IRC (Read error: Connection reset by peer)
+[13:08] * RA3OR has joined #quakelive
+[13:13] * axelmonster has quit IRC (Ping timeout)
+[13:14] * way2cool has joined #quakelive
+[13:14] * atomekk has quit IRC (EOF from client)
+[13:14] * Nappi has joined #quakelive
+[13:14] * axelmonster has joined #quakelive
+[13:14] * Dragon_ has joined #quakelive
+[13:17] * cerno_ is now known as cerno|away
+[13:18] * bagurk has joined #quakelive
+[13:19] * shavo has quit IRC (Ping timeout)
+[13:21] * b1ngo|off is now known as b1ngo
+[13:21] * pupp3t has quit IRC (Ping timeout)
+[13:22] * oi has joined #quakelive
+[13:22] * shavo has joined #quakelive
+[13:26] * Greth has joined #quakelive
+[13:27] * KittenIgnition has quit IRC (Read error: Connection reset by peer)
+[13:27] * KittenIgnition has joined #quakelive
+[13:34] * G_Uru has quit IRC (Ping timeout)
+[13:41] * crobartie has joined #quakelive
+[13:42] * crobartie is now known as crobartie|AFK
+[13:46] * Anhjje_ has joined #quakelive
+[13:46] * M1zzu has joined #quakelive
+[13:52] * Rick971 has joined #quakelive
+[13:59] * hundredeighty7 has quit IRC (Ping timeout)
+[13:59] * P5E has joined #quakelive
+[14:00] * quetz has joined #quakelive
+[14:01] * Python has quit IRC (Read error: EOF from client)
+[14:02] * Linkyyy^off is now known as Linkyyy
+[14:06] * npz has joined #quakelive
+[14:08] * Nappi has quit IRC (Ping timeout)
+[14:14] * wanzerg has joined #quakelive
+[14:20] * jackerl has quit IRC (Signed off)
+[14:21] * Tensor has joined #quakelive
+[14:22] * titsos has joined #quakelive
+[14:22] * sgra has joined #quakelive
+[14:23] * en2ie has joined #quakelive
+[14:27] * zlr has quit IRC (Signed off)
+[14:33] * en2ie has quit IRC (Signed off)
+[14:35] * Lysop has joined #quakelive
+[14:40] * byTe has joined #quakelive
+[14:41] * Tommy has joined #quakelive
+[14:44] * kodisha_afk has joined #quakelive
+[14:45] * sonny has joined #quakelive
+[14:49] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[14:50] * Tux[Qyou] has joined #quakelive
+[14:50] * Rick971 has joined #quakelive
+[14:57] * G_Uru has joined #quakelive
+[14:59] * Challenger has joined #quakelive
+[15:04] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[15:04] * wrg667 has joined #quakelive
+[15:04] * Rick971 has joined #quakelive
+[15:04] * Scorch has quit IRC (Signed off)
+[15:07] * TuOrItAl has quit IRC (Read error: Connection reset by peer)
+[15:12] * dAw00d has quit IRC (Ping timeout)
+[15:12] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[15:13] * Rick971 has joined #quakelive
+[15:18] * eteto[ket] has joined #quakelive
+[15:20] * kodisha_afk has quit IRC (Ping timeout)
+[15:21] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[15:22] * Rick971 has joined #quakelive
+[15:24] * Python has joined #quakelive
+[15:25] * Prophy has joined #quakelive
+[15:26] * NOCTIS is now known as noctis
+[15:27] * Luscious has joined #quakelive
+[15:29] * un4x has quit IRC (Signed off)
+[15:30] * CMDR_Highbyte has joined #quakelive
+[15:37] * Grottis^ is now known as Grottis
+[15:38] * qwih has joined #quakelive
+[15:39] <qwih> sponge-: is there a ETA on when you'll be able to retrieve some data from these issue of steam sychronizing again midgame and making you crash?
+[15:39] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[15:40] * Rick971 has joined #quakelive
+[15:41] * Zack has quit IRC (Read error: Connection reset by peer)
+[15:42] * TicoInJapan has quit IRC (Ping timeout)
+[15:43] * Sqetchie has joined #quakelive
+[15:47] * Jukeboksi has quit IRC (Ping timeout)
+[15:47] * Stormaren has joined #quakelive
+[15:52] * CMDR_Highbyte has quit IRC (Read error: Connection reset by peer)
+[15:55] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[15:55] * Rick971 has joined #quakelive
+[15:55] * g0rilla has joined #quakelive
+[16:00] * The_Muffin has quit IRC (Signed off)
+[16:06] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[16:06] * Rick971 has joined #quakelive
+[16:06] * Balto has joined #quakelive
+[16:06] * Balto has quit IRC (Registered)
+[16:06] * Balto has joined #quakelive
+[16:07] * qwih has quit IRC (Ping timeout)
+[16:09] * Istanbul30M has joined #quakelive
+[16:10] * Lostmysword has joined #quakelive
+[16:10] * Lostmysword has quit IRC (Registered)
+[16:10] * Lostmysword has joined #quakelive
+[16:11] * Istanbul30M has left #quakelive
+[16:13] * pex has joined #quakelive
+[16:17] * DeaTh112 has quit IRC (Signed off)
+[16:18] * qwih has joined #quakelive
+[16:21] * fr_ has joined #quakelive
+[16:21] <qwih> jaysus
+[16:21] <qwih> did anybody solve his crashing problem?
+[16:22] * stripy`` has joined #quakelive
+[16:23] <Prophy> never seen a crash happen
+[16:24] * Sady has joined #quakelive
+[16:24] <lep> lucky you
+[16:25] * stripy` has quit IRC (Ping timeout)
+[16:26] <Prophy> *crosses fingers* hope it never happens
+[16:26] <Prophy> eh *knocks on wood* I meant 
+[16:30] * b1ngo is now known as b1ngo|off
+[16:31] * AzuGuest6ChoAzu has joined #quakelive
+[16:33] * TuOrItAl has joined #quakelive
+[16:35] * vnk has joined #quakelive
+[16:35] <qwih> it's basically steam synchronizing again randomly
+[16:35] <qwih> how funny is that! A Synch Error!
+[16:35] <qwih> ha ha ha
+[16:36] * fr_ has quit IRC (EOF from client)
+[16:36] <Squarepusher> ha ha
+[16:37] * CronX3r has joined #quakelive
+[16:37] <syncore> i see wut u did thar
+[16:40] * llorhtaed has joined #quakelive
+[16:40] * deathroll has quit IRC (Read error: Connection reset by peer)
+[16:41] * jackerl has joined #quakelive
+[16:46] * CronX3r is now known as csp
+[16:46] * csp has quit IRC (Signed off)
+[16:46] * CronX3r has joined #quakelive
+[16:47] * TicoInJapan has joined #quakelive
+[16:47] * CronX3r is now known as csp
+[16:48] * jones has joined #quakelive
+[16:49] * Lo` has joined #quakelive
+[16:51] * Oh`Christ`Off is now known as Oh`Christ
+[16:52] * Lo has quit IRC (Ping timeout)
+[16:52] <Prophy> ha ha
+[16:59] * son1dow has joined #quakelive
+[17:01] * McAfee has joined #quakelive
+[17:02] * guest4354^ has joined #quakelive
+[17:03] * Prophy has quit IRC (Signed off)
+[17:06] * Durklas has joined #quakelive
+[17:08] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[17:09] * Rick971 has joined #quakelive
+[17:10] * Challenger has quit IRC (Signed off)
+[17:10] * Minto`Relyx has joined #quakelive
+[17:12] * son1dow has quit IRC (Read error: Connection reset by peer)
+[17:13] * DooMiNo has joined #quakelive
+[17:15] * AzuGuest6ChoAzu has left #quakelive
+[17:15] * son1dow has joined #quakelive
+[17:15] * csp has quit IRC (Signed off)
+[17:17] * guest4354^ has quit IRC (Read error: Connection reset by peer)
+[17:19] * XaS has joined #quakelive
+[17:19] * son1dow has quit IRC (Read error: Connection reset by peer)
+[17:20] * shawn has joined #quakelive
+[17:20] * jones has quit IRC (Ping timeout)
+[17:22] * son1dow has joined #quakelive
+[17:26] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[17:26] * pex has quit IRC (Read error: Connection reset by peer)
+[17:26] * Rick971 has joined #quakelive
+[17:27] * son1dovv has joined #quakelive
+[17:27] * pex has joined #quakelive
+[17:27] * son1dow has quit IRC (Read error: Connection reset by peer)
+[17:27] * son1dovv has quit IRC (Read error: Connection reset by peer)
+[17:28] * haz_mat has joined #quakelive
+[17:29] * GK-Deacon has quit IRC (Signed off)
+[17:30] * son1dow has joined #quakelive
+[17:30] * dAw00d has joined #quakelive
+[17:31] * drkje has joined #quakelive
+[17:34] * [Cadaver] has quit IRC (Signed off)
+[17:34] * son1dow has quit IRC (Read error: Connection reset by peer)
+[17:35] * marrrc has joined #quakelive
+[17:37] * marrrc has quit IRC (Signed off)
+[17:38] * son1dow has joined #quakelive
+[17:38] * son1dow has quit IRC (Read error: Connection reset by peer)
+[17:42] * son1dow has joined #quakelive
+[17:47] * son1dovv has joined #quakelive
+[17:48] * sonidov has joined #quakelive
+[17:49] * son1dow has quit IRC (Ping timeout)
+[17:49] * sonidov has quit IRC (Read error: Connection reset by peer)
+[17:51] <flair> 125fps Sunday Cup Quake Live - http://twitch.tv/flairtv
+[17:52] * son1dovv has quit IRC (Read error: Connection reset by peer)
+[17:52] * DZK has joined #quakelive
+[17:52] * jones has joined #quakelive
+[17:54] * vixterra has joined #quakelive
+[17:54] * shawn has quit IRC (Ping timeout)
+[17:56] * shawn has joined #quakelive
+[17:56] * son1dow has joined #quakelive
+[17:58] * nerVzzz has joined #quakelive
+[17:58] * pex has quit IRC (Signed off)
+[17:59] * Dinius has quit IRC (Read error: Connection reset by peer)
+[17:59] * spinalfluid has joined #quakelive
+[18:01] * Dinius has joined #quakelive
+[18:01] * son1dovv has joined #quakelive
+[18:01] * PopeJo_ has joined #quakelive
+[18:02] * spinalfluid` has quit IRC (Ping timeout)
+[18:02] * son1dow has quit IRC (Ping timeout)
+[18:05] * PopeJo has quit IRC (Ping timeout)
+[18:06] * son1dow has joined #quakelive
+[18:06] * Dbzruler72 has joined #quakelive
+[18:06] * son1dow has quit IRC (Read error: Connection reset by peer)
+[18:07] * son1dovv has quit IRC (Ping timeout)
+[18:08] * Dinius has quit IRC (Read error: Connection reset by peer)
+[18:08] * vnk has quit IRC (Signed off)
+[18:09] * Dinius has joined #quakelive
+[18:10] * son1dow has joined #quakelive
+[18:13] * qwih has quit IRC (Signed off)
+[18:14] * sychedelic has joined #quakelive
+[18:16] * son1dow has quit IRC (Read error: Connection reset by peer)
+[18:20] * Dinius has quit IRC (Read error: Connection reset by peer)
+[18:20] * son1dow has joined #quakelive
+[18:20] * damp has joined #quakelive
+[18:21] * Dinius has joined #quakelive
+[18:21] * byTe has quit IRC (Signed off)
+[18:22] * son1dow has quit IRC (Read error: Connection reset by peer)
+[18:23] * deg has joined #quakelive
+[18:24] * son1dow has joined #quakelive
+[18:26] * Dinius has quit IRC (Read error: Connection reset by peer)
+[18:26] * Dinius has joined #quakelive
+[18:29] * marrrc has joined #quakelive
+[18:29] * NeKro`oFF is now known as NeKro
+[18:30] * feeder has joined #quakelive
+[18:30] * marrrc has quit IRC (Signed off)
+[18:32] * lep has quit IRC (Ping timeout)
+[18:33] * lep has joined #quakelive
+[18:35] * Macavity has joined #quakelive
+[18:39] * NeKro is away (Bin off)
+[18:39] * NeKro is now known as NeKro`oFF
+[18:42] * son1dow has quit IRC (Read error: Connection reset by peer)
+[18:43] * jones has quit IRC (Ping timeout)
+[18:44] * pex has joined #quakelive
+[18:44] * PREDATH0R is now known as PredatH0r
+[18:46] * b1ngo|off is now known as b1ngo
+[18:47] * son1dow has joined #quakelive
+[18:47] * ced117 has quit IRC (Ping timeout)
+[18:47] * son1dow has quit IRC (Read error: Connection reset by peer)
+[18:51] * pex has quit IRC (Signed off)
+[18:51] * _stitch has joined #quakelive
+[18:53] * son1dow has joined #quakelive
+[18:56] * drkje has quit IRC (Signed off)
+[19:00] * ced117 has joined #quakelive
+[19:00] * Demiurge has joined #quakelive
+[19:01] * jones has joined #quakelive
+[19:05] * vtchill has joined #quakelive
+[19:11] * MaJ has quit IRC (Read error: Connection reset by peer)
+[19:12] * mmethod has joined #quakelive
+[19:12] * seXp has joined #quakelive
+[19:12] <mmethod> http://info-net.eu/west-crying-for-refugees-with-one-eye-aiming-gun-with-the-other-assad-full-interview/
+[19:13] * M1zzu has quit IRC (Ping timeout)
+[19:13] * Linkyyy is now known as Linkyyy^off
+[19:14] * Shivafk is now known as Shivashandra
+[19:14] * MaJ has joined #quakelive
+[19:15] * mmethod has quit IRC (Signed off)
+[19:15] * mmethod has joined #quakelive
+[19:15] * mmethod has quit IRC (EOF from client)
+[19:16] * Anhjje_ has quit IRC (Signed off)
+[19:16] * VRED has joined #quakelive
+[19:18] * Luscious has left #quakelive
+[19:23] * [Scavenger] has joined #quakelive
+[19:30] * pex has joined #quakelive
+[19:30] * noctis is now known as NOCTIS
+[19:34] * TicoInJapan has quit IRC (Signed off)
+[19:37] * b1ngo is now known as b1ngo|off
+[19:37] * vtchill has quit IRC (Signed off)
+[19:40] * XaS has quit IRC (Read error: Connection reset by peer)
+[19:41] * vtchill has joined #quakelive
+[19:42] * seXp has quit IRC (Ping timeout)
+[19:45] * MED1XZA is now known as med1xza
+[19:46] * seXp has joined #quakelive
+[19:46] * TicoInJapan has joined #quakelive
+[19:49] * P5E has quit IRC (Read error: Connection reset by peer)
+[19:49] * R1EPA has joined #quakelive
+[19:52] <[Scavenger]> hey.. is anyway to make Clan Instagib ? 
+[19:56] * bucks has joined #quakelive
+[19:57] * TuOrItAl has quit IRC (Read error: Connection reset by peer)
+[19:58] <[Scavenger]> is anyway i can load a map?
+[19:58] <[Scavenger]> or open a map from pc?
+[19:59] * son1dow has quit IRC (Read error: Connection reset by peer)
+[20:01] * s0ulz has joined #quakelive
+[20:04] * APLU has joined #quakelive
+[20:05] * roasticle has joined #quakelive
+[20:05] <McAfee> the whole point of clan is to have 200/200 and all the weapons, you would be making the 200/200 irrelevant and all the weapons irrelevant too
+[20:05] * fzefzzen has joined #quakelive
+[20:05] <McAfee> but i'm sure you can do it somehow
+[20:06] * roast has quit IRC (Ping timeout)
+[20:06] <fzefzzen> hey guys, does this link work for you: https://lut.im/1vH1wdhbig/jXtPeAKU.jpg ? (seem to be down here :-/)
+[20:07] <McAfee> works for me
+[20:07] <PredatH0r> joined and pasted a link ... scam bot?
+[20:10] * vtchill has quit IRC (Signed off)
+[20:12] * P5E has joined #quakelive
+[20:12] * CENiX is now known as cenix
+[20:13] <Siouxsie> website load fine but now my mouse is moving on its own help
+[20:14] * Lo` is now known as Lo
+[20:15] * fzefzzen has quit IRC (Signed off)
+[20:19] <Marcus``> #capickup for daily clanarena pickups :)
+[20:20] <[Scavenger]> McAfee  i can make the railgun damage 150 and life start with 150 
+[20:20] <[Scavenger]> but all them setting are gone 
+[20:25] * corls has quit IRC (Signed off)
+[20:26] <McAfee> starting health and armor are part of the rebel alliance and a tr.... i meant part of the factory, so you would need to make a new factory instead, the railgun damage you could probably get away with, but it would have to be like: 400?
+[20:27] <McAfee> Siouxsie, i love your batman returns song
+[20:27] * Zack has joined #quakelive
+[20:31] * G_Uru|2 has joined #quakelive
+[20:31] * pex has quit IRC (Read error: Connection reset by peer)
+[20:31] * pex has joined #quakelive
+[20:31] * Prophy has joined #quakelive
+[20:32] * Lostmysword has quit IRC (Signed off)
+[20:32] <[Scavenger]> why dont they leave for example a server that can be created the why the player wants .. not God mode .. but some open maps and gameplay modes
+[20:32] * lukke`aweh has joined #quakelive
+[20:32] * azuk has joined #quakelive
+[20:33] * shaka_ has joined #quakelive
+[20:33] <McAfee> that's called factories
+[20:33] <McAfee> and mappool files
+[20:34] * Lostmysword has joined #quakelive
+[20:34] * Lostmysword has quit IRC (Registered)
+[20:34] * Lostmysword has joined #quakelive
+[20:34] * G_Uru has quit IRC (Ping timeout)
+[20:37] * llorhtaed has quit IRC (Ping timeout)
+[20:38] <[Scavenger]> ok then .. and how i load a map i download a map just now from here http://bit.ly/1SHbpyt and i dont know if if possible to play on it 
+[20:39] * aliasedfrog has quit IRC (Signed off)
+[20:39] * wmia3p5card has quit IRC (EOF from client)
+[20:41] * aliasedfrog has joined #quakelive
+[20:42] <[Scavenger]> is Q3 maps can be played into Quake Live ?
+[20:45] * PECKA is now known as pecka
+[20:49] * pecka is now known as PECKA
+[20:50] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[20:51] * Rick971 has joined #quakelive
+[20:52] * PECKA is now known as pecka
+[20:52] <McAfee> maps need to be convrted to quakelive, i dont know much about mapping tools.
+[20:55] <[Scavenger]> ok thanks anyway 
+[20:57] * wmia3p5card has joined #quakelive
+[20:59] * okto_ has joined #quakelive
+[21:02] * ff_bryan has joined #quakelive
+[21:02] * ff_bryan has left #quakelive
+[21:03] * kanzo has quit IRC (Signed off)
+[21:04] * kanzo has joined #quakelive
+[21:05] * Linkyyy^off is now known as Linkyyy
+[21:06] * wmia3p5card has quit IRC (Signed off)
+[21:08] * nevermore has joined #quakelive
+[21:12] <roasticle> custom models you just get clientside right?
+[21:12] * nyshak has joined #quakelive
+[21:12] * fnatic\aNtii has joined #quakelive
+[21:14] * [Scavenger] has quit IRC (Signed off)
+[21:18] * DZK has quit IRC (Ping timeout)
+[21:22] * ABSO is now known as abso
+[21:22] * abso has quit IRC (Registered)
+[21:22] * abso has joined #quakelive
+[21:22] * Sier has joined #quakelive
+[21:23] * nevermore has quit IRC (Signed off)
+[21:25] * en2ie has joined #quakelive
+[21:27] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:28] * Rick971 has joined #quakelive
+[21:31] * jones has quit IRC (Ping timeout)
+[21:32] * s0ulz has left #quakelive
+[21:32] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:32] * Rick971 has joined #quakelive
+[21:33] * kastLKaDarkf has joined #quakelive
+[21:36] * Rick971 has quit IRC (Read error: Connection reset by peer)
+[21:37] * Rick971 has joined #quakelive
+[21:37] * jones has joined #quakelive
+[21:44] * un4x has joined #quakelive
+[21:48] * azuk has quit IRC (Signed off)
+[21:48] * gouken has joined #quakelive
+[21:49] * damp has quit IRC (Ping timeout)
+[21:50] * atomekk has joined #quakelive
+[21:51] * APLU has left #quakelive
+[21:51] * Alen has joined #quakelive
+[22:04] * son1dow has joined #quakelive
+[22:08] * stickan has joined #quakelive
+[22:10] * marrrc has joined #quakelive
+[22:12] * jvk has joined #quakelive
+[22:14] * jvk has quit IRC (Signed off)
+[22:15] * jones has quit IRC (Ping timeout)
+[22:16] * kastLKaDarkf has left #quakelive
+[22:19] * hundredeighty7 has joined #quakelive
+[22:23] * Gangland has joined #quakelive
+[22:26] * Shree has quit IRC (Ping timeout)
+[22:28] * diji has quit IRC (Signed off)
+[22:31] * seXp has quit IRC (Ping timeout)
+[22:34] * shaka_ has quit IRC (Signed off)
+[22:34] * seXp has joined #quakelive
+[22:35] * benje has joined #quakelive
+[22:35] * lrd_ has joined #quakelive
+[22:35] * sparkie` has quit IRC (Read error: Connection reset by peer)
+[22:37] * MARIANO has joined #quakelive
+[22:38] * sparkie` has joined #quakelive
+[22:38] * sparkie` has quit IRC (Read error: Connection reset by peer)
+[22:38] * wn_ has quit IRC (EOF from client)
+[22:41] * sparkie` has joined #quakelive
+[22:43] * seXp has quit IRC (Signed off)
+[22:44] * Luminus has joined #quakelive
+[22:46] * Alen is now known as Alen|Off
+[22:47] * MARIANO has quit IRC (Ping timeout)
+[22:49] * Odling has joined #quakelive
+[22:49] * ramtech has joined #quakelive
+[22:51] * alblunty has quit IRC (Ping timeout)
+[22:56] * prestij has quit IRC (EOF from client)
+[22:57] * bertox has quit IRC (Signed off)
+[22:58] * EmZee_ has joined #quakelive
+[22:59] * demsix has joined #quakelive
+[23:01] * sparkie` has quit IRC (Signed off)
+[23:05] * aLpenbog_ has joined #quakelive
+[23:08] * OHURCOOL is now known as ohurcool
+[23:08] * `muffin has joined #quakelive
+[23:08] * `muffin has quit IRC (Registered)
+[23:08] * `muffin has joined #quakelive
+[23:10] * aLpenbog has quit IRC (Ping timeout)
+[23:11] * aLpenbog has joined #quakelive
+[23:11] * PedroJuglar has joined #quakelive
+[23:15] * heartlesss has joined #quakelive
+[23:16] * damp has joined #quakelive
+[23:17] * aLpenbog_ has quit IRC (Ping timeout)
+[23:17] * crazymonster has joined #quakelive
+[23:18] * en2ie has quit IRC (Signed off)
+[23:19] * d0gb0ne|AFK is now known as d0gb0ne
+[23:20] * axelmonster has quit IRC (Ping timeout)
+[23:20] * crazymonster is now known as axelmonster
+[23:23] * zlr has joined #quakelive
+[23:24] * damp has quit IRC (Ping timeout)
+[23:24] * Warchild_BtF has quit IRC (Signed off)
+[23:25] * haz_mat has quit IRC (Signed off)
+[23:25] * zlr is now known as zlr[w]
+[23:27] * h8m3_off is now known as h8m3
+[23:30] * CMDR_Highbyte has joined #quakelive
+[23:32] * Dragon_ has quit IRC (Signed off)
+[23:34] * tehsma has joined #quakelive
+[23:34] * marrrc has quit IRC (Signed off)
+[23:37] * Linkyyy is now known as Linkyyy^off
+[23:40] * Balto has quit IRC (EOF from client)
+[23:42] * Balto has joined #quakelive
+[23:44] * Dbzruler72 has quit IRC (Read error: Operation timed out)
+[23:45] * crobartie|AFK has quit IRC (Signed off)
+[23:46] * LtC has joined #quakelive
+[23:50] * sparkie` has joined #quakelive
+[23:55] * [uM]Cyberdemon has joined #quakelive
+[23:55] * b1ngo|off is now known as b1ngo
+[23:56] * kodisha_afk has joined #quakelive
+Session Time: Mon Dec 07 00:00:00 2015
+[00:03] * Luminus has quit IRC (Signed off)
+[00:04] * lrd_ has quit IRC (Signed off)
+[00:04] * Kingsman has quit IRC (Read error: Connection reset by peer)
+[00:05] * qwind has quit IRC (Ping timeout)
+[00:05] * b1ngo is now known as b1ngo|off
+[00:09] * PopeJo has joined #quakelive
+[00:09] * son1dow has quit IRC (Ping timeout)
+[00:09] * cerno|away is now known as cerno_
+[00:10] * loveless has joined #quakelive
+[00:10] * PopeJo_ has quit IRC (Read error: Connection reset by peer)
+[00:11] * Sady has quit IRC (Signed off)
+[00:14] * hundredeighty7 has quit IRC (Signed off)
+[00:16] * sparkie` has quit IRC (Read error: Connection reset by peer)
+[00:17] * zlr[w] has quit IRC (EOF from client)
+[00:20] * stickan has quit IRC (Signed off)
+[00:21] * feeder has quit IRC (Signed off)
+[00:22] * NOCTIS is now known as noctis
+[00:24] * son1dow has joined #quakelive
+[00:24] * npz has quit IRC (Read error: Connection reset by peer)
+[00:27] * ced117 has quit IRC (Signed off)
+[00:28] * skipek has quit IRC (Signed off)
+[00:28] * TicoInJapan has quit IRC (Ping timeout)
+[00:30] * kodisha_afk has quit IRC (Ping timeout)
+[00:32] * DooMiNo has quit IRC (Signed off)
+[00:33] * tjone270_ has quit IRC (Ping timeout)
+[00:33] * M1zzu has joined #quakelive
+[00:34] * PopeJo_ has joined #quakelive
+[00:35] * PopeJo has quit IRC (Ping timeout)
+[00:39] * nvz has joined #quakelive
+[00:41] * RC13 has quit IRC (Ping timeout)
+[00:41] * RC13 has joined #quakelive
+[00:45] * LtC is now known as LtC|afk
+[00:48] * Oh`Christ is now known as Oh`Christ`Off
+[00:50] * PedroJuglar has quit IRC (Signed off)
+[00:51] * Tux[Qyou] has quit IRC (Read error: Connection reset by peer)
+[00:55] * DZK has joined #quakelive
+[00:58] * shawn has quit IRC (Signed off)
+[00:59] * vtchill has joined #quakelive
+[01:01] * _stitch has quit IRC (Read error: Operation timed out)
+[01:02] <Steve|Jobs> okay, how exactly can I make both more frags and damage but still get less score in ca?
+[01:02] * scarecrowww`off is now known as scarecrowww
+[01:02] * qwind has joined #quakelive
+[01:03] * Mirio has quit IRC (Signed off)
+[01:05] * g0rilla has quit IRC (Read error: Connection reset by peer)
+[01:06] * _stitch has joined #quakelive
+[01:06] * wanzerg has quit IRC (Signed off)
+[01:08] * Semt-x has quit IRC (Read error: Connection reset by peer)
+[01:12] * wrg667 has quit IRC (Signed off)
+[01:13] * jackerl has quit IRC (Signed off)
+[01:14] * nyshak has quit IRC (Signed off)
+[01:15] * wanzerg has joined #quakelive
+[01:18] * nvz has quit IRC (Ping timeout)
+[01:20] * LtC|afk is now known as LtC
+[01:21] * LtC has quit IRC (Signed off)
+[01:29] * AzuGAzuGuestGii has joined #quakelive
+[01:38] * Tensor has quit IRC (Signed off)
+[01:40] * lnfst is now known as [aAa]Lanf`oFF
+[01:41] * heartlesss has quit IRC (Signed off)
+[01:41] * aLpenbog has quit IRC (Signed off)
+[01:44] * way2cool has quit IRC (Signed off)
+[01:45] * PopeJo_ has quit IRC (EOF from client)
+[01:47] * titsos has quit IRC (EOF from client)
+[01:52] * Gangland has quit IRC (EOF from client)
+[01:53] * Gangland has joined #quakelive
+[01:57] * AIMER7 has quit IRC (Signed off)
+[01:57] * sgra has quit IRC (Read error: Connection reset by peer)
+[01:58] * son1dow has quit IRC (Signed off)
+[01:58] * M1zzu has quit IRC (Ping timeout)
+[02:00] * wanzerg has quit IRC (Signed off)
+[02:01] * [aAa]Lanf`oFF is now known as lnfst
+[02:01] * Tommy has quit IRC (Read error: Connection reset by peer)
+[02:02] * Tommy has joined #quakelive
+[02:02] * rOOta has quit IRC (Read error: Connection reset by peer)
+[02:12] * AzuGAzuGuestGii has left #quakelive
+[02:12] * Gangland has quit IRC (EOF from client)
+[02:18] * jones has joined #quakelive
+[02:19] * Dbzruler72 has joined #quakelive
+[02:21] * Gangland has joined #quakelive
+[02:22] * cerno_ is now known as cerno|away
+[02:27] * p-Remzi has joined #quakelive
+[02:27] * p-Remzi has quit IRC (Registered)
+[02:27] * p-Remzi has joined #quakelive
+[02:28] * Lo has quit IRC (Read error: Connection reset by peer)
+[02:29] * PerpetualWar is now known as PerpetualWa_off
+[02:29] * DZK has quit IRC (Ping timeout)
+[02:30] * DeaTh112 has joined #quakelive
+[02:30] * DeaTh112 has quit IRC (Registered)
+[02:30] * DeaTh112 has joined #quakelive
+[02:34] * noctis is now known as NOCTIS
+[02:36] * nvz has joined #quakelive
+[02:37] * haz_mat has joined #quakelive
+[02:37] * Lo has joined #quakelive
+[02:43] * bigfish has joined #quakelive
+[02:45] * atomekk has quit IRC (EOF from client)
+[02:51] * jones has quit IRC (Ping timeout)
+[02:57] * Greth has quit IRC (Ping timeout)
+[02:58] * kodisha_afk has joined #quakelive
+[02:58] * CMDR_Highbyte has quit IRC (Ping timeout)
+[02:58] * madre has quit IRC (Ping timeout)
+[02:59] * kodisha_afk is now known as kodisha
+[03:06] * pecka is now known as PECKA
+[03:07] * Gangland has quit IRC (Read error: EOF from client)
+[03:11] * [uM]Cyberdemon has quit IRC (Signed off)
+[03:12] * madre has joined #quakelive
+[03:14] * Odling has quit IRC (Signed off)
+[03:15] * scarecrowww is now known as scarecrowww`off
+[03:17] * DZK has joined #quakelive
+[03:22] * sonny has quit IRC (Signed off)
+[03:24] * EduCatOR has joined #quakelive
+[03:42] * haz_mat has quit IRC (Signed off)
+[03:44] * Prophy has quit IRC (Signed off)
+[03:51] * d0gb0ne is now known as d0gb0ne|AFK
+[03:52] * ohurcool is now known as OHURCOOL
+[03:53] * nerVzzz has quit IRC (Read error: Connection reset by peer)
+[03:54] * bigfish is now known as bigfish|off
+[03:57] * gouken has quit IRC (Signed off)

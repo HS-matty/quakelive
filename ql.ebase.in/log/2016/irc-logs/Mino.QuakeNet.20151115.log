@@ -1,0 +1,40 @@
+
+Session Start: Sun Nov 15 18:08:17 2015
+Session Ident: Mino
+01[18:08] <[ByQ]Descent> hi
+[18:08] <Mino> Hi
+01[18:09] <[ByQ]Descent> As I see - it's disasm thing?
+01[18:09] <[ByQ]Descent> no id headers or something .. ;D
+[18:10] <Mino> Well, I used Q3 source as a base and modified stuff to make it fit QL.
+[18:10] <Mino> But yeah, a lot of reverse engineering took place.
+01[18:10] <[ByQ]Descent> =))))
+01[18:10] <[ByQ]Descent> #define IS_RET(hde) (hde.opcode == 0xC3||hde.opcode == 0xCB||hde.opcode
+01[18:10] <[ByQ]Descent> ;D
+01[18:10] <[ByQ]Descent> like it ..
+01[18:10] <[ByQ]Descent> =)
+01[18:19] <[ByQ]Descent> ...so you're changing pointer in ql to your .so ?
+[18:22] <Mino> Depends. In parts of the server I hook by overwriting the function prologue with a jump to my own function and use a trampoline to call the original one. In a couple of functions, that's not necessary and only needs a table of function pointers modified.
+01[18:23] <[ByQ]Descent> ..classic trojan =)
+01[18:24] <[ByQ]Descent> btw, id has to make something about making such modifications normal ..
+[18:24] <Mino> What do you mean?
+01[18:25] <[ByQ]Descent> api ..
+01[18:25] <[ByQ]Descent> headers
+01[18:25] <[ByQ]Descent> examples ..
+01[18:25] <[ByQ]Descent> docs =)
+[18:25] <Mino> We'll never get that
+01[18:25] <[ByQ]Descent> :D 
+01[18:50] <[ByQ]Descent> or maybe you can do kind of api ... 
+01[18:51] <[ByQ]Descent> .. maybe I would like to fork my branch and only thing I need is ql fuction hook 
+[18:54] <Mino> I won't be doing a C API. The Python interface is what I'm looking to improve. If you don't want Python, you can easily remove it, since I've put everything Python-related in conditional macros.
+[18:54] <Mino> So you could fork it and do your own stuff there without Python.
+01[18:55] <[ByQ]Descent> ok, thnx ..
+01[19:01] <[ByQ]Descent> ..and - is ql-server updates affect on minqlx?
+[19:45] <Mino> It could be affected, but since we know we won't be getting major updates from now on, there's a good chance the current version will work forever. Even if some offsets change from compile to compile, I don't have any hardcoded offsets and instead find the functions on launch.
+01[19:45] <[ByQ]Descent> ok, thnx
+01[19:47] <[ByQ]Descent> any kind of "stable" version forecasts?
+01[19:47] <[ByQ]Descent> (lot of servers ..)
+[19:51] <Mino> I'm not sure what you mean.
+01[19:53] <[ByQ]Descent> mean stable version or new current is the one?
+[19:55] <Mino> The release branch is the "stable" one, the develop branch is the one being worked on and is more likely to have bugs. I use quotes because it's still pretty early in development and will likely still have bugs.
+01[19:55] <[ByQ]Descent> ok
+Session Close: Sun Nov 15 21:35:19 2015

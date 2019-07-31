@@ -1,0 +1,22 @@
+
+Session Start: Thu Dec 03 01:42:48 2015
+Session Ident: sponge-
+[01:42] <[ByQ]Descent> hi
+[01:43] <[ByQ]Descent> have number of servers (ql.ebase.in)
+[01:43] <[ByQ]Descent> and looks like x64(?) version eats a lot of memory
+[01:44] <[ByQ]Descent> (even on empty and rebooted server)
+[01:44] <[ByQ]Descent> debian 7(8) / x64
+[01:45] <[ByQ]Descent> top shows a that all qlzeroded.x64 processed eat max 512 and all other just nothing, but 1gig (2gigs too) are full ...
+[01:47] <[ByQ]Descent> atop shows a lot of dublicated proccees (qzeroded.x64) with the same names and explain memory problems ..
+[01:49] <[ByQ]Descent> not atop - htop
+[02:00] <[ByQ]Descent> http://ql.ebase.in/top-(by-ql-ebase-in)-(03-12-2015)-(01-48).JPG
+[02:00] <[ByQ]Descent> http://ql.ebase.in/htop-(by-ql-ebase-in)-(03-12-2015)-(01-51).JPG
+[02:02] <[ByQ]Descent> so, think to try x86 version ..
+[02:21] <[ByQ]Descent> and not on all servers...
+Session Time: Fri Dec 04 00:00:00 2015
+Session Time: Sat Dec 05 00:00:00 2015
+Session Time: Sun Dec 06 00:00:00 2015
+Session Time: Mon Dec 07 00:00:00 2015
+Session Time: Tue Dec 08 00:00:00 2015
+Session Time: Wed Dec 09 00:00:00 2015
+Session Time: Thu Dec 10 00:00:00 2015
