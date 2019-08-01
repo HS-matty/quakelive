@@ -1,0 +1,5 @@
+{
+    "require": {
+        "radmaster/radmaster-toolkit": "^0.1.0"
+    }
+}

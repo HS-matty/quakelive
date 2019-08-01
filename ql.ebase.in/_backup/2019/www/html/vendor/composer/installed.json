@@ -1,0 +1,48 @@
+[
+    {
+        "name": "radmaster/radmaster-toolkit",
+        "version": "0.1",
+        "version_normalized": "0.1.0.0",
+        "source": {
+            "type": "git",
+            "url": "https://gitlab.com/radmaster/radmaster-toolkit.git",
+            "reference": "f9b07ef2ff3fccb0620554a9fc370e0adfeab020"
+        },
+        "dist": {
+            "type": "zip",
+            "url": "https://gitlab.com/api/v4/projects/radmaster%2Fradmaster-toolkit/repository/archive.zip?sha=f9b07ef2ff3fccb0620554a9fc370e0adfeab020",
+            "reference": "f9b07ef2ff3fccb0620554a9fc370e0adfeab020",
+            "shasum": ""
+        },
+        "require": {
+            "php": ">=5.3.0"
+        },
+        "time": "2018-10-11 21:27:05",
+        "type": "library",
+        "installation-source": "dist",
+        "autoload": {
+            "psr-4": {
+                "Radmaster\\Toolkit\\": "src/"
+            }
+        },
+        "notification-url": "https://packagist.org/downloads/",
+        "license": [
+            "MIT"
+        ],
+        "authors": [
+            {
+                "name": "Siarhei Vauchok",
+                "email": "byqdes@gmail.com",
+                "homepage": "http://hytex.radmaster.net",
+                "role": "Developer"
+            }
+        ],
+        "description": "Radmaster Toolkit - library for rapid php development",
+        "homepage": "https://gitlab.com/hs-matty/radmaster-toolkit",
+        "keywords": [
+            "php5",
+            "rad",
+            "std"
+        ]
+    }
+]
